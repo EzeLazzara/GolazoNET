@@ -59,7 +59,8 @@ from bs4 import BeautifulSoup
 BASE_URL    = "https://www.promiedos.com.ar"
 LIGA_URL    = f"{BASE_URL}/league/liga-profesional/hc"
 DATA_DIR    = os.path.join(os.path.dirname(__file__), "..", "data")
-ESPERA_MS   = 5000   # ms para que cargue el JS
+ESPERA_MS   = 8000   # ms para que cargue el JS
+GOTO_TIMEOUT = 60000  # 60s — necesario en GitHub Actions
 
 # Mapeo de nombres cortos de Promiedos a nombres completos del frontend
 NOMBRES = {
@@ -466,7 +467,15 @@ def ejecutar_scraper():
     log("=" * 55)
 
     with sync_playwright() as pw:
-        navegador = pw.chromium.launch(headless=True)
+        navegador = pw.chromium.launch(
+            headless=True,
+            args=[
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-dev-shm-usage",
+                "--disable-gpu",
+            ]
+        )
         ctx  = navegador.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120"
         )
@@ -475,7 +484,7 @@ def ejecutar_scraper():
         try:
             # ── 1. POSICIONES ──────────────────────────────
             log("PASO 1 — Scrapeando posiciones Liga Profesional")
-            page.goto(LIGA_URL, wait_until="domcontentloaded")
+            page.goto(LIGA_URL, wait_until="domcontentloaded", timeout=GOTO_TIMEOUT)
             page.wait_for_timeout(ESPERA_MS)
 
             texto  = page.inner_text("body")

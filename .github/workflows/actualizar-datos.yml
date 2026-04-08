@@ -21,7 +21,7 @@ jobs:
 
       - name: Instalar dependencias
         run: |
-          pip install playwright beautifulsoup4
+          pip install -r scraper/requirements.txt
           playwright install chromium
           playwright install-deps chromium
 
