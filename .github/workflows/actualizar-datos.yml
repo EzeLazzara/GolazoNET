@@ -6,6 +6,9 @@ on:
     - cron: '0 21 * * *'   # 6pm Argentina (UTC-3) todos los días
   workflow_dispatch:        # también permite correrlo manualmente desde GitHub
 
+permissions:
+  contents: write           # necesario para que el bot pueda hacer push
+
 jobs:
   scraper:
     runs-on: ubuntu-latest
