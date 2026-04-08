@@ -13,10 +13,11 @@ const ARCHIVOS = {
   primera_a:  'primera-zona-a.json',
   primera_b:  'primera-zona-b.json',
   nacional:   'nacional.json',
-  federala:   'federala.json',
-  federalam:  'federalam.json',
   bmetro:     'bmetro.json',
-  copa:       'copa.json',
+  federala:   'federala.json',
+  primerac:   'primerac.json',
+  regional:   'regional.json',
+  copa:       'copa-argentina.json',
 };
 
 // Cache en memoria

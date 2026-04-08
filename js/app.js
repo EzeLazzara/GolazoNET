@@ -312,20 +312,53 @@ function renderGoleadores(goleadores) {
 }
 
 // ============================================
-//   NOTICIAS
+//   BRACKET COPA ARGENTINA
 // ============================================
-function renderNoticias() {
-  var container = document.getElementById('noticias');
+var NOMBRES_RONDAS_COPA = {
+  '32avos_final': '32avos de Final',
+  '16avos_final': '16avos de Final',
+  'octavos':      'Octavos de Final',
+  'cuartos':      'Cuartos de Final',
+  'semifinales':  'Semifinales',
+  'final':        'Final'
+};
+
+function renderCopaBracket(bracket) {
+  var container = document.getElementById('copa-bracket-content');
   if (!container) return;
-  if (typeof NOTICIAS === 'undefined') return;
-  container.innerHTML = NOTICIAS.map(function(n) {
-    return '<div class="noticia-item">' +
-      '<div class="noticia-emoji">' + n.emoji + '</div>' +
-      '<div class="noticia-texto">' +
-        '<div class="noticia-titulo">' + n.titulo + '</div>' +
-        '<div class="noticia-tiempo">' + n.tiempo + '</div>' +
-      '</div></div>';
-  }).join('');
+  if (!bracket || Object.keys(bracket).length === 0) {
+    container.innerHTML = '<div class="empty-state"><div class="empty-icon">🏅</div><p>Bracket no disponible aun.</p></div>';
+    return;
+  }
+  var orden = ['32avos_final','16avos_final','octavos','cuartos','semifinales','final'];
+  var html = '<div class="copa-bracket">';
+  orden.forEach(function(key) {
+    if (!bracket[key] || bracket[key].length === 0) return;
+    var nombre = NOMBRES_RONDAS_COPA[key] || key;
+    html += '<div class="copa-ronda">';
+    html += '<div class="copa-ronda-titulo">' + nombre + '</div>';
+    html += '<div class="copa-cruces">';
+    bracket[key].forEach(function(cruce) {
+      var gl = cruce.goles_l != null ? cruce.goles_l : '';
+      var gv = cruce.goles_v != null ? cruce.goles_v : '';
+      var tieneResult = cruce.goles_l != null;
+      var lGana = tieneResult && cruce.goles_l > cruce.goles_v;
+      var vGana = tieneResult && cruce.goles_v > cruce.goles_l;
+      html += '<div class="copa-cruce">';
+      html += '<div class="cruce-equipo' + (lGana ? ' ganador' : '') + '">';
+      html += getEscudoAPIsm(cruce.local, null) + '<span>' + cruce.local + '</span>';
+      if (tieneResult) html += '<span class="cruce-gol">' + gl + '</span>';
+      html += '</div>';
+      html += '<div class="cruce-equipo' + (vGana ? ' ganador' : '') + '">';
+      html += getEscudoAPIsm(cruce.visitante, null) + '<span>' + cruce.visitante + '</span>';
+      if (tieneResult) html += '<span class="cruce-gol">' + gv + '</span>';
+      html += '</div>';
+      html += '</div>';
+    });
+    html += '</div></div>';
+  });
+  html += '</div>';
+  container.innerHTML = html;
 }
 
 // ============================================
@@ -337,11 +370,11 @@ var TAB_A_LIGA = {
   'todos':      'primera_a',
   'primera':    'primera_a',
   'nacional':   'nacional',
-  'federala':   'federala',
-  'federalam':  'federalam',
   'bmetro':     'bmetro',
+  'federala':   'federala',
+  'primerac':   'primerac',
+  'regional':   'regional',
   'copa':       'copa',
-  'supercopa':  'supercopa'
 };
 var TAB_A_GOL = {
   'todos':      'primera',
@@ -468,8 +501,11 @@ async function cargarDatos() {
   var goles = await fetchGoleadoresDivision('primera');
   renderGoleadores(goles || []);
 
-  // Noticias
-  renderNoticias();
+  // Copa Argentina bracket
+  try {
+    var copaData = await fetchJSON('copa-argentina.json');
+    if (copaData && copaData.bracket) renderCopaBracket(copaData.bracket);
+  } catch(e) { renderCopaBracket(null); }
 }
 
 // ============================================

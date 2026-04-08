@@ -50,13 +50,13 @@
     <div class="container">
       <div class="tabs-scroll">
         <button class="tab-btn active" data-liga="todos">⚽ Todos</button>
-        <button class="tab-btn" data-liga="primera">🏆 Primera Division</button>
-        <button class="tab-btn" data-liga="nacional">🥈 Primera Nacional</button>
-        <button class="tab-btn" data-liga="federala">🥉 Federal A</button>
-        <button class="tab-btn" data-liga="federalam">⚡ Federal Amateur</button>
-        <button class="tab-btn" data-liga="bmetro">🏙️ B Metropolitana</button>
+        <button class="tab-btn" data-liga="primera">🏆 Primera División</button>
         <button class="tab-btn" data-liga="copa">🏅 Copa Argentina</button>
-        <button class="tab-btn" data-liga="supercopa">⭐ Supercopa</button>
+        <button class="tab-btn" data-liga="nacional">🥈 Primera Nacional</button>
+        <button class="tab-btn" data-liga="bmetro">🏙️ B Metropolitana</button>
+        <button class="tab-btn" data-liga="federala">🥉 Federal A</button>
+        <button class="tab-btn" data-liga="primerac">🏅 Primera C</button>
+        <button class="tab-btn" data-liga="regional">⚡ Regional Amateur</button>
       </div>
     </div>
   </section>
@@ -106,6 +106,13 @@
             <div id="proximos" class="partidos-lista"></div>
           </section>
 
+          <section id="copa-bracket" class="section">
+            <div class="section-header">
+              <h2><i class="fas fa-trophy"></i> 🏅 Copa Argentina — Cuadro</h2>
+            </div>
+            <div id="copa-bracket-content"></div>
+          </section>
+
         </div>
 
         <div class="col-sidebar">
@@ -118,9 +125,10 @@
                 <option value="primera_b">🏆 LP - Zona B</option>
                 <option value="primera">📊 LP - Tabla Anual</option>
                 <option value="nacional">🥈 Primera Nacional</option>
-                <option value="federala">🥉 Federal A</option>
-                <option value="federalam">⚡ Federal Amateur</option>
                 <option value="bmetro">🏙️ B Metropolitana</option>
+                <option value="federala">🥉 Federal A</option>
+                <option value="primerac">🏅 Primera C</option>
+                <option value="regional">⚡ Regional Amateur</option>
               </select>
             </div>
             <div id="tabla-posiciones"></div>
@@ -138,13 +146,6 @@
               </select>
             </div>
             <div id="tabla-goleadores"></div>
-          </section>
-
-          <section class="section">
-            <div class="section-header">
-              <h2><i class="fas fa-newspaper"></i> Noticias</h2>
-            </div>
-            <div id="noticias"></div>
           </section>
 
         </div>

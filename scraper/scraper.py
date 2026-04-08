@@ -56,11 +56,52 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 # ── Configuración ──────────────────────────────────────────
-BASE_URL    = "https://www.promiedos.com.ar"
-LIGA_URL    = f"{BASE_URL}/league/liga-profesional/hc"
-DATA_DIR    = os.path.join(os.path.dirname(__file__), "..", "data")
-ESPERA_MS   = 8000   # ms para que cargue el JS
-GOTO_TIMEOUT = 60000  # 60s — necesario en GitHub Actions
+BASE_URL     = "https://www.promiedos.com.ar"
+LIGA_URL     = f"{BASE_URL}/league/liga-profesional/hc"
+DATA_DIR     = os.path.join(os.path.dirname(__file__), "..", "data")
+ESPERA_MS    = 8000    # ms para que cargue el JS
+GOTO_TIMEOUT = 60000   # 60s — necesario en GitHub Actions
+
+# URLs de todas las ligas a scrapear
+LIGAS_EXTRA = [
+    {
+        "key":      "nacional",
+        "nombre":   "Primera Nacional",
+        "url":      f"{BASE_URL}/league/primera-nacional/ebj",
+        "json":     "nacional.json",
+        "tipo":     "normal",
+    },
+    {
+        "key":      "bmetro",
+        "nombre":   "Primera B Metropolitana",
+        "url":      f"{BASE_URL}/league/primera-b-metropolitana/fahh",
+        "json":     "bmetro.json",
+        "tipo":     "normal",
+    },
+    {
+        "key":      "federala",
+        "nombre":   "Federal A",
+        "url":      f"{BASE_URL}/league/federal-a/fahi",
+        "json":     "federala.json",
+        "tipo":     "normal",
+    },
+    {
+        "key":      "primerac",
+        "nombre":   "Primera C Metropolitana",
+        "url":      f"{BASE_URL}/league/primera-c/ffjb",
+        "json":     "primerac.json",
+        "tipo":     "normal",
+    },
+    {
+        "key":      "regional",
+        "nombre":   "Regional Amateur",
+        "url":      f"{BASE_URL}/league/promocional-amateur/iage",
+        "json":     "regional.json",
+        "tipo":     "normal",
+    },
+]
+
+COPA_URL = f"{BASE_URL}/league/copa-argentina/gea"
 
 # Mapeo de nombres cortos de Promiedos a nombres completos del frontend
 NOMBRES = {
@@ -459,12 +500,184 @@ def parsear_partidos(texto_completo):
 
 
 # ══════════════════════════════════════════════════════════
+#   PARSER COPA ARGENTINA — BRACKET
+# ══════════════════════════════════════════════════════════
+import re as _re2
+from bs4 import BeautifulSoup as _BS
+
+RONDAS_COPA = ["32AVOS", "16AVOS", "OCTAVOS", "CUARTOS", "SEMIFINALES", "FINAL"]
+
+def parsear_copa(html):
+    """
+    Parsea el bracket de Copa Argentina desde el HTML de promiedos.
+    Devuelve dict con rondas: { "32avos": [...cruces...], ... }
+    """
+    soup = _BS(html, "html.parser")
+    resultado = {}
+
+    for ronda_key in RONDAS_COPA:
+        # Buscar el h2 que contiene el nombre de la ronda
+        headers = soup.find_all(["h2", "h3", "div"])
+        ronda_section = None
+        for h in headers:
+            txt = h.get_text(strip=True).upper()
+            if ronda_key in txt and len(txt) < 40:
+                ronda_section = h
+                break
+
+        if not ronda_section:
+            continue
+
+        cruces = []
+        # Recorrer elementos hermanos buscando pares de equipos
+        siguiente = ronda_section.find_next_sibling()
+        equipos_ronda = []
+        conteo = 0
+        while siguiente and conteo < 200:
+            conteo += 1
+            txt = siguiente.get_text(separator="\n", strip=True)
+            # Buscar nombres de equipos e imagen de escudo
+            imgs = siguiente.find_all("img")
+            nombres = []
+            for img in imgs:
+                src = img.get("src", "")
+                alt = img.get("alt", "")
+                # Texto adyacente al img
+                parent = img.parent
+                if parent:
+                    ptxt = parent.get_text(strip=True)
+                    if ptxt and len(ptxt) > 1 and "confirmar" not in ptxt.lower() and ptxt not in nombres:
+                        nombres.append(ptxt)
+
+            # También buscar divs con nombres directos
+            divs_txt = [d.get_text(strip=True) for d in siguiente.find_all(["span", "div", "p"])
+                        if d.get_text(strip=True) and len(d.get_text(strip=True)) > 2]
+
+            equipos_ronda.extend(nombres)
+
+            # Verificar si ya llegamos a la siguiente ronda
+            sig_txt = siguiente.get_text(strip=True).upper()
+            es_nueva_ronda = any(r in sig_txt and len(sig_txt) < 40 for r in RONDAS_COPA if r != ronda_key)
+            if es_nueva_ronda:
+                break
+
+            siguiente = siguiente.find_next_sibling()
+
+        # Limpiar y deduplicar nombres
+        equipos_limpios = []
+        vistos = set()
+        for e in equipos_ronda:
+            e2 = e.strip()
+            if e2 and e2 not in vistos and len(e2) > 2:
+                vistos.add(e2)
+                equipos_limpios.append(e2)
+
+        # Armar cruces de a pares
+        for i in range(0, len(equipos_limpios) - 1, 2):
+            cruces.append({
+                "local":     equipos_limpios[i],
+                "visitante": equipos_limpios[i + 1] if i + 1 < len(equipos_limpios) else "A confirmar",
+                "goles_l":   None,
+                "goles_v":   None,
+            })
+
+        if cruces:
+            resultado[ronda_key.lower().replace("avos", "avos_final")] = cruces
+
+    return resultado
+
+
+def parsear_copa_desde_texto(texto):
+    """
+    Versión simplificada basada en inner_text para extraer los cruces de Copa.
+    Estructura en texto: RONDA → equipo1 → resultado/guion → equipo2
+    """
+    lineas = [l.strip() for l in texto.split("\n") if l.strip()]
+    rondas = {}
+    ronda_actual = None
+    NOMBRES_RONDAS = {
+        "32AVOS DE FINAL":   "32avos",
+        "16AVOS DE FINAL":   "16avos",
+        "OCTAVOS DE FINAL":  "octavos",
+        "CUARTOS DE FINAL":  "cuartos",
+        "SEMIFINALES":       "semifinales",
+        "FINAL":             "final",
+    }
+    SKIP_COPA = {"A confirmar", "CUADRO", "TEMPORADA", "VER MÁS", "FIXTURE Y TABLAS",
+                 "EQUIPOS Y ESTADISTICAS", "CAMPEONES", "ESTADÍSTICAS PERSONALES"}
+
+    i = 0
+    while i < len(lineas):
+        l = lineas[i]
+        lu = l.upper()
+
+        # Detectar ronda
+        for nombre_ronda, key_ronda in NOMBRES_RONDAS.items():
+            if nombre_ronda in lu:
+                ronda_actual = key_ronda
+                if ronda_actual not in rondas:
+                    rondas[ronda_actual] = []
+                i += 1
+                break
+        else:
+            if ronda_actual is None or l in SKIP_COPA:
+                i += 1
+                continue
+
+            # Si llegamos a sección de stats o publicidad, terminamos
+            if any(s in l for s in ["compulsivo", "perjudicial", "ESTADÍSTICAS", "TEMPORADA"]):
+                break
+
+            # Detectar nombre de equipo (tiene letras, no es número, no es separador)
+            tiene_letras = any(c.isalpha() for c in l)
+            es_num_solo  = l.replace(":", "").replace("\t", "").strip().isdigit()
+            es_marcador  = bool(_re.match(r'^\d+\s*[\t:]\s*\d+$', l))
+
+            if tiene_letras and not es_num_solo and l not in SKIP_COPA and len(l) > 2:
+                local = normalizar(l)
+                # Buscar visitante: la siguiente línea con letras que no sea skip
+                j = i + 1
+                goles_l, goles_v = None, None
+
+                # Puede haber un marcador entre local y visitante
+                while j < len(lineas) and not any(c.isalpha() for c in lineas[j]):
+                    # es número o marcador
+                    if _re.match(r'^\d+$', lineas[j].strip()):
+                        if goles_l is None:
+                            goles_l = int(lineas[j].strip())
+                        else:
+                            goles_v = int(lineas[j].strip())
+                    j += 1
+
+                if j < len(lineas):
+                    visit_raw = lineas[j]
+                    if any(c.isalpha() for c in visit_raw) and visit_raw not in SKIP_COPA:
+                        visitante = normalizar(visit_raw)
+                        rondas[ronda_actual].append({
+                            "local":     local,
+                            "visitante": visitante,
+                            "goles_l":   goles_l,
+                            "goles_v":   goles_v,
+                        })
+                        i = j + 1
+                        continue
+            i += 1
+
+    return rondas
+
+
+# ══════════════════════════════════════════════════════════
 #   FUNCIÓN PRINCIPAL
 # ══════════════════════════════════════════════════════════
 def ejecutar_scraper():
     log("=" * 55)
     log("CancharaNet Scraper — iniciando")
     log("=" * 55)
+
+    todos_partidos_hoy  = []
+    todos_partidos_vivo = []
+    todos_proximos      = []
+    partido_id_base     = 100
 
     with sync_playwright() as pw:
         navegador = pw.chromium.launch(
@@ -482,72 +695,113 @@ def ejecutar_scraper():
         page = ctx.new_page()
 
         try:
-            # ── 1. POSICIONES ──────────────────────────────
-            log("PASO 1 — Scrapeando posiciones Liga Profesional")
+            # ── 1. LIGA PROFESIONAL — posiciones + partidos ─
+            log("PASO 1 — Liga Profesional (posiciones + partidos)")
             page.goto(LIGA_URL, wait_until="domcontentloaded", timeout=GOTO_TIMEOUT)
             page.wait_for_timeout(ESPERA_MS)
-
-            texto  = page.inner_text("body")
-            soup   = BeautifulSoup(page.content(), "html.parser")
+            texto = page.inner_text("body")
 
             zona_a, zona_b = parsear_tabla_texto(texto)
-
             if zona_a:
                 zona_a = asignar_zonas(zona_a, "primera")
-                guardar_json("primera-zona-a.json", {
-                    "actualizado": datetime.now().isoformat(),
-                    "posiciones":  zona_a
-                })
+                guardar_json("primera-zona-a.json", {"actualizado": datetime.now().isoformat(), "posiciones": zona_a})
                 log(f"  Zona A: {len(zona_a)} equipos")
-            else:
-                log("  WARN: Zona A vacía — usando fallback de data.js")
-
             if zona_b:
                 zona_b = asignar_zonas(zona_b, "primera")
-                guardar_json("primera-zona-b.json", {
-                    "actualizado": datetime.now().isoformat(),
-                    "posiciones":  zona_b
-                })
+                guardar_json("primera-zona-b.json", {"actualizado": datetime.now().isoformat(), "posiciones": zona_b})
                 log(f"  Zona B: {len(zona_b)} equipos")
-            else:
-                log("  WARN: Zona B vacía — usando fallback de data.js")
-
-            # Tabla anual combinada
             if zona_a or zona_b:
                 todos = zona_a + zona_b
-                todos_ord = sorted(todos, key=lambda x: (-x["pts"], -(x["gf"]-x["gc"])))
-                for i, e in enumerate(todos_ord):
-                    e["pos"] = i + 1
+                todos_ord = sorted(todos, key=lambda x: (-x["pts"], -(x["gf"] - x["gc"])))
+                for idx, e in enumerate(todos_ord): e["pos"] = idx + 1
                 asignar_zonas(todos_ord, "primera")
-                guardar_json("primera.json", {
+                guardar_json("primera.json", {"actualizado": datetime.now().isoformat(), "posiciones": todos_ord})
+
+            partidos_lp = parsear_partidos(texto)
+            # Asignar liga a los partidos de LP
+            for p in partidos_lp:
+                p["liga"] = "primera"
+                p["ligaNombre"] = "Liga Profesional"
+                p["id"] = partido_id_base
+                partido_id_base += 1
+            todos_partidos_hoy  += [p for p in partidos_lp if p["esHoy"] or p["estado"] in ("vivo", "finalizado")]
+            todos_partidos_vivo += [p for p in partidos_lp if p["estado"] == "vivo"]
+            todos_proximos      += [p for p in partidos_lp if not p["esHoy"] and p["estado"] == "programado"]
+            log(f"  LP partidos hoy: {len([p for p in partidos_lp if p['esHoy']])}")
+
+            # ── 2. LIGAS EXTRA ─────────────────────────────
+            for liga in LIGAS_EXTRA:
+                log(f"PASO 2 — {liga['nombre']}")
+                try:
+                    page.goto(liga["url"], wait_until="domcontentloaded", timeout=GOTO_TIMEOUT)
+                    page.wait_for_timeout(ESPERA_MS)
+                    texto_liga = page.inner_text("body")
+
+                    # Posiciones
+                    zona_a_l, zona_b_l = parsear_tabla_texto(texto_liga)
+                    posiciones_liga = zona_a_l + zona_b_l
+                    if posiciones_liga:
+                        posiciones_liga = asignar_zonas(posiciones_liga, "normal")
+                        guardar_json(liga["json"], {"actualizado": datetime.now().isoformat(), "posiciones": posiciones_liga})
+                        log(f"  {liga['nombre']}: {len(posiciones_liga)} equipos")
+                    else:
+                        log(f"  WARN: {liga['nombre']} sin posiciones")
+
+                    # Partidos
+                    partidos_liga = parsear_partidos(texto_liga)
+                    for p in partidos_liga:
+                        p["liga"] = liga["key"]
+                        p["ligaNombre"] = liga["nombre"]
+                        p["id"] = partido_id_base
+                        partido_id_base += 1
+                    todos_partidos_hoy  += [p for p in partidos_liga if p["esHoy"] or p["estado"] in ("vivo", "finalizado")]
+                    todos_partidos_vivo += [p for p in partidos_liga if p["estado"] == "vivo"]
+                    todos_proximos      += [p for p in partidos_liga if not p["esHoy"] and p["estado"] == "programado"]
+                    log(f"  {liga['nombre']} partidos hoy: {len([p for p in partidos_liga if p['esHoy']])}")
+
+                except Exception as e:
+                    log(f"  ERROR en {liga['nombre']}: {e}")
+
+            # ── 3. COPA ARGENTINA ───────────────────────────
+            log("PASO 3 — Copa Argentina (bracket + partidos)")
+            try:
+                page.goto(COPA_URL, wait_until="domcontentloaded", timeout=GOTO_TIMEOUT)
+                page.wait_for_timeout(ESPERA_MS)
+                texto_copa = page.inner_text("body")
+                html_copa  = page.content()
+
+                # Bracket
+                bracket = parsear_copa_desde_texto(texto_copa)
+                guardar_json("copa-argentina.json", {
                     "actualizado": datetime.now().isoformat(),
-                    "posiciones":  todos_ord
+                    "bracket":     bracket,
                 })
+                total_cruces = sum(len(v) for v in bracket.values())
+                log(f"  Copa bracket: {len(bracket)} rondas, {total_cruces} cruces")
 
-            # ── 2. PARTIDOS DEL DÍA ────────────────────────
-            log("PASO 2 — Scrapeando partidos del día")
-            partidos = parsear_partidos(texto)
-            hoy_str  = datetime.now().strftime("%d/%m")
-            vivos    = [p for p in partidos if p["estado"] == "vivo"]
-            hoy      = [p for p in partidos if p["esHoy"] or p["estado"] in ("vivo", "finalizado")]
-            proximos = [p for p in partidos if not p["esHoy"] and p["estado"] == "programado"]
+                # Partidos del día de Copa
+                partidos_copa = parsear_partidos(texto_copa)
+                for p in partidos_copa:
+                    p["liga"] = "copa"
+                    p["ligaNombre"] = "Copa Argentina"
+                    p["id"] = partido_id_base
+                    partido_id_base += 1
+                todos_partidos_hoy  += [p for p in partidos_copa if p["esHoy"] or p["estado"] in ("vivo", "finalizado")]
+                todos_partidos_vivo += [p for p in partidos_copa if p["estado"] == "vivo"]
+                todos_proximos      += [p for p in partidos_copa if not p["esHoy"] and p["estado"] == "programado"]
+                log(f"  Copa partidos hoy: {len([p for p in partidos_copa if p['esHoy']])}")
 
-            guardar_json("partidos-hoy.json", {
-                "actualizado": datetime.now().isoformat(),
-                "partidos":    hoy
-            })
-            guardar_json("partidos-vivo.json", {
-                "actualizado": datetime.now().isoformat(),
-                "partidos":    vivos
-            })
-            guardar_json("proximos.json", {
-                "actualizado": datetime.now().isoformat(),
-                "partidos":    proximos
-            })
-            log(f"  Partidos hoy: {len(hoy)} | Vivos: {len(vivos)} | Próximos: {len(proximos)}")
+            except Exception as e:
+                log(f"  ERROR en Copa Argentina: {e}")
+
+            # ── 4. GUARDAR JSONS COMBINADOS ─────────────────
+            guardar_json("partidos-hoy.json",  {"actualizado": datetime.now().isoformat(), "partidos": todos_partidos_hoy})
+            guardar_json("partidos-vivo.json", {"actualizado": datetime.now().isoformat(), "partidos": todos_partidos_vivo})
+            guardar_json("proximos.json",      {"actualizado": datetime.now().isoformat(), "partidos": todos_proximos})
+            log(f"  TOTAL partidos hoy: {len(todos_partidos_hoy)} | Vivos: {len(todos_partidos_vivo)} | Próximos: {len(todos_proximos)}")
 
         except Exception as e:
-            log(f"ERROR: {e}")
+            log(f"ERROR GLOBAL: {e}")
             import traceback; traceback.print_exc()
         finally:
             navegador.close()
