@@ -1,260 +1,20 @@
 {
-  "actualizado": "2026-04-01T14:02:01.495081",
+  "actualizado": "2026-04-08T18:42:15.055469",
   "partidos": [
     {
-      "id": 101,
-      "fecha": 13,
-      "dia": "Jue 02/04",
-      "fechaISO": "2026-04-02",
+      "id": 100,
+      "fecha": 14,
+      "dia": "Vie 10/04",
+      "fechaISO": "2026-04-10",
       "esHoy": false,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 13,
-      "dia": "Jue 02/04",
-      "fechaISO": "2026-04-02",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Tigre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ind. Rivadavia",
-        "goles": null
-      },
-      "hora": "17:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 13,
-      "dia": "Jue 02/04",
-      "fechaISO": "2026-04-02",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Talleres",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Boca Juniors",
-        "goles": null
-      },
-      "hora": "20:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 13,
-      "dia": "Vie 03/04",
-      "fechaISO": "2026-04-03",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 13,
-      "dia": "Vie 03/04",
-      "fechaISO": "2026-04-03",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "hora": "17:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 13,
-      "dia": "Vie 03/04",
-      "fechaISO": "2026-04-03",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "San Lorenzo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "19:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
-      "fecha": 13,
-      "dia": "Sáb 04/04",
-      "fechaISO": "2026-04-04",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Aldosivi",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes RC",
-        "goles": null
-      },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 13,
-      "dia": "Sáb 04/04",
-      "fechaISO": "2026-04-04",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Independiente",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing Club",
-        "goles": null
-      },
-      "hora": "17:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 109,
-      "fecha": 13,
-      "dia": "Sáb 04/04",
-      "fechaISO": "2026-04-04",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Rosario Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "hora": "21:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 110,
-      "fecha": 13,
-      "dia": "Dom 05/04",
-      "fechaISO": "2026-04-05",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia LP",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Huracan",
-        "goles": null
-      },
-      "hora": "15:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 111,
-      "fecha": 13,
-      "dia": "Dom 05/04",
-      "fechaISO": "2026-04-05",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "visitante": {
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "18:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 13,
-      "dia": "Dom 05/04",
-      "fechaISO": "2026-04-05",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
       "visitante": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "hora": "20:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 13,
-      "dia": "Lun 06/04",
-      "fechaISO": "2026-04-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Argentinos Juniors",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Banfield",
+        "nombre": "Aldosivi",
         "goles": null
       },
       "hora": "19:00",
@@ -262,22 +22,282 @@
       "estado": "programado"
     },
     {
-      "id": 114,
-      "fecha": 13,
-      "dia": "Lun 06/04",
-      "fechaISO": "2026-04-06",
+      "id": 101,
+      "fecha": 14,
+      "dia": "Sáb 11/04",
+      "fechaISO": "2026-04-11",
       "esHoy": false,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Instituto",
+        "nombre": "Riestra",
         "goles": null
       },
       "visitante": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 14,
+      "dia": "Sáb 11/04",
+      "fechaISO": "2026-04-11",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Ind. Rivadavia",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentinos Juniors",
+        "goles": null
+      },
+      "hora": "13:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 14,
+      "dia": "Sáb 11/04",
+      "fechaISO": "2026-04-11",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "hora": "15:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 14,
+      "dia": "Sáb 11/04",
+      "fechaISO": "2026-04-11",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Independiente",
+        "goles": null
+      },
+      "hora": "17:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 14,
+      "dia": "Sáb 11/04",
+      "fechaISO": "2026-04-11",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Estudiantes RC",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Barracas Central",
+        "goles": null
+      },
+      "hora": "19:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
+      "fecha": 14,
+      "dia": "Dom 12/04",
+      "fechaISO": "2026-04-12",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Newells",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 14,
+      "dia": "Dom 12/04",
+      "fechaISO": "2026-04-12",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia Mendoza",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 14,
+      "dia": "Dom 12/04",
+      "fechaISO": "2026-04-12",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Huracan",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
+      "fecha": 14,
+      "dia": "Dom 12/04",
+      "fechaISO": "2026-04-12",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Atletico Tucuman",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tigre",
+        "goles": null
+      },
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
+      "fecha": 14,
+      "dia": "Dom 12/04",
+      "fechaISO": "2026-04-12",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Racing Club",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "River Plate",
+        "goles": null
+      },
+      "hora": "18:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
         "nombre": "Defensa y Justicia",
         "goles": null
       },
-      "hora": "21:15",
+      "visitante": {
+        "nombre": "Talleres",
+        "goles": null
+      },
+      "hora": "14:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Sarmiento",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia LP",
+        "goles": null
+      },
+      "hora": "14:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Banfield",
+        "goles": null
+      },
+      "hora": "17:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Velez Sarsfield",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "19:30",
       "minuto": null,
       "estado": "programado"
     }
