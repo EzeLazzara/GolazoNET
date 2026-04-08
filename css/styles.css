@@ -1,0 +1,1093 @@
+/* ============================================
+   CANCHARANET - FUTBOL ARGENTINO
+   Diseño: Albiceleste, AFA, Mate, Asado
+   Paleta: Celeste #74ACDF + Blanco + Noche
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,600;0,700;0,800;0,900;1,700;1,900&family=Barlow:wght@300;400;500;600;700&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  /* Fondo — noche de cancha */
+  --bg-primary:    #060a0f;
+  --bg-secondary:  #0a1018;
+  --bg-card:       #0f1820;
+  --bg-hover:      #141f2a;
+
+  /* Celeste AFA — el color de la camiseta */
+  --celeste:       #74ACDF;
+  --celeste-light: #9dc8f0;
+  --celeste-dark:  #4a88c7;
+  --celeste-dim:   rgba(116,172,223,0.10);
+  --celeste-glow:  rgba(116,172,223,0.30);
+  --celeste-stripe:rgba(116,172,223,0.04);
+
+  /* Blanco albiceleste */
+  --blanco:        #f2f7fc;
+
+  /* Dorado sol de mayo */
+  --dorado:        #f0c040;
+  --dorado-dim:    rgba(240,192,64,0.12);
+
+  /* Verde cancha */
+  --verde-cancha:  #2d6a4f;
+  --verde-dim:     rgba(45,106,79,0.15);
+
+  /* Rojo vivo */
+  --live-color:    #e84040;
+  --live-dim:      rgba(232,64,64,0.12);
+
+  /* Textos */
+  --text-primary:  #eef4fb;
+  --text-secondary:#6e90b0;
+  --text-muted:    #364d63;
+
+  /* Bordes */
+  --border:        rgba(116,172,223,0.07);
+  --border-md:     rgba(116,172,223,0.14);
+  --border-strong: rgba(116,172,223,0.28);
+
+  /* Zonas tabla */
+  --zona-champions: #74ACDF;
+  --zona-europa:    #f0c040;
+  --zona-promo:     #4caf50;
+  --zona-descenso:  #e84040;
+
+  --shadow:     0 4px 16px rgba(0,0,0,0.7), 0 1px 4px rgba(0,0,0,0.5);
+  --shadow-glow:0 0 24px rgba(116,172,223,0.18);
+  --radius:     10px;
+  --radius-sm:  6px;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Barlow', 'Segoe UI', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.25s, color 0.25s;
+  /* Franjas albiceleste sutiles — como la camiseta de la selección */
+  background-image:
+    repeating-linear-gradient(
+      180deg,
+      transparent 0px,
+      transparent 48px,
+      var(--celeste-stripe) 48px,
+      var(--celeste-stripe) 96px
+    );
+  background-attachment: fixed;
+}
+
+/* ============================================
+   MODO CLARO — body[data-theme="light"]
+   ============================================ */
+body[data-theme="light"] {
+  --bg-primary:    #f0f4f8;
+  --bg-secondary:  #e4eaf2;
+  --bg-card:       #ffffff;
+  --bg-hover:      #edf2f8;
+
+  --celeste-dim:   rgba(74,136,199,0.10);
+  --celeste-glow:  rgba(74,136,199,0.25);
+  --celeste-stripe:rgba(74,136,199,0.04);
+
+  --text-primary:  #0d1a28;
+  --text-secondary:#3a5a7a;
+  --text-muted:    #7a96b0;
+
+  --border:        rgba(74,136,199,0.12);
+  --border-md:     rgba(74,136,199,0.22);
+  --border-strong: rgba(74,136,199,0.40);
+
+  --shadow: 0 2px 10px rgba(0,0,0,0.10), 0 1px 3px rgba(0,0,0,0.07);
+  --live-dim: rgba(232,64,64,0.08);
+  --dorado-dim: rgba(200,150,0,0.10);
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--celeste); }
+
+/* Transición suave en cambio de tema */
+*, *::before, *::after {
+  transition: background-color 0.20s, border-color 0.20s, color 0.10s, box-shadow 0.20s;
+}
+
+.container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+
+/* ============================================
+   HEADER — Albiceleste
+   ============================================ */
+
+/* Franja superior estilo bandera Argentina */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  /* Franja de bandera: celeste-blanco-celeste */
+  background:
+    linear-gradient(180deg,
+      var(--celeste-dark)  0px,
+      var(--celeste-dark)  3px,
+      var(--bg-primary)    3px,
+      var(--bg-primary)    100%
+    );
+  border-bottom: 1px solid var(--border-strong);
+  box-shadow: 0 4px 32px rgba(0,0,0,0.8), 0 0 20px rgba(116,172,223,0.08);
+}
+
+.header-top .container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.logo-icon {
+  font-size: 28px;
+  line-height: 1;
+  filter: drop-shadow(0 0 8px rgba(116,172,223,0.5));
+}
+.logo-text {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  color: var(--blanco);
+  text-transform: uppercase;
+  text-shadow: 0 2px 12px rgba(116,172,223,0.3);
+  line-height: 1;
+}
+.logo-accent {
+  color: var(--celeste);
+  text-shadow: 0 0 16px rgba(116,172,223,0.6);
+}
+.logo-sub {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 2.5px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  display: block;
+  margin-top: -2px;
+}
+
+.search-bar {
+  display: flex;
+  flex: 1;
+  max-width: 380px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-md);
+  border-radius: 100px;
+  overflow: hidden;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.search-bar:focus-within {
+  border-color: var(--celeste);
+  box-shadow: 0 0 0 3px var(--celeste-dim);
+}
+.search-bar input {
+  flex: 1;
+  background: none;
+  border: none;
+  outline: none;
+  padding: 8px 16px;
+  color: var(--text-primary);
+  font-size: 13px;
+  font-family: 'Barlow', sans-serif;
+}
+.search-bar input::placeholder { color: var(--text-muted); }
+.search-bar button {
+  background: none;
+  border: none;
+  padding: 8px 14px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.15s;
+}
+.search-bar button:hover { color: var(--celeste); }
+
+.header-date {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-muted);
+  font-size: 12px;
+  white-space: nowrap;
+}
+.header-date i { color: var(--celeste); }
+
+/* ============================================
+   NAVBAR
+   ============================================ */
+.navbar {
+  background: rgba(6,10,15,0.95);
+  border-top: 1px solid rgba(116,172,223,0.08);
+}
+.navbar .container { padding: 0 20px; }
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.nav-links::-webkit-scrollbar { display: none; }
+.nav-links li a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 11px 16px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--text-secondary);
+  border-bottom: 3px solid transparent;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.nav-links li a:hover {
+  color: var(--celeste-light);
+  background: rgba(116,172,223,0.04);
+  border-bottom-color: rgba(116,172,223,0.3);
+}
+.nav-links li a.active {
+  color: var(--celeste);
+  border-bottom-color: var(--celeste);
+  background: rgba(116,172,223,0.05);
+}
+.live-dot {
+  color: var(--live-color);
+  font-size: 7px;
+  animation: pulse 1.2s infinite;
+  vertical-align: middle;
+}
+
+/* ============================================
+   LIGA TABS
+   ============================================ */
+.liga-tabs {
+  background: linear-gradient(180deg, rgba(10,16,24,0.98) 0%, var(--bg-secondary) 100%);
+  border-bottom: 1px solid var(--border-md);
+  position: sticky;
+  top: 92px;
+  z-index: 90;
+}
+.tabs-scroll {
+  display: flex;
+  gap: 4px;
+  padding: 8px 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tabs-scroll::-webkit-scrollbar { display: none; }
+
+.tab-btn {
+  flex-shrink: 0;
+  background: transparent;
+  border: 1px solid var(--border-md);
+  border-radius: 100px;
+  padding: 6px 14px;
+  color: var(--text-secondary);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+  font-family: 'Barlow Condensed', sans-serif;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+.tab-btn:hover {
+  color: var(--celeste);
+  border-color: var(--celeste);
+  background: var(--celeste-dim);
+}
+.tab-btn.active {
+  background: var(--celeste);
+  border-color: var(--celeste);
+  color: #060a10;
+  font-weight: 700;
+  box-shadow: 0 0 12px var(--celeste-glow);
+}
+
+/* ============================================
+   LAYOUT
+   ============================================ */
+.main-content { padding: 24px 0 48px; }
+.layout-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 20px;
+  align-items: start;
+}
+@media (max-width: 900px) {
+  .layout-grid { grid-template-columns: 1fr; }
+}
+
+/* ============================================
+   SECTIONS
+   ============================================ */
+.section {
+  background: var(--bg-card);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius);
+  overflow: hidden;
+  margin-bottom: 16px;
+  box-shadow: var(--shadow);
+  transition: border-color 0.2s;
+}
+.section:hover {
+  border-color: rgba(116,172,223,0.22);
+}
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border-md);
+  border-left: 3px solid var(--celeste);
+  background: linear-gradient(90deg, rgba(116,172,223,0.07) 0%, transparent 60%);
+}
+.section-header h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.section-header h2 i { color: var(--celeste); font-size: 14px; }
+.actualizado { font-size: 11px; color: var(--text-muted); }
+
+.live-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--live-dim);
+  color: var(--live-color);
+  border: 1px solid rgba(232,64,64,0.35);
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  animation: pulse 1.4s infinite;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+/* ============================================
+   SELECT LIGA
+   ============================================ */
+.liga-select {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  font-size: 11px;
+  padding: 4px 8px;
+  cursor: pointer;
+  outline: none;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.liga-select:focus { border-color: var(--celeste); color: var(--celeste); }
+
+/* ============================================
+   PARTIDO CARD (EN VIVO)
+   ============================================ */
+.partidos-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.partido-card {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.partido-card:last-child { border-bottom: none; }
+.partido-card:hover { background: var(--bg-hover); }
+.partido-card.vivo {
+  border-left: 3px solid var(--live-color);
+  background: linear-gradient(90deg, var(--live-dim) 0%, transparent 30%);
+}
+.partido-card.vivo:hover { background: linear-gradient(90deg, rgba(229,57,53,0.18) 0%, var(--bg-hover) 30%); }
+
+.card-liga {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 11px;
+  color: var(--text-muted);
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.badge-vivo {
+  color: var(--live-color);
+  font-weight: 700;
+  font-size: 10px;
+  animation: pulse 1.5s infinite;
+}
+
+.card-marcador {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.equipo {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.equipo:last-child { justify-content: flex-end; flex-direction: row-reverse; }
+.equipo-escudo { width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.equipo-nombre {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.marcador-centro { text-align: center; flex-shrink: 0; }
+.marcador-goles {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  color: var(--text-primary);
+  line-height: 1;
+}
+.marcador-minuto {
+  font-size: 11px;
+  color: var(--live-color);
+  font-weight: 700;
+  margin-top: 2px;
+}
+.card-eventos { margin-top: 8px; }
+.evento-mini { font-size: 11px; color: var(--text-muted); }
+
+/* ============================================
+   LISTA DE PARTIDOS (HOY / PROXIMOS)
+   ============================================ */
+.partidos-lista { display: flex; flex-direction: column; }
+.lista-grupo { border-bottom: 1px solid var(--border); }
+.lista-grupo:last-child { border-bottom: none; }
+
+.grupo-header {
+  padding: 9px 16px;
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--celeste);
+  background: linear-gradient(90deg, rgba(116,172,223,0.10) 0%, rgba(116,172,223,0.03) 100%);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: 'Barlow Condensed', sans-serif;
+  border-bottom: 1px solid var(--border-md);
+  border-left: 3px solid var(--celeste-dark);
+}
+
+.lista-item {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  gap: 10px;
+  cursor: pointer;
+  transition: background 0.1s;
+  border-bottom: 1px solid var(--border);
+}
+.lista-item:last-child { border-bottom: none; }
+.lista-item:hover { background: var(--bg-hover); }
+
+/* Separador de día en próximos partidos */
+.proximo-dia-sep {
+  padding: 6px 16px 5px;
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--celeste-dark);
+  background: linear-gradient(90deg, rgba(116,172,223,0.08) 0%, transparent 80%);
+  border-bottom: 1px solid var(--border);
+  border-left: 2px solid var(--celeste-dark);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.item-hora {
+  width: 44px;
+  font-size: 12px;
+  color: var(--text-muted);
+  text-align: center;
+  font-weight: 600;
+  flex-shrink: 0;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.item-hora.vivo { color: var(--live-color); }
+
+.item-equipos {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.item-equipo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+}
+
+.item-marcador {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  width: 22px;
+}
+.gol-num {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 1;
+}
+.gol-ganador { color: var(--text-primary); }
+
+.item-estado {
+  width: 50px;
+  font-size: 10px;
+  text-align: right;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.item-estado.vivo { color: var(--live-color); }
+
+/* ============================================
+   ESCUDOS
+   ============================================ */
+.escudo-img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex-shrink: 0;
+  background: #fff;
+  border-radius: 50%;
+  padding: 3px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+}
+.escudo-img-sm {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  flex-shrink: 0;
+  background: #fff;
+  border-radius: 50%;
+  padding: 2px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+.escudo-emoji { font-size: 20px; }
+
+/* ============================================
+   TABLA DE POSICIONES
+   ============================================ */
+.tabla-pos {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  table-layout: fixed;
+}
+.tabla-pos colgroup col:nth-child(1) { width: 28px; }
+.tabla-pos colgroup col:nth-child(2) { width: auto; }
+.tabla-pos colgroup col:nth-child(3),
+.tabla-pos colgroup col:nth-child(4),
+.tabla-pos colgroup col:nth-child(5),
+.tabla-pos colgroup col:nth-child(6),
+.tabla-pos colgroup col:nth-child(7) { width: 28px; }
+.tabla-pos colgroup col:nth-child(8) { width: 36px; }
+
+.tabla-pos thead th {
+  padding: 8px 4px;
+  text-align: center;
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 10px;
+  border-bottom: 1px solid var(--border-md);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-family: 'Barlow Condensed', sans-serif;
+  white-space: nowrap;
+}
+.tabla-pos thead th:nth-child(2) { text-align: left; padding-left: 10px; }
+
+.tabla-pos tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+  cursor: pointer;
+}
+.tabla-pos tbody tr:last-child { border-bottom: none; }
+.tabla-pos tbody tr:hover { background: var(--bg-hover); }
+
+.tabla-pos tbody td {
+  padding: 7px 4px;
+  text-align: center;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 13px;
+}
+.tabla-pos tbody td:nth-child(2) {
+  text-align: left;
+  padding-left: 6px;
+}
+
+/* Link de equipo en tabla de posiciones */
+.equipo-link-tabla {
+  text-decoration: none;
+  color: inherit;
+  border-radius: 6px;
+  transition: background .15s;
+}
+.equipo-link-tabla:hover {
+  background: rgba(108,197,247,.08);
+}
+.equipo-link-tabla:hover .equipo-nombre-tabla {
+  color: var(--celeste);
+  text-decoration: underline;
+}
+
+.pos-puntos {
+  font-weight: 900;
+  color: var(--celeste) !important;
+  font-size: 17px;
+  text-shadow: 0 0 8px rgba(116,172,223,0.35);
+}
+
+.pos-zona { border-left: 3px solid transparent !important; }
+.pos-zona.champions  {
+  border-left-color: var(--zona-champions) !important;
+  background: linear-gradient(90deg, rgba(116,172,223,0.05) 0%, transparent 40%) !important;
+}
+.pos-zona.europa     {
+  border-left-color: var(--zona-europa) !important;
+  background: linear-gradient(90deg, rgba(240,192,64,0.05) 0%, transparent 40%) !important;
+}
+.pos-zona.promotion  {
+  border-left-color: var(--zona-promo) !important;
+  background: linear-gradient(90deg, rgba(76,175,80,0.05) 0%, transparent 40%) !important;
+}
+.pos-zona.descenso   {
+  border-left-color: var(--zona-descenso) !important;
+  background: linear-gradient(90deg, rgba(232,64,64,0.05) 0%, transparent 40%) !important;
+}
+
+.tabla-leyenda {
+  display: flex;
+  gap: 14px;
+  padding: 10px 12px;
+  font-size: 10px;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.leyenda-item { display: flex; align-items: center; gap: 5px; }
+.leyenda-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   GOLEADORES
+   ============================================ */
+.goleador-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 14px;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+  cursor: pointer;
+}
+.goleador-item:last-child { border-bottom: none; }
+.goleador-item:hover { background: var(--bg-hover); }
+
+.goleador-rank {
+  width: 20px;
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--text-muted);
+  text-align: right;
+  font-family: 'Barlow Condensed', sans-serif;
+  flex-shrink: 0;
+}
+.goleador-rank-top {
+  color: var(--dorado);
+}
+.goleador-info { flex: 1; min-width: 0; }
+.goleador-nombre {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+}
+.goleador-equipo {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+}
+.goleador-goles {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 18px;
+  font-weight: 900;
+  color: var(--celeste);
+}
+
+/* ============================================
+   NOTICIAS
+   ============================================ */
+.noticia-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.1s;
+}
+.noticia-item:last-child { border-bottom: none; }
+.noticia-item:hover { background: var(--bg-hover); }
+.noticia-emoji { font-size: 20px; flex-shrink: 0; margin-top: 2px; }
+.noticia-titulo {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+.noticia-tiempo { font-size: 11px; color: var(--text-muted); }
+
+/* ============================================
+   SPINNER
+   ============================================ */
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+.spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--border-md);
+  border-top-color: var(--celeste);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+.footer {
+  background: var(--bg-secondary);
+  border-top: 3px solid transparent;
+  background-clip: padding-box;
+  position: relative;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+.footer::before {
+  content: '';
+  position: absolute;
+  top: -3px; left: 0; right: 0;
+  height: 3px;
+  /* Franja: celeste-blanco-celeste, como la bandera */
+  background: linear-gradient(90deg,
+    var(--celeste) 0%, var(--celeste) 33%,
+    var(--blanco)  33%, var(--blanco)  66%,
+    var(--celeste) 66%, var(--celeste) 100%
+  );
+}
+.footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--text-muted);
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.footer-inner .logo-text { font-size: 18px; }
+.footer-icons { font-size: 18px; letter-spacing: 6px; }
+.footer-tagline {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-style: italic;
+  font-size: 13px;
+  color: var(--celeste-dark);
+  letter-spacing: 0.3px;
+}
+
+/* ============================================
+   ESTADOS VACIOS
+   ============================================ */
+.empty-state {
+  padding: 32px 16px;
+  text-align: center;
+  color: var(--text-muted);
+}
+.empty-state .empty-icon { font-size: 36px; margin-bottom: 10px; }
+.empty-state p { font-size: 13px; line-height: 1.5; }
+
+/* ============================================
+   DIVISION BADGE
+   ============================================ */
+.division-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 100px;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.badge-primera  { background: var(--celeste-dim); color: var(--celeste); border: 1px solid rgba(116,172,223,0.3); }
+.badge-nacional { background: rgba(245,200,66,0.1); color: var(--dorado); border: 1px solid rgba(245,200,66,0.3); }
+.badge-federal  { background: rgba(76,175,80,0.1); color: #4caf50; border: 1px solid rgba(76,175,80,0.3); }
+.badge-copa     { background: var(--live-dim); color: var(--live-color); border: 1px solid rgba(229,57,53,0.3); }
+
+/* ============================================
+   HERO BANNER ALBICELESTE
+   ============================================ */
+.hero-banner {
+  background: linear-gradient(180deg, #060b12 0%, var(--bg-secondary) 100%);
+  border-bottom: 1px solid var(--border-md);
+  padding: 10px 0;
+  overflow: hidden;
+  position: relative;
+}
+/* Brillo sutil de fondo */
+.hero-banner::after {
+  content: '';
+  position: absolute;
+  top: -40px; left: 50%; transform: translateX(-50%);
+  width: 600px; height: 120px;
+  background: radial-gradient(ellipse, rgba(116,172,223,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+.hero-inner {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  position: relative;
+  z-index: 1;
+}
+/* Franjas de bandera argentina — celeste / blanco / celeste */
+.hero-franja-celeste {
+  width: 8px;
+  height: 36px;
+  background: var(--celeste);
+  border-radius: 2px;
+  flex-shrink: 0;
+  opacity: 0.85;
+}
+.hero-franja-blanca {
+  width: 8px;
+  height: 36px;
+  background: var(--blanco);
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.9;
+}
+.hero-sol {
+  font-size: 10px;
+  line-height: 1;
+}
+.hero-text {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+.hero-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  font-style: italic;
+  color: var(--blanco);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-shadow: 0 2px 10px rgba(116,172,223,0.25);
+}
+.hero-sub {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+.hero-iconos {
+  margin-left: auto;
+  font-size: 20px;
+  letter-spacing: 10px;
+  opacity: 0.7;
+  padding-right: 8px;
+}
+
+/* ============================================
+   SCROLLBAR GLOBAL
+   ============================================ */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb {
+  background: rgba(116,172,223,0.20);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover { background: rgba(116,172,223,0.40); }
+
+/* ============================================
+   BOTÓN TOGGLE TEMA
+   ============================================ */
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-size: 16px;
+  flex-shrink: 0;
+  transition: all 0.2s;
+  line-height: 1;
+}
+.theme-toggle:hover {
+  background: var(--celeste-dim);
+  border-color: var(--celeste);
+  color: var(--celeste);
+  transform: rotate(20deg) scale(1.1);
+}
+
+/* ============================================
+   EFECTOS EXTRA ARGENTINOS
+   ============================================ */
+/* Brillo celeste al hacer hover en items de partidos */
+.lista-item:hover .item-hora { color: var(--celeste); }
+
+/* Tab activa con sombra celeste más fuerte */
+.tab-btn.active {
+  box-shadow: 0 0 14px rgba(116,172,223,0.5), 0 2px 4px rgba(0,0,0,0.4);
+}
+
+/* Goleadores top 3 con corona */
+.goleador-rank-top { color: var(--dorado); }
+
+/* Selector de liga con estilo */
+.liga-select:hover { border-color: var(--border-strong); }
+
+/* ============================================
+   MODO CLARO — ajustes específicos
+   ============================================ */
+body[data-theme="light"] .header {
+  background:
+    linear-gradient(180deg,
+      var(--celeste-dark) 0px,
+      var(--celeste-dark) 3px,
+      #e8f0f8             3px,
+      #e8f0f8             100%
+    );
+  box-shadow: 0 2px 16px rgba(0,0,0,0.12);
+}
+
+body[data-theme="light"] .navbar {
+  background: rgba(232,240,248,0.98);
+  border-top-color: rgba(74,136,199,0.15);
+}
+
+body[data-theme="light"] .liga-tabs {
+  background: linear-gradient(180deg, #dde7f2 0%, #e4eaf2 100%);
+}
+
+body[data-theme="light"] .tab-btn {
+  background: #fff;
+  color: #3a5a7a;
+  border-color: rgba(74,136,199,0.25);
+}
+body[data-theme="light"] .tab-btn.active {
+  background: var(--celeste-dark);
+  color: #fff;
+  border-color: var(--celeste-dark);
+}
+
+body[data-theme="light"] .hero-banner {
+  background: linear-gradient(180deg, #d8e8f5 0%, #e4eaf2 100%);
+  border-bottom-color: rgba(74,136,199,0.25);
+}
+body[data-theme="light"] .hero-title { color: #0d1a28; }
+
+body[data-theme="light"] .section {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+body[data-theme="light"] .footer {
+  background: #dde7f2;
+}
+
+body[data-theme="light"] .logo-text { color: #0d1a28; }
+
+body[data-theme="light"] .search-bar {
+  background: #fff;
+  border-color: rgba(74,136,199,0.30);
+}
+body[data-theme="light"] .search-bar input { color: #0d1a28; }
+
+body[data-theme="light"] .liga-select {
+  background: #fff;
+  color: #3a5a7a;
+  border-color: rgba(74,136,199,0.30);
+}
+
+body[data-theme="light"] .pos-puntos {
+  text-shadow: none;
+}

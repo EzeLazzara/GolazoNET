@@ -1,0 +1,37 @@
+name: Actualizar datos GolazoNET
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 9am Argentina (UTC-3) todos los días
+    - cron: '0 21 * * *'   # 6pm Argentina (UTC-3) todos los días
+  workflow_dispatch:        # también permite correrlo manualmente desde GitHub
+
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Correr scraper
+        run: python scraper/scraper.py
+
+      - name: Guardar datos actualizados en el repo
+        run: |
+          git config user.name "GolazoNET Bot"
+          git config user.email "golazonet-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "datos: actualización automática $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

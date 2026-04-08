@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title id="page-title">Plantel — CancharaNet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=Barlow:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/equipo.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-top">
+      <div class="container">
+        <div class="logo">
+          <span class="logo-icon">🇦🇷</span>
+          <div>
+            <span class="logo-text">Canchara<span class="logo-accent">Net</span></span>
+            <span class="logo-sub">Fútbol Argentino</span>
+          </div>
+        </div>
+        <div class="header-date">
+          <i class="fas fa-calendar-alt"></i>
+          <span id="fecha-actual"></span>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" title="Cambiar tema">🌙</button>
+      </div>
+    </div>
+    <nav class="navbar">
+      <div class="container">
+        <ul class="nav-links">
+          <li><a href="index.html"><i class="fas fa-home"></i> Inicio</a></li>
+          <li><a href="index.html#posiciones"><i class="fas fa-trophy"></i> Posiciones</a></li>
+          <li><a href="index.html#fixture"><i class="fas fa-calendar"></i> Fixture</a></li>
+          <li><a href="index.html#goleadores"><i class="fas fa-futbol"></i> Goleadores</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+
+      <!-- Breadcrumb -->
+      <div class="equipo-breadcrumb">
+        <a href="index.html"><i class="fas fa-home"></i> Inicio</a>
+        <span class="bc-sep"><i class="fas fa-chevron-right"></i></span>
+        <a href="index.html#posiciones">Posiciones</a>
+        <span class="bc-sep"><i class="fas fa-chevron-right"></i></span>
+        <span id="bc-equipo">Equipo</span>
+      </div>
+
+      <!-- Header del equipo -->
+      <div class="equipo-header" id="equipo-header">
+        <div class="equipo-header-bg"></div>
+        <div class="equipo-header-content">
+          <div class="equipo-escudo-grande" id="equipo-escudo"></div>
+          <div class="equipo-info">
+            <h1 class="equipo-nombre" id="equipo-nombre">Cargando...</h1>
+            <div class="equipo-meta">
+              <span class="equipo-tag"><i class="fas fa-futbol"></i> Liga Profesional</span>
+              <span class="equipo-tag" id="equipo-temporada"><i class="fas fa-calendar"></i> Temporada 2025/26</span>
+              <span class="equipo-tag" id="equipo-total-jugadores"><i class="fas fa-users"></i> — jugadores</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Filtros de posición -->
+      <div class="plantel-filtros">
+        <button class="filtro-btn active" data-pos="todos">Todos</button>
+        <button class="filtro-btn" data-pos="PO">🧤 Arqueros</button>
+        <button class="filtro-btn" data-pos="DEF">🛡️ Defensores</button>
+        <button class="filtro-btn" data-pos="MED">⚙️ Mediocampistas</button>
+        <button class="filtro-btn" data-pos="DEL">⚡ Delanteros</button>
+      </div>
+
+      <!-- Tabla plantel -->
+      <div class="plantel-container" id="plantel-container">
+        <div class="spinner-wrap"><div class="spinner"></div><p>Cargando plantel...</p></div>
+      </div>
+
+      <!-- Nota fuente -->
+      <div class="plantel-fuente">
+        <i class="fas fa-info-circle"></i>
+        Datos del plantel obtenidos de <strong>Transfermarkt</strong> · Temporada 2025/26 ·
+        <span id="plantel-actualizado"></span>
+      </div>
+
+    </div>
+  </main>
+
+  <footer style="text-align:center;padding:18px;color:var(--text-muted);font-size:12px;margin-top:40px;border-top:1px solid var(--border);">
+    CancharaNet &copy; 2026 · Datos: Transfermarkt / Promiedos
+  </footer>
+
+  <script src="js/data.js?v=20260401k"></script>
+  <script src="js/api.js?v=20260401k"></script>
+  <script src="js/equipo.js?v=20260401k"></script>
+</body>
+</html>

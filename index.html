@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CancharaNet - Futbol Argentino</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=Barlow:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-top">
+      <div class="container">
+        <div class="logo">
+          <span class="logo-icon">🇦🇷</span>
+          <div>
+            <span class="logo-text">Canchara<span class="logo-accent">Net</span></span>
+            <span class="logo-sub">Fútbol Argentino</span>
+          </div>
+        </div>
+        <div class="search-bar">
+          <input type="text" placeholder="Buscar equipo o jugador..." />
+          <button><i class="fas fa-search"></i></button>
+        </div>
+        <div class="header-date">
+          <i class="fas fa-calendar-alt"></i>
+          <span id="fecha-actual"></span>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" title="Cambiar tema">🌙</button>
+      </div>
+    </div>
+    <nav class="navbar">
+      <div class="container">
+        <ul class="nav-links">
+          <li><a href="#" class="active"><i class="fas fa-home"></i> Inicio</a></li>
+          <li><a href="#en-vivo"><i class="fas fa-circle live-dot"></i> En Vivo</a></li>
+          <li><a href="#posiciones"><i class="fas fa-trophy"></i> Posiciones</a></li>
+          <li><a href="#fixture"><i class="fas fa-calendar"></i> Fixture</a></li>
+          <li><a href="#goleadores"><i class="fas fa-futbol"></i> Goleadores</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="liga-tabs">
+    <div class="container">
+      <div class="tabs-scroll">
+        <button class="tab-btn active" data-liga="todos">⚽ Todos</button>
+        <button class="tab-btn" data-liga="primera">🏆 Primera Division</button>
+        <button class="tab-btn" data-liga="nacional">🥈 Primera Nacional</button>
+        <button class="tab-btn" data-liga="federala">🥉 Federal A</button>
+        <button class="tab-btn" data-liga="federalam">⚡ Federal Amateur</button>
+        <button class="tab-btn" data-liga="bmetro">🏙️ B Metropolitana</button>
+        <button class="tab-btn" data-liga="copa">🏅 Copa Argentina</button>
+        <button class="tab-btn" data-liga="supercopa">⭐ Supercopa</button>
+      </div>
+    </div>
+  </section>
+
+  <main class="main-content">
+    <!-- HERO BANNER ALBICELESTE -->
+    <div class="hero-banner">
+      <div class="container">
+        <div class="hero-inner">
+          <div class="hero-franja-celeste"></div>
+          <div class="hero-franja-blanca">
+            <span class="hero-sol">☀️</span>
+          </div>
+          <div class="hero-franja-celeste"></div>
+          <div class="hero-text">
+            <span class="hero-title">Apertura 2025</span>
+            <span class="hero-sub">Liga Profesional Argentina &nbsp;·&nbsp; Fecha 13</span>
+          </div>
+          <div class="hero-iconos">🧉 🥩 ⚽️ 🏟️</div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="layout-grid">
+
+        <div class="col-main">
+
+          <section id="en-vivo" class="section">
+            <div class="section-header">
+              <h2><span class="live-badge">● EN VIVO</span> Partidos en curso</h2>
+              <span class="actualizado">Act: <span id="hora-actualizacion"></span></span>
+            </div>
+            <div id="partidos-vivo" class="partidos-grid"></div>
+          </section>
+
+          <section id="fixture" class="section">
+            <div class="section-header">
+              <h2><i class="fas fa-calendar-day"></i> Partidos de Hoy</h2>
+            </div>
+            <div id="partidos-hoy" class="partidos-lista"></div>
+          </section>
+
+          <section class="section">
+            <div class="section-header">
+              <h2><i class="fas fa-forward"></i> Proximos Partidos</h2>
+            </div>
+            <div id="proximos" class="partidos-lista"></div>
+          </section>
+
+        </div>
+
+        <div class="col-sidebar">
+
+          <section id="posiciones" class="section">
+            <div class="section-header">
+              <h2 id="titulo-posiciones"><i class="fas fa-trophy"></i> Posiciones</h2>
+              <select id="liga-posiciones" class="liga-select">
+                <option value="primera_a">🏆 LP - Zona A</option>
+                <option value="primera_b">🏆 LP - Zona B</option>
+                <option value="primera">📊 LP - Tabla Anual</option>
+                <option value="nacional">🥈 Primera Nacional</option>
+                <option value="federala">🥉 Federal A</option>
+                <option value="federalam">⚡ Federal Amateur</option>
+                <option value="bmetro">🏙️ B Metropolitana</option>
+              </select>
+            </div>
+            <div id="tabla-posiciones"></div>
+          </section>
+
+          <section id="goleadores" class="section">
+            <div class="section-header">
+              <h2><i class="fas fa-futbol"></i> Goleadores</h2>
+              <select id="liga-goleadores" class="liga-select">
+                <option value="primera">🏆 LP - Todos</option>
+                <option value="primera_a">🏆 LP - Zona A</option>
+                <option value="primera_b">🏆 LP - Zona B</option>
+                <option value="nacional">🥈 Primera Nacional</option>
+                <option value="federala">🥉 Federal A</option>
+              </select>
+            </div>
+            <div id="tabla-goleadores"></div>
+          </section>
+
+          <section class="section">
+            <div class="section-header">
+              <h2><i class="fas fa-newspaper"></i> Noticias</h2>
+            </div>
+            <div id="noticias"></div>
+          </section>
+
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="logo">
+          <span class="logo-icon" style="font-size:20px">🇦🇷</span>
+          <div>
+            <span class="logo-text" style="font-size:18px">Canchara<span class="logo-accent">Net</span></span>
+            <span class="logo-sub">Fútbol Argentino</span>
+          </div>
+        </div>
+        <span class="footer-tagline">"El fútbol es el deporte más popular del país" 🧉</span>
+        <span class="footer-icons">🧉 🥩 ⚽ 🏟️</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data.js?v=20260401j"></script>
+  <script src="js/api.js?v=20260401j"></script>
+  <script src="js/app.js?v=20260401j"></script>
+</body>
+</html>
