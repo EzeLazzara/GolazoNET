@@ -374,6 +374,15 @@ PATRON_HORA       = _re.compile(r'^\d{2}:\d{2}$')
 PATRON_MARCADOR   = _re.compile(r'^\d+\t\d+$')   # "1\t2" = en vivo o finalizado
 PATRON_MINUTO     = _re.compile(r"^\d{1,3}'?$")  # "45'" o "90"
 
+def utc_a_argentina(hora_str):
+    """Convierte hora UTC (HH:MM) a hora Argentina (UTC-3)"""
+    try:
+        h, m = map(int, hora_str.split(":"))
+        h = (h - 3) % 24
+        return f"{h:02d}:{m:02d}"
+    except Exception:
+        return hora_str
+
 
 def parsear_partidos(texto_completo):
     """
@@ -417,7 +426,7 @@ def parsear_partidos(texto_completo):
 
         # Hora de partido → inicia una secuencia: hora, local, sep/marcador, visitante
         if PATRON_HORA.match(l) and i + 3 < len(lineas):
-            hora       = l
+            hora       = utc_a_argentina(l)
             local_raw  = lineas[i + 1]
             sep        = lineas[i + 2]   # '-' o '1\t0' (marcador) o minuto
             visit_raw  = lineas[i + 3]
