@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-08T21:39:01.923622",
+  "actualizado": "2026-04-09T13:28:20.957236",
   "posiciones": [
     {
       "pos": 1,
@@ -99,18 +99,6 @@
     },
     {
       "pos": 9,
-      "equipo": "Acassuso",
-      "pj": 6,
-      "pg": 3,
-      "pe": 0,
-      "pp": 3,
-      "gf": 8,
-      "gc": 8,
-      "pts": 9,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
       "equipo": "Ferro",
       "pj": 7,
       "pg": 2,
@@ -122,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 10,
       "equipo": "All Boys",
       "pj": 7,
       "pg": 2,
@@ -130,6 +118,18 @@
       "pp": 2,
       "gf": 4,
       "gc": 4,
+      "pts": 9,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
+      "equipo": "Acassuso",
+      "pj": 7,
+      "pg": 3,
+      "pe": 0,
+      "pp": 4,
+      "gf": 8,
+      "gc": 9,
       "pts": 9,
       "zona": "normal"
     },
@@ -255,6 +255,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Midland",
+      "pj": 7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 1,
+      "gf": 6,
+      "gc": 3,
+      "pts": 12,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Temperley",
       "pj": 7,
       "pg": 3,
@@ -266,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "San Martín (T)",
       "pj": 7,
       "pg": 2,
@@ -278,7 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Gimnasia y Tiro",
       "pj": 7,
       "pg": 3,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Atlético Rafaela",
       "pj": 7,
       "pg": 3,
@@ -302,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Quilmes",
       "pj": 7,
       "pg": 3,
@@ -311,18 +323,6 @@
       "gf": 8,
       "gc": 4,
       "pts": 10,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Midland",
-      "pj": 6,
-      "pg": 2,
-      "pe": 3,
-      "pp": 1,
-      "gf": 5,
-      "gc": 3,
-      "pts": 9,
       "zona": "normal"
     },
     {

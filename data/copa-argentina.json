@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-08T21:39:43.295211",
+  "actualizado": "2026-04-09T13:29:02.382412",
   "bracket": {
     "32avos": [
       {
@@ -89,7 +89,7 @@
       {
         "local": "Sarmiento Junín",
         "visitante": "Tristan Suárez",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -239,60 +239,61 @@
         "goles_v": null
       },
       {
-        "local": "Boca Juniors",
-        "visitante": "River Plate",
+        "local": "Sarmiento Junín",
+        "visitante": "Boca Juniors",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Aldosivi",
-        "visitante": "Independiente Rivadavia",
+        "local": "River Plate",
+        "visitante": "Aldosivi",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Tigre",
-        "visitante": "Talleres de Córdoba",
+        "local": "Independiente Rivadavia",
+        "visitante": "Tigre",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Atlético Tucumán",
-        "visitante": "Unión de Santa Fe",
+        "local": "Talleres de Córdoba",
+        "visitante": "Atlético Tucumán",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente",
-        "visitante": "Platense",
+        "local": "Unión de Santa Fe",
+        "visitante": "Independiente",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "San Martín San Juan",
-        "visitante": "Instituto",
+        "local": "Platense",
+        "visitante": "San Martín San Juan",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Lanus",
-        "visitante": "Estudiantes de La Plata",
+        "local": "Instituto",
+        "visitante": "Lanus",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Rosario Central",
-        "visitante": "Barracas Central",
+        "local": "Estudiantes de La Plata",
+        "visitante": "Rosario Central",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Huracan",
-        "visitante": "OCTAVOS DE FINAL",
+        "local": "Barracas Central",
+        "visitante": "Huracan",
         "goles_l": null,
         "goles_v": null
       }
     ],
+    "octavos": [],
     "cuartos": [],
     "semifinales": [],
     "final": [
@@ -378,6 +379,18 @@
         "local": "Agustín Medina",
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Accesorios para aficionados",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Camisetas Argentina",
+        "visitante": "Suscripción premium Promiedos",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -646,15 +659,15 @@
       },
       {
         "local": "Mié 08/04",
-        "visitante": "Sarmiento",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Tristan Suárez",
-        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
-        "goles_l": null,
-        "goles_v": null
+        "local": "Sarmiento",
+        "visitante": "Tristan Suárez",
+        "goles_l": 1,
+        "goles_v": 0
       }
     ]
   }
