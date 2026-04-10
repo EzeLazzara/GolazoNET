@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-09T21:43:31.863409",
+  "actualizado": "2026-04-10T13:11:21.275488",
   "bracket": {
     "32avos": [
       {
@@ -23,7 +23,7 @@
       {
         "local": "Gimnasia La Plata",
         "visitante": "Camioneros",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -193,24 +193,18 @@
         "visitante": "Olimpo",
         "goles_l": 2,
         "goles_v": null
-      },
-      {
-        "local": "Dom 18/01",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Ind. Rivadavia",
-        "visitante": "Estudiantes",
-        "goles_l": 2,
-        "goles_v": 0
       }
     ],
     "16avos": [
       {
         "local": "San Lorenzo",
         "visitante": "Deportivo Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Acassuso",
+        "visitante": "Gimnasia La Plata",
         "goles_l": null,
         "goles_v": null
       },
@@ -291,6 +285,102 @@
         "visitante": "Huracan",
         "goles_l": null,
         "goles_v": null
+      },
+      {
+        "local": "Dom 07/06",
+        "visitante": "Estudiantes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Rosario Central",
+        "visitante": "Ind. Rivadavia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tigre",
+        "visitante": "River Plate",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Aldosivi",
+        "visitante": "Morón",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Midland",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Martín",
+        "visitante": "San Lorenzo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Riestra",
+        "visitante": "Talleres",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Gimnasia (J)",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Belgrano",
+        "visitante": "Union Santa Fe",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente",
+        "visitante": "Barracas Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Huracan",
+        "visitante": "Racing Club",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Defensa y Justicia",
+        "visitante": "Instituto",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Lanus",
+        "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Martín (T)",
+        "visitante": "Sarmiento",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "Acassuso",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia LP",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
+        "goles_l": null,
+        "goles_v": null
       }
     ],
     "octavos": [],
@@ -316,18 +406,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Viajes a estadios",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Camisetas Argentina",
-        "visitante": "Historia fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -335,14 +413,14 @@
       },
       {
         "local": "Facundo Valdez",
-        "visitante": "Santiago Lopéz",
+        "visitante": "Marcelo Torres",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Agustin Hausch",
-        "visitante": "Agustin Hermoso",
-        "goles_l": 1,
+        "local": "Santiago Lopéz",
+        "visitante": "Agustin Hausch",
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -392,282 +470,6 @@
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
         "goles_v": null
-      },
-      {
-        "local": "Lanus",
-        "visitante": "Sarmiento (LB)",
-        "goles_l": 4,
-        "goles_v": 1
-      },
-      {
-        "local": "Lun 19/01",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes",
-        "visitante": "Ituzaingó",
-        "goles_l": 4,
-        "goles_v": 0
-      },
-      {
-        "local": "Mié 21/01",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Argentinos Juniors",
-        "visitante": "Midland",
-        "goles_l": 1,
-        "goles_v": 1
-      },
-      {
-        "local": "Mié 04/02",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Talleres",
-        "visitante": "Argentino (M)",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Platense",
-        "visitante": "Argentino MM",
-        "goles_l": 1,
-        "goles_v": 0
-      },
-      {
-        "local": "Jue 05/02",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Riestra",
-        "visitante": "Maipú",
-        "goles_l": 1,
-        "goles_v": 0
-      },
-      {
-        "local": "Por penales",
-        "visitante": "Barracas Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Temperley",
-        "visitante": "Mié 11/02",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Rosario Central",
-        "visitante": "Sp. Belgrano",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Por penales",
-        "visitante": "Central Cordoba",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Gimnasia (J)",
-        "visitante": "Mar 17/02",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Aldosivi",
-        "visitante": "San Miguel",
-        "goles_l": 3,
-        "goles_v": 0
-      },
-      {
-        "local": "Tigre",
-        "visitante": "Claypole",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "River Plate",
-        "visitante": "Bolivar",
-        "goles_l": 1,
-        "goles_v": 0
-      },
-      {
-        "local": "Mar 24/02",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Boca Juniors",
-        "visitante": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Mié 25/02",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Martín",
-        "visitante": "Dep. Madryn",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Godoy Cruz",
-        "visitante": "Morón",
-        "goles_l": 0,
-        "goles_v": 1
-      },
-      {
-        "local": "Vie 20/03",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Lorenzo",
-        "visitante": "Dvo. Rincón",
-        "goles_l": 5,
-        "goles_v": 0
-      },
-      {
-        "local": "Mié 25/03",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Atletico Tucuman",
-        "visitante": "Sp. Barracas",
-        "goles_l": 2,
-        "goles_v": 1
-      },
-      {
-        "local": "Banfield",
-        "visitante": "Real Pilar",
-        "goles_l": 3,
-        "goles_v": 0
-      },
-      {
-        "local": "Vie 27/03",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Independiente",
-        "visitante": "Atenas (RC)",
-        "goles_l": 4,
-        "goles_v": 2
-      },
-      {
-        "local": "Belgrano",
-        "visitante": "Atlético Rafaela",
-        "goles_l": 3,
-        "goles_v": 0
-      },
-      {
-        "local": "Sáb 28/03",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "San Martín (For)",
-        "goles_l": 1,
-        "goles_v": 0
-      },
-      {
-        "local": "Dom 29/03",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Huracan",
-        "visitante": "Olimpo",
-        "goles_l": 2,
-        "goles_v": 1
-      },
-      {
-        "local": "Newells",
-        "visitante": "Acassuso",
-        "goles_l": 0,
-        "goles_v": 2
-      },
-      {
-        "local": "Lun 30/03",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Union Santa Fe",
-        "visitante": "Agropecuario",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Mié 01/04",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Defensa y Justicia",
-        "visitante": "Chaco For Ever",
-        "goles_l": 2,
-        "goles_v": 1
-      },
-      {
-        "local": "Instituto",
-        "visitante": "Atlanta",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Mar 07/04",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes RC",
-        "visitante": "San Martín (T)",
-        "goles_l": 0,
-        "goles_v": 0
-      },
-      {
-        "local": "Velez Sarsfield",
-        "visitante": "Armenio",
-        "goles_l": 4,
-        "goles_v": 1
-      },
-      {
-        "local": "Mié 08/04",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Sarmiento",
-        "visitante": "Tristan Suárez",
-        "goles_l": 1,
-        "goles_v": 0
       }
     ]
   }
