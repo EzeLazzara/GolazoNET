@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-10T13:11:04.649372",
+  "actualizado": "2026-04-10T21:34:38.385240",
   "posiciones": [
     {
       "pos": 1,
@@ -172,12 +172,12 @@
     {
       "pos": 1,
       "equipo": "Lamadrid",
-      "pj": 6,
+      "pj": 7,
       "pg": 3,
       "pe": 3,
-      "pp": 0,
+      "pp": 1,
       "gf": 7,
-      "gc": 3,
+      "gc": 5,
       "pts": 12,
       "zona": "normal"
     },
@@ -219,6 +219,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Dep. Español",
+      "pj": 7,
+      "pg": 1,
+      "pe": 5,
+      "pp": 1,
+      "gf": 6,
+      "gc": 5,
+      "pts": 8,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Claypole",
       "pj": 6,
       "pg": 2,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Central Ballester",
       "pj": 6,
       "pg": 2,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Cañuelas",
       "pj": 6,
       "pg": 1,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Central Cordoba",
       "pj": 6,
       "pg": 1,
@@ -266,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Fenix",
       "pj": 5,
       "pg": 1,
@@ -278,25 +290,13 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "El Porvenir",
       "pj": 5,
       "pg": 0,
       "pe": 5,
       "pp": 0,
       "gf": 5,
-      "gc": 5,
-      "pts": 5,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "Dep. Español",
-      "pj": 6,
-      "pg": 0,
-      "pe": 5,
-      "pp": 1,
-      "gf": 4,
       "gc": 5,
       "pts": 5,
       "zona": "normal"

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-10T13:11:21.276299",
+  "actualizado": "2026-04-10T21:34:54.972234",
   "partidos": [
     {
       "id": 100,
@@ -17,72 +17,12 @@
         "nombre": "Aldosivi",
         "goles": null
       },
-      "hora": "16:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 133,
-      "fecha": 10,
-      "dia": "Vie 10/04",
-      "fechaISO": "2026-04-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
-      "fecha": 10,
-      "dia": "Vie 10/04",
-      "fechaISO": "2026-04-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 10,
-      "dia": "Vie 10/04",
-      "fechaISO": "2026-04-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
       "fecha": 10,
       "dia": "Vie 10/04",
       "fechaISO": "2026-04-10",
@@ -97,27 +37,7 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 161,
-      "fecha": 7,
-      "dia": "Vie 10/04",
-      "fechaISO": "2026-04-10",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "hora": "10:30",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
