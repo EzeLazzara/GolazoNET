@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-10T21:34:05.274541",
+  "actualizado": "2026-04-11T12:58:17.271447",
   "posiciones": [
     {
       "pos": 1,
@@ -39,6 +39,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Belgrano",
+      "pj": 13,
+      "pg": 6,
+      "pe": 4,
+      "pp": 3,
+      "gf": 13,
+      "gc": 12,
+      "pts": 22,
+      "zona": "europa"
+    },
+    {
+      "pos": 5,
       "equipo": "Rosario Central",
       "pj": 12,
       "pg": 6,
@@ -47,18 +59,6 @@
       "gf": 14,
       "gc": 10,
       "pts": 21,
-      "zona": "europa"
-    },
-    {
-      "pos": 5,
-      "equipo": "Belgrano",
-      "pj": 12,
-      "pg": 5,
-      "pe": 4,
-      "pp": 3,
-      "gf": 12,
-      "gc": 12,
-      "pts": 19,
       "zona": "europa"
     },
     {
@@ -160,12 +160,12 @@
     {
       "pos": 14,
       "equipo": "Aldosivi",
-      "pj": 12,
+      "pj": 13,
       "pg": 0,
       "pe": 6,
-      "pp": 6,
+      "pp": 7,
       "gf": 3,
-      "gc": 13,
+      "gc": 14,
       "pts": 6,
       "zona": "descenso"
     },
