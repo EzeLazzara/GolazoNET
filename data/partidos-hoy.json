@@ -1,48 +1,68 @@
 {
-  "actualizado": "2026-04-11T12:59:21.169721",
+  "actualizado": "2026-04-11T21:30:21.798437",
   "partidos": [
     {
       "id": 100,
-      "fecha": 4,
+      "fecha": 14,
       "dia": "Sáb 11/04",
       "fechaISO": "2026-04-11",
       "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Alvarado",
+        "nombre": "Boca Juniors",
         "goles": null
       },
       "visitante": {
-        "nombre": "Kimberley",
+        "nombre": "Independiente",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
-      "fecha": 4,
+      "fecha": 14,
       "dia": "Sáb 11/04",
       "fechaISO": "2026-04-11",
       "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Bartolomé Mitre",
+        "nombre": "Estudiantes RC",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sol De América",
+        "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "16:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 111,
+      "fecha": 9,
+      "dia": "Sáb 11/04",
+      "fechaISO": "2026-04-11",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
       "fecha": 4,
       "dia": "Sáb 11/04",
       "fechaISO": "2026-04-11",
@@ -57,12 +77,12 @@
         "nombre": "Círculo Deportivo",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 128,
       "fecha": 4,
       "dia": "Sáb 11/04",
       "fechaISO": "2026-04-11",
@@ -77,147 +97,7 @@
         "nombre": "Independiente (Chi)",
         "goles": null
       },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cañuelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Luján",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Fenix",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Leandro N. Alem",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Mercedes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 7,
-      "dia": "Sáb 11/04",
-      "fechaISO": "2026-04-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estrella del Sur",
-        "goles": null
-      },
-      "hora": "09:30",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }

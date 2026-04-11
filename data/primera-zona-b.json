@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-04-11T12:58:17.271447",
+  "actualizado": "2026-04-11T21:29:32.111450",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Ind. Rivadavia",
-      "pj": 12,
-      "pg": 8,
+      "pj": 13,
+      "pg": 9,
       "pe": 2,
       "pp": 2,
-      "gf": 20,
-      "gc": 12,
-      "pts": 26,
+      "gf": 23,
+      "gc": 13,
+      "pts": 29,
       "zona": "champions"
     },
     {
@@ -28,12 +28,12 @@
     {
       "pos": 3,
       "equipo": "Argentinos Juniors",
-      "pj": 12,
+      "pj": 13,
       "pg": 6,
       "pe": 5,
-      "pp": 1,
-      "gf": 13,
-      "gc": 7,
+      "pp": 2,
+      "gf": 14,
+      "gc": 10,
       "pts": 23,
       "zona": "champions"
     },
