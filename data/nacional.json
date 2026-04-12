@@ -1,20 +1,8 @@
 {
-  "actualizado": "2026-04-11T21:29:40.320388",
+  "actualizado": "2026-04-12T13:02:00.811922",
   "posiciones": [
     {
       "pos": 1,
-      "equipo": "Colón",
-      "pj": 7,
-      "pg": 4,
-      "pe": 2,
-      "pp": 1,
-      "gf": 10,
-      "gc": 5,
-      "pts": 14,
-      "zona": "promotion"
-    },
-    {
-      "pos": 2,
       "equipo": "Morón",
       "pj": 8,
       "pg": 4,
@@ -26,7 +14,7 @@
       "zona": "promotion"
     },
     {
-      "pos": 3,
+      "pos": 2,
       "equipo": "Defensores",
       "pj": 7,
       "pg": 3,
@@ -35,10 +23,10 @@
       "gf": 8,
       "gc": 3,
       "pts": 13,
-      "zona": "normal"
+      "zona": "promotion"
     },
     {
-      "pos": 4,
+      "pos": 3,
       "equipo": "Godoy Cruz",
       "pj": 8,
       "pg": 3,
@@ -50,7 +38,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 4,
       "equipo": "San Miguel",
       "pj": 8,
       "pg": 3,
@@ -62,19 +50,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
-      "equipo": "Racing (Cba)",
-      "pj": 7,
-      "pg": 3,
-      "pe": 2,
-      "pp": 2,
-      "gf": 5,
-      "gc": 7,
-      "pts": 11,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
+      "pos": 5,
       "equipo": "Dep. Madryn",
       "pj": 7,
       "pg": 2,
@@ -86,7 +62,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 6,
       "equipo": "Los Andes",
       "pj": 7,
       "pg": 2,
@@ -98,7 +74,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 7,
       "equipo": "Bolivar",
       "pj": 7,
       "pg": 1,
@@ -110,7 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 8,
       "equipo": "Ferro",
       "pj": 7,
       "pg": 2,
@@ -122,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 9,
       "equipo": "All Boys",
       "pj": 7,
       "pg": 2,
@@ -134,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 10,
       "equipo": "Acassuso",
       "pj": 7,
       "pg": 3,
@@ -146,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 11,
       "equipo": "Alte. Brown",
       "pj": 7,
       "pg": 2,
@@ -158,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 12,
       "equipo": "Central Norte",
       "pj": 7,
       "pg": 2,
@@ -170,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 13,
       "equipo": "San Telmo",
       "pj": 8,
       "pg": 2,
@@ -182,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 16,
+      "pos": 14,
       "equipo": "Mitre SdE",
       "pj": 7,
       "pg": 1,
@@ -194,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 17,
+      "pos": 15,
       "equipo": "Estudiantes",
       "pj": 7,
       "pg": 2,
@@ -206,7 +182,7 @@
       "zona": "normal"
     },
     {
-      "pos": 18,
+      "pos": 16,
       "equipo": "Chaco For Ever",
       "pj": 7,
       "pg": 0,

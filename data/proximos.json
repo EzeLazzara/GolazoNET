@@ -1,108 +1,8 @@
 {
-  "actualizado": "2026-04-11T21:30:21.798995",
+  "actualizado": "2026-04-12T13:02:42.706362",
   "partidos": [
     {
-      "id": 102,
-      "fecha": 14,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Lorenzo",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 14,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Platense",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 14,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Huracan",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Rosario Central",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 105,
-      "fecha": 14,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Tigre",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 14,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Racing Club",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -117,12 +17,12 @@
         "nombre": "Talleres",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -137,12 +37,12 @@
         "nombre": "Gimnasia LP",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -157,12 +57,12 @@
         "nombre": "Banfield",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -177,232 +77,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Acassuso",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Ferro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Defensores",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Bolivar",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chacarita",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia y Tiro",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Temperley",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Quilmes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Dep. Madryn",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Alte. Brown",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Agropecuario",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chaco For Ever",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "All Boys",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Central Norte",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Mitre SdE",
-        "goles": null
-      },
-      "hora": "12:00",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 121,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Güemes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Maipú",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colegiales",
-        "goles": null
-      },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
       "fecha": 9,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -417,12 +97,12 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 122,
       "fecha": 9,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -437,12 +117,12 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 123,
       "fecha": 9,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -457,272 +137,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 126,
-      "fecha": 10,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Germinal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Mitre",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 130,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Olimpo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sol de Mayo",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 131,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Juventud Unida (SL)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dvo. Rincón",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 132,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Cipolletti",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Costa Brava",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 133,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores (VR)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Belgrano",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sportivo LP",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Argentino MM",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Fundación Amigos por el Deporte",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Douglas Haig",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "El Linqueño",
-        "goles": null
-      },
-      "hora": "11:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 137,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "San Martín (For)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Boca Unidos",
-        "goles": null
-      },
-      "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 138,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Atenas (RC)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Huracán (LH)",
-        "goles": null
-      },
-      "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 139,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "9 de Julio (R)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlético Escobar",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Sarmiento (LB)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Juv. Antoniana",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 141,
       "fecha": 4,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -737,92 +157,12 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "15:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 142,
-      "fecha": 7,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 143,
-      "fecha": 7,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Juventud Unida SM",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 144,
-      "fecha": 7,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 145,
-      "fecha": 7,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estrella del Sur",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 146,
+      "id": 141,
       "fecha": 7,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -837,12 +177,32 @@
         "nombre": "El Porvenir",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 142,
+      "fecha": 7,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "hora": "08:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 143,
       "fecha": 7,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -857,7 +217,7 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     }
