@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-12T13:01:52.317482",
+  "actualizado": "2026-04-12T21:31:22.899623",
   "posiciones": [
     {
       "pos": 1,
@@ -100,13 +100,13 @@
     {
       "pos": 9,
       "equipo": "San Lorenzo",
-      "pj": 12,
+      "pj": 13,
       "pg": 4,
-      "pe": 5,
+      "pe": 6,
       "pp": 3,
       "gf": 12,
       "gc": 12,
-      "pts": 17,
+      "pts": 18,
       "zona": "normal"
     },
     {
@@ -124,25 +124,25 @@
     {
       "pos": 11,
       "equipo": "Platense",
-      "pj": 12,
+      "pj": 13,
       "pg": 3,
-      "pe": 6,
+      "pe": 7,
       "pp": 3,
-      "gf": 6,
-      "gc": 7,
-      "pts": 15,
+      "gf": 7,
+      "gc": 8,
+      "pts": 16,
       "zona": "normal"
     },
     {
       "pos": 12,
       "equipo": "Gimnasia Mendoza",
-      "pj": 12,
+      "pj": 13,
       "pg": 3,
-      "pe": 3,
+      "pe": 4,
       "pp": 6,
-      "gf": 9,
-      "gc": 15,
-      "pts": 12,
+      "gf": 10,
+      "gc": 16,
+      "pts": 13,
       "zona": "normal"
     },
     {
@@ -160,13 +160,13 @@
     {
       "pos": 14,
       "equipo": "Newells",
-      "pj": 12,
+      "pj": 13,
       "pg": 2,
-      "pe": 3,
+      "pe": 4,
       "pp": 7,
       "gf": 10,
       "gc": 23,
-      "pts": 9,
+      "pts": 10,
       "zona": "descenso"
     },
     {

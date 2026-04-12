@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-04-12T13:02:42.706362",
+  "actualizado": "2026-04-12T21:32:12.374389",
   "partidos": [
     {
-      "id": 105,
+      "id": 101,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -17,12 +17,12 @@
         "nombre": "Talleres",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 102,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -37,12 +37,12 @@
         "nombre": "Gimnasia LP",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 103,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -57,12 +57,12 @@
         "nombre": "Banfield",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 104,
       "fecha": 14,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -77,12 +77,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 107,
       "fecha": 9,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -97,12 +97,12 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 108,
       "fecha": 9,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -117,12 +117,12 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 109,
       "fecha": 9,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -137,12 +137,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 112,
       "fecha": 4,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -157,12 +157,12 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 113,
       "fecha": 7,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -177,12 +177,12 @@
         "nombre": "El Porvenir",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 114,
       "fecha": 7,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -197,12 +197,12 @@
         "nombre": "Estrella del Sur",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 115,
       "fecha": 7,
       "dia": "Lun 13/04",
       "fechaISO": "2026-04-13",
@@ -217,7 +217,7 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
