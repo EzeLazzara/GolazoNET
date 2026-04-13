@@ -1,180 +1,20 @@
 {
-  "actualizado": "2026-04-12T21:32:12.374389",
+  "actualizado": "2026-04-13T13:27:00.664875",
   "partidos": [
     {
-      "id": 101,
-      "fecha": 14,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Defensa y Justicia",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Talleres",
-        "goles": null
-      },
-      "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 14,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia LP",
-        "goles": null
-      },
-      "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 14,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Banfield",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 14,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 107,
-      "fecha": 9,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Chicago",
+        "nombre": "CADU",
         "goles": null
       },
       "visitante": {
-        "nombre": "Midland",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 9,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Tristan Suárez",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 109,
-      "fecha": 9,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlanta",
-        "goles": null
-      },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 4,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores Pto. Vilelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento (R)",
-        "goles": null
-      },
-      "hora": "15:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 7,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Yupanqui",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "El Porvenir",
+        "nombre": "Italiano",
         "goles": null
       },
       "hora": "10:30",
@@ -182,19 +22,139 @@
       "estado": "programado"
     },
     {
-      "id": 114,
-      "fecha": 7,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "id": 108,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "JJ Urquiza",
+        "nombre": "Flandria",
         "goles": null
       },
       "visitante": {
-        "nombre": "Estrella del Sur",
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (M)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 11,
+      "dia": "Mié 15/04",
+      "fechaISO": "2026-04-15",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Liniers",
         "goles": null
       },
       "hora": "10:30",
@@ -203,18 +163,58 @@
     },
     {
       "id": 115,
-      "fecha": 7,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "fecha": 11,
+      "dia": "Mié 15/04",
+      "fechaISO": "2026-04-15",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Muñiz",
+        "nombre": "Argentino (Q)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Leones de Rosario FC",
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 11,
+      "dia": "Jue 16/04",
+      "fechaISO": "2026-04-16",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 11,
+      "dia": "Jue 16/04",
+      "fechaISO": "2026-04-16",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
         "goles": null
       },
       "hora": "10:30",

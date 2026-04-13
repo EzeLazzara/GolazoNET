@@ -1,20 +1,120 @@
 {
-  "actualizado": "2026-04-12T21:32:12.373985",
+  "actualizado": "2026-04-13T13:27:00.664412",
   "partidos": [
     {
       "id": 100,
       "fecha": 14,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Racing Club",
+        "nombre": "Defensa y Justicia",
         "goles": null
       },
       "visitante": {
-        "nombre": "River Plate",
+        "nombre": "Talleres",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Sarmiento",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia LP",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Banfield",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 14,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Velez Sarsfield",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 9,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 9,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
         "goles": null
       },
       "hora": "15:00",
@@ -22,82 +122,102 @@
       "estado": "programado"
     },
     {
-      "id": 105,
-      "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Maipú",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colegiales",
-        "goles": null
-      },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 106,
       "fecha": 9,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
       "esHoy": true,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Colón",
+        "nombre": "San Martín",
         "goles": null
       },
       "visitante": {
-        "nombre": "Racing (Cba)",
+        "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 118,
       "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
       "esHoy": true,
       "liga": "federala",
       "ligaNombre": "Federal A",
       "local": {
-        "nombre": "San Martín (For)",
+        "nombre": "Defensores Pto. Vilelas",
         "goles": null
       },
       "visitante": {
-        "nombre": "Boca Unidos",
+        "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
-      "fecha": 4,
-      "dia": "Dom 12/04",
-      "fechaISO": "2026-04-12",
+      "id": 119,
+      "fecha": 7,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
       "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Sarmiento (LB)",
+        "nombre": "Yupanqui",
         "goles": null
       },
       "visitante": {
-        "nombre": "Juv. Antoniana",
+        "nombre": "El Porvenir",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 7,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 7,
+      "dia": "Lun 13/04",
+      "fechaISO": "2026-04-13",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leones de Rosario FC",
+        "goles": null
+      },
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

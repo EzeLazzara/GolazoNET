@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-12T21:31:22.900110",
+  "actualizado": "2026-04-13T13:26:10.972954",
   "posiciones": [
     {
       "pos": 1,
@@ -16,13 +16,13 @@
     {
       "pos": 2,
       "equipo": "River Plate",
-      "pj": 12,
-      "pg": 7,
+      "pj": 13,
+      "pg": 8,
       "pe": 2,
       "pp": 3,
-      "gf": 17,
+      "gf": 19,
       "gc": 9,
-      "pts": 23,
+      "pts": 26,
       "zona": "champions"
     },
     {
@@ -51,6 +51,30 @@
     },
     {
       "pos": 5,
+      "equipo": "Rosario Central",
+      "pj": 13,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 13,
+      "pts": 21,
+      "zona": "europa"
+    },
+    {
+      "pos": 6,
+      "equipo": "Huracan",
+      "pj": 13,
+      "pg": 5,
+      "pe": 5,
+      "pp": 3,
+      "gf": 15,
+      "gc": 10,
+      "pts": 20,
+      "zona": "europa"
+    },
+    {
+      "pos": 7,
       "equipo": "Barracas Central",
       "pj": 13,
       "pg": 5,
@@ -59,22 +83,34 @@
       "gf": 13,
       "gc": 12,
       "pts": 19,
-      "zona": "europa"
+      "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 8,
+      "equipo": "Tigre",
+      "pj": 13,
+      "pg": 4,
+      "pe": 6,
+      "pp": 3,
+      "gf": 16,
+      "gc": 12,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Racing Club",
-      "pj": 12,
+      "pj": 13,
       "pg": 5,
       "pe": 3,
-      "pp": 4,
+      "pp": 5,
       "gf": 15,
-      "gc": 11,
+      "gc": 13,
       "pts": 18,
-      "zona": "europa"
+      "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 10,
       "equipo": "Sarmiento",
       "pj": 12,
       "pg": 5,
@@ -86,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 11,
       "equipo": "Gimnasia LP",
       "pj": 12,
       "pg": 4,
@@ -98,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 12,
       "equipo": "Banfield",
       "pj": 12,
       "pg": 4,
@@ -110,7 +146,19 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 13,
+      "equipo": "Atletico Tucuman",
+      "pj": 13,
+      "pg": 2,
+      "pe": 4,
+      "pp": 7,
+      "gf": 13,
+      "gc": 18,
+      "pts": 10,
+      "zona": "descenso"
+    },
+    {
+      "pos": 14,
       "equipo": "Aldosivi",
       "pj": 13,
       "pg": 0,
@@ -119,10 +167,10 @@
       "gf": 3,
       "gc": 14,
       "pts": 6,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 11,
+      "pos": 15,
       "equipo": "Estudiantes RC",
       "pj": 13,
       "pg": 1,
@@ -131,54 +179,6 @@
       "gf": 4,
       "gc": 19,
       "pts": 5,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Ind. Rivadavia",
-      "pj": 13,
-      "pg": 9,
-      "pe": 2,
-      "pp": 2,
-      "gf": 23,
-      "gc": 13,
-      "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Estudiantes",
-      "pj": 13,
-      "pg": 7,
-      "pe": 3,
-      "pp": 3,
-      "gf": 16,
-      "gc": 7,
-      "pts": 24,
-      "zona": "descenso"
-    },
-    {
-      "pos": 14,
-      "equipo": "River Plate",
-      "pj": 12,
-      "pg": 7,
-      "pe": 2,
-      "pp": 3,
-      "gf": 17,
-      "gc": 9,
-      "pts": 23,
-      "zona": "descenso"
-    },
-    {
-      "pos": 15,
-      "equipo": "Argentinos Juniors",
-      "pj": 13,
-      "pg": 6,
-      "pe": 5,
-      "pp": 2,
-      "gf": 14,
-      "gc": 10,
-      "pts": 23,
       "zona": "descenso"
     }
   ]
