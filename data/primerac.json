@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-13T13:26:43.980066",
+  "actualizado": "2026-04-13T21:44:47.158814",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Estrella del Sur",
+      "pj": 7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 1,
+      "gf": 10,
+      "gc": 6,
+      "pts": 12,
+      "zona": "promotion"
+    },
+    {
+      "pos": 3,
       "equipo": "Sacachispas",
       "pj": 7,
       "pg": 4,
@@ -23,18 +35,6 @@
       "gf": 11,
       "gc": 8,
       "pts": 12,
-      "zona": "promotion"
-    },
-    {
-      "pos": 3,
-      "equipo": "Estrella del Sur",
-      "pj": 6,
-      "pg": 3,
-      "pe": 2,
-      "pp": 1,
-      "gf": 9,
-      "gc": 5,
-      "pts": 11,
       "zona": "normal"
     },
     {
@@ -123,6 +123,18 @@
     },
     {
       "pos": 11,
+      "equipo": "JJ Urquiza",
+      "pj": 7,
+      "pg": 1,
+      "pe": 4,
+      "pp": 2,
+      "gf": 4,
+      "gc": 7,
+      "pts": 7,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
       "equipo": "Paraguayo",
       "pj": 7,
       "pg": 2,
@@ -134,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Argentino Rosario",
       "pj": 7,
       "pg": 1,
@@ -142,18 +154,6 @@
       "pp": 3,
       "gf": 7,
       "gc": 8,
-      "pts": 6,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "JJ Urquiza",
-      "pj": 6,
-      "pg": 1,
-      "pe": 3,
-      "pp": 2,
-      "gf": 3,
-      "gc": 6,
       "pts": 6,
       "zona": "normal"
     },
@@ -171,6 +171,18 @@
     },
     {
       "pos": 1,
+      "equipo": "Yupanqui",
+      "pj": 7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 1,
+      "gf": 8,
+      "gc": 6,
+      "pts": 12,
+      "zona": "normal"
+    },
+    {
+      "pos": 2,
       "equipo": "Lamadrid",
       "pj": 7,
       "pg": 3,
@@ -182,19 +194,19 @@
       "zona": "normal"
     },
     {
-      "pos": 2,
-      "equipo": "Yupanqui",
-      "pj": 6,
+      "pos": 3,
+      "equipo": "Leones de Rosario FC",
+      "pj": 7,
       "pg": 3,
-      "pe": 2,
+      "pe": 3,
       "pp": 1,
       "gf": 6,
-      "gc": 4,
-      "pts": 11,
+      "gc": 6,
+      "pts": 12,
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Claypole",
       "pj": 7,
       "pg": 3,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Central Ballester",
       "pj": 7,
       "pg": 3,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Sp. Barracas",
       "pj": 7,
       "pg": 3,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Cañuelas",
       "pj": 7,
       "pg": 2,
@@ -239,18 +251,6 @@
       "gf": 7,
       "gc": 6,
       "pts": 10,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Leones de Rosario FC",
-      "pj": 6,
-      "pg": 2,
-      "pe": 3,
-      "pp": 1,
-      "gf": 4,
-      "gc": 5,
-      "pts": 9,
       "zona": "normal"
     },
     {
@@ -279,6 +279,18 @@
     },
     {
       "pos": 10,
+      "equipo": "El Porvenir",
+      "pj": 6,
+      "pg": 0,
+      "pe": 6,
+      "pp": 0,
+      "gf": 7,
+      "gc": 7,
+      "pts": 6,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Luján",
       "pj": 7,
       "pg": 1,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Fenix",
       "pj": 6,
       "pg": 1,
@@ -302,26 +314,14 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
-      "equipo": "El Porvenir",
-      "pj": 5,
-      "pg": 0,
-      "pe": 5,
-      "pp": 0,
-      "gf": 5,
-      "gc": 5,
-      "pts": 5,
-      "zona": "normal"
-    },
-    {
       "pos": 13,
       "equipo": "Muñiz",
-      "pj": 6,
+      "pj": 7,
       "pg": 0,
       "pe": 4,
-      "pp": 2,
-      "gf": 3,
-      "gc": 6,
+      "pp": 3,
+      "gf": 4,
+      "gc": 8,
       "pts": 4,
       "zona": "descenso"
     },

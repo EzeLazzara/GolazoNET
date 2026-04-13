@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-13T13:26:10.972954",
+  "actualizado": "2026-04-13T21:44:14.114002",
   "posiciones": [
     {
       "pos": 1,
@@ -111,26 +111,26 @@
     },
     {
       "pos": 10,
-      "equipo": "Sarmiento",
-      "pj": 12,
+      "equipo": "Gimnasia LP",
+      "pj": 13,
       "pg": 5,
-      "pe": 1,
+      "pe": 2,
       "pp": 6,
-      "gf": 10,
-      "gc": 12,
-      "pts": 16,
+      "gf": 15,
+      "gc": 19,
+      "pts": 17,
       "zona": "normal"
     },
     {
       "pos": 11,
-      "equipo": "Gimnasia LP",
-      "pj": 12,
-      "pg": 4,
-      "pe": 2,
-      "pp": 6,
-      "gf": 13,
-      "gc": 18,
-      "pts": 14,
+      "equipo": "Sarmiento",
+      "pj": 13,
+      "pg": 5,
+      "pe": 1,
+      "pp": 7,
+      "gf": 11,
+      "gc": 14,
+      "pts": 16,
       "zona": "normal"
     },
     {

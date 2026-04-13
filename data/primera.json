@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-13T13:26:10.973277",
+  "actualizado": "2026-04-13T21:44:14.114487",
   "posiciones": [
     {
       "pos": 1,
@@ -87,6 +87,18 @@
     },
     {
       "pos": 8,
+      "equipo": "Talleres",
+      "pj": 13,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 14,
+      "gc": 12,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Rosario Central",
       "pj": 13,
       "pg": 6,
@@ -98,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Huracan",
       "pj": 13,
       "pg": 5,
@@ -110,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Union Santa Fe",
       "pj": 13,
       "pg": 5,
@@ -122,19 +134,19 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Defensa y Justicia",
-      "pj": 12,
+      "pj": 13,
       "pg": 4,
       "pe": 7,
-      "pp": 1,
-      "gf": 15,
-      "gc": 10,
+      "pp": 2,
+      "gf": 16,
+      "gc": 12,
       "pts": 19,
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Lanus",
       "pj": 12,
       "pg": 5,
@@ -146,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Barracas Central",
       "pj": 13,
       "pg": 5,
@@ -158,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "Tigre",
       "pj": 13,
       "pg": 4,
@@ -170,7 +182,7 @@
       "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 16,
       "equipo": "Independiente",
       "pj": 13,
       "pg": 4,
@@ -182,7 +194,7 @@
       "zona": "normal"
     },
     {
-      "pos": 16,
+      "pos": 17,
       "equipo": "Racing Club",
       "pj": 13,
       "pg": 5,
@@ -190,18 +202,6 @@
       "pp": 5,
       "gf": 15,
       "gc": 13,
-      "pts": 18,
-      "zona": "normal"
-    },
-    {
-      "pos": 17,
-      "equipo": "Talleres",
-      "pj": 12,
-      "pg": 5,
-      "pe": 3,
-      "pp": 4,
-      "gf": 12,
-      "gc": 11,
       "pts": 18,
       "zona": "normal"
     },
@@ -231,6 +231,18 @@
     },
     {
       "pos": 20,
+      "equipo": "Gimnasia LP",
+      "pj": 13,
+      "pg": 5,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 19,
+      "pts": 17,
+      "zona": "normal"
+    },
+    {
+      "pos": 21,
       "equipo": "Platense",
       "pj": 13,
       "pg": 3,
@@ -242,27 +254,15 @@
       "zona": "normal"
     },
     {
-      "pos": 21,
+      "pos": 22,
       "equipo": "Sarmiento",
-      "pj": 12,
+      "pj": 13,
       "pg": 5,
       "pe": 1,
-      "pp": 6,
-      "gf": 10,
-      "gc": 12,
+      "pp": 7,
+      "gf": 11,
+      "gc": 14,
       "pts": 16,
-      "zona": "normal"
-    },
-    {
-      "pos": 22,
-      "equipo": "Gimnasia LP",
-      "pj": 12,
-      "pg": 4,
-      "pe": 2,
-      "pp": 6,
-      "gf": 13,
-      "gc": 18,
-      "pts": 14,
       "zona": "normal"
     },
     {

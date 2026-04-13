@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-04-13T13:27:00.664875",
+  "actualizado": "2026-04-13T21:45:03.838097",
   "partidos": [
     {
-      "id": 107,
+      "id": 105,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -42,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -62,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -82,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 109,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -102,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 110,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -122,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 111,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -142,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 112,
       "fecha": 11,
       "dia": "Mié 15/04",
       "fechaISO": "2026-04-15",
@@ -162,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 113,
       "fecha": 11,
       "dia": "Mié 15/04",
       "fechaISO": "2026-04-15",
@@ -182,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 114,
       "fecha": 11,
       "dia": "Jue 16/04",
       "fechaISO": "2026-04-16",
@@ -202,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 115,
       "fecha": 11,
       "dia": "Jue 16/04",
       "fechaISO": "2026-04-16",
