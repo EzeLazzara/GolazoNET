@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-04-13T21:44:14.113346",
+  "actualizado": "2026-04-14T13:26:14.807901",
   "posiciones": [
     {
       "pos": 1,
+      "equipo": "Velez Sarsfield",
+      "pj": 13,
+      "pg": 7,
+      "pe": 4,
+      "pp": 2,
+      "gf": 15,
+      "gc": 9,
+      "pts": 25,
+      "zona": "champions"
+    },
+    {
+      "pos": 2,
       "equipo": "Estudiantes",
       "pj": 13,
       "pg": 7,
@@ -14,19 +26,19 @@
       "zona": "champions"
     },
     {
-      "pos": 2,
-      "equipo": "Velez Sarsfield",
-      "pj": 12,
+      "pos": 3,
+      "equipo": "Lanus",
+      "pj": 13,
       "pg": 6,
       "pe": 4,
-      "pp": 2,
-      "gf": 14,
-      "gc": 9,
+      "pp": 3,
+      "gf": 18,
+      "gc": 14,
       "pts": 22,
       "zona": "champions"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Boca Juniors",
       "pj": 13,
       "pg": 5,
@@ -35,10 +47,10 @@
       "gf": 15,
       "gc": 8,
       "pts": 21,
-      "zona": "champions"
+      "zona": "europa"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Talleres",
       "pj": 13,
       "pg": 6,
@@ -50,7 +62,7 @@
       "zona": "europa"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Union Santa Fe",
       "pj": 13,
       "pg": 5,
@@ -62,7 +74,7 @@
       "zona": "europa"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Defensa y Justicia",
       "pj": 13,
       "pg": 4,
@@ -70,18 +82,6 @@
       "pp": 2,
       "gf": 16,
       "gc": 12,
-      "pts": 19,
-      "zona": "europa"
-    },
-    {
-      "pos": 7,
-      "equipo": "Lanus",
-      "pj": 12,
-      "pg": 5,
-      "pe": 4,
-      "pp": 3,
-      "gf": 17,
-      "gc": 14,
       "pts": 19,
       "zona": "normal"
     },
@@ -148,12 +148,12 @@
     {
       "pos": 13,
       "equipo": "Central Cordoba",
-      "pj": 12,
+      "pj": 13,
       "pg": 3,
       "pe": 3,
-      "pp": 6,
+      "pp": 7,
       "gf": 6,
-      "gc": 15,
+      "gc": 16,
       "pts": 12,
       "zona": "descenso"
     },

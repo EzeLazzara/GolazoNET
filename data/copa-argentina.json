@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-13T21:45:03.836881",
+  "actualizado": "2026-04-14T13:27:04.442993",
   "bracket": {
     "32avos": [
       {
@@ -287,98 +287,98 @@
         "goles_v": null
       },
       {
-        "local": "Dom 07/06",
-        "visitante": "Estudiantes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Rosario Central",
-        "visitante": "Ind. Rivadavia",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Tigre",
-        "visitante": "River Plate",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Aldosivi",
-        "visitante": "Morón",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Midland",
-        "visitante": "Platense",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Martín",
-        "visitante": "San Lorenzo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Riestra",
-        "visitante": "Talleres",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Atletico Tucuman",
-        "visitante": "Gimnasia (J)",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Belgrano",
-        "visitante": "Union Santa Fe",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Independiente",
-        "visitante": "Barracas Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Huracan",
-        "visitante": "Racing Club",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Defensa y Justicia",
-        "visitante": "Instituto",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Lanus",
-        "visitante": "Banfield",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Martín (T)",
-        "visitante": "Sarmiento",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Boca Juniors",
+        "local": "Mié 22/04",
         "visitante": "Acassuso",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Gimnasia LP",
-        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
+        "visitante": "Dom 07/06",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estudiantes",
+        "visitante": "Rosario Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Ind. Rivadavia",
+        "visitante": "Tigre",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "River Plate",
+        "visitante": "Aldosivi",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Morón",
+        "visitante": "Midland",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "San Martín",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Lorenzo",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Talleres",
+        "visitante": "Atletico Tucuman",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia (J)",
+        "visitante": "Belgrano",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Union Santa Fe",
+        "visitante": "Independiente",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Barracas Central",
+        "visitante": "Huracan",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Defensa y Justicia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Lanus",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Banfield",
+        "visitante": "San Martín (T)",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Sarmiento",
+        "visitante": "Boca Juniors",
         "goles_l": null,
         "goles_v": null
       }

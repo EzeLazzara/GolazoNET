@@ -1,80 +1,120 @@
 {
-  "actualizado": "2026-04-13T21:45:03.837695",
+  "actualizado": "2026-04-14T13:27:04.443828",
   "partidos": [
     {
       "id": 100,
-      "fecha": 14,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Lanus",
+        "nombre": "CADU",
         "goles": null
       },
       "visitante": {
-        "nombre": "Banfield",
+        "nombre": "Italiano",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
-      "fecha": 14,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Velez Sarsfield",
+        "nombre": "Flandria",
         "goles": null
       },
       "visitante": {
-        "nombre": "Central Cordoba",
+        "nombre": "San Carlos",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 102,
-      "fecha": 9,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Chicago",
+        "nombre": "Talleres RE",
         "goles": null
       },
       "visitante": {
-        "nombre": "Midland",
+        "nombre": "Villa Dalmine",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 103,
-      "fecha": 9,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Tristan Suárez",
+        "nombre": "Ituzaingó",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atlético Rafaela",
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (M)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Real Pilar",
         "goles": null
       },
       "hora": "15:00",
@@ -82,42 +122,22 @@
       "estado": "programado"
     },
     {
-      "id": 104,
-      "fecha": 9,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
+      "id": 106,
+      "fecha": 11,
+      "dia": "Mar 14/04",
+      "fechaISO": "2026-04-14",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "San Martín",
+        "nombre": "Laferrere",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atlanta",
+        "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 4,
-      "dia": "Lun 13/04",
-      "fechaISO": "2026-04-13",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores Pto. Vilelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento (R)",
-        "goles": null
-      },
-      "hora": "15:30",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }
