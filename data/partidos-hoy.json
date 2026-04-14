@@ -1,108 +1,8 @@
 {
-  "actualizado": "2026-04-14T13:27:04.443828",
+  "actualizado": "2026-04-14T21:48:39.697226",
   "partidos": [
     {
       "id": 100,
-      "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",
@@ -122,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 101,
       "fecha": 11,
       "dia": "Mar 14/04",
       "fechaISO": "2026-04-14",

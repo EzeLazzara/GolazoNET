@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-14T13:27:04.442993",
+  "actualizado": "2026-04-14T21:48:39.696229",
   "bracket": {
     "32avos": [
       {
@@ -294,6 +294,12 @@
       },
       {
         "local": "Gimnasia LP",
+        "visitante": "Morón",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Midland",
         "visitante": "Dom 07/06",
         "goles_l": null,
         "goles_v": null
@@ -313,12 +319,6 @@
       {
         "local": "River Plate",
         "visitante": "Aldosivi",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Morón",
-        "visitante": "Midland",
         "goles_l": null,
         "goles_v": null
       },
