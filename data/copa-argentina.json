@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-14T21:48:39.696229",
+  "actualizado": "2026-04-15T13:25:33.093612",
   "bracket": {
     "32avos": [
       {
@@ -469,6 +469,18 @@
         "local": "Agustín Medina",
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Balones de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Coleccionables de equipos",
+        "visitante": "Podcasts fútbol",
+        "goles_l": null,
         "goles_v": null
       }
     ]

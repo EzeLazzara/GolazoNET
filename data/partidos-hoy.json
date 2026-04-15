@@ -1,43 +1,43 @@
 {
-  "actualizado": "2026-04-14T21:48:39.697226",
+  "actualizado": "2026-04-15T13:25:33.094428",
   "partidos": [
     {
-      "id": 100,
+      "id": 133,
       "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
+      "dia": "Mié 15/04",
+      "fechaISO": "2026-04-15",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Brown de Adrogué",
+        "nombre": "Armenio",
         "goles": null
       },
       "visitante": {
-        "nombre": "Real Pilar",
+        "nombre": "Liniers",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 101,
+      "id": 134,
       "fecha": 11,
-      "dia": "Mar 14/04",
-      "fechaISO": "2026-04-14",
+      "dia": "Mié 15/04",
+      "fechaISO": "2026-04-15",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Laferrere",
+        "nombre": "Argentino (Q)",
         "goles": null
       },
       "visitante": {
-        "nombre": "UAI Urquiza",
+        "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
