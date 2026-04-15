@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-04-15T13:25:33.094428",
+  "actualizado": "2026-04-15T21:49:02.787731",
   "partidos": [
     {
       "id": 133,
-      "fecha": 11,
-      "dia": "Mié 15/04",
-      "fechaISO": "2026-04-15",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
       "fecha": 11,
       "dia": "Mié 15/04",
       "fechaISO": "2026-04-15",
