@@ -1,23 +1,63 @@
 {
-  "actualizado": "2026-04-15T21:49:02.787731",
+  "actualizado": "2026-04-16T13:45:22.764653",
   "partidos": [
     {
       "id": 133,
       "fecha": 11,
-      "dia": "Mié 15/04",
-      "fechaISO": "2026-04-15",
+      "dia": "Jue 16/04",
+      "fechaISO": "2026-04-16",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Argentino (Q)",
+        "nombre": "Dock Sud",
         "goles": null
       },
       "visitante": {
-        "nombre": "San Martín (Bur.)",
+        "nombre": "Merlo",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 11,
+      "dia": "Jue 16/04",
+      "fechaISO": "2026-04-16",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 5,
+      "dia": "Jue 16/04",
+      "fechaISO": "2026-04-16",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Atlético Escobar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }

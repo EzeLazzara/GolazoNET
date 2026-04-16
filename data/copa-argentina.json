@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-15T21:49:02.786897",
+  "actualizado": "2026-04-16T13:45:22.763799",
   "bracket": {
     "32avos": [
       {
@@ -485,13 +485,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Historia fútbol",
+        "visitante": "Calendario de partidos",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Coleccionables fútbol",
-        "visitante": "Pronósticos Copa Argentina",
+        "local": "Suscripciones a canales deportivos",
+        "visitante": "Cobertura de torneos",
         "goles_l": null,
         "goles_v": null
       }
