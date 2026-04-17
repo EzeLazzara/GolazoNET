@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-04-17T13:20:45.759541",
+  "actualizado": "2026-04-17T21:39:20.275644",
   "posiciones": [
     {
       "pos": 1,
+      "equipo": "Sacachispas",
+      "pj": 8,
+      "pg": 5,
+      "pe": 0,
+      "pp": 3,
+      "gf": 15,
+      "gc": 11,
+      "pts": 15,
+      "zona": "promotion"
+    },
+    {
+      "pos": 2,
       "equipo": "Berazategui",
       "pj": 7,
       "pg": 3,
@@ -14,7 +26,7 @@
       "zona": "promotion"
     },
     {
-      "pos": 2,
+      "pos": 3,
       "equipo": "Estrella del Sur",
       "pj": 7,
       "pg": 3,
@@ -22,18 +34,6 @@
       "pp": 1,
       "gf": 10,
       "gc": 6,
-      "pts": 12,
-      "zona": "promotion"
-    },
-    {
-      "pos": 3,
-      "equipo": "Sacachispas",
-      "pj": 7,
-      "pg": 4,
-      "pe": 0,
-      "pp": 3,
-      "gf": 11,
-      "gc": 8,
       "pts": 12,
       "zona": "normal"
     },
@@ -100,12 +100,12 @@
     {
       "pos": 9,
       "equipo": "Victoriano",
-      "pj": 7,
+      "pj": 8,
       "pg": 2,
       "pe": 3,
-      "pp": 2,
+      "pp": 3,
       "gf": 3,
-      "gc": 2,
+      "gc": 3,
       "pts": 9,
       "zona": "normal"
     },
@@ -171,6 +171,18 @@
     },
     {
       "pos": 1,
+      "equipo": "Lamadrid",
+      "pj": 8,
+      "pg": 4,
+      "pe": 3,
+      "pp": 1,
+      "gf": 8,
+      "gc": 5,
+      "pts": 15,
+      "zona": "normal"
+    },
+    {
+      "pos": 2,
       "equipo": "Yupanqui",
       "pj": 7,
       "pg": 3,
@@ -178,18 +190,6 @@
       "pp": 1,
       "gf": 8,
       "gc": 6,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 2,
-      "equipo": "Lamadrid",
-      "pj": 7,
-      "pg": 3,
-      "pe": 3,
-      "pp": 1,
-      "gf": 7,
-      "gc": 5,
       "pts": 12,
       "zona": "normal"
     },
@@ -256,12 +256,12 @@
     {
       "pos": 8,
       "equipo": "Dep. Español",
-      "pj": 7,
+      "pj": 8,
       "pg": 1,
       "pe": 5,
-      "pp": 1,
-      "gf": 6,
-      "gc": 5,
+      "pp": 2,
+      "gf": 9,
+      "gc": 9,
       "pts": 8,
       "zona": "normal"
     },

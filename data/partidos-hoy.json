@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-17T13:21:02.327562",
+  "actualizado": "2026-04-17T21:39:36.903617",
   "partidos": [
     {
       "id": 100,
@@ -78,46 +78,6 @@
         "goles": null
       },
       "hora": "17:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 160,
-      "fecha": 8,
-      "dia": "Vie 17/04",
-      "fechaISO": "2026-04-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 161,
-      "fecha": 8,
-      "dia": "Vie 17/04",
-      "fechaISO": "2026-04-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

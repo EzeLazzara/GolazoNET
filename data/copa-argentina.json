@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-17T13:21:02.326776",
+  "actualizado": "2026-04-17T21:39:36.902748",
   "bracket": {
     "32avos": [
       {
@@ -415,6 +415,18 @@
         "local": "Tiziano Perrotta",
         "visitante": "Tobias Andrada",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Información de equipos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Futbol 2025 Argentina",
+        "visitante": "Deportes",
+        "goles_l": null,
         "goles_v": null
       },
       {
