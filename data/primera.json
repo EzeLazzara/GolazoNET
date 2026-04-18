@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-17T21:38:47.283416",
+  "actualizado": "2026-04-18T13:02:58.770338",
   "posiciones": [
     {
       "pos": 1,
@@ -136,12 +136,12 @@
     {
       "pos": 12,
       "equipo": "Union Santa Fe",
-      "pj": 13,
+      "pj": 14,
       "pg": 5,
       "pe": 4,
-      "pp": 4,
-      "gf": 19,
-      "gc": 14,
+      "pp": 5,
+      "gf": 21,
+      "gc": 17,
       "pts": 19,
       "zona": "normal"
     },
@@ -291,6 +291,18 @@
     },
     {
       "pos": 25,
+      "equipo": "Newells",
+      "pj": 14,
+      "pg": 3,
+      "pe": 4,
+      "pp": 7,
+      "gf": 13,
+      "gc": 25,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 26,
       "equipo": "Central Cordoba",
       "pj": 13,
       "pg": 3,
@@ -302,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 26,
+      "pos": 27,
       "equipo": "Atletico Tucuman",
       "pj": 13,
       "pg": 2,
@@ -310,18 +322,6 @@
       "pp": 7,
       "gf": 13,
       "gc": 18,
-      "pts": 10,
-      "zona": "normal"
-    },
-    {
-      "pos": 27,
-      "equipo": "Newells",
-      "pj": 13,
-      "pg": 2,
-      "pe": 4,
-      "pp": 7,
-      "gf": 10,
-      "gc": 23,
       "pts": 10,
       "zona": "normal"
     },

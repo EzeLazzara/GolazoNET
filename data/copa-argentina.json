@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-17T21:39:36.902748",
+  "actualizado": "2026-04-18T13:03:49.113077",
   "bracket": {
     "32avos": [
       {
@@ -418,18 +418,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Información de equipos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Futbol 2025 Argentina",
-        "visitante": "Deportes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -493,6 +481,18 @@
         "local": "Agustín Medina",
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Servicios de streaming deportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resultados Copa Argentina",
+        "visitante": "Información de equipos",
+        "goles_l": null,
         "goles_v": null
       }
     ]
