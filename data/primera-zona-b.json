@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-18T13:02:58.769998",
+  "actualizado": "2026-04-18T21:31:18.467662",
   "posiciones": [
     {
       "pos": 1,
@@ -75,6 +75,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Gimnasia LP",
+      "pj": 14,
+      "pg": 6,
+      "pe": 2,
+      "pp": 6,
+      "gf": 16,
+      "gc": 19,
+      "pts": 20,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Barracas Central",
       "pj": 13,
       "pg": 5,
@@ -86,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Tigre",
       "pj": 13,
       "pg": 4,
@@ -98,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Racing Club",
       "pj": 13,
       "pg": 5,
@@ -107,18 +119,6 @@
       "gf": 15,
       "gc": 13,
       "pts": 18,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
-      "equipo": "Gimnasia LP",
-      "pj": 13,
-      "pg": 5,
-      "pe": 2,
-      "pp": 6,
-      "gf": 15,
-      "gc": 19,
-      "pts": 17,
       "zona": "normal"
     },
     {
@@ -172,12 +172,12 @@
     {
       "pos": 15,
       "equipo": "Estudiantes RC",
-      "pj": 13,
+      "pj": 14,
       "pg": 1,
       "pe": 2,
-      "pp": 10,
+      "pp": 11,
       "gf": 4,
-      "gc": 19,
+      "gc": 20,
       "pts": 5,
       "zona": "descenso"
     }

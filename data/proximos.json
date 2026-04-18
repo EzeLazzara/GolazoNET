@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-04-18T13:03:49.114696",
+  "actualizado": "2026-04-18T21:32:08.287762",
   "partidos": [
     {
-      "id": 104,
+      "id": 102,
       "fecha": 15,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -17,12 +17,12 @@
         "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "07:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 103,
       "fecha": 15,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -37,12 +37,12 @@
         "nombre": "Boca Juniors",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 15,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -57,12 +57,12 @@
         "nombre": "Sarmiento",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 15,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -77,12 +77,12 @@
         "nombre": "Riestra",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -97,12 +97,12 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -117,12 +117,12 @@
         "nombre": "Ind. Rivadavia",
         "goles": null
       },
-      "hora": "11:15",
+      "hora": "12:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -137,12 +137,12 @@
         "nombre": "Platense",
         "goles": null
       },
-      "hora": "11:15",
+      "hora": "12:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 109,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -157,12 +157,12 @@
         "nombre": "Velez Sarsfield",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 110,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -177,12 +177,12 @@
         "nombre": "Huracan",
         "goles": null
       },
-      "hora": "15:45",
+      "hora": "16:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 111,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -197,12 +197,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "15:45",
+      "hora": "16:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 114,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -217,12 +217,12 @@
         "nombre": "Temperley",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 115,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -237,12 +237,12 @@
         "nombre": "Central Norte",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 116,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -257,12 +257,12 @@
         "nombre": "Ferro",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 117,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -277,12 +277,12 @@
         "nombre": "Chaco For Ever",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 118,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -297,12 +297,12 @@
         "nombre": "Almagro",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 119,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -317,12 +317,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 120,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -337,12 +337,12 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 121,
       "fecha": 10,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -357,12 +357,12 @@
         "nombre": "Güemes",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 122,
       "fecha": 10,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -377,12 +377,12 @@
         "nombre": "Agropecuario",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 123,
       "fecha": 10,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -397,12 +397,12 @@
         "nombre": "Chacarita",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 125,
       "fecha": 12,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -417,12 +417,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 126,
       "fecha": 12,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -437,12 +437,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 127,
       "fecha": 12,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -457,12 +457,12 @@
         "nombre": "Argentino (M)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 128,
       "fecha": 12,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -477,12 +477,12 @@
         "nombre": "Armenio",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 129,
       "fecha": 12,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -497,12 +497,12 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 130,
       "fecha": 12,
       "dia": "Mar 21/04",
       "fechaISO": "2026-04-21",
@@ -517,12 +517,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 131,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -537,12 +537,12 @@
         "nombre": "Gmo. Brown",
         "goles": null
       },
-      "hora": "05:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 132,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -557,12 +557,12 @@
         "nombre": "Tucumán Central",
         "goles": null
       },
-      "hora": "05:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 133,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -577,12 +577,12 @@
         "nombre": "Juventud Unida (SL)",
         "goles": null
       },
-      "hora": "05:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 134,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -597,12 +597,12 @@
         "nombre": "Gimnasia de Concepción",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 135,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -617,12 +617,12 @@
         "nombre": "9 de Julio (R)",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 136,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -637,12 +637,12 @@
         "nombre": "San Martín (Mdza)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 137,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -657,12 +657,12 @@
         "nombre": "Santamarina",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 138,
       "fecha": 5,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -677,12 +677,12 @@
         "nombre": "Atenas (RC)",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 162,
+      "id": 139,
       "fecha": 8,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -697,12 +697,12 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "05:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 163,
+      "id": 140,
       "fecha": 8,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -717,12 +717,12 @@
         "nombre": "Puerto Nuevo",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 164,
+      "id": 141,
       "fecha": 8,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -737,12 +737,12 @@
         "nombre": "Berazategui",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 165,
+      "id": 142,
       "fecha": 8,
       "dia": "Dom 19/04",
       "fechaISO": "2026-04-19",
@@ -757,12 +757,12 @@
         "nombre": "Central Ballester",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 166,
+      "id": 143,
       "fecha": 8,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -777,12 +777,12 @@
         "nombre": "Paraguayo",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 167,
+      "id": 144,
       "fecha": 8,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -797,7 +797,7 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

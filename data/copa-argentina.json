@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-18T13:03:49.113077",
+  "actualizado": "2026-04-18T21:32:08.286634",
   "bracket": {
     "32avos": [
       {
@@ -481,18 +481,6 @@
         "local": "Agustín Medina",
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Servicios de streaming deportivo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Resultados Copa Argentina",
-        "visitante": "Información de equipos",
-        "goles_l": null,
         "goles_v": null
       }
     ]
