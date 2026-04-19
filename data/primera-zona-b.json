@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-18T21:31:18.467662",
+  "actualizado": "2026-04-19T13:02:01.906086",
   "posiciones": [
     {
       "pos": 1,
@@ -28,13 +28,13 @@
     {
       "pos": 3,
       "equipo": "Argentinos Juniors",
-      "pj": 13,
-      "pg": 6,
+      "pj": 14,
+      "pg": 7,
       "pe": 5,
       "pp": 2,
-      "gf": 14,
+      "gf": 15,
       "gc": 10,
-      "pts": 23,
+      "pts": 26,
       "zona": "champions"
     },
     {
@@ -148,12 +148,12 @@
     {
       "pos": 13,
       "equipo": "Atletico Tucuman",
-      "pj": 13,
+      "pj": 14,
       "pg": 2,
       "pe": 4,
-      "pp": 7,
+      "pp": 8,
       "gf": 13,
-      "gc": 18,
+      "gc": 19,
       "pts": 10,
       "zona": "descenso"
     },
