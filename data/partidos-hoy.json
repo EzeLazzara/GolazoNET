@@ -1,60 +1,160 @@
 {
-  "actualizado": "2026-04-19T21:33:16.879782",
+  "actualizado": "2026-04-20T13:30:48.445717",
   "partidos": [
     {
       "id": 100,
       "fecha": 15,
-      "dia": "Dom 19/04",
-      "fechaISO": "2026-04-19",
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Rosario Central",
+        "nombre": "Barracas Central",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sarmiento",
+        "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "15:30",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
       "fecha": 15,
-      "dia": "Dom 19/04",
-      "fechaISO": "2026-04-19",
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Talleres",
+        "nombre": "Banfield",
         "goles": null
       },
       "visitante": {
-        "nombre": "Riestra",
+        "nombre": "Ind. Rivadavia",
         "goles": null
       },
-      "hora": "15:30",
+      "hora": "10:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 102,
+      "fecha": 15,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "hora": "10:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 15,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Velez Sarsfield",
+        "goles": null
+      },
+      "hora": "12:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 15,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Tigre",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Huracan",
+        "goles": null
+      },
+      "hora": "14:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 15,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Gimnasia Mendoza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "hora": "14:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
       "fecha": 10,
-      "dia": "Dom 19/04",
-      "fechaISO": "2026-04-19",
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
       "esHoy": true,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "San Martín (T)",
+        "nombre": "Atlético Rafaela",
         "goles": null
       },
       "visitante": {
-        "nombre": "Tristan Suárez",
+        "nombre": "Agropecuario",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 10,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chacarita",
         "goles": null
       },
       "hora": "14:00",
@@ -62,62 +162,62 @@
       "estado": "programado"
     },
     {
-      "id": 109,
-      "fecha": 10,
-      "dia": "Dom 19/04",
-      "fechaISO": "2026-04-19",
+      "id": 108,
+      "fecha": 12,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Racing (Cba)",
+        "nombre": "Camioneros",
         "goles": null
       },
       "visitante": {
-        "nombre": "Defensores",
+        "nombre": "CADU",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
-      "fecha": 10,
-      "dia": "Dom 19/04",
-      "fechaISO": "2026-04-19",
+      "id": 127,
+      "fecha": 8,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Gimnasia y Tiro",
+        "nombre": "Sp. Barracas",
         "goles": null
       },
       "visitante": {
-        "nombre": "Güemes",
+        "nombre": "Paraguayo",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
-      "fecha": 5,
-      "dia": "Dom 19/04",
-      "fechaISO": "2026-04-19",
+      "id": 128,
+      "fecha": 8,
+      "dia": "Lun 20/04",
+      "fechaISO": "2026-04-20",
       "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Costa Brava",
+        "nombre": "Cambaceres",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atenas (RC)",
+        "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     }

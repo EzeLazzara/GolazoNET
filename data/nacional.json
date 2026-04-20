@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-19T21:32:35.564251",
+  "actualizado": "2026-04-20T13:30:06.358528",
   "posiciones": [
     {
       "pos": 1,
@@ -28,12 +28,12 @@
     {
       "pos": 3,
       "equipo": "Defensores",
-      "pj": 8,
+      "pj": 9,
       "pg": 3,
       "pe": 5,
-      "pp": 0,
+      "pp": 1,
       "gf": 8,
-      "gc": 3,
+      "gc": 6,
       "pts": 14,
       "zona": "normal"
     },
@@ -51,14 +51,14 @@
     },
     {
       "pos": 5,
-      "equipo": "Los Andes",
+      "equipo": "Racing (Cba)",
       "pj": 9,
-      "pg": 3,
-      "pe": 4,
-      "pp": 2,
-      "gf": 6,
-      "gc": 3,
-      "pts": 13,
+      "pg": 4,
+      "pe": 2,
+      "pp": 3,
+      "gf": 8,
+      "gc": 8,
+      "pts": 14,
       "zona": "normal"
     },
     {
@@ -75,6 +75,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Los Andes",
+      "pj": 9,
+      "pg": 3,
+      "pe": 4,
+      "pp": 2,
+      "gf": 6,
+      "gc": 3,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "San Miguel",
       "pj": 9,
       "pg": 3,
@@ -86,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Dep. Madryn",
       "pj": 9,
       "pg": 3,
@@ -98,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Ferro",
       "pj": 9,
       "pg": 3,
@@ -110,25 +122,13 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Alte. Brown",
       "pj": 9,
       "pg": 3,
       "pe": 2,
       "pp": 4,
       "gf": 6,
-      "gc": 8,
-      "pts": 11,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "Racing (Cba)",
-      "pj": 8,
-      "pg": 3,
-      "pe": 2,
-      "pp": 3,
-      "gf": 5,
       "gc": 8,
       "pts": 11,
       "zona": "normal"
@@ -232,13 +232,13 @@
     {
       "pos": 2,
       "equipo": "Tristan Suárez",
-      "pj": 8,
+      "pj": 9,
       "pg": 4,
-      "pe": 4,
+      "pe": 5,
       "pp": 0,
       "gf": 9,
       "gc": 2,
-      "pts": 16,
+      "pts": 17,
       "zona": "normal"
     },
     {
@@ -256,13 +256,13 @@
     {
       "pos": 4,
       "equipo": "San Martín (T)",
-      "pj": 8,
+      "pj": 9,
       "pg": 3,
-      "pe": 5,
+      "pe": 6,
       "pp": 0,
       "gf": 10,
       "gc": 5,
-      "pts": 14,
+      "pts": 15,
       "zona": "normal"
     },
     {
@@ -316,13 +316,13 @@
     {
       "pos": 9,
       "equipo": "Gimnasia y Tiro",
-      "pj": 8,
+      "pj": 9,
       "pg": 3,
-      "pe": 2,
+      "pe": 3,
       "pp": 3,
-      "gf": 8,
-      "gc": 9,
-      "pts": 11,
+      "gf": 9,
+      "gc": 10,
+      "pts": 12,
       "zona": "normal"
     },
     {
@@ -352,13 +352,13 @@
     {
       "pos": 12,
       "equipo": "Güemes",
-      "pj": 8,
+      "pj": 9,
       "pg": 2,
-      "pe": 3,
+      "pe": 4,
       "pp": 3,
-      "gf": 9,
-      "gc": 11,
-      "pts": 9,
+      "gf": 10,
+      "gc": 12,
+      "pts": 10,
       "zona": "normal"
     },
     {

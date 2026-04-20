@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-19T21:32:27.382179",
+  "actualizado": "2026-04-20T13:29:57.893505",
   "posiciones": [
     {
       "pos": 1,
@@ -27,6 +27,30 @@
     },
     {
       "pos": 3,
+      "equipo": "Boca Juniors",
+      "pj": 14,
+      "pg": 6,
+      "pe": 6,
+      "pp": 2,
+      "gf": 16,
+      "gc": 8,
+      "pts": 24,
+      "zona": "champions"
+    },
+    {
+      "pos": 4,
+      "equipo": "Talleres",
+      "pj": 14,
+      "pg": 7,
+      "pe": 3,
+      "pp": 4,
+      "gf": 16,
+      "gc": 12,
+      "pts": 24,
+      "zona": "europa"
+    },
+    {
+      "pos": 5,
       "equipo": "Lanus",
       "pj": 13,
       "pg": 6,
@@ -35,10 +59,10 @@
       "gf": 18,
       "gc": 14,
       "pts": 22,
-      "zona": "champions"
+      "zona": "europa"
     },
     {
-      "pos": 4,
+      "pos": 6,
       "equipo": "Independiente",
       "pj": 14,
       "pg": 5,
@@ -50,19 +74,7 @@
       "zona": "europa"
     },
     {
-      "pos": 5,
-      "equipo": "Talleres",
-      "pj": 13,
-      "pg": 6,
-      "pe": 3,
-      "pp": 4,
-      "gf": 14,
-      "gc": 12,
-      "pts": 21,
-      "zona": "europa"
-    },
-    {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Union Santa Fe",
       "pj": 14,
       "pg": 5,
@@ -71,10 +83,10 @@
       "gf": 21,
       "gc": 17,
       "pts": 19,
-      "zona": "europa"
+      "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Defensa y Justicia",
       "pj": 14,
       "pg": 4,
@@ -86,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "San Lorenzo",
       "pj": 13,
       "pg": 4,
@@ -98,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Instituto",
       "pj": 14,
       "pg": 5,
@@ -110,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Platense",
       "pj": 13,
       "pg": 3,
@@ -122,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Gimnasia Mendoza",
       "pj": 13,
       "pg": 3,
@@ -134,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Newells",
       "pj": 14,
       "pg": 3,
@@ -146,7 +158,7 @@
       "zona": "descenso"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Central Cordoba",
       "pj": 13,
       "pg": 3,
@@ -158,14 +170,14 @@
       "zona": "descenso"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "Riestra",
-      "pj": 13,
+      "pj": 14,
       "pg": 0,
       "pe": 7,
-      "pp": 6,
+      "pp": 7,
       "gf": 3,
-      "gc": 10,
+      "gc": 12,
       "pts": 7,
       "zona": "descenso"
     }
