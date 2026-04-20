@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-20T13:30:31.752689",
+  "actualizado": "2026-04-20T21:43:22.912814",
   "posiciones": [
     {
       "pos": 1,
@@ -75,18 +75,6 @@
     },
     {
       "pos": 7,
-      "equipo": "Cambaceres",
-      "pj": 7,
-      "pg": 3,
-      "pe": 2,
-      "pp": 2,
-      "gf": 10,
-      "gc": 7,
-      "pts": 11,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
       "equipo": "Puerto Nuevo",
       "pj": 8,
       "pg": 2,
@@ -94,6 +82,18 @@
       "pp": 1,
       "gf": 9,
       "gc": 7,
+      "pts": 11,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
+      "equipo": "Cambaceres",
+      "pj": 8,
+      "pg": 3,
+      "pe": 2,
+      "pp": 3,
+      "gf": 10,
+      "gc": 9,
       "pts": 11,
       "zona": "normal"
     },
@@ -123,6 +123,18 @@
     },
     {
       "pos": 11,
+      "equipo": "Paraguayo",
+      "pj": 8,
+      "pg": 2,
+      "pe": 2,
+      "pp": 4,
+      "gf": 5,
+      "gc": 13,
+      "pts": 8,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
       "equipo": "Leandro N. Alem",
       "pj": 8,
       "pg": 2,
@@ -134,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Argentino Rosario",
       "pj": 8,
       "pg": 1,
@@ -146,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Juventud Unida SM",
       "pj": 8,
       "pg": 1,
@@ -154,18 +166,6 @@
       "pp": 3,
       "gf": 4,
       "gc": 8,
-      "pts": 7,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "Paraguayo",
-      "pj": 7,
-      "pg": 2,
-      "pe": 1,
-      "pp": 4,
-      "gf": 5,
-      "gc": 13,
       "pts": 7,
       "zona": "normal"
     },
@@ -183,6 +183,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Leones de Rosario FC",
+      "pj": 8,
+      "pg": 4,
+      "pe": 3,
+      "pp": 1,
+      "gf": 8,
+      "gc": 6,
+      "pts": 15,
+      "zona": "normal"
+    },
+    {
+      "pos": 3,
       "equipo": "Central Ballester",
       "pj": 8,
       "pg": 4,
@@ -194,7 +206,7 @@
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Cañuelas",
       "pj": 8,
       "pg": 3,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Yupanqui",
       "pj": 8,
       "pg": 3,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Claypole",
       "pj": 8,
       "pg": 3,
@@ -230,27 +242,15 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
-      "equipo": "Leones de Rosario FC",
-      "pj": 7,
-      "pg": 3,
-      "pe": 3,
-      "pp": 1,
-      "gf": 6,
-      "gc": 6,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
       "pos": 7,
       "equipo": "Sp. Barracas",
-      "pj": 7,
+      "pj": 8,
       "pg": 3,
-      "pe": 1,
+      "pe": 2,
       "pp": 3,
       "gf": 8,
       "gc": 6,
-      "pts": 10,
+      "pts": 11,
       "zona": "normal"
     },
     {

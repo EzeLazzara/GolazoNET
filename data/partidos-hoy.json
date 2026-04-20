@@ -1,68 +1,8 @@
 {
-  "actualizado": "2026-04-20T13:30:48.445717",
+  "actualizado": "2026-04-20T21:43:39.465112",
   "partidos": [
     {
       "id": 100,
-      "fecha": 15,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Belgrano",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 15,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Banfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ind. Rivadavia",
-        "goles": null
-      },
-      "hora": "10:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 15,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Platense",
-        "goles": null
-      },
-      "hora": "10:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -77,12 +17,12 @@
         "nombre": "Velez Sarsfield",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 101,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -97,12 +37,12 @@
         "nombre": "Huracan",
         "goles": null
       },
-      "hora": "14:45",
+      "hora": "16:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 15,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -117,12 +57,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "14:45",
+      "hora": "16:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 10,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -137,12 +77,12 @@
         "nombre": "Agropecuario",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 10,
       "dia": "Lun 20/04",
       "fechaISO": "2026-04-20",
@@ -157,67 +97,7 @@
         "nombre": "Chacarita",
         "goles": null
       },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 12,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 127,
-      "fecha": 8,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 128,
-      "fecha": 8,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Leones de Rosario FC",
-        "goles": null
-      },
-      "hora": "08:30",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     }

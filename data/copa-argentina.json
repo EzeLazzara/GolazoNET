@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-20T13:30:48.444862",
+  "actualizado": "2026-04-20T21:43:39.464242",
   "bracket": {
     "32avos": [
       {
@@ -306,91 +306,97 @@
       },
       {
         "local": "Midland",
-        "visitante": "Dom 07/06",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes",
-        "visitante": "Rosario Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Ind. Rivadavia",
-        "visitante": "Tigre",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "River Plate",
-        "visitante": "Aldosivi",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Platense",
-        "visitante": "San Martín",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Lorenzo",
-        "visitante": "Riestra",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Talleres",
-        "visitante": "Atletico Tucuman",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Gimnasia (J)",
-        "visitante": "Belgrano",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Union Santa Fe",
-        "visitante": "Independiente",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Barracas Central",
-        "visitante": "Huracan",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "Defensa y Justicia",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Instituto",
-        "visitante": "Lanus",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Banfield",
-        "visitante": "San Martín (T)",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Sarmiento",
-        "visitante": "Boca Juniors",
+        "visitante": "Jue 30/04",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Velez Sarsfield",
         "visitante": "Gimnasia y Tiro",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Dom 07/06",
+        "visitante": "Estudiantes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Rosario Central",
+        "visitante": "Ind. Rivadavia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tigre",
+        "visitante": "River Plate",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Aldosivi",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Martín",
+        "visitante": "San Lorenzo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Riestra",
+        "visitante": "Talleres",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Gimnasia (J)",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Belgrano",
+        "visitante": "Union Santa Fe",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente",
+        "visitante": "Barracas Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Huracan",
+        "visitante": "Racing Club",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Defensa y Justicia",
+        "visitante": "Instituto",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Lanus",
+        "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Martín (T)",
+        "visitante": "Sarmiento",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
       }
@@ -481,18 +487,6 @@
         "local": "Agustín Medina",
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Calendario de partidos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Accesorios para aficionados",
-        "visitante": "Información de equipos",
-        "goles_l": null,
         "goles_v": null
       }
     ]
