@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-21T13:28:03.536241",
+  "actualizado": "2026-04-21T21:43:03.260795",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }

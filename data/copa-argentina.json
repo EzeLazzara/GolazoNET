@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-21T13:28:03.535409",
+  "actualizado": "2026-04-21T21:43:03.259955",
   "bracket": {
     "32avos": [
       {
@@ -487,18 +487,6 @@
         "local": "Agustín Medina",
         "visitante": "Agustin Pastorelli",
         "goles_l": 1,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Estadísticas de ligas",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Deportes",
-        "visitante": "Fixture Copa Argentina",
-        "goles_l": null,
         "goles_v": null
       }
     ]
