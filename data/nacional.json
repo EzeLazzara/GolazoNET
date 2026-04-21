@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-20T21:42:58.243445",
+  "actualizado": "2026-04-21T13:27:21.370498",
   "posiciones": [
     {
       "pos": 1,
@@ -267,6 +267,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Atlético Rafaela",
+      "pj": 9,
+      "pg": 4,
+      "pe": 3,
+      "pp": 2,
+      "gf": 10,
+      "gc": 6,
+      "pts": 15,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Temperley",
       "pj": 9,
       "pg": 3,
@@ -278,7 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Midland",
       "pj": 9,
       "pg": 3,
@@ -290,7 +302,19 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
+      "equipo": "Atlanta",
+      "pj": 9,
+      "pg": 4,
+      "pe": 1,
+      "pp": 4,
+      "gf": 9,
+      "gc": 8,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Quilmes",
       "pj": 9,
       "pg": 3,
@@ -302,19 +326,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
-      "equipo": "Atlético Rafaela",
-      "pj": 8,
-      "pg": 3,
-      "pe": 3,
-      "pp": 2,
-      "gf": 6,
-      "gc": 5,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Gimnasia y Tiro",
       "pj": 9,
       "pg": 3,
@@ -323,18 +335,6 @@
       "gf": 9,
       "gc": 10,
       "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
-      "equipo": "Atlanta",
-      "pj": 8,
-      "pg": 3,
-      "pe": 1,
-      "pp": 4,
-      "gf": 8,
-      "gc": 8,
-      "pts": 10,
       "zona": "normal"
     },
     {
@@ -388,12 +388,12 @@
     {
       "pos": 15,
       "equipo": "Chacarita",
-      "pj": 8,
+      "pj": 9,
       "pg": 2,
       "pe": 2,
-      "pp": 4,
+      "pp": 5,
       "gf": 8,
-      "gc": 11,
+      "gc": 12,
       "pts": 8,
       "zona": "descenso"
     }

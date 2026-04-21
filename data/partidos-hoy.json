@@ -1,103 +1,23 @@
 {
-  "actualizado": "2026-04-20T21:43:39.465112",
+  "actualizado": "2026-04-21T13:28:03.536241",
   "partidos": [
     {
       "id": 100,
-      "fecha": 15,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
+      "fecha": 12,
+      "dia": "Mar 21/04",
+      "fechaISO": "2026-04-21",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "San Lorenzo",
+        "nombre": "Merlo",
         "goles": null
       },
       "visitante": {
-        "nombre": "Velez Sarsfield",
+        "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "14:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 15,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Tigre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Huracan",
-        "goles": null
-      },
-      "hora": "16:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 15,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "hora": "16:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 10,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Agropecuario",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 10,
-      "dia": "Lun 20/04",
-      "fechaISO": "2026-04-20",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Atlanta",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Chacarita",
-        "goles": null
-      },
-      "hora": "16:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     }
