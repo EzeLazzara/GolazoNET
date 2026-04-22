@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-22T13:36:59.331011",
+  "actualizado": "2026-04-22T21:48:07.242549",
   "posiciones": [
     {
       "pos": 1,
@@ -268,13 +268,13 @@
     {
       "pos": 9,
       "equipo": "El Porvenir",
-      "pj": 7,
+      "pj": 8,
       "pg": 0,
-      "pe": 7,
+      "pe": 8,
       "pp": 0,
       "gf": 7,
       "gc": 7,
-      "pts": 7,
+      "pts": 8,
       "zona": "normal"
     },
     {
@@ -304,13 +304,13 @@
     {
       "pos": 12,
       "equipo": "Fenix",
-      "pj": 7,
+      "pj": 8,
       "pg": 1,
-      "pe": 3,
+      "pe": 4,
       "pp": 3,
       "gf": 4,
       "gc": 8,
-      "pts": 6,
+      "pts": 7,
       "zona": "normal"
     },
     {

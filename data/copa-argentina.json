@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-22T13:37:15.828801",
+  "actualizado": "2026-04-22T21:48:24.079627",
   "bracket": {
     "32avos": [
       {
@@ -491,13 +491,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Deportivo",
+        "visitante": "Deportes",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Resultados de fútbol",
-        "visitante": "Liga Profesional argentina",
+        "local": "Deportivo",
+        "visitante": "Sportivo",
         "goles_l": null,
         "goles_v": null
       }
