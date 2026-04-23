@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-04-22T21:48:24.080499",
-  "partidos": []
+  "actualizado": "2026-04-23T13:30:02.938403",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 16,
+      "dia": "Jue 23/04",
+      "fechaISO": "2026-04-23",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
