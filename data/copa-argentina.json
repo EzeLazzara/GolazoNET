@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-23T13:30:02.937610",
+  "actualizado": "2026-04-23T21:43:08.085165",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -325,6 +325,18 @@
         "local": "Tiziano Perrotta",
         "visitante": "Tobias Andrada",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Apuestas deportivas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tour de estadios",
+        "visitante": "Comida y bebida para eventos",
+        "goles_l": null,
         "goles_v": null
       },
       {
