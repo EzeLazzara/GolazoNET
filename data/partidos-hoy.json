@@ -1,23 +1,103 @@
 {
-  "actualizado": "2026-04-23T21:43:08.086111",
+  "actualizado": "2026-04-24T13:25:07.651282",
   "partidos": [
     {
       "id": 100,
       "fecha": 16,
-      "dia": "Jue 23/04",
-      "fechaISO": "2026-04-23",
+      "dia": "Vie 24/04",
+      "fechaISO": "2026-04-24",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Defensa y Justicia",
+        "nombre": "Riestra",
         "goles": null
       },
       "visitante": {
-        "nombre": "Boca Juniors",
+        "nombre": "Independiente",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 16,
+      "dia": "Vie 24/04",
+      "fechaISO": "2026-04-24",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "14:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 16,
+      "dia": "Vie 24/04",
+      "fechaISO": "2026-04-24",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Estudiantes RC",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "hora": "14:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 16,
+      "dia": "Vie 24/04",
+      "fechaISO": "2026-04-24",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Racing Club",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Barracas Central",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 16,
+      "dia": "Vie 24/04",
+      "fechaISO": "2026-04-24",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     }

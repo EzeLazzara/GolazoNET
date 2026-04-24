@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-23T21:42:17.856953",
+  "actualizado": "2026-04-24T13:24:18.082835",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Boca Juniors",
+      "pj": 15,
+      "pg": 7,
+      "pe": 6,
+      "pp": 2,
+      "gf": 20,
+      "gc": 8,
+      "pts": 27,
+      "zona": "champions"
+    },
+    {
+      "pos": 3,
       "equipo": "Estudiantes",
       "pj": 14,
       "pg": 8,
@@ -26,7 +38,7 @@
       "zona": "champions"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "River Plate",
       "pj": 14,
       "pg": 8,
@@ -35,10 +47,10 @@
       "gf": 19,
       "gc": 10,
       "pts": 26,
-      "zona": "champions"
+      "zona": "europa"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Velez Sarsfield",
       "pj": 14,
       "pg": 7,
@@ -50,7 +62,7 @@
       "zona": "europa"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Argentinos Juniors",
       "pj": 14,
       "pg": 7,
@@ -59,18 +71,6 @@
       "gf": 15,
       "gc": 10,
       "pts": 26,
-      "zona": "europa"
-    },
-    {
-      "pos": 6,
-      "equipo": "Boca Juniors",
-      "pj": 14,
-      "pg": 6,
-      "pe": 6,
-      "pp": 2,
-      "gf": 16,
-      "gc": 8,
-      "pts": 24,
       "zona": "europa"
     },
     {
@@ -195,18 +195,6 @@
     },
     {
       "pos": 17,
-      "equipo": "Defensa y Justicia",
-      "pj": 14,
-      "pg": 4,
-      "pe": 7,
-      "pp": 3,
-      "gf": 17,
-      "gc": 15,
-      "pts": 19,
-      "zona": "normal"
-    },
-    {
-      "pos": 18,
       "equipo": "Racing Club",
       "pj": 14,
       "pg": 5,
@@ -218,7 +206,7 @@
       "zona": "normal"
     },
     {
-      "pos": 19,
+      "pos": 18,
       "equipo": "San Lorenzo",
       "pj": 14,
       "pg": 4,
@@ -226,6 +214,18 @@
       "pp": 3,
       "gf": 12,
       "gc": 12,
+      "pts": 19,
+      "zona": "normal"
+    },
+    {
+      "pos": 19,
+      "equipo": "Defensa y Justicia",
+      "pj": 15,
+      "pg": 4,
+      "pe": 7,
+      "pp": 4,
+      "gf": 17,
+      "gc": 19,
       "pts": 19,
       "zona": "normal"
     },
