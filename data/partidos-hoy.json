@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-04-24T13:25:07.651282",
+  "actualizado": "2026-04-24T21:44:27.690632",
   "partidos": [
     {
       "id": 100,
-      "fecha": 16,
-      "dia": "Vie 24/04",
-      "fechaISO": "2026-04-24",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Independiente",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 16,
       "dia": "Vie 24/04",
       "fechaISO": "2026-04-24",
@@ -42,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 101,
       "fecha": 16,
       "dia": "Vie 24/04",
       "fechaISO": "2026-04-24",
@@ -62,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 16,
       "dia": "Vie 24/04",
       "fechaISO": "2026-04-24",
@@ -82,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 16,
       "dia": "Vie 24/04",
       "fechaISO": "2026-04-24",
