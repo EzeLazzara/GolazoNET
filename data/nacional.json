@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-25T13:04:23.185931",
+  "actualizado": "2026-04-25T21:33:51.130812",
   "posiciones": [
     {
       "pos": 1,
@@ -27,6 +27,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Los Andes",
+      "pj": 10,
+      "pg": 4,
+      "pe": 4,
+      "pp": 2,
+      "gf": 8,
+      "gc": 3,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Defensores",
       "pj": 9,
       "pg": 3,
@@ -38,7 +50,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Godoy Cruz",
       "pj": 9,
       "pg": 3,
@@ -50,7 +62,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Racing (Cba)",
       "pj": 9,
       "pg": 4,
@@ -62,7 +74,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Bolivar",
       "pj": 9,
       "pg": 2,
@@ -74,26 +86,14 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
-      "equipo": "Los Andes",
-      "pj": 9,
-      "pg": 3,
-      "pe": 4,
-      "pp": 2,
-      "gf": 6,
-      "gc": 3,
-      "pts": 13,
-      "zona": "normal"
-    },
-    {
       "pos": 8,
       "equipo": "San Miguel",
-      "pj": 9,
+      "pj": 10,
       "pg": 3,
       "pe": 4,
-      "pp": 2,
+      "pp": 3,
       "gf": 8,
-      "gc": 8,
+      "gc": 10,
       "pts": 13,
       "zona": "normal"
     },
@@ -123,6 +123,18 @@
     },
     {
       "pos": 11,
+      "equipo": "San Telmo",
+      "pj": 10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 13,
+      "pts": 12,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
       "equipo": "Alte. Brown",
       "pj": 9,
       "pg": 3,
@@ -134,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Acassuso",
       "pj": 9,
       "pg": 3,
@@ -142,18 +154,6 @@
       "pp": 5,
       "gf": 8,
       "gc": 10,
-      "pts": 10,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "All Boys",
-      "pj": 9,
-      "pg": 2,
-      "pe": 4,
-      "pp": 3,
-      "gf": 4,
-      "gc": 6,
       "pts": 10,
       "zona": "normal"
     },
@@ -171,14 +171,14 @@
     },
     {
       "pos": 15,
-      "equipo": "San Telmo",
-      "pj": 9,
+      "equipo": "All Boys",
+      "pj": 10,
       "pg": 2,
-      "pe": 3,
+      "pe": 4,
       "pp": 4,
-      "gf": 10,
-      "gc": 13,
-      "pts": 9,
+      "gf": 4,
+      "gc": 7,
+      "pts": 10,
       "zona": "normal"
     },
     {
@@ -219,18 +219,6 @@
     },
     {
       "pos": 1,
-      "equipo": "Gimnasia (J)",
-      "pj": 9,
-      "pg": 7,
-      "pe": 0,
-      "pp": 2,
-      "gf": 18,
-      "gc": 11,
-      "pts": 21,
-      "zona": "normal"
-    },
-    {
-      "pos": 2,
       "equipo": "Tristan Suárez",
       "pj": 9,
       "pg": 4,
@@ -242,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 2,
       "equipo": "Chicago",
       "pj": 9,
       "pg": 4,
@@ -254,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 3,
       "equipo": "San Martín (T)",
       "pj": 9,
       "pg": 3,
@@ -266,31 +254,19 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Atlético Rafaela",
-      "pj": 9,
-      "pg": 4,
-      "pe": 3,
-      "pp": 2,
-      "gf": 10,
+      "pos": 4,
+      "equipo": "Temperley",
+      "pj": 10,
+      "pg": 3,
+      "pe": 6,
+      "pp": 1,
+      "gf": 8,
       "gc": 6,
       "pts": 15,
       "zona": "normal"
     },
     {
-      "pos": 6,
-      "equipo": "Temperley",
-      "pj": 9,
-      "pg": 3,
-      "pe": 5,
-      "pp": 1,
-      "gf": 8,
-      "gc": 6,
-      "pts": 14,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
+      "pos": 5,
       "equipo": "Midland",
       "pj": 9,
       "pg": 3,
@@ -302,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 6,
       "equipo": "Atlanta",
       "pj": 9,
       "pg": 4,
@@ -314,19 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "Quilmes",
-      "pj": 9,
-      "pg": 3,
-      "pe": 3,
-      "pp": 3,
-      "gf": 11,
-      "gc": 7,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
+      "pos": 7,
       "equipo": "Gimnasia y Tiro",
       "pj": 9,
       "pg": 3,
@@ -338,19 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
-      "equipo": "San Martín",
-      "pj": 9,
-      "pg": 2,
-      "pe": 4,
-      "pp": 3,
-      "gf": 8,
-      "gc": 9,
-      "pts": 10,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
+      "pos": 8,
       "equipo": "Güemes",
       "pj": 9,
       "pg": 2,
@@ -362,19 +314,19 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 9,
       "equipo": "Patronato",
-      "pj": 9,
+      "pj": 10,
       "pg": 2,
-      "pe": 3,
+      "pe": 4,
       "pp": 4,
       "gf": 4,
       "gc": 9,
-      "pts": 9,
+      "pts": 10,
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 10,
       "equipo": "Maipú",
       "pj": 9,
       "pg": 2,
@@ -383,16 +335,52 @@
       "gf": 10,
       "gc": 13,
       "pts": 8,
-      "zona": "descenso"
+      "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 11,
       "equipo": "Chacarita",
       "pj": 9,
       "pg": 2,
       "pe": 2,
       "pp": 5,
       "gf": 8,
+      "gc": 12,
+      "pts": 8,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
+      "equipo": "Agropecuario",
+      "pj": 9,
+      "pg": 2,
+      "pe": 2,
+      "pp": 5,
+      "gf": 7,
+      "gc": 13,
+      "pts": 8,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
+      "equipo": "Colegiales",
+      "pj": 9,
+      "pg": 2,
+      "pe": 2,
+      "pp": 5,
+      "gf": 6,
+      "gc": 12,
+      "pts": 8,
+      "zona": "descenso"
+    },
+    {
+      "pos": 14,
+      "equipo": "Almagro",
+      "pj": 9,
+      "pg": 2,
+      "pe": 2,
+      "pp": 5,
+      "gf": 5,
       "gc": 12,
       "pts": 8,
       "zona": "descenso"

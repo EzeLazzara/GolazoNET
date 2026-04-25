@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-25T13:05:45.169136",
+  "actualizado": "2026-04-25T21:34:34.308668",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -291,6 +291,18 @@
         "visitante": "Huracan",
         "goles_l": null,
         "goles_v": null
+      },
+      {
+        "local": "Mié 22/04",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Acassuso",
+        "visitante": "Gimnasia LP",
+        "goles_l": 0,
+        "goles_v": 3
       }
     ],
     "octavos": [],
@@ -379,6 +391,102 @@
         "local": "Adrián Arregui",
         "visitante": "Agustin Lagos",
         "goles_l": 1,
+        "goles_v": null
+      },
+      {
+        "local": "Morón",
+        "visitante": "Midland",
+        "goles_l": 1,
+        "goles_v": 2
+      },
+      {
+        "local": "Jue 30/04",
+        "visitante": "Velez Sarsfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia y Tiro",
+        "visitante": "Dom 07/06",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estudiantes",
+        "visitante": "Rosario Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Ind. Rivadavia",
+        "visitante": "Tigre",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "River Plate",
+        "visitante": "Aldosivi",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "San Martín",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Lorenzo",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Talleres",
+        "visitante": "Atletico Tucuman",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia (J)",
+        "visitante": "Belgrano",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Union Santa Fe",
+        "visitante": "Independiente",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Barracas Central",
+        "visitante": "Huracan",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Defensa y Justicia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Lanus",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Banfield",
+        "visitante": "San Martín (T)",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Sarmiento",
+        "visitante": "Boca Juniors",
+        "goles_l": null,
         "goles_v": null
       }
     ]
