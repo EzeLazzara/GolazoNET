@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-24T21:43:38.016773",
+  "actualizado": "2026-04-25T13:04:14.792914",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Rosario Central",
+      "pj": 15,
+      "pg": 8,
+      "pe": 3,
+      "pp": 4,
+      "gf": 19,
+      "gc": 15,
+      "pts": 27,
+      "zona": "champions"
+    },
+    {
+      "pos": 3,
       "equipo": "River Plate",
       "pj": 14,
       "pg": 8,
@@ -26,7 +38,7 @@
       "zona": "champions"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Argentinos Juniors",
       "pj": 14,
       "pg": 7,
@@ -35,18 +47,6 @@
       "gf": 15,
       "gc": 10,
       "pts": 26,
-      "zona": "champions"
-    },
-    {
-      "pos": 4,
-      "equipo": "Rosario Central",
-      "pj": 14,
-      "pg": 7,
-      "pe": 3,
-      "pp": 4,
-      "gf": 17,
-      "gc": 14,
-      "pts": 24,
       "zona": "europa"
     },
     {
@@ -76,17 +76,29 @@
     {
       "pos": 7,
       "equipo": "Barracas Central",
-      "pj": 14,
+      "pj": 15,
       "pg": 5,
-      "pe": 5,
+      "pe": 6,
       "pp": 4,
-      "gf": 13,
-      "gc": 12,
-      "pts": 20,
+      "gf": 14,
+      "gc": 13,
+      "pts": 21,
       "zona": "normal"
     },
     {
       "pos": 8,
+      "equipo": "Racing Club",
+      "pj": 15,
+      "pg": 5,
+      "pe": 5,
+      "pp": 5,
+      "gf": 17,
+      "gc": 15,
+      "pts": 20,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Gimnasia LP",
       "pj": 14,
       "pg": 6,
@@ -98,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Tigre",
       "pj": 14,
       "pg": 4,
@@ -106,18 +118,6 @@
       "pp": 3,
       "gf": 17,
       "gc": 13,
-      "pts": 19,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
-      "equipo": "Racing Club",
-      "pj": 14,
-      "pg": 5,
-      "pe": 4,
-      "pp": 5,
-      "gf": 16,
-      "gc": 14,
       "pts": 19,
       "zona": "normal"
     },
@@ -172,12 +172,12 @@
     {
       "pos": 15,
       "equipo": "Estudiantes RC",
-      "pj": 14,
+      "pj": 15,
       "pg": 1,
       "pe": 2,
-      "pp": 11,
-      "gf": 4,
-      "gc": 20,
+      "pp": 12,
+      "gf": 5,
+      "gc": 22,
       "pts": 5,
       "zona": "descenso"
     }
