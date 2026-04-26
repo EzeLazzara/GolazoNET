@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-25T21:34:34.308668",
+  "actualizado": "2026-04-26T13:07:22.213945",
   "bracket": {
     "32avos": [
       {
@@ -391,6 +391,18 @@
         "local": "Adrián Arregui",
         "visitante": "Agustin Lagos",
         "goles_l": 1,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Viajes a sedes de Copa",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tablas de posiciones",
+        "visitante": "Balones de fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {

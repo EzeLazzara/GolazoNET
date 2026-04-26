@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-25T21:33:51.130812",
+  "actualizado": "2026-04-26T13:06:40.417834",
   "posiciones": [
     {
       "pos": 1,
@@ -219,6 +219,18 @@
     },
     {
       "pos": 1,
+      "equipo": "Gimnasia (J)",
+      "pj": 10,
+      "pg": 7,
+      "pe": 1,
+      "pp": 2,
+      "gf": 18,
+      "gc": 11,
+      "pts": 22,
+      "zona": "normal"
+    },
+    {
+      "pos": 2,
       "equipo": "Tristan Suárez",
       "pj": 9,
       "pg": 4,
@@ -230,7 +242,19 @@
       "zona": "normal"
     },
     {
-      "pos": 2,
+      "pos": 3,
+      "equipo": "Atlético Rafaela",
+      "pj": 10,
+      "pg": 4,
+      "pe": 4,
+      "pp": 2,
+      "gf": 10,
+      "gc": 6,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Chicago",
       "pj": 9,
       "pg": 4,
@@ -242,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 5,
       "equipo": "San Martín (T)",
       "pj": 9,
       "pg": 3,
@@ -254,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 6,
       "equipo": "Temperley",
       "pj": 10,
       "pg": 3,
@@ -266,7 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 7,
       "equipo": "Midland",
       "pj": 9,
       "pg": 3,
@@ -278,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 8,
       "equipo": "Atlanta",
       "pj": 9,
       "pg": 4,
@@ -290,7 +314,31 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 9,
+      "equipo": "San Martín",
+      "pj": 10,
+      "pg": 3,
+      "pe": 4,
+      "pp": 3,
+      "gf": 9,
+      "gc": 9,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
+      "equipo": "Quilmes",
+      "pj": 10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 8,
+      "pts": 12,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Gimnasia y Tiro",
       "pj": 9,
       "pg": 3,
@@ -302,7 +350,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 12,
       "equipo": "Güemes",
       "pj": 9,
       "pg": 2,
@@ -314,7 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 13,
       "equipo": "Patronato",
       "pj": 10,
       "pg": 2,
@@ -326,7 +374,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 14,
       "equipo": "Maipú",
       "pj": 9,
       "pg": 2,
@@ -335,52 +383,16 @@
       "gf": 10,
       "gc": 13,
       "pts": 8,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 11,
+      "pos": 15,
       "equipo": "Chacarita",
       "pj": 9,
       "pg": 2,
       "pe": 2,
       "pp": 5,
       "gf": 8,
-      "gc": 12,
-      "pts": 8,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Agropecuario",
-      "pj": 9,
-      "pg": 2,
-      "pe": 2,
-      "pp": 5,
-      "gf": 7,
-      "gc": 13,
-      "pts": 8,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Colegiales",
-      "pj": 9,
-      "pg": 2,
-      "pe": 2,
-      "pp": 5,
-      "gf": 6,
-      "gc": 12,
-      "pts": 8,
-      "zona": "descenso"
-    },
-    {
-      "pos": 14,
-      "equipo": "Almagro",
-      "pj": 9,
-      "pg": 2,
-      "pe": 2,
-      "pp": 5,
-      "gf": 5,
       "gc": 12,
       "pts": 8,
       "zona": "descenso"

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-25T21:33:42.849256",
+  "actualizado": "2026-04-26T13:06:31.907980",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "River Plate",
+      "pj": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 4,
+      "gf": 22,
+      "gc": 11,
+      "pts": 29,
+      "zona": "champions"
+    },
+    {
+      "pos": 3,
       "equipo": "Rosario Central",
       "pj": 15,
       "pg": 8,
@@ -23,18 +35,6 @@
       "gf": 19,
       "gc": 15,
       "pts": 27,
-      "zona": "champions"
-    },
-    {
-      "pos": 3,
-      "equipo": "River Plate",
-      "pj": 14,
-      "pg": 8,
-      "pe": 2,
-      "pp": 4,
-      "gf": 19,
-      "gc": 10,
-      "pts": 26,
       "zona": "champions"
     },
     {
@@ -112,25 +112,25 @@
     {
       "pos": 10,
       "equipo": "Tigre",
-      "pj": 14,
+      "pj": 15,
       "pg": 4,
       "pe": 7,
-      "pp": 3,
+      "pp": 4,
       "gf": 17,
-      "gc": 13,
+      "gc": 14,
       "pts": 19,
       "zona": "normal"
     },
     {
       "pos": 11,
       "equipo": "Sarmiento",
-      "pj": 14,
-      "pg": 5,
+      "pj": 15,
+      "pg": 6,
       "pe": 1,
       "pp": 8,
-      "gf": 12,
+      "gf": 13,
       "gc": 16,
-      "pts": 16,
+      "pts": 19,
       "zona": "normal"
     },
     {
@@ -160,12 +160,12 @@
     {
       "pos": 14,
       "equipo": "Aldosivi",
-      "pj": 14,
+      "pj": 15,
       "pg": 0,
       "pe": 7,
-      "pp": 7,
-      "gf": 4,
-      "gc": 15,
+      "pp": 8,
+      "gf": 5,
+      "gc": 18,
       "pts": 7,
       "zona": "descenso"
     },
