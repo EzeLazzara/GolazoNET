@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-26T13:07:22.213945",
+  "actualizado": "2026-04-26T21:35:44.573060",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -391,18 +391,6 @@
         "local": "Adrián Arregui",
         "visitante": "Agustin Lagos",
         "goles_l": 1,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Viajes a sedes de Copa",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Tablas de posiciones",
-        "visitante": "Balones de fútbol",
-        "goles_l": null,
         "goles_v": null
       },
       {

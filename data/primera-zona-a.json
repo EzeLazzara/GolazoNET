@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-26T13:06:31.907490",
+  "actualizado": "2026-04-26T21:34:54.375813",
   "posiciones": [
     {
       "pos": 1,
@@ -111,18 +111,6 @@
     },
     {
       "pos": 10,
-      "equipo": "Instituto",
-      "pj": 14,
-      "pg": 5,
-      "pe": 2,
-      "pp": 7,
-      "gf": 14,
-      "gc": 16,
-      "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
       "equipo": "Platense",
       "pj": 15,
       "pg": 3,
@@ -134,19 +122,19 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 11,
       "equipo": "Gimnasia Mendoza",
-      "pj": 14,
+      "pj": 15,
       "pg": 4,
       "pe": 4,
-      "pp": 6,
-      "gf": 11,
-      "gc": 16,
+      "pp": 7,
+      "gf": 12,
+      "gc": 21,
       "pts": 16,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 13,
+      "pos": 12,
       "equipo": "Central Cordoba",
       "pj": 15,
       "pg": 4,
@@ -158,19 +146,7 @@
       "zona": "descenso"
     },
     {
-      "pos": 14,
-      "equipo": "Newells",
-      "pj": 14,
-      "pg": 3,
-      "pe": 4,
-      "pp": 7,
-      "gf": 13,
-      "gc": 25,
-      "pts": 13,
-      "zona": "descenso"
-    },
-    {
-      "pos": 15,
+      "pos": 13,
       "equipo": "Riestra",
       "pj": 15,
       "pg": 1,

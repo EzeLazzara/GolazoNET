@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-04-26T13:06:31.907980",
+  "actualizado": "2026-04-26T21:34:54.376237",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Ind. Rivadavia",
-      "pj": 14,
-      "pg": 9,
+      "pj": 15,
+      "pg": 10,
       "pe": 3,
       "pp": 2,
-      "gf": 23,
-      "gc": 13,
-      "pts": 30,
+      "gf": 28,
+      "gc": 14,
+      "pts": 33,
       "zona": "champions"
     },
     {
@@ -51,18 +51,6 @@
     },
     {
       "pos": 5,
-      "equipo": "Belgrano",
-      "pj": 14,
-      "pg": 6,
-      "pe": 5,
-      "pp": 3,
-      "gf": 13,
-      "gc": 12,
-      "pts": 23,
-      "zona": "europa"
-    },
-    {
-      "pos": 6,
       "equipo": "Huracan",
       "pj": 14,
       "pg": 5,
@@ -74,7 +62,7 @@
       "zona": "europa"
     },
     {
-      "pos": 7,
+      "pos": 6,
       "equipo": "Barracas Central",
       "pj": 15,
       "pg": 5,
@@ -83,10 +71,10 @@
       "gf": 14,
       "gc": 13,
       "pts": 21,
-      "zona": "normal"
+      "zona": "europa"
     },
     {
-      "pos": 8,
+      "pos": 7,
       "equipo": "Racing Club",
       "pj": 15,
       "pg": 5,
@@ -98,19 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "Gimnasia LP",
-      "pj": 14,
-      "pg": 6,
-      "pe": 2,
-      "pp": 6,
-      "gf": 16,
-      "gc": 19,
-      "pts": 20,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
+      "pos": 8,
       "equipo": "Tigre",
       "pj": 15,
       "pg": 4,
@@ -122,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 9,
       "equipo": "Sarmiento",
       "pj": 15,
       "pg": 6,
@@ -134,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 10,
       "equipo": "Banfield",
       "pj": 14,
       "pg": 4,
@@ -146,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 11,
       "equipo": "Atletico Tucuman",
       "pj": 14,
       "pg": 2,
@@ -155,10 +131,10 @@
       "gf": 13,
       "gc": 19,
       "pts": 10,
-      "zona": "descenso"
+      "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 12,
       "equipo": "Aldosivi",
       "pj": 15,
       "pg": 0,
@@ -167,10 +143,10 @@
       "gf": 5,
       "gc": 18,
       "pts": 7,
-      "zona": "descenso"
+      "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 13,
       "equipo": "Estudiantes RC",
       "pj": 15,
       "pg": 1,
@@ -179,6 +155,30 @@
       "gf": 5,
       "gc": 22,
       "pts": 5,
+      "zona": "descenso"
+    },
+    {
+      "pos": 14,
+      "equipo": "Ind. Rivadavia",
+      "pj": 15,
+      "pg": 10,
+      "pe": 3,
+      "pp": 2,
+      "gf": 28,
+      "gc": 14,
+      "pts": 33,
+      "zona": "descenso"
+    },
+    {
+      "pos": 15,
+      "equipo": "River Plate",
+      "pj": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 4,
+      "gf": 22,
+      "gc": 11,
+      "pts": 29,
       "zona": "descenso"
     }
   ]

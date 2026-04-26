@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-04-26T13:07:22.215901",
+  "actualizado": "2026-04-26T21:35:44.574209",
   "partidos": [
     {
-      "id": 104,
+      "id": 101,
       "fecha": 16,
       "dia": "Lun 27/04",
       "fechaISO": "2026-04-27",
@@ -17,12 +17,12 @@
         "nombre": "Union Santa Fe",
         "goles": null
       },
-      "hora": "11:45",
+      "hora": "13:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 16,
       "dia": "Lun 27/04",
       "fechaISO": "2026-04-27",
@@ -37,12 +37,12 @@
         "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 104,
       "fecha": 11,
       "dia": "Mar 28/04",
       "fechaISO": "2026-04-28",
@@ -57,12 +57,12 @@
         "nombre": "Alte. Brown",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 106,
       "fecha": 6,
       "dia": "Lun 27/04",
       "fechaISO": "2026-04-27",
@@ -77,12 +77,12 @@
         "nombre": "Círculo Deportivo",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 107,
       "fecha": 9,
       "dia": "Lun 27/04",
       "fechaISO": "2026-04-27",
@@ -97,12 +97,12 @@
         "nombre": "El Porvenir",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 108,
       "fecha": 9,
       "dia": "Lun 27/04",
       "fechaISO": "2026-04-27",
@@ -117,7 +117,7 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
