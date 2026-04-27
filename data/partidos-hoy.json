@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-04-27T13:54:01.418099",
+  "actualizado": "2026-04-27T21:52:46.314500",
   "partidos": [
     {
       "id": 100,
-      "fecha": 16,
-      "dia": "Lun 27/04",
-      "fechaISO": "2026-04-27",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "hora": "13:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 16,
       "dia": "Lun 27/04",
       "fechaISO": "2026-04-27",
@@ -37,67 +17,7 @@
         "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "16:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 6,
-      "dia": "Lun 27/04",
-      "fechaISO": "2026-04-27",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Olimpo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Círculo Deportivo",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 9,
-      "dia": "Lun 27/04",
-      "fechaISO": "2026-04-27",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "El Porvenir",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 9,
-      "dia": "Lun 27/04",
-      "fechaISO": "2026-04-27",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "10:30",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }

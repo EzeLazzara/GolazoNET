@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-04-27T13:54:01.418473",
+  "actualizado": "2026-04-27T21:52:46.314713",
   "partidos": [
     {
-      "id": 102,
+      "id": 101,
       "fecha": 11,
       "dia": "Mar 28/04",
       "fechaISO": "2026-04-28",
@@ -17,12 +17,12 @@
         "nombre": "Alte. Brown",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -37,12 +37,12 @@
         "nombre": "Excursionistas",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -57,12 +57,12 @@
         "nombre": "Arsenal",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 104,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -77,12 +77,12 @@
         "nombre": "Argentino (M)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 105,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -97,12 +97,12 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 106,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -117,12 +117,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -137,12 +137,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -157,12 +157,12 @@
         "nombre": "Armenio",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -177,12 +177,12 @@
         "nombre": "Flandria",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -197,12 +197,12 @@
         "nombre": "Argentino (Q)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -217,12 +217,12 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -237,7 +237,7 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }

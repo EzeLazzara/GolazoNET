@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-27T13:53:44.802440",
+  "actualizado": "2026-04-27T21:52:29.538100",
   "posiciones": [
     {
       "pos": 1,
@@ -220,12 +220,12 @@
     {
       "pos": 5,
       "equipo": "Central Ballester",
-      "pj": 8,
+      "pj": 9,
       "pg": 4,
       "pe": 1,
-      "pp": 3,
-      "gf": 11,
-      "gc": 7,
+      "pp": 4,
+      "gf": 12,
+      "gc": 9,
       "pts": 13,
       "zona": "normal"
     },
@@ -244,17 +244,41 @@
     {
       "pos": 7,
       "equipo": "Sp. Barracas",
-      "pj": 8,
+      "pj": 9,
       "pg": 3,
       "pe": 2,
-      "pp": 3,
-      "gf": 8,
-      "gc": 6,
+      "pp": 4,
+      "gf": 9,
+      "gc": 8,
       "pts": 11,
       "zona": "normal"
     },
     {
       "pos": 8,
+      "equipo": "El Porvenir",
+      "pj": 9,
+      "pg": 1,
+      "pe": 8,
+      "pp": 0,
+      "gf": 9,
+      "gc": 8,
+      "pts": 11,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
+      "equipo": "Central Cordoba",
+      "pj": 9,
+      "pg": 2,
+      "pe": 4,
+      "pp": 3,
+      "gf": 5,
+      "gc": 6,
+      "pts": 10,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "Dep. Español",
       "pj": 9,
       "pg": 1,
@@ -266,19 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "El Porvenir",
-      "pj": 8,
-      "pg": 0,
-      "pe": 8,
-      "pp": 0,
-      "gf": 7,
-      "gc": 7,
-      "pts": 8,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Luján",
       "pj": 9,
       "pg": 1,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "CA Atlas",
       "pj": 9,
       "pg": 1,
@@ -299,18 +311,6 @@
       "gf": 4,
       "gc": 8,
       "pts": 8,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Central Cordoba",
-      "pj": 8,
-      "pg": 1,
-      "pe": 4,
-      "pp": 3,
-      "gf": 3,
-      "gc": 5,
-      "pts": 7,
       "zona": "normal"
     },
     {

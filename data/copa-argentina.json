@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-27T13:54:01.417175",
+  "actualizado": "2026-04-27T21:52:46.313731",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
