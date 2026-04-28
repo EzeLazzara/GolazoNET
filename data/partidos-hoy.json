@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-04-27T21:52:46.314500",
+  "actualizado": "2026-04-28T21:55:04.391863",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 16,
-      "dia": "Lun 27/04",
-      "fechaISO": "2026-04-27",
+      "id": 115,
+      "fecha": 11,
+      "dia": "Mar 28/04",
+      "fechaISO": "2026-04-28",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Huracan",
+        "nombre": "Ferro",
         "goles": null
       },
       "visitante": {
-        "nombre": "Argentinos Juniors",
+        "nombre": "Alte. Brown",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     }
