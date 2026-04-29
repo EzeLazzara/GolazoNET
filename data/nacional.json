@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-28T21:54:18.411347",
+  "actualizado": "2026-04-29T13:56:46.484051",
   "posiciones": [
     {
       "pos": 1,
@@ -99,6 +99,18 @@
     },
     {
       "pos": 9,
+      "equipo": "Alte. Brown",
+      "pj": 10,
+      "pg": 4,
+      "pe": 2,
+      "pp": 4,
+      "gf": 7,
+      "gc": 8,
+      "pts": 14,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "San Miguel",
       "pj": 10,
       "pg": 3,
@@ -110,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Estudiantes",
       "pj": 10,
       "pg": 4,
@@ -122,19 +134,19 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Ferro",
-      "pj": 9,
+      "pj": 10,
       "pg": 3,
       "pe": 3,
-      "pp": 3,
+      "pp": 4,
       "gf": 7,
-      "gc": 7,
+      "gc": 8,
       "pts": 12,
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "San Telmo",
       "pj": 10,
       "pg": 3,
@@ -143,18 +155,6 @@
       "gf": 11,
       "gc": 13,
       "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Alte. Brown",
-      "pj": 9,
-      "pg": 3,
-      "pe": 2,
-      "pp": 4,
-      "gf": 6,
-      "gc": 8,
-      "pts": 11,
       "zona": "normal"
     },
     {

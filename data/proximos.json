@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-28T21:55:04.392175",
+  "actualizado": "2026-04-29T13:57:27.852232",
   "partidos": [
     {
       "id": 100,
@@ -302,7 +302,367 @@
       "estado": "programado"
     },
     {
+      "id": 115,
+      "fecha": 12,
+      "dia": "Jue 30/04",
+      "fechaISO": "2026-04-30",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "All Boys",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Miguel",
+        "goles": null
+      },
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
       "id": 116,
+      "fecha": 12,
+      "dia": "Sáb 02/05",
+      "fechaISO": "2026-05-02",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Defensores",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 12,
+      "dia": "Sáb 02/05",
+      "fechaISO": "2026-05-02",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Telmo",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 12,
+      "dia": "Sáb 02/05",
+      "fechaISO": "2026-05-02",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Los Andes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 12,
+      "dia": "Sáb 02/05",
+      "fechaISO": "2026-05-02",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Martín (T)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Mitre SdE",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Acassuso",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Almagro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Temperley",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colegiales",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chaco For Ever",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Bolivar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ferro",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Gimnasia (J)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Maipú",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Patronato",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 129,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Godoy Cruz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Morón",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 130,
+      "fecha": 12,
+      "dia": "Dom 03/05",
+      "fechaISO": "2026-05-03",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Madryn",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 12,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chacarita",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 12,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Gimnasia y Tiro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Agropecuario",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -322,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 134,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -342,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 135,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -362,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 136,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -382,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 137,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -402,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 138,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -422,7 +782,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 139,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -442,7 +802,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 140,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -462,7 +822,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 141,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -482,7 +842,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 142,
       "fecha": 14,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -502,7 +862,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 143,
       "fecha": 14,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -522,7 +882,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 144,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -542,7 +902,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 145,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -562,7 +922,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 146,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -582,7 +942,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 147,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -602,7 +962,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 148,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -622,7 +982,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 149,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -642,7 +1002,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 150,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -662,7 +1022,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 151,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -682,7 +1042,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 152,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -702,7 +1062,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 153,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -722,7 +1082,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 154,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -742,7 +1102,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 155,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -762,7 +1122,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 156,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -782,7 +1142,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 157,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -802,7 +1162,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 158,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -822,7 +1182,7 @@
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 159,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -842,7 +1202,7 @@
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 160,
       "fecha": 7,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -862,7 +1222,7 @@
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 161,
       "fecha": 10,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -882,7 +1242,7 @@
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 162,
       "fecha": 10,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -902,7 +1262,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 163,
       "fecha": 10,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -922,7 +1282,7 @@
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 164,
       "fecha": 10,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -942,7 +1302,7 @@
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 165,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -962,7 +1322,7 @@
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 166,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -982,7 +1342,7 @@
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 167,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -1002,7 +1362,7 @@
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 168,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -1022,7 +1382,7 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 169,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -1042,7 +1402,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 170,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -1062,7 +1422,7 @@
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 171,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -1082,7 +1442,7 @@
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 172,
       "fecha": 10,
       "dia": "Dom 03/05",
       "fechaISO": "2026-05-03",
@@ -1102,7 +1462,7 @@
       "estado": "programado"
     },
     {
-      "id": 156,
+      "id": 173,
       "fecha": 10,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -1122,7 +1482,7 @@
       "estado": "programado"
     },
     {
-      "id": 157,
+      "id": 174,
       "fecha": 10,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
