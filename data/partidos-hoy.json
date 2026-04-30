@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-30T13:55:35.211344",
+  "actualizado": "2026-04-30T21:55:18.812064",
   "partidos": [
     {
       "id": 115,
@@ -17,7 +17,7 @@
         "nombre": "San Miguel",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     }
