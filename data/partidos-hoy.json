@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-04-29T21:57:53.537574",
-  "partidos": []
+  "actualizado": "2026-04-30T13:55:35.211344",
+  "partidos": [
+    {
+      "id": 115,
+      "fecha": 12,
+      "dia": "Jue 30/04",
+      "fechaISO": "2026-04-30",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "All Boys",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Miguel",
+        "goles": null
+      },
+      "hora": "13:30",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
