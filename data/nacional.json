@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-30T21:54:37.239196",
+  "actualizado": "2026-05-01T13:18:40.526233",
   "posiciones": [
     {
       "pos": 1,
@@ -112,13 +112,13 @@
     {
       "pos": 10,
       "equipo": "San Miguel",
-      "pj": 10,
+      "pj": 11,
       "pg": 3,
-      "pe": 4,
+      "pe": 5,
       "pp": 3,
-      "gf": 8,
-      "gc": 10,
-      "pts": 13,
+      "gf": 9,
+      "gc": 11,
+      "pts": 14,
       "zona": "normal"
     },
     {
@@ -159,6 +159,18 @@
     },
     {
       "pos": 14,
+      "equipo": "All Boys",
+      "pj": 11,
+      "pg": 2,
+      "pe": 5,
+      "pp": 4,
+      "gf": 5,
+      "gc": 8,
+      "pts": 11,
+      "zona": "normal"
+    },
+    {
+      "pos": 15,
       "equipo": "Acassuso",
       "pj": 10,
       "pg": 3,
@@ -166,18 +178,6 @@
       "pp": 6,
       "gf": 8,
       "gc": 11,
-      "pts": 10,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "All Boys",
-      "pj": 10,
-      "pg": 2,
-      "pe": 4,
-      "pp": 4,
-      "gf": 4,
-      "gc": 7,
       "pts": 10,
       "zona": "normal"
     },

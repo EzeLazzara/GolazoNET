@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-30T21:55:18.811235",
+  "actualizado": "2026-05-01T13:19:22.893161",
   "bracket": {
     "32avos": [
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -317,13 +317,13 @@
       },
       {
         "local": "Cristian Tarragona",
-        "visitante": "Facundo Bruera",
+        "visitante": "Dilan Godoy",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Tiziano Perrotta",
-        "visitante": "Tobias Andrada",
+        "local": "Facundo Bruera",
+        "visitante": "Tiziano Perrotta",
         "goles_l": 2,
         "goles_v": null
       },
@@ -377,20 +377,20 @@
       },
       {
         "local": "Tarjetas Amarillas",
-        "visitante": "Nacho Fernández",
+        "visitante": "Claudio Baeza",
         "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Lautaro Gordillo",
+        "visitante": "Nacho Fernández",
+        "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Pablo Casarico",
         "visitante": "Santiago Borges",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Adrián Arregui",
-        "visitante": "Agustin Lagos",
-        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -401,19 +401,31 @@
       },
       {
         "local": "Jue 30/04",
-        "visitante": "Velez Sarsfield",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Gimnasia y Tiro",
-        "visitante": "Vie 08/05",
+        "local": "Velez Sarsfield",
+        "visitante": "Gimnasia y Tiro",
+        "goles_l": 2,
+        "goles_v": 0
+      },
+      {
+        "local": "Vie 08/05",
+        "visitante": "Banfield",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Banfield",
-        "visitante": "San Martín (T)",
+        "local": "San Martín (T)",
+        "visitante": "Mié 13/05",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "San Martín",
         "goles_l": null,
         "goles_v": null
       },
@@ -437,12 +449,6 @@
       },
       {
         "local": "Aldosivi",
-        "visitante": "Platense",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Martín",
         "visitante": "San Lorenzo",
         "goles_l": null,
         "goles_v": null
