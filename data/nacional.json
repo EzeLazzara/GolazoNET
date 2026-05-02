@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-02T13:11:38.048200",
+  "actualizado": "2026-05-02T21:37:03.427503",
   "posiciones": [
     {
       "pos": 1,
@@ -16,25 +16,25 @@
     {
       "pos": 2,
       "equipo": "Colón",
-      "pj": 10,
+      "pj": 11,
       "pg": 5,
-      "pe": 3,
+      "pe": 4,
       "pp": 2,
-      "gf": 11,
-      "gc": 7,
-      "pts": 18,
+      "gf": 12,
+      "gc": 8,
+      "pts": 19,
       "zona": "promotion"
     },
     {
       "pos": 3,
       "equipo": "Los Andes",
-      "pj": 10,
+      "pj": 11,
       "pg": 4,
-      "pe": 4,
+      "pe": 5,
       "pp": 2,
-      "gf": 8,
-      "gc": 3,
-      "pts": 16,
+      "gf": 9,
+      "gc": 4,
+      "pts": 17,
       "zona": "normal"
     },
     {
@@ -76,13 +76,13 @@
     {
       "pos": 7,
       "equipo": "Defensores",
-      "pj": 10,
+      "pj": 11,
       "pg": 3,
-      "pe": 5,
+      "pe": 6,
       "pp": 2,
-      "gf": 9,
-      "gc": 8,
-      "pts": 14,
+      "gf": 10,
+      "gc": 9,
+      "pts": 15,
       "zona": "normal"
     },
     {
@@ -124,17 +124,29 @@
     {
       "pos": 11,
       "equipo": "Estudiantes",
-      "pj": 10,
+      "pj": 11,
       "pg": 4,
-      "pe": 1,
+      "pe": 2,
       "pp": 5,
-      "gf": 6,
-      "gc": 8,
-      "pts": 13,
+      "gf": 7,
+      "gc": 9,
+      "pts": 14,
       "zona": "normal"
     },
     {
       "pos": 12,
+      "equipo": "San Telmo",
+      "pj": 11,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 12,
+      "gc": 14,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "Ferro",
       "pj": 10,
       "pg": 3,
@@ -142,18 +154,6 @@
       "pp": 4,
       "gf": 7,
       "gc": 8,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "San Telmo",
-      "pj": 10,
-      "pg": 3,
-      "pe": 3,
-      "pp": 4,
-      "gf": 11,
-      "gc": 13,
       "pts": 12,
       "zona": "normal"
     },
@@ -183,6 +183,18 @@
     },
     {
       "pos": 16,
+      "equipo": "Central Norte",
+      "pj": 11,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 4,
+      "gc": 8,
+      "pts": 10,
+      "zona": "normal"
+    },
+    {
+      "pos": 17,
       "equipo": "Mitre SdE",
       "pj": 10,
       "pg": 1,
@@ -190,18 +202,6 @@
       "pp": 3,
       "gf": 8,
       "gc": 11,
-      "pts": 9,
-      "zona": "normal"
-    },
-    {
-      "pos": 17,
-      "equipo": "Central Norte",
-      "pj": 10,
-      "pg": 2,
-      "pe": 3,
-      "pp": 5,
-      "gf": 3,
-      "gc": 7,
       "pts": 9,
       "zona": "normal"
     },

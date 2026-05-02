@@ -1,68 +1,8 @@
 {
-  "actualizado": "2026-05-02T13:12:34.661328",
+  "actualizado": "2026-05-02T21:37:45.922913",
   "partidos": [
     {
       "id": 100,
-      "fecha": 9,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Banfield",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 9,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 9,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Boca Juniors",
-        "goles": null
-      },
-      "hora": "11:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
       "fecha": 9,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -82,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 101,
       "fecha": 9,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -102,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 9,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -122,67 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
-      "fecha": 12,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Defensores",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Norte",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 12,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Telmo",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 12,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colón",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
+      "id": 112,
       "fecha": 12,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -202,167 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 133,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 137,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 138,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 139,
-      "fecha": 14,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
+      "id": 126,
       "fecha": 14,
       "dia": "Sáb 02/05",
       "fechaISO": "2026-05-02",
@@ -378,146 +98,6 @@
         "goles": null
       },
       "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 143,
-      "fecha": 7,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Círculo Deportivo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gmo. Brown",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 144,
-      "fecha": 7,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Costa Brava",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Huracán (LH)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 145,
-      "fecha": 7,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Independiente (Chi)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Belgrano",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 146,
-      "fecha": 7,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Kimberley",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sol de Mayo",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 160,
-      "fecha": 10,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cañuelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 161,
-      "fecha": 10,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Fenix",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 162,
-      "fecha": 10,
-      "dia": "Sáb 02/05",
-      "fechaISO": "2026-05-02",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

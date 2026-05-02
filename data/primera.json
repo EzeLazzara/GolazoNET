@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-02T13:11:29.674237",
+  "actualizado": "2026-05-02T21:36:54.918959",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Boca Juniors",
+      "pj": 16,
+      "pg": 8,
+      "pe": 6,
+      "pp": 2,
+      "gf": 22,
+      "gc": 9,
+      "pts": 30,
+      "zona": "champions"
+    },
+    {
+      "pos": 3,
       "equipo": "River Plate",
       "pj": 15,
       "pg": 9,
@@ -26,7 +38,7 @@
       "zona": "champions"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Argentinos Juniors",
       "pj": 15,
       "pg": 8,
@@ -35,10 +47,10 @@
       "gf": 17,
       "gc": 11,
       "pts": 29,
-      "zona": "champions"
+      "zona": "europa"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Estudiantes",
       "pj": 15,
       "pg": 8,
@@ -47,18 +59,6 @@
       "gf": 17,
       "gc": 7,
       "pts": 28,
-      "zona": "europa"
-    },
-    {
-      "pos": 5,
-      "equipo": "Boca Juniors",
-      "pj": 15,
-      "pg": 7,
-      "pe": 6,
-      "pp": 2,
-      "gf": 20,
-      "gc": 8,
-      "pts": 27,
       "zona": "europa"
     },
     {
@@ -100,13 +100,13 @@
     {
       "pos": 9,
       "equipo": "Lanus",
-      "pj": 15,
+      "pj": 16,
       "pg": 6,
-      "pe": 5,
+      "pe": 6,
       "pp": 4,
       "gf": 18,
       "gc": 15,
-      "pts": 23,
+      "pts": 24,
       "zona": "normal"
     },
     {
@@ -172,12 +172,12 @@
     {
       "pos": 15,
       "equipo": "Barracas Central",
-      "pj": 15,
+      "pj": 16,
       "pg": 5,
       "pe": 6,
-      "pp": 4,
-      "gf": 14,
-      "gc": 13,
+      "pp": 5,
+      "gf": 15,
+      "gc": 15,
       "pts": 21,
       "zona": "normal"
     },
@@ -255,6 +255,18 @@
     },
     {
       "pos": 22,
+      "equipo": "Banfield",
+      "pj": 16,
+      "pg": 5,
+      "pe": 3,
+      "pp": 8,
+      "gf": 17,
+      "gc": 19,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 23,
       "equipo": "Platense",
       "pj": 15,
       "pg": 3,
@@ -266,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 23,
+      "pos": 24,
       "equipo": "Gimnasia Mendoza",
       "pj": 15,
       "pg": 4,
@@ -278,27 +290,15 @@
       "zona": "normal"
     },
     {
-      "pos": 24,
+      "pos": 25,
       "equipo": "Central Cordoba",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
       "pe": 4,
-      "pp": 7,
-      "gf": 10,
-      "gc": 19,
-      "pts": 16,
-      "zona": "normal"
-    },
-    {
-      "pos": 25,
-      "equipo": "Banfield",
-      "pj": 15,
-      "pg": 4,
-      "pe": 3,
       "pp": 8,
-      "gf": 15,
-      "gc": 18,
-      "pts": 15,
+      "gf": 11,
+      "gc": 21,
+      "pts": 16,
       "zona": "normal"
     },
     {
@@ -328,13 +328,13 @@
     {
       "pos": 28,
       "equipo": "Riestra",
-      "pj": 15,
+      "pj": 16,
       "pg": 1,
-      "pe": 7,
+      "pe": 8,
       "pp": 7,
       "gf": 5,
       "gc": 12,
-      "pts": 10,
+      "pts": 11,
       "zona": "descenso"
     },
     {

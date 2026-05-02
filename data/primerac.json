@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-02T13:12:05.341125",
+  "actualizado": "2026-05-02T21:37:28.056776",
   "posiciones": [
     {
       "pos": 1,
@@ -51,6 +51,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Cambaceres",
+      "pj": 10,
+      "pg": 3,
+      "pe": 4,
+      "pp": 3,
+      "gf": 10,
+      "gc": 9,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Mercedes",
       "pj": 9,
       "pg": 3,
@@ -62,7 +74,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Centro Español",
       "pj": 9,
       "pg": 3,
@@ -74,7 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Puerto Nuevo",
       "pj": 9,
       "pg": 2,
@@ -82,18 +94,6 @@
       "pp": 1,
       "gf": 9,
       "gc": 7,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Cambaceres",
-      "pj": 9,
-      "pg": 3,
-      "pe": 3,
-      "pp": 3,
-      "gf": 10,
-      "gc": 9,
       "pts": 12,
       "zona": "normal"
     },
@@ -112,13 +112,13 @@
     {
       "pos": 10,
       "equipo": "Paraguayo",
-      "pj": 9,
+      "pj": 10,
       "pg": 3,
-      "pe": 2,
+      "pe": 3,
       "pp": 4,
       "gf": 8,
       "gc": 15,
-      "pts": 11,
+      "pts": 12,
       "zona": "normal"
     },
     {
@@ -172,13 +172,13 @@
     {
       "pos": 1,
       "equipo": "Lamadrid",
-      "pj": 9,
+      "pj": 10,
       "pg": 4,
-      "pe": 4,
+      "pe": 5,
       "pp": 1,
       "gf": 9,
       "gc": 6,
-      "pts": 16,
+      "pts": 17,
       "zona": "normal"
     },
     {
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Cañuelas",
+      "pj": 10,
+      "pg": 3,
+      "pe": 6,
+      "pp": 1,
+      "gf": 10,
+      "gc": 7,
+      "pts": 15,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Claypole",
       "pj": 9,
       "pg": 4,
@@ -203,18 +215,6 @@
       "gf": 9,
       "gc": 6,
       "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Cañuelas",
-      "pj": 9,
-      "pg": 3,
-      "pe": 5,
-      "pp": 1,
-      "gf": 10,
-      "gc": 7,
-      "pts": 14,
       "zona": "normal"
     },
     {
@@ -243,14 +243,14 @@
     },
     {
       "pos": 7,
-      "equipo": "El Porvenir",
-      "pj": 9,
-      "pg": 1,
-      "pe": 8,
-      "pp": 0,
-      "gf": 9,
-      "gc": 8,
-      "pts": 11,
+      "equipo": "Central Cordoba",
+      "pj": 10,
+      "pg": 3,
+      "pe": 4,
+      "pp": 3,
+      "gf": 6,
+      "gc": 6,
+      "pts": 13,
       "zona": "normal"
     },
     {
@@ -267,14 +267,14 @@
     },
     {
       "pos": 9,
-      "equipo": "Central Cordoba",
+      "equipo": "El Porvenir",
       "pj": 9,
-      "pg": 2,
-      "pe": 4,
-      "pp": 3,
-      "gf": 5,
-      "gc": 6,
-      "pts": 10,
+      "pg": 1,
+      "pe": 8,
+      "pp": 0,
+      "gf": 9,
+      "gc": 8,
+      "pts": 11,
       "zona": "normal"
     },
     {
@@ -316,12 +316,12 @@
     {
       "pos": 13,
       "equipo": "Fenix",
-      "pj": 9,
+      "pj": 10,
       "pg": 1,
       "pe": 4,
-      "pp": 4,
+      "pp": 5,
       "gf": 4,
-      "gc": 10,
+      "gc": 11,
       "pts": 7,
       "zona": "descenso"
     },

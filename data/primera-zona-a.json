@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-05-02T13:11:29.673465",
+  "actualizado": "2026-05-02T21:36:54.918126",
   "posiciones": [
     {
       "pos": 1,
+      "equipo": "Boca Juniors",
+      "pj": 16,
+      "pg": 8,
+      "pe": 6,
+      "pp": 2,
+      "gf": 22,
+      "gc": 9,
+      "pts": 30,
+      "zona": "champions"
+    },
+    {
+      "pos": 2,
       "equipo": "Estudiantes",
       "pj": 15,
       "pg": 8,
@@ -11,18 +23,6 @@
       "gf": 17,
       "gc": 7,
       "pts": 28,
-      "zona": "champions"
-    },
-    {
-      "pos": 2,
-      "equipo": "Boca Juniors",
-      "pj": 15,
-      "pg": 7,
-      "pe": 6,
-      "pp": 2,
-      "gf": 20,
-      "gc": 8,
-      "pts": 27,
       "zona": "champions"
     },
     {
@@ -52,13 +52,13 @@
     {
       "pos": 5,
       "equipo": "Lanus",
-      "pj": 15,
+      "pj": 16,
       "pg": 6,
-      "pe": 5,
+      "pe": 6,
       "pp": 4,
       "gf": 18,
       "gc": 15,
-      "pts": 23,
+      "pts": 24,
       "zona": "europa"
     },
     {
@@ -148,12 +148,12 @@
     {
       "pos": 13,
       "equipo": "Central Cordoba",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
       "pe": 4,
-      "pp": 7,
-      "gf": 10,
-      "gc": 19,
+      "pp": 8,
+      "gf": 11,
+      "gc": 21,
       "pts": 16,
       "zona": "descenso"
     },
@@ -172,13 +172,13 @@
     {
       "pos": 15,
       "equipo": "Riestra",
-      "pj": 15,
+      "pj": 16,
       "pg": 1,
-      "pe": 7,
+      "pe": 8,
       "pp": 7,
       "gf": 5,
       "gc": 12,
-      "pts": 10,
+      "pts": 11,
       "zona": "descenso"
     }
   ]

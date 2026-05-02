@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-02T13:11:29.673928",
+  "actualizado": "2026-05-02T21:36:54.918594",
   "posiciones": [
     {
       "pos": 1,
@@ -88,12 +88,12 @@
     {
       "pos": 8,
       "equipo": "Barracas Central",
-      "pj": 15,
+      "pj": 16,
       "pg": 5,
       "pe": 6,
-      "pp": 4,
-      "gf": 14,
-      "gc": 13,
+      "pp": 5,
+      "gf": 15,
+      "gc": 15,
       "pts": 21,
       "zona": "normal"
     },
@@ -136,13 +136,13 @@
     {
       "pos": 12,
       "equipo": "Banfield",
-      "pj": 15,
-      "pg": 4,
+      "pj": 16,
+      "pg": 5,
       "pe": 3,
       "pp": 8,
-      "gf": 15,
-      "gc": 18,
-      "pts": 15,
+      "gf": 17,
+      "gc": 19,
+      "pts": 18,
       "zona": "normal"
     },
     {
