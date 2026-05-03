@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-02T21:37:03.427503",
+  "actualizado": "2026-05-03T13:10:12.092992",
   "posiciones": [
     {
       "pos": 1,
@@ -243,6 +243,18 @@
     },
     {
       "pos": 3,
+      "equipo": "San Martín (T)",
+      "pj": 11,
+      "pg": 4,
+      "pe": 6,
+      "pp": 1,
+      "gf": 12,
+      "gc": 8,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Chicago",
       "pj": 10,
       "pg": 4,
@@ -251,18 +263,6 @@
       "gf": 10,
       "gc": 6,
       "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Atlético Rafaela",
-      "pj": 10,
-      "pg": 4,
-      "pe": 4,
-      "pp": 2,
-      "gf": 10,
-      "gc": 6,
-      "pts": 16,
       "zona": "normal"
     },
     {
@@ -279,14 +279,14 @@
     },
     {
       "pos": 6,
-      "equipo": "San Martín (T)",
-      "pj": 10,
-      "pg": 3,
-      "pe": 6,
-      "pp": 1,
-      "gf": 10,
-      "gc": 7,
-      "pts": 15,
+      "equipo": "Atlético Rafaela",
+      "pj": 11,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 11,
+      "gc": 8,
+      "pts": 16,
       "zona": "normal"
     },
     {
