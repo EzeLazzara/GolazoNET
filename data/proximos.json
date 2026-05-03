@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-03T13:12:53.799714",
+  "actualizado": "2026-05-03T21:38:59.335408",
   "partidos": [
     {
-      "id": 106,
+      "id": 100,
       "fecha": 9,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -17,12 +17,12 @@
         "nombre": "Defensa y Justicia",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 101,
       "fecha": 9,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -37,12 +37,12 @@
         "nombre": "Newells",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "13:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 102,
       "fecha": 9,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -57,12 +57,12 @@
         "nombre": "Instituto",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 103,
       "fecha": 12,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -77,12 +77,12 @@
         "nombre": "Chacarita",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 104,
       "fecha": 12,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -97,7 +97,107 @@
         "nombre": "Agropecuario",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 14,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
+      "fecha": 10,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Luján",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 10,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 10,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
+      "fecha": 10,
+      "dia": "Lun 04/05",
+      "fechaISO": "2026-05-04",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Centro Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     }
