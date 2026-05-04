@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-05-04T14:01:37.618439",
+  "actualizado": "2026-05-04T21:57:50.830749",
   "partidos": [
     {
       "id": 100,
-      "fecha": 9,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Defensa y Justicia",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 9,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -42,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 101,
       "fecha": 9,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -62,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 12,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -82,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 12,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -102,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 104,
       "fecha": 14,
       "dia": "Lun 04/05",
       "fechaISO": "2026-05-04",
@@ -118,86 +98,6 @@
         "goles": null
       },
       "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Muñiz",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Luján",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 126,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Centro Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

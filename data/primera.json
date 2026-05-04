@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-04T14:00:48.001533",
+  "actualizado": "2026-05-04T21:57:01.029904",
   "posiciones": [
     {
       "pos": 1,
@@ -220,12 +220,12 @@
     {
       "pos": 19,
       "equipo": "Defensa y Justicia",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
       "pe": 7,
-      "pp": 4,
-      "gf": 17,
-      "gc": 19,
+      "pp": 5,
+      "gf": 18,
+      "gc": 21,
       "pts": 19,
       "zona": "normal"
     },
@@ -243,6 +243,18 @@
     },
     {
       "pos": 21,
+      "equipo": "Gimnasia Mendoza",
+      "pj": 16,
+      "pg": 5,
+      "pe": 4,
+      "pp": 7,
+      "gf": 14,
+      "gc": 22,
+      "pts": 19,
+      "zona": "normal"
+    },
+    {
+      "pos": 22,
       "equipo": "Instituto",
       "pj": 15,
       "pg": 5,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 22,
+      "pos": 23,
       "equipo": "Banfield",
       "pj": 16,
       "pg": 5,
@@ -266,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 23,
+      "pos": 24,
       "equipo": "Platense",
       "pj": 16,
       "pg": 3,
@@ -274,18 +286,6 @@
       "pp": 6,
       "gf": 10,
       "gc": 15,
-      "pts": 16,
-      "zona": "normal"
-    },
-    {
-      "pos": 24,
-      "equipo": "Gimnasia Mendoza",
-      "pj": 15,
-      "pg": 4,
-      "pe": 4,
-      "pp": 7,
-      "gf": 12,
-      "gc": 21,
       "pts": 16,
       "zona": "normal"
     },
