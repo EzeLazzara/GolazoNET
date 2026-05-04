@@ -1,203 +1,343 @@
 {
-  "actualizado": "2026-05-03T21:38:59.335408",
+  "actualizado": "2026-05-04T14:01:37.618892",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 9,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Defensa y Justicia",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 9,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "hora": "13:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 9,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Estudiantes RC",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Instituto",
-        "goles": null
-      },
-      "hora": "15:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 12,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Quilmes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Chacarita",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 12,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Gimnasia y Tiro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Agropecuario",
-        "goles": null
-      },
-      "hora": "15:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 14,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 106,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "federala",
+      "ligaNombre": "Federal A",
       "local": {
-        "nombre": "Muñiz",
+        "nombre": "Huracán (LH)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Luján",
+        "nombre": "Dvo. Rincón",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 107,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "federala",
+      "ligaNombre": "Federal A",
       "local": {
-        "nombre": "Dep. Español",
+        "nombre": "San Martín (Mdza)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sp. Barracas",
+        "nombre": "Fundación Amigos por el Deporte",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 108,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "federala",
+      "ligaNombre": "Federal A",
       "local": {
-        "nombre": "JJ Urquiza",
+        "nombre": "Cipolletti",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sacachispas",
+        "nombre": "Juventud Unida (SL)",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 109,
-      "fecha": 10,
-      "dia": "Lun 04/05",
-      "fechaISO": "2026-05-04",
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "federala",
+      "ligaNombre": "Federal A",
       "local": {
-        "nombre": "Centro Español",
+        "nombre": "Atenas (RC)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Argentino Rosario",
+        "nombre": "Argentino MM",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Independiente (Chi)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Linqueño",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sp. Belgrano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sportivo LP",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Douglas Haig",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Escobar",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Gimnasia de Concepción",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Defensores (VR)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "9 de Julio (R)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sol de Mayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Círculo Deportivo",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Gmo. Brown",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Mitre",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Olimpo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Germinal",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Alvarado",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Santamarina",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Boca Unidos",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sol De América",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Tucumán Central",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juv. Antoniana",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Defensores Pto. Vilelas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Bartolomé Mitre",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 8,
+      "dia": "Dom 10/05",
+      "fechaISO": "2026-05-10",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "San Martín (For)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (LB)",
+        "goles": null
+      },
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
