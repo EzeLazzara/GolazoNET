@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-05T13:55:43.865083",
+  "actualizado": "2026-05-05T22:02:28.801763",
   "partidos": [
     {
       "id": 100,
@@ -690,26 +690,6 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Estrella del Sur",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Berazategui",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 11,
-      "dia": "Sáb 09/05",
-      "fechaISO": "2026-05-09",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
         "nombre": "Argentino Rosario",
         "goles": null
       },
@@ -722,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 135,
       "fecha": 11,
       "dia": "Sáb 09/05",
       "fechaISO": "2026-05-09",
@@ -742,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 136,
       "fecha": 11,
       "dia": "Sáb 09/05",
       "fechaISO": "2026-05-09",
@@ -762,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 137,
       "fecha": 11,
       "dia": "Sáb 09/05",
       "fechaISO": "2026-05-09",
@@ -782,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 138,
       "fecha": 11,
       "dia": "Sáb 09/05",
       "fechaISO": "2026-05-09",
@@ -802,7 +782,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 139,
       "fecha": 11,
       "dia": "Sáb 09/05",
       "fechaISO": "2026-05-09",
@@ -822,7 +802,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 140,
       "fecha": 11,
       "dia": "Sáb 09/05",
       "fechaISO": "2026-05-09",
@@ -838,6 +818,26 @@
         "goles": null
       },
       "hora": "07:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 141,
+      "fecha": 11,
+      "dia": "Sáb 09/05",
+      "fechaISO": "2026-05-09",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Berazategui",
+        "goles": null
+      },
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     }

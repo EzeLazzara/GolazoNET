@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-05T13:55:43.863736",
+  "actualizado": "2026-05-05T22:02:28.800489",
   "bracket": {
     "32avos": [
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -311,13 +311,13 @@
     "final": [
       {
         "local": "Ver más",
-        "visitante": "Historial Copa Argentina",
+        "visitante": "Deportes",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Sportivo",
-        "visitante": "Pronósticos Copa Argentina",
+        "local": "Merchandising Copa Argentina",
+        "visitante": "Entradas Copa Argentina",
         "goles_l": null,
         "goles_v": null
       },
@@ -407,13 +407,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Suscripción resultados fútbol",
+        "visitante": "Deportivo",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Deportivo",
-        "visitante": "Tours estadios Argentina",
+        "local": "Calendario partidos fútbol",
+        "visitante": "Análisis partidos fútbol",
         "goles_l": null,
         "goles_v": null
       },
