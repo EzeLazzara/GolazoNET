@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-04T21:57:01.029904",
+  "actualizado": "2026-05-05T13:54:51.258574",
   "posiciones": [
     {
       "pos": 1,
@@ -63,6 +63,18 @@
     },
     {
       "pos": 6,
+      "equipo": "Velez Sarsfield",
+      "pj": 16,
+      "pg": 7,
+      "pe": 7,
+      "pp": 2,
+      "gf": 18,
+      "gc": 12,
+      "pts": 28,
+      "zona": "europa"
+    },
+    {
+      "pos": 7,
       "equipo": "Rosario Central",
       "pj": 16,
       "pg": 8,
@@ -71,18 +83,6 @@
       "gf": 20,
       "gc": 16,
       "pts": 28,
-      "zona": "europa"
-    },
-    {
-      "pos": 7,
-      "equipo": "Velez Sarsfield",
-      "pj": 15,
-      "pg": 7,
-      "pe": 6,
-      "pp": 2,
-      "gf": 17,
-      "gc": 11,
-      "pts": 27,
       "zona": "normal"
     },
     {
@@ -195,6 +195,18 @@
     },
     {
       "pos": 17,
+      "equipo": "Instituto",
+      "pj": 16,
+      "pg": 6,
+      "pe": 3,
+      "pp": 7,
+      "gf": 17,
+      "gc": 17,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 18,
       "equipo": "Barracas Central",
       "pj": 16,
       "pg": 5,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 18,
+      "pos": 19,
       "equipo": "Tigre",
       "pj": 16,
       "pg": 4,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 19,
+      "pos": 20,
       "equipo": "Defensa y Justicia",
       "pj": 16,
       "pg": 4,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 20,
+      "pos": 21,
       "equipo": "Sarmiento",
       "pj": 16,
       "pg": 6,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 21,
+      "pos": 22,
       "equipo": "Gimnasia Mendoza",
       "pj": 16,
       "pg": 5,
@@ -251,18 +263,6 @@
       "gf": 14,
       "gc": 22,
       "pts": 19,
-      "zona": "normal"
-    },
-    {
-      "pos": 22,
-      "equipo": "Instituto",
-      "pj": 15,
-      "pg": 5,
-      "pe": 3,
-      "pp": 7,
-      "gf": 15,
-      "gc": 17,
-      "pts": 18,
       "zona": "normal"
     },
     {
@@ -303,6 +303,18 @@
     },
     {
       "pos": 26,
+      "equipo": "Newells",
+      "pj": 16,
+      "pg": 3,
+      "pe": 6,
+      "pp": 7,
+      "gf": 15,
+      "gc": 27,
+      "pts": 15,
+      "zona": "normal"
+    },
+    {
+      "pos": 27,
       "equipo": "Atletico Tucuman",
       "pj": 16,
       "pg": 3,
@@ -310,18 +322,6 @@
       "pp": 8,
       "gf": 15,
       "gc": 20,
-      "pts": 14,
-      "zona": "normal"
-    },
-    {
-      "pos": 27,
-      "equipo": "Newells",
-      "pj": 15,
-      "pg": 3,
-      "pe": 5,
-      "pp": 7,
-      "gf": 14,
-      "gc": 26,
       "pts": 14,
       "zona": "normal"
     },
@@ -352,12 +352,12 @@
     {
       "pos": 30,
       "equipo": "Estudiantes RC",
-      "pj": 15,
+      "pj": 16,
       "pg": 1,
       "pe": 2,
-      "pp": 12,
+      "pp": 13,
       "gf": 5,
-      "gc": 22,
+      "gc": 24,
       "pts": 5,
       "zona": "descenso"
     }

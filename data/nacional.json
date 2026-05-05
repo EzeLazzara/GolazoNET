@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-04T21:57:09.273301",
+  "actualizado": "2026-05-05T13:54:59.619424",
   "posiciones": [
     {
       "pos": 1,
@@ -315,6 +315,30 @@
     },
     {
       "pos": 9,
+      "equipo": "Agropecuario",
+      "pj": 11,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 12,
+      "gc": 15,
+      "pts": 14,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
+      "equipo": "Quilmes",
+      "pj": 11,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 8,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "San Martín",
       "pj": 11,
       "pg": 3,
@@ -326,7 +350,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 12,
       "equipo": "Patronato",
       "pj": 11,
       "pg": 3,
@@ -338,19 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
-      "equipo": "Quilmes",
-      "pj": 10,
-      "pg": 3,
-      "pe": 3,
-      "pp": 4,
-      "gf": 11,
-      "gc": 8,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Maipú",
       "pj": 11,
       "pg": 3,
@@ -362,39 +374,27 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
-      "equipo": "Gimnasia y Tiro",
-      "pj": 10,
-      "pg": 3,
-      "pe": 3,
-      "pp": 4,
-      "gf": 10,
-      "gc": 12,
-      "pts": 12,
-      "zona": "normal"
-    },
-    {
       "pos": 14,
-      "equipo": "Colegiales",
+      "equipo": "Gimnasia y Tiro",
       "pj": 11,
       "pg": 3,
       "pe": 3,
       "pp": 5,
-      "gf": 8,
-      "gc": 12,
+      "gf": 12,
+      "gc": 15,
       "pts": 12,
       "zona": "descenso"
     },
     {
       "pos": 15,
       "equipo": "Chacarita",
-      "pj": 10,
+      "pj": 11,
       "pg": 3,
-      "pe": 2,
+      "pe": 3,
       "pp": 5,
       "gf": 9,
       "gc": 12,
-      "pts": 11,
+      "pts": 12,
       "zona": "descenso"
     }
   ]
