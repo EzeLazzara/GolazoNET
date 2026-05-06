@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-05T22:02:28.800489",
+  "actualizado": "2026-05-06T14:11:33.823903",
   "bracket": {
     "32avos": [
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -309,18 +309,6 @@
     "cuartos": [],
     "semifinales": [],
     "final": [
-      {
-        "local": "Ver más",
-        "visitante": "Deportes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Merchandising Copa Argentina",
-        "visitante": "Entradas Copa Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
       {
         "local": "Goles",
         "visitante": "Adam Bareiro",
@@ -412,8 +400,8 @@
         "goles_v": null
       },
       {
-        "local": "Calendario partidos fútbol",
-        "visitante": "Análisis partidos fútbol",
+        "local": "Análisis partidos fútbol",
+        "visitante": "Deportes",
         "goles_l": null,
         "goles_v": null
       },
