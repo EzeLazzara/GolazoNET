@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-08T13:48:18.372924",
+  "actualizado": "2026-05-08T21:57:41.013279",
   "partidos": [
     {
       "id": 118,
@@ -17,32 +17,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 146,
-      "fecha": 11,
-      "dia": "Vie 08/05",
-      "fechaISO": "2026-05-08",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 147,
       "fecha": 11,
       "dia": "Vie 08/05",
       "fechaISO": "2026-05-08",
@@ -57,7 +37,7 @@
         "nombre": "Mercedes",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }

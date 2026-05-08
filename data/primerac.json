@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-08T13:47:58.992405",
+  "actualizado": "2026-05-08T21:57:24.548617",
   "posiciones": [
     {
       "pos": 1,
@@ -172,13 +172,13 @@
     {
       "pos": 1,
       "equipo": "Lamadrid",
-      "pj": 10,
-      "pg": 4,
+      "pj": 11,
+      "pg": 5,
       "pe": 5,
       "pp": 1,
-      "gf": 9,
+      "gf": 10,
       "gc": 6,
-      "pts": 17,
+      "pts": 20,
       "zona": "normal"
     },
     {
@@ -292,12 +292,12 @@
     {
       "pos": 11,
       "equipo": "CA Atlas",
-      "pj": 10,
+      "pj": 11,
       "pg": 2,
       "pe": 5,
-      "pp": 3,
+      "pp": 4,
       "gf": 7,
-      "gc": 10,
+      "gc": 11,
       "pts": 11,
       "zona": "normal"
     },
