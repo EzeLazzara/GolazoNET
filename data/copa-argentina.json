@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-07T21:55:25.353305",
+  "actualizado": "2026-05-08T13:48:18.372071",
   "bracket": {
     "32avos": [
       {
@@ -329,20 +329,20 @@
       },
       {
         "local": "Asistencias",
-        "visitante": "Facundo Valdez",
+        "visitante": "Manuel Lanzini",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Santiago Lopéz",
-        "visitante": "Marcelo Torres",
+        "local": "Facundo Valdez",
+        "visitante": "Santiago Lopéz",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Agustin Hausch",
-        "visitante": "Agustin Hermoso",
-        "goles_l": 1,
+        "local": "Marcelo Torres",
+        "visitante": "Agustin Hausch",
+        "goles_l": 2,
         "goles_v": null
       },
       {
