@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-08T21:57:24.548617",
+  "actualizado": "2026-05-09T13:18:08.134449",
   "posiciones": [
     {
       "pos": 1,
@@ -27,6 +27,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Cambaceres",
+      "pj": 11,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 12,
+      "gc": 10,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Centro Español",
       "pj": 10,
       "pg": 4,
@@ -38,7 +50,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Victoriano",
       "pj": 10,
       "pg": 4,
@@ -50,7 +62,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Estrella del Sur",
       "pj": 10,
       "pg": 4,
@@ -62,19 +74,19 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Mercedes",
-      "pj": 10,
+      "pj": 11,
       "pg": 3,
       "pe": 5,
-      "pp": 2,
-      "gf": 7,
-      "gc": 6,
+      "pp": 3,
+      "gf": 8,
+      "gc": 8,
       "pts": 14,
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "CA Lugano",
       "pj": 10,
       "pg": 3,
@@ -82,18 +94,6 @@
       "pp": 3,
       "gf": 11,
       "gc": 10,
-      "pts": 13,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Cambaceres",
-      "pj": 10,
-      "pg": 3,
-      "pe": 4,
-      "pp": 3,
-      "gf": 10,
-      "gc": 9,
       "pts": 13,
       "zona": "normal"
     },
