@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-05-09T13:18:08.134449",
+  "actualizado": "2026-05-09T21:40:21.526541",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Berazategui",
-      "pj": 10,
+      "pj": 11,
       "pg": 5,
-      "pe": 4,
+      "pe": 5,
       "pp": 1,
       "gf": 16,
       "gc": 7,
-      "pts": 19,
+      "pts": 20,
       "zona": "promotion"
     },
     {
@@ -27,6 +27,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Victoriano",
+      "pj": 11,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 10,
+      "gc": 6,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Cambaceres",
       "pj": 11,
       "pg": 4,
@@ -38,7 +50,19 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
+      "equipo": "Estrella del Sur",
+      "pj": 11,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Centro Español",
       "pj": 10,
       "pg": 4,
@@ -46,30 +70,6 @@
       "pp": 3,
       "gf": 14,
       "gc": 9,
-      "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Victoriano",
-      "pj": 10,
-      "pg": 4,
-      "pe": 3,
-      "pp": 3,
-      "gf": 9,
-      "gc": 5,
-      "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Estrella del Sur",
-      "pj": 10,
-      "pg": 4,
-      "pe": 3,
-      "pp": 3,
-      "gf": 11,
-      "gc": 11,
       "pts": 15,
       "zona": "normal"
     },
@@ -99,6 +99,18 @@
     },
     {
       "pos": 9,
+      "equipo": "JJ Urquiza",
+      "pj": 11,
+      "pg": 2,
+      "pe": 7,
+      "pp": 2,
+      "gf": 6,
+      "gc": 8,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "Puerto Nuevo",
       "pj": 10,
       "pg": 2,
@@ -110,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Leandro N. Alem",
       "pj": 10,
       "pg": 3,
@@ -122,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Paraguayo",
       "pj": 10,
       "pg": 3,
@@ -134,38 +146,26 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
-      "equipo": "JJ Urquiza",
-      "pj": 10,
-      "pg": 1,
-      "pe": 7,
-      "pp": 2,
-      "gf": 5,
-      "gc": 8,
-      "pts": 10,
-      "zona": "normal"
-    },
-    {
       "pos": 13,
       "equipo": "Argentino Rosario",
-      "pj": 10,
+      "pj": 11,
       "pg": 1,
-      "pe": 5,
+      "pe": 6,
       "pp": 4,
-      "gf": 11,
-      "gc": 13,
-      "pts": 8,
+      "gf": 12,
+      "gc": 14,
+      "pts": 9,
       "zona": "normal"
     },
     {
       "pos": 14,
       "equipo": "Juventud Unida SM",
-      "pj": 10,
+      "pj": 11,
       "pg": 1,
       "pe": 5,
-      "pp": 4,
+      "pp": 5,
       "gf": 7,
-      "gc": 12,
+      "gc": 13,
       "pts": 8,
       "zona": "normal"
     },
@@ -184,29 +184,41 @@
     {
       "pos": 2,
       "equipo": "Yupanqui",
-      "pj": 10,
+      "pj": 11,
       "pg": 4,
-      "pe": 4,
+      "pe": 5,
       "pp": 2,
       "gf": 11,
       "gc": 8,
-      "pts": 16,
+      "pts": 17,
       "zona": "normal"
     },
     {
       "pos": 3,
       "equipo": "Leones de Rosario FC",
-      "pj": 10,
+      "pj": 11,
       "pg": 4,
-      "pe": 4,
+      "pe": 5,
       "pp": 2,
       "gf": 11,
       "gc": 10,
-      "pts": 16,
+      "pts": 17,
       "zona": "normal"
     },
     {
       "pos": 4,
+      "equipo": "Claypole",
+      "pj": 11,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 10,
+      "gc": 8,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Cañuelas",
       "pj": 10,
       "pg": 3,
@@ -214,18 +226,6 @@
       "pp": 1,
       "gf": 10,
       "gc": 7,
-      "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Claypole",
-      "pj": 10,
-      "pg": 4,
-      "pe": 3,
-      "pp": 3,
-      "gf": 10,
-      "gc": 8,
       "pts": 15,
       "zona": "normal"
     },
@@ -244,13 +244,13 @@
     {
       "pos": 7,
       "equipo": "Central Ballester",
-      "pj": 10,
+      "pj": 11,
       "pg": 4,
-      "pe": 1,
+      "pe": 2,
       "pp": 5,
       "gf": 12,
       "gc": 11,
-      "pts": 13,
+      "pts": 14,
       "zona": "normal"
     },
     {
