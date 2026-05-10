@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-09T21:39:56.751513",
+  "actualizado": "2026-05-10T13:18:20.027730",
   "posiciones": [
     {
       "pos": 1,
@@ -267,6 +267,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Atlético Rafaela",
+      "pj": 12,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 12,
+      "gc": 8,
+      "pts": 19,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "San Martín (T)",
       "pj": 11,
       "pg": 4,
@@ -278,7 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Chicago",
       "pj": 11,
       "pg": 4,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Temperley",
       "pj": 12,
       "pg": 3,
@@ -302,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Maipú",
       "pj": 12,
       "pg": 4,
@@ -314,7 +326,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "San Martín",
       "pj": 12,
       "pg": 3,
@@ -326,7 +338,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Agropecuario",
       "pj": 11,
       "pg": 4,
@@ -338,7 +350,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Patronato",
       "pj": 12,
       "pg": 3,
@@ -350,7 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Quilmes",
       "pj": 11,
       "pg": 3,
@@ -362,7 +374,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Chacarita",
       "pj": 11,
       "pg": 3,
@@ -371,30 +383,18 @@
       "gf": 9,
       "gc": 12,
       "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "Colegiales",
-      "pj": 11,
-      "pg": 3,
-      "pe": 3,
-      "pp": 5,
-      "gf": 8,
-      "gc": 12,
-      "pts": 12,
       "zona": "descenso"
     },
     {
       "pos": 15,
-      "equipo": "Güemes",
-      "pj": 11,
-      "pg": 2,
-      "pe": 4,
-      "pp": 5,
-      "gf": 11,
+      "equipo": "Gimnasia y Tiro",
+      "pj": 12,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 12,
       "gc": 16,
-      "pts": 10,
+      "pts": 12,
       "zona": "descenso"
     }
   ]
