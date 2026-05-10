@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-10T13:19:04.120238",
+  "actualizado": "2026-05-10T21:44:25.885183",
   "partidos": [
     {
-      "id": 108,
+      "id": 100,
       "fecha": 13,
       "dia": "Lun 11/05",
       "fechaISO": "2026-05-11",
@@ -17,12 +17,12 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 101,
       "fecha": 13,
       "dia": "Lun 11/05",
       "fechaISO": "2026-05-11",
@@ -37,12 +37,12 @@
         "nombre": "Almagro",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 102,
       "fecha": 13,
       "dia": "Mar 12/05",
       "fechaISO": "2026-05-12",
@@ -57,12 +57,32 @@
         "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "16:10",
+      "hora": "15:10",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 103,
+      "fecha": 11,
+      "dia": "Lun 11/05",
+      "fechaISO": "2026-05-11",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
       "fecha": 11,
       "dia": "Lun 11/05",
       "fechaISO": "2026-05-11",
@@ -77,12 +97,12 @@
         "nombre": "Dep. Español",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 105,
       "fecha": 11,
       "dia": "Lun 11/05",
       "fechaISO": "2026-05-11",
@@ -97,7 +117,7 @@
         "nombre": "Centro Español",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     }
