@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-11T14:52:05.974748",
+  "actualizado": "2026-05-11T22:04:44.685799",
   "bracket": {
     "32avos": [
       {
@@ -317,6 +317,18 @@
     "semifinales": [],
     "final": [
       {
+        "local": "Ver más",
+        "visitante": "Sportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Calendario partidos fútbol",
+        "visitante": "Deportes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Goles",
         "visitante": "Adam Bareiro",
         "goles_l": null,
@@ -398,6 +410,18 @@
         "local": "Pablo Casarico",
         "visitante": "Santiago Borges",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Deportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Camisetas equipos argentinos",
+        "visitante": "Newsletter resultados fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {

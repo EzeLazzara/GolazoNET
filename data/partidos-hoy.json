@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-11T14:52:05.976032",
+  "actualizado": "2026-05-11T22:04:44.686741",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,67 +37,7 @@
         "nombre": "Almagro",
         "goles": null
       },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 131,
-      "fecha": 11,
-      "dia": "Lun 11/05",
-      "fechaISO": "2026-05-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Fenix",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 132,
-      "fecha": 11,
-      "dia": "Lun 11/05",
-      "fechaISO": "2026-05-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Muñiz",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 133,
-      "fecha": 11,
-      "dia": "Lun 11/05",
-      "fechaISO": "2026-05-11",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Centro Español",
-        "goles": null
-      },
-      "hora": "09:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     }
