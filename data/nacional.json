@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-11T22:04:03.462000",
+  "actualizado": "2026-05-12T14:27:54.202720",
   "posiciones": [
     {
       "pos": 1,
@@ -75,6 +75,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Ferro",
+      "pj": 12,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 13,
+      "gc": 11,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Alte. Brown",
       "pj": 12,
       "pg": 5,
@@ -86,26 +98,14 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
-      "equipo": "Ferro",
-      "pj": 11,
-      "pg": 4,
-      "pe": 3,
-      "pp": 4,
-      "gf": 11,
-      "gc": 10,
-      "pts": 15,
-      "zona": "normal"
-    },
-    {
       "pos": 9,
       "equipo": "Defensores",
-      "pj": 11,
+      "pj": 12,
       "pg": 3,
       "pe": 6,
-      "pp": 2,
-      "gf": 10,
-      "gc": 9,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
       "pts": 15,
       "zona": "normal"
     },
@@ -292,12 +292,12 @@
     {
       "pos": 7,
       "equipo": "Chicago",
-      "pj": 11,
+      "pj": 12,
       "pg": 4,
       "pe": 5,
-      "pp": 2,
-      "gf": 11,
-      "gc": 8,
+      "pp": 3,
+      "gf": 12,
+      "gc": 10,
       "pts": 17,
       "zona": "normal"
     },

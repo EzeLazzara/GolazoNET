@@ -1,248 +1,8 @@
 {
-  "actualizado": "2026-05-11T22:04:44.687105",
+  "actualizado": "2026-05-12T14:28:39.284457",
   "partidos": [
     {
-      "id": 102,
-      "fecha": 13,
-      "dia": "Mar 12/05",
-      "fechaISO": "2026-05-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "16:10",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 16,
-      "dia": "Vie 15/05",
-      "fechaISO": "2026-05-15",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (Q)",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 109,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 110,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 111,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 16,
-      "dia": "Lun 18/05",
-      "fechaISO": "2026-05-18",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
+      "id": 101,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -262,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 102,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -282,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 103,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -302,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 104,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -322,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 105,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -342,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 106,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -362,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 107,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -382,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 108,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -402,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 109,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -422,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 110,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -442,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 111,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -462,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 112,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -482,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 113,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -502,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 114,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -522,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 115,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -542,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 116,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -562,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 117,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -578,6 +338,286 @@
         "goles": null
       },
       "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Yupanqui",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Centro Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Fenix",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "El Porvenir",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juventud Unida SM",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "CA Atlas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Berazategui",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Leones de Rosario FC",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CA Lugano",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 12,
+      "dia": "Dom 17/05",
+      "fechaISO": "2026-05-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Paraguayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Luján",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 12,
+      "dia": "Dom 17/05",
+      "fechaISO": "2026-05-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Leandro N. Alem",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 12,
+      "dia": "Dom 17/05",
+      "fechaISO": "2026-05-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Puerto Nuevo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 12,
+      "dia": "Dom 17/05",
+      "fechaISO": "2026-05-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Victoriano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Cañuelas",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
+      "fecha": 12,
+      "dia": "Lun 18/05",
+      "fechaISO": "2026-05-18",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 129,
+      "fecha": 12,
+      "dia": "Lun 18/05",
+      "fechaISO": "2026-05-18",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Lamadrid",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 130,
+      "fecha": 12,
+      "dia": "Lun 18/05",
+      "fechaISO": "2026-05-18",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Cambaceres",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 12,
+      "dia": "Mar 19/05",
+      "fechaISO": "2026-05-19",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Claypole",
+        "goles": null
+      },
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

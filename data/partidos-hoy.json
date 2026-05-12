@@ -1,43 +1,23 @@
 {
-  "actualizado": "2026-05-11T22:04:44.686741",
+  "actualizado": "2026-05-12T14:28:39.283879",
   "partidos": [
     {
       "id": 100,
       "fecha": 13,
-      "dia": "Lun 11/05",
-      "fechaISO": "2026-05-11",
+      "dia": "Mar 12/05",
+      "fechaISO": "2026-05-12",
       "esHoy": true,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Ferro",
+        "nombre": "San Martín (T)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Defensores",
+        "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 13,
-      "dia": "Lun 11/05",
-      "fechaISO": "2026-05-11",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Almagro",
-        "goles": null
-      },
-      "hora": "14:30",
+      "hora": "16:10",
       "minuto": null,
       "estado": "programado"
     }
