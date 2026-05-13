@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-12T22:10:33.679008",
+  "actualizado": "2026-05-13T14:34:53.764299",
   "partidos": [
     {
-      "id": 101,
+      "id": 100,
       "fecha": 16,
       "dia": "Vie 15/05",
       "fechaISO": "2026-05-15",
@@ -18,6 +18,26 @@
         "goles": null
       },
       "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 16,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -130,26 +150,6 @@
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 16,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
         "nombre": "Dock Sud",
         "goles": null
       },
@@ -162,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 16,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -182,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 16,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -202,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 16,
       "dia": "Lun 18/05",
       "fechaISO": "2026-05-18",
@@ -222,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -242,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -262,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 113,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -282,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 114,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -302,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 115,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 116,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 117,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 118,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 119,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 120,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -422,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 121,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -442,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 122,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -462,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 123,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -482,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 124,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -502,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -522,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 126,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -542,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 127,
       "fecha": 9,
       "dia": "Dom 17/05",
       "fechaISO": "2026-05-17",
@@ -562,27 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
-      "fecha": 12,
-      "dia": "Sáb 16/05",
-      "fechaISO": "2026-05-16",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 130,
+      "id": 128,
       "fecha": 12,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -602,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 129,
       "fecha": 12,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -622,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 130,
       "fecha": 12,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -642,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 131,
       "fecha": 12,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -662,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 132,
       "fecha": 12,
       "dia": "Sáb 16/05",
       "fechaISO": "2026-05-16",
@@ -675,6 +655,46 @@
       },
       "visitante": {
         "nombre": "CA Lugano",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 12,
+      "dia": "Sáb 16/05",
+      "fechaISO": "2026-05-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Lamadrid",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 12,
+      "dia": "Dom 17/05",
+      "fechaISO": "2026-05-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
         "goles": null
       },
       "hora": "10:30",
@@ -790,26 +810,6 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 141,
-      "fecha": 12,
-      "dia": "Lun 18/05",
-      "fechaISO": "2026-05-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
         "nombre": "Sp. Barracas",
         "goles": null
       },
@@ -822,7 +822,7 @@
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 141,
       "fecha": 12,
       "dia": "Mar 19/05",
       "fechaISO": "2026-05-19",

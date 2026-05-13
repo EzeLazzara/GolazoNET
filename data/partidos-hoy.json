@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-05-12T22:10:33.678788",
-  "partidos": [
-    {
-      "id": 100,
-      "fecha": 13,
-      "dia": "Mar 12/05",
-      "fechaISO": "2026-05-12",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "16:10",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-05-13T14:34:53.763999",
+  "partidos": []
 }

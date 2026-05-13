@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-12T22:09:50.308078",
+  "actualizado": "2026-05-13T14:34:12.394388",
   "posiciones": [
     {
       "pos": 1,
@@ -220,17 +220,29 @@
     {
       "pos": 1,
       "equipo": "Gimnasia (J)",
-      "pj": 11,
+      "pj": 12,
       "pg": 7,
       "pe": 2,
-      "pp": 2,
+      "pp": 3,
       "gf": 19,
-      "gc": 12,
+      "gc": 14,
       "pts": 23,
       "zona": "normal"
     },
     {
       "pos": 2,
+      "equipo": "San Martín (T)",
+      "pj": 12,
+      "pg": 5,
+      "pe": 6,
+      "pp": 1,
+      "gf": 14,
+      "gc": 8,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 3,
       "equipo": "Atlanta",
       "pj": 12,
       "pg": 6,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Tristan Suárez",
       "pj": 12,
       "pg": 5,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Midland",
       "pj": 12,
       "pg": 5,
@@ -266,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Atlético Rafaela",
       "pj": 12,
       "pg": 5,
@@ -275,18 +287,6 @@
       "gf": 12,
       "gc": 8,
       "pts": 19,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "San Martín (T)",
-      "pj": 11,
-      "pg": 4,
-      "pe": 6,
-      "pp": 1,
-      "gf": 12,
-      "gc": 8,
-      "pts": 18,
       "zona": "normal"
     },
     {
