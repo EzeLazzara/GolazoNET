@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-05-14T22:08:15.671925",
-  "partidos": []
+  "actualizado": "2026-05-15T14:07:28.485437",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 14,
+      "dia": "Vie 15/05",
+      "fechaISO": "2026-05-15",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

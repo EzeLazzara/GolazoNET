@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-14T22:08:15.670960",
+  "actualizado": "2026-05-15T14:07:28.484545",
   "bracket": {
     "32avos": [
       {
@@ -211,7 +211,7 @@
       {
         "local": "Banfield",
         "visitante": "San Martín Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -271,7 +271,7 @@
       {
         "local": "Platense",
         "visitante": "San Martín San Juan",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -332,6 +332,18 @@
         "local": "Facundo Bruera",
         "visitante": "Tiziano Perrotta",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Foros debate fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resúmenes partidos Copa",
+        "visitante": "Sportivo",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -398,18 +410,6 @@
         "local": "Nacho Fernández",
         "visitante": "Pablo Casarico",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Noticias fútbol argentino",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Newsletter resultados fútbol",
-        "visitante": "Historial clubes argentinos",
-        "goles_l": null,
         "goles_v": null
       },
       {
