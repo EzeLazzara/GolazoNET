@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-15T14:07:28.485437",
+  "actualizado": "2026-05-15T21:57:59.560245",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Central Norte",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     }
