@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-16T13:22:46.644305",
+  "actualizado": "2026-05-16T21:44:38.001604",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -335,18 +335,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Calendario de partidos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Suscripción de estadísticas",
-        "visitante": "Deportivo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -410,6 +398,18 @@
         "local": "Nacho Fernández",
         "visitante": "Pablo Casarico",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Equipamiento de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Mercancía de equipos",
+        "visitante": "Documentales de fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {
