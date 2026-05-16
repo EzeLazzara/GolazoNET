@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-15T21:57:59.559362",
+  "actualizado": "2026-05-16T13:22:46.644305",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -335,6 +335,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Calendario de partidos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Suscripción de estadísticas",
+        "visitante": "Deportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -401,18 +413,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Camisetas equipos argentinos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Apuestas deportivas fútbol",
-        "visitante": "Libros historia fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Morón",
         "visitante": "Midland",
         "goles_l": 1,
@@ -462,6 +462,48 @@
       },
       {
         "local": "Atletico Tucuman",
+        "visitante": "Vie 22/05",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Union Santa Fe",
+        "visitante": "Independiente",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Sáb 30/05",
+        "visitante": "Gimnasia (J)",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Belgrano",
+        "visitante": "Instituto",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Lanus",
+        "visitante": "Dom 31/05",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Defensa y Justicia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Sáb 06/06",
+        "visitante": "San Lorenzo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Riestra",
         "visitante": "Dom 07/06",
         "goles_l": null,
         "goles_v": null
@@ -485,44 +527,14 @@
         "goles_v": null
       },
       {
-        "local": "San Lorenzo",
-        "visitante": "Riestra",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Talleres",
         "visitante": "Atletico Tucuman",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Gimnasia (J)",
-        "visitante": "Belgrano",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Union Santa Fe",
-        "visitante": "Independiente",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Barracas Central",
         "visitante": "Huracan",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "Defensa y Justicia",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Instituto",
-        "visitante": "Lanus",
         "goles_l": null,
         "goles_v": null
       },
