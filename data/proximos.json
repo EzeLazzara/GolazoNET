@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-17T13:21:02.769817",
+  "actualizado": "2026-05-17T21:53:00.656019",
   "partidos": [
     {
-      "id": 109,
+      "id": 100,
       "fecha": 14,
       "dia": "Lun 18/05",
       "fechaISO": "2026-05-18",
@@ -17,12 +17,12 @@
         "nombre": "Chaco For Ever",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 101,
       "fecha": 14,
       "dia": "Lun 18/05",
       "fechaISO": "2026-05-18",
@@ -37,12 +37,12 @@
         "nombre": "Morón",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 102,
       "fecha": 16,
       "dia": "Lun 18/05",
       "fechaISO": "2026-05-18",
@@ -57,12 +57,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 103,
       "fecha": 12,
       "dia": "Lun 18/05",
       "fechaISO": "2026-05-18",
@@ -77,12 +77,12 @@
         "nombre": "Mercedes",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 104,
       "fecha": 12,
       "dia": "Lun 18/05",
       "fechaISO": "2026-05-18",
@@ -97,7 +97,7 @@
         "nombre": "Cambaceres",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
