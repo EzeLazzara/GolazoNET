@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-16T21:44:38.001604",
+  "actualizado": "2026-05-17T13:21:02.768006",
   "bracket": {
     "32avos": [
       {
@@ -205,7 +205,7 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -217,7 +217,7 @@
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -316,6 +316,18 @@
     "cuartos": [],
     "semifinales": [],
     "final": [
+      {
+        "local": "Ver más",
+        "visitante": "Tours de estadios",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Sportivo",
+        "visitante": "Memorabilia autografiada",
+        "goles_l": null,
+        "goles_v": null
+      },
       {
         "local": "Goles",
         "visitante": "Adam Bareiro",
@@ -402,13 +414,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Equipamiento de fútbol",
+        "visitante": "Entradas de fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Mercancía de equipos",
-        "visitante": "Documentales de fútbol",
+        "local": "Equipamiento de fútbol",
+        "visitante": "Deportes",
         "goles_l": null,
         "goles_v": null
       },
