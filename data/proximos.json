@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-18T15:33:04.364928",
+  "actualizado": "2026-05-18T22:01:22.089506",
   "partidos": [
     {
-      "id": 103,
+      "id": 101,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -17,12 +17,12 @@
         "nombre": "Costa Brava",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 102,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -37,12 +37,12 @@
         "nombre": "Huracán (LH)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 103,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -57,12 +57,12 @@
         "nombre": "San Martín (Mdza)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -77,12 +77,12 @@
         "nombre": "Atenas (RC)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -97,12 +97,12 @@
         "nombre": "Independiente (Chi)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -117,12 +117,12 @@
         "nombre": "El Linqueño",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -137,12 +137,12 @@
         "nombre": "Sp. Belgrano",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -157,12 +157,12 @@
         "nombre": "Douglas Haig",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 109,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -177,12 +177,12 @@
         "nombre": "Defensores (VR)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 110,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -197,12 +197,12 @@
         "nombre": "Kimberley",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 111,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -217,12 +217,12 @@
         "nombre": "Sol de Mayo",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 112,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -237,12 +237,12 @@
         "nombre": "Gmo. Brown",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 113,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -257,12 +257,12 @@
         "nombre": "Olimpo",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 114,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -277,12 +277,12 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 115,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -297,12 +297,12 @@
         "nombre": "Boca Unidos",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 116,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -317,12 +317,12 @@
         "nombre": "Tucumán Central",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 117,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -337,7 +337,7 @@
         "nombre": "San Martín (For)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-18T15:33:04.362408",
+  "actualizado": "2026-05-18T22:01:22.088277",
   "bracket": {
     "32avos": [
       {
@@ -317,6 +317,18 @@
     "semifinales": [],
     "final": [
       {
+        "local": "Ver más",
+        "visitante": "Experiencias exclusivas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Podcasts de fútbol",
+        "visitante": "Aplicación de resultados",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Goles",
         "visitante": "Adam Bareiro",
         "goles_l": null,
@@ -398,6 +410,18 @@
         "local": "Nacho Fernández",
         "visitante": "Pablo Casarico",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Apuestas deportivas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Suscripción de estadísticas",
+        "visitante": "Equipamiento de fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {

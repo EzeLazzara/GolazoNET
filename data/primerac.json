@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-18T15:32:47.785936",
+  "actualizado": "2026-05-18T22:01:05.393266",
   "posiciones": [
     {
       "pos": 1,
@@ -88,24 +88,24 @@
     {
       "pos": 8,
       "equipo": "Cambaceres",
-      "pj": 11,
+      "pj": 12,
       "pg": 4,
       "pe": 4,
-      "pp": 3,
+      "pp": 4,
       "gf": 12,
-      "gc": 10,
+      "gc": 12,
       "pts": 16,
       "zona": "normal"
     },
     {
       "pos": 9,
       "equipo": "Mercedes",
-      "pj": 11,
+      "pj": 12,
       "pg": 3,
       "pe": 5,
-      "pp": 3,
+      "pp": 4,
       "gf": 8,
-      "gc": 8,
+      "gc": 9,
       "pts": 14,
       "zona": "normal"
     },
@@ -231,6 +231,18 @@
     },
     {
       "pos": 6,
+      "equipo": "Sp. Barracas",
+      "pj": 12,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 8,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Cañuelas",
       "pj": 12,
       "pg": 3,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Claypole",
       "pj": 12,
       "pg": 4,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Central Ballester",
       "pj": 12,
       "pg": 4,
@@ -266,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Central Cordoba",
       "pj": 12,
       "pg": 3,
@@ -278,19 +290,19 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
-      "equipo": "Sp. Barracas",
-      "pj": 11,
-      "pg": 3,
-      "pe": 4,
-      "pp": 4,
-      "gf": 9,
-      "gc": 8,
+      "pos": 11,
+      "equipo": "Dep. Español",
+      "pj": 12,
+      "pg": 2,
+      "pe": 7,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
       "pts": 13,
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "CA Atlas",
       "pj": 12,
       "pg": 2,
@@ -299,18 +311,6 @@
       "gf": 7,
       "gc": 11,
       "pts": 12,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Dep. Español",
-      "pj": 11,
-      "pg": 1,
-      "pe": 7,
-      "pp": 3,
-      "gf": 10,
-      "gc": 11,
-      "pts": 10,
       "zona": "normal"
     },
     {
