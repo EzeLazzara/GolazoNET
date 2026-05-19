@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-18T22:00:40.598272",
+  "actualizado": "2026-05-19T15:21:20.544293",
   "posiciones": [
     {
       "pos": 1,
@@ -16,12 +16,12 @@
     {
       "pos": 2,
       "equipo": "Morón",
-      "pj": 12,
+      "pj": 13,
       "pg": 6,
       "pe": 4,
-      "pp": 2,
+      "pp": 3,
       "gf": 18,
-      "gc": 11,
+      "gc": 12,
       "pts": 22,
       "zona": "promotion"
     },
@@ -171,6 +171,18 @@
     },
     {
       "pos": 15,
+      "equipo": "All Boys",
+      "pj": 13,
+      "pg": 3,
+      "pe": 5,
+      "pp": 5,
+      "gf": 8,
+      "gc": 11,
+      "pts": 14,
+      "zona": "normal"
+    },
+    {
+      "pos": 16,
       "equipo": "Central Norte",
       "pj": 13,
       "pg": 3,
@@ -179,18 +191,6 @@
       "gf": 8,
       "gc": 12,
       "pts": 13,
-      "zona": "normal"
-    },
-    {
-      "pos": 16,
-      "equipo": "All Boys",
-      "pj": 12,
-      "pg": 2,
-      "pe": 5,
-      "pp": 5,
-      "gf": 7,
-      "gc": 11,
-      "pts": 11,
       "zona": "normal"
     },
     {
