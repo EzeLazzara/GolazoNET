@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-20T15:20:25.125961",
+  "actualizado": "2026-05-20T22:24:05.937379",
   "partidos": [
     {
       "id": 100,
@@ -30,26 +30,6 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Morón",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 15,
-      "dia": "Sáb 23/05",
-      "fechaISO": "2026-05-23",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
         "nombre": "San Telmo",
         "goles": null
       },
@@ -62,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 15,
       "dia": "Sáb 23/05",
       "fechaISO": "2026-05-23",
@@ -82,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 15,
       "dia": "Sáb 23/05",
       "fechaISO": "2026-05-23",
@@ -102,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 104,
       "fecha": 15,
       "dia": "Sáb 23/05",
       "fechaISO": "2026-05-23",
@@ -118,6 +98,26 @@
         "goles": null
       },
       "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 15,
+      "dia": "Sáb 23/05",
+      "fechaISO": "2026-05-23",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -144,26 +144,6 @@
     {
       "id": 107,
       "fecha": 15,
-      "dia": "Sáb 23/05",
-      "fechaISO": "2026-05-23",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Midland",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
       "esHoy": false,
@@ -177,7 +157,27 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 15,
+      "dia": "Dom 24/05",
+      "fechaISO": "2026-05-24",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Morón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -310,14 +310,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Gimnasia y Tiro",
+        "nombre": "Colón",
         "goles": null
       },
       "visitante": {
-        "nombre": "Gimnasia (J)",
+        "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -330,14 +330,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Colón",
+        "nombre": "Gimnasia y Tiro",
         "goles": null
       },
       "visitante": {
-        "nombre": "CA Mitre",
+        "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -430,6 +430,26 @@
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 17,
+      "dia": "Vie 22/05",
+      "fechaISO": "2026-05-22",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
         "nombre": "Excursionistas",
         "goles": null
       },
@@ -442,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 123,
       "fecha": 17,
       "dia": "Sáb 23/05",
       "fechaISO": "2026-05-23",
@@ -462,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 124,
       "fecha": 17,
       "dia": "Sáb 23/05",
       "fechaISO": "2026-05-23",
@@ -482,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 125,
       "fecha": 17,
       "dia": "Sáb 23/05",
       "fechaISO": "2026-05-23",
@@ -495,26 +515,6 @@
       },
       "visitante": {
         "nombre": "Dock Sud",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
-      "fecha": 17,
-      "dia": "Sáb 23/05",
-      "fechaISO": "2026-05-23",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Camioneros",
         "goles": null
       },
       "hora": "10:30",
@@ -1117,7 +1117,7 @@
         "nombre": "Leandro N. Alem",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },

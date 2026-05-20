@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-20T15:20:25.124773",
+  "actualizado": "2026-05-20T22:24:05.935993",
   "bracket": {
     "32avos": [
       {
@@ -205,19 +205,19 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "San Martín Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -259,7 +259,7 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -271,7 +271,7 @@
       {
         "local": "Platense",
         "visitante": "San Martín San Juan",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -395,8 +395,8 @@
         "goles_v": null
       },
       {
-        "local": "Nacho Fernández",
-        "visitante": "Pablo Casarico",
+        "local": "Matías Galarza",
+        "visitante": "Maximiliano Villa",
         "goles_l": 2,
         "goles_v": null
       },
@@ -444,91 +444,97 @@
       },
       {
         "local": "Mié 20/05",
-        "visitante": "Talleres",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Atletico Tucuman",
-        "visitante": "Vie 22/05",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Union Santa Fe",
-        "visitante": "Independiente",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Sáb 30/05",
-        "visitante": "Gimnasia (J)",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Belgrano",
-        "visitante": "Instituto",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Lanus",
-        "visitante": "Dom 31/05",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "Defensa y Justicia",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Sáb 06/06",
-        "visitante": "San Lorenzo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Riestra",
-        "visitante": "Dom 07/06",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes",
-        "visitante": "Rosario Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Ind. Rivadavia",
-        "visitante": "Tigre",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "River Plate",
-        "visitante": "Aldosivi",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Talleres",
         "visitante": "Atletico Tucuman",
+        "goles_l": 0,
+        "goles_v": 3
+      },
+      {
+        "local": "Vie 22/05",
+        "visitante": "Union Santa Fe",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Barracas Central",
-        "visitante": "Huracan",
+        "local": "Independiente",
+        "visitante": "Sáb 30/05",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Sarmiento",
-        "visitante": "Boca Juniors",
+        "local": "Gimnasia (J)",
+        "visitante": "Belgrano",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Lanus",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Dom 31/05",
+        "visitante": "Racing Club",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Defensa y Justicia",
+        "visitante": "Sáb 06/06",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Lorenzo",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Dom 07/06",
+        "visitante": "Estudiantes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Rosario Central",
+        "visitante": "Ind. Rivadavia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tigre",
+        "visitante": "River Plate",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Aldosivi",
+        "visitante": "Talleres",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Barracas Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Huracan",
+        "visitante": "Sarmiento",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
       }
