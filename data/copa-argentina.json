@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-21T15:26:31.405676",
+  "actualizado": "2026-05-21T22:18:05.862131",
   "bracket": {
     "32avos": [
       {
@@ -259,7 +259,7 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
