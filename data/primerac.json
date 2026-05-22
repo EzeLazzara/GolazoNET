@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-22T14:38:52.978813",
+  "actualizado": "2026-05-22T22:05:27.451239",
   "posiciones": [
     {
       "pos": 1,
@@ -184,13 +184,13 @@
     {
       "pos": 2,
       "equipo": "Yupanqui",
-      "pj": 12,
-      "pg": 4,
+      "pj": 13,
+      "pg": 5,
       "pe": 6,
       "pp": 2,
-      "gf": 11,
+      "gf": 15,
       "gc": 8,
-      "pts": 18,
+      "pts": 21,
       "zona": "normal"
     },
     {
@@ -256,12 +256,12 @@
     {
       "pos": 8,
       "equipo": "Claypole",
-      "pj": 12,
+      "pj": 13,
       "pg": 4,
       "pe": 4,
-      "pp": 4,
+      "pp": 5,
       "gf": 9,
-      "gc": 10,
+      "gc": 14,
       "pts": 16,
       "zona": "normal"
     },

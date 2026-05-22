@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-05-22T14:39:10.703696",
+  "actualizado": "2026-05-22T22:05:43.965605",
   "partidos": [
     {
       "id": 118,
-      "fecha": 17,
-      "dia": "Vie 22/05",
-      "fechaISO": "2026-05-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 17,
-      "dia": "Vie 22/05",
-      "fechaISO": "2026-05-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
       "fecha": 17,
       "dia": "Vie 22/05",
       "fechaISO": "2026-05-22",
@@ -57,12 +17,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 119,
       "fecha": 17,
       "dia": "Vie 22/05",
       "fechaISO": "2026-05-22",
@@ -77,12 +37,12 @@
         "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 120,
       "fecha": 17,
       "dia": "Vie 22/05",
       "fechaISO": "2026-05-22",
@@ -97,12 +57,12 @@
         "nombre": "Liniers",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 127,
       "fecha": 10,
       "dia": "Vie 22/05",
       "fechaISO": "2026-05-22",
@@ -117,27 +77,7 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "16:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 146,
-      "fecha": 13,
-      "dia": "Vie 22/05",
-      "fechaISO": "2026-05-22",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Yupanqui",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "hora": "09:30",
+      "hora": "17:00",
       "minuto": null,
       "estado": "programado"
     }
