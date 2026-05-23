@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-23T13:25:30.317873",
+  "actualizado": "2026-05-23T21:51:54.291262",
   "partidos": [
     {
-      "id": 107,
+      "id": 100,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -17,12 +17,12 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 101,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -37,12 +37,12 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 102,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -57,12 +57,12 @@
         "nombre": "Almagro",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 103,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -77,12 +77,12 @@
         "nombre": "Dep. Madryn",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 104,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -97,12 +97,12 @@
         "nombre": "Central Norte",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 105,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -117,32 +117,12 @@
         "nombre": "Quilmes",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
-      "fecha": 15,
-      "dia": "Dom 24/05",
-      "fechaISO": "2026-05-24",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Güemes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Patronato",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
+      "id": 106,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -157,12 +137,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 107,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -177,12 +157,32 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 108,
+      "fecha": 15,
+      "dia": "Dom 24/05",
+      "fechaISO": "2026-05-24",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Patronato",
+        "goles": null
+      },
+      "hora": "13:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -197,12 +197,12 @@
         "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 110,
       "fecha": 15,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -217,12 +217,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 111,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -237,12 +237,12 @@
         "nombre": "Sp. Belgrano",
         "goles": null
       },
-      "hora": "04:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 112,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -257,12 +257,12 @@
         "nombre": "Defensores (VR)",
         "goles": null
       },
-      "hora": "04:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 113,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -277,12 +277,12 @@
         "nombre": "Gmo. Brown",
         "goles": null
       },
-      "hora": "04:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 114,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -297,12 +297,12 @@
         "nombre": "Costa Brava",
         "goles": null
       },
-      "hora": "04:30",
+      "hora": "06:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 115,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -317,12 +317,12 @@
         "nombre": "Olimpo",
         "goles": null
       },
-      "hora": "05:15",
+      "hora": "07:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 116,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -337,12 +337,12 @@
         "nombre": "El Linqueño",
         "goles": null
       },
-      "hora": "06:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 117,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -357,12 +357,12 @@
         "nombre": "Sol de Mayo",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 118,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -377,12 +377,12 @@
         "nombre": "Atenas (RC)",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 119,
       "fecha": 10,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -397,12 +397,12 @@
         "nombre": "Independiente (Chi)",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 120,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -417,12 +417,12 @@
         "nombre": "Kimberley",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 121,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -437,12 +437,12 @@
         "nombre": "Tucumán Central",
         "goles": null
       },
-      "hora": "08:45",
+      "hora": "10:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 122,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -457,12 +457,12 @@
         "nombre": "Boca Unidos",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 123,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -477,12 +477,12 @@
         "nombre": "San Martín (For)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 124,
       "fecha": 13,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -497,12 +497,12 @@
         "nombre": "Luján",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 125,
       "fecha": 13,
       "dia": "Dom 24/05",
       "fechaISO": "2026-05-24",
@@ -517,12 +517,12 @@
         "nombre": "Argentino Rosario",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 126,
       "fecha": 13,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -537,12 +537,12 @@
         "nombre": "Fenix",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 127,
       "fecha": 13,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -557,7 +557,7 @@
         "nombre": "Sacachispas",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

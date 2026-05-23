@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-23T13:25:30.316255",
+  "actualizado": "2026-05-23T21:51:54.288806",
   "bracket": {
     "32avos": [
       {
@@ -211,7 +211,7 @@
       {
         "local": "Banfield",
         "visitante": "San Martín Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -265,13 +265,13 @@
       {
         "local": "Unión de Santa Fe",
         "visitante": "Independiente",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "San Martín San Juan",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
