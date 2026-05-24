@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-23T21:51:54.288806",
+  "actualizado": "2026-05-24T13:26:45.072243",
   "bracket": {
     "32avos": [
       {
@@ -211,7 +211,7 @@
       {
         "local": "Banfield",
         "visitante": "San Martín Tucumán",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -259,19 +259,19 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
         "local": "Unión de Santa Fe",
         "visitante": "Independiente",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "San Martín San Juan",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -338,6 +338,18 @@
         "local": "Facundo Bruera",
         "visitante": "Tiziano Perrotta",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Ligas de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resultados Copa Argentina",
+        "visitante": "Cuadro Copa Argentina",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -410,6 +422,18 @@
         "local": "Maximiliano Villa",
         "visitante": "Nacho Fernández",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Calendario de partidos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fixture Copa Argentina",
+        "visitante": "Deportivo",
+        "goles_l": null,
         "goles_v": null
       },
       {
