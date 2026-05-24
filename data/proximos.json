@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-05-24T13:26:45.073954",
+  "actualizado": "2026-05-24T21:54:04.887849",
   "partidos": [
     {
-      "id": 111,
+      "id": 101,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -17,12 +17,12 @@
         "nombre": "San Carlos",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 102,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -37,12 +37,12 @@
         "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 103,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -57,12 +57,12 @@
         "nombre": "Arsenal",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 104,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -77,12 +77,12 @@
         "nombre": "Argentino (M)",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 105,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -97,12 +97,12 @@
         "nombre": "Liniers",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 106,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -117,12 +117,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 107,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -137,12 +137,12 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 108,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -157,12 +157,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 109,
       "fecha": 5,
       "dia": "Mié 27/05",
       "fechaISO": "2026-05-27",
@@ -177,12 +177,12 @@
         "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 110,
       "fecha": 5,
       "dia": "Mié 27/05",
       "fechaISO": "2026-05-27",
@@ -197,12 +197,12 @@
         "nombre": "Villa Dalmine",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 111,
       "fecha": 5,
       "dia": "Mié 27/05",
       "fechaISO": "2026-05-27",
@@ -217,12 +217,12 @@
         "nombre": "Excursionistas",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 112,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -237,12 +237,12 @@
         "nombre": "Kimberley",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 113,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -257,12 +257,12 @@
         "nombre": "Tucumán Central",
         "goles": null
       },
-      "hora": "08:45",
+      "hora": "10:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 114,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -277,12 +277,12 @@
         "nombre": "Boca Unidos",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 115,
       "fecha": 10,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -297,12 +297,12 @@
         "nombre": "San Martín (For)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 116,
       "fecha": 13,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -317,12 +317,12 @@
         "nombre": "Fenix",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 117,
       "fecha": 13,
       "dia": "Lun 25/05",
       "fechaISO": "2026-05-25",
@@ -337,7 +337,7 @@
         "nombre": "Sacachispas",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }

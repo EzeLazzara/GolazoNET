@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-05-24T13:26:25.434935",
+  "actualizado": "2026-05-24T21:53:48.294233",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Berazategui",
-      "pj": 12,
+      "pj": 13,
       "pg": 5,
-      "pe": 6,
+      "pe": 7,
       "pp": 1,
-      "gf": 16,
-      "gc": 7,
-      "pts": 21,
+      "gf": 18,
+      "gc": 9,
+      "pts": 22,
       "zona": "promotion"
     },
     {
@@ -160,13 +160,13 @@
     {
       "pos": 14,
       "equipo": "Argentino Rosario",
-      "pj": 12,
+      "pj": 13,
       "pg": 1,
-      "pe": 7,
+      "pe": 8,
       "pp": 4,
-      "gf": 12,
-      "gc": 14,
-      "pts": 10,
+      "gf": 14,
+      "gc": 16,
+      "pts": 11,
       "zona": "normal"
     },
     {
@@ -207,6 +207,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Luján",
+      "pj": 13,
+      "pg": 5,
+      "pe": 5,
+      "pp": 3,
+      "gf": 15,
+      "gc": 11,
+      "pts": 20,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Cañuelas",
       "pj": 13,
       "pg": 4,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "El Porvenir",
       "pj": 13,
       "pg": 3,
@@ -227,18 +239,6 @@
       "gf": 12,
       "gc": 10,
       "pts": 18,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Luján",
-      "pj": 12,
-      "pg": 4,
-      "pe": 5,
-      "pp": 3,
-      "gf": 12,
-      "gc": 9,
-      "pts": 17,
       "zona": "normal"
     },
     {
@@ -304,12 +304,12 @@
     {
       "pos": 12,
       "equipo": "CA Atlas",
-      "pj": 12,
+      "pj": 13,
       "pg": 2,
       "pe": 6,
-      "pp": 4,
-      "gf": 7,
-      "gc": 11,
+      "pp": 5,
+      "gf": 9,
+      "gc": 14,
       "pts": 12,
       "zona": "normal"
     },
