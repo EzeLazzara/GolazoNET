@@ -1,8 +1,368 @@
 {
-  "actualizado": "2026-05-24T21:54:04.887849",
+  "actualizado": "2026-05-25T14:54:13.391946",
   "partidos": [
     {
+      "id": 100,
+      "fecha": 16,
+      "dia": "Vie 29/05",
+      "fechaISO": "2026-05-29",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ferro",
+        "goles": null
+      },
+      "hora": "16:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
       "id": 101,
+      "fecha": 16,
+      "dia": "Vie 29/05",
+      "fechaISO": "2026-05-29",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Gimnasia (J)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "hora": "16:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 16,
+      "dia": "Sáb 30/05",
+      "fechaISO": "2026-05-30",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Dep. Madryn",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Acassuso",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 16,
+      "dia": "Sáb 30/05",
+      "fechaISO": "2026-05-30",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colegiales",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Agropecuario",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 16,
+      "dia": "Sáb 30/05",
+      "fechaISO": "2026-05-30",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Defensores",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Telmo",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 16,
+      "dia": "Sáb 30/05",
+      "fechaISO": "2026-05-30",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Godoy Cruz",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
+      "fecha": 16,
+      "dia": "Sáb 30/05",
+      "fechaISO": "2026-05-30",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "All Boys",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Los Andes",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia y Tiro",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Almagro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Bolivar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Miguel",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "CA Mitre",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Morón",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Temperley",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Patronato",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chaco For Ever",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (T)",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Maipú",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chacarita",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 16,
+      "dia": "Dom 31/05",
+      "fechaISO": "2026-05-31",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -22,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 119,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -42,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 120,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -62,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 121,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -82,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 122,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -102,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 123,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -122,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 124,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -142,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 125,
       "fecha": 5,
       "dia": "Mar 26/05",
       "fechaISO": "2026-05-26",
@@ -162,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 126,
       "fecha": 5,
       "dia": "Mié 27/05",
       "fechaISO": "2026-05-27",
@@ -182,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 127,
       "fecha": 5,
       "dia": "Mié 27/05",
       "fechaISO": "2026-05-27",
@@ -202,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 128,
       "fecha": 5,
       "dia": "Mié 27/05",
       "fechaISO": "2026-05-27",
@@ -215,126 +575,6 @@
       },
       "visitante": {
         "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 10,
-      "dia": "Lun 25/05",
-      "fechaISO": "2026-05-25",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Villa Mitre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Kimberley",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 10,
-      "dia": "Lun 25/05",
-      "fechaISO": "2026-05-25",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Bartolomé Mitre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Tucumán Central",
-        "goles": null
-      },
-      "hora": "10:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 10,
-      "dia": "Lun 25/05",
-      "fechaISO": "2026-05-25",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Sarmiento (LB)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Boca Unidos",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 10,
-      "dia": "Lun 25/05",
-      "fechaISO": "2026-05-25",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores Pto. Vilelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (For)",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 13,
-      "dia": "Lun 25/05",
-      "fechaISO": "2026-05-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Muñiz",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Fenix",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 13,
-      "dia": "Lun 25/05",
-      "fechaISO": "2026-05-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
         "goles": null
       },
       "hora": "10:30",
