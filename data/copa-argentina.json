@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-27T15:41:41.454552",
+  "actualizado": "2026-05-27T22:29:46.405857",
   "bracket": {
     "32avos": [
       {
@@ -205,19 +205,19 @@
       {
         "local": "Acassuso",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "San Martín Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Deportivo Morón",
         "visitante": "Midland",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -235,7 +235,7 @@
       {
         "local": "Vélez Sarsfield",
         "visitante": "Gimnasia y Tiro",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -259,19 +259,19 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Unión de Santa Fe",
         "visitante": "Independiente",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "San Martín San Juan",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -413,18 +413,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Deportes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Calendario de partidos",
-        "visitante": "Promiedos Estadísticas Fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Morón",
         "visitante": "Midland",
         "goles_l": 1,
@@ -509,50 +497,56 @@
         "goles_v": null
       },
       {
-        "local": "Racing Club",
-        "visitante": "Defensa y Justicia",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Mié 03/06",
-        "visitante": "San Lorenzo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Riestra",
-        "visitante": "Dom 07/06",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Estudiantes",
         "visitante": "Rosario Central",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Ind. Rivadavia",
-        "visitante": "Tigre",
+        "local": "Racing Club",
+        "visitante": "Defensa y Justicia",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "River Plate",
-        "visitante": "Aldosivi",
+        "local": "Mar 02/06",
+        "visitante": "Barracas Central",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Barracas Central",
-        "visitante": "Huracan",
+        "local": "Huracan",
+        "visitante": "Mié 03/06",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Sarmiento",
-        "visitante": "Boca Juniors",
+        "local": "San Lorenzo",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Dom 07/06",
+        "visitante": "Ind. Rivadavia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tigre",
+        "visitante": "River Plate",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Aldosivi",
+        "visitante": "Sarmiento",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
       }
