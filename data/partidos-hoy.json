@@ -1,23 +1,63 @@
 {
-  "actualizado": "2026-05-26T22:18:38.178120",
+  "actualizado": "2026-05-27T15:41:41.455532",
   "partidos": [
     {
-      "id": 118,
+      "id": 133,
       "fecha": 5,
-      "dia": "Mar 26/05",
-      "fechaISO": "2026-05-26",
+      "dia": "Mié 27/05",
+      "fechaISO": "2026-05-27",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Ituzaingó",
+        "nombre": "Italiano",
         "goles": null
       },
       "visitante": {
-        "nombre": "Laferrere",
+        "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 5,
+      "dia": "Mié 27/05",
+      "fechaISO": "2026-05-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 5,
+      "dia": "Mié 27/05",
+      "fechaISO": "2026-05-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (Q)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
