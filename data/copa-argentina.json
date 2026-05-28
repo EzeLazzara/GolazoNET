@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-28T15:54:48.589119",
+  "actualizado": "2026-05-28T22:40:54.775615",
   "bracket": {
     "32avos": [
       {
@@ -414,13 +414,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Noticias de fútbol",
+        "visitante": "Equipos Copa Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Ligas de fútbol",
-        "visitante": "Fútbol en vivo",
+        "local": "Deportivo",
+        "visitante": "Copa de la Liga",
         "goles_l": null,
         "goles_v": null
       },
