@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-05-28T22:40:54.776541",
-  "partidos": []
+  "actualizado": "2026-05-29T15:30:43.323785",
+  "partidos": [
+    {
+      "id": 115,
+      "fecha": 16,
+      "dia": "Vie 29/05",
+      "fechaISO": "2026-05-29",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ferro",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
