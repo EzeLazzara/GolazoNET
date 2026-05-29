@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-29T15:30:43.322903",
+  "actualizado": "2026-05-29T22:27:26.001647",
   "bracket": {
     "32avos": [
       {
@@ -211,7 +211,7 @@
       {
         "local": "Banfield",
         "visitante": "San Martín Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -259,19 +259,19 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Unión de Santa Fe",
         "visitante": "Independiente",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "San Martín San Juan",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -338,18 +338,6 @@
         "local": "Facundo Bruera",
         "visitante": "Tiziano Perrotta",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Fútbol en vivo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Deportes",
-        "visitante": "Ligas de fútbol",
-        "goles_l": null,
         "goles_v": null
       },
       {
@@ -422,6 +410,18 @@
         "local": "Maximiliano Villa",
         "visitante": "Nacho Fernández",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Fútbol argentino",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Liga Profesional Argentina",
+        "visitante": "Deportes",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -509,26 +509,32 @@
         "goles_v": null
       },
       {
-        "local": "Estudiantes",
-        "visitante": "Rosario Central",
+        "local": "Aplazado",
+        "visitante": "Racing Club",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Racing Club",
-        "visitante": "Defensa y Justicia",
+        "local": "Defensa y Justicia",
+        "visitante": "Estudiantes",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Mar 02/06",
-        "visitante": "Barracas Central",
+        "local": "Rosario Central",
+        "visitante": "Mar 02/06",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Huracan",
-        "visitante": "Mié 03/06",
+        "local": "Barracas Central",
+        "visitante": "Huracan",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Mié 03/06",
+        "visitante": "Aplazado",
         "goles_l": null,
         "goles_v": null
       },
