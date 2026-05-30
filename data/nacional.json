@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-29T22:26:44.798041",
+  "actualizado": "2026-05-30T13:28:57.840176",
   "posiciones": [
     {
       "pos": 1,
@@ -27,6 +27,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Ferro",
+      "pj": 15,
+      "pg": 7,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 11,
+      "pts": 25,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Los Andes",
       "pj": 14,
       "pg": 6,
@@ -38,7 +50,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Colón",
       "pj": 14,
       "pg": 6,
@@ -46,18 +58,6 @@
       "pp": 2,
       "gf": 17,
       "gc": 12,
-      "pts": 24,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Ferro",
-      "pj": 14,
-      "pg": 7,
-      "pe": 3,
-      "pp": 4,
-      "gf": 15,
-      "gc": 11,
       "pts": 24,
       "zona": "normal"
     },
@@ -147,6 +147,18 @@
     },
     {
       "pos": 13,
+      "equipo": "Racing (Cba)",
+      "pj": 15,
+      "pg": 4,
+      "pe": 4,
+      "pp": 7,
+      "gf": 13,
+      "gc": 18,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 14,
       "equipo": "San Telmo",
       "pj": 14,
       "pg": 3,
@@ -154,18 +166,6 @@
       "pp": 5,
       "gf": 12,
       "gc": 15,
-      "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "Racing (Cba)",
-      "pj": 14,
-      "pg": 4,
-      "pe": 3,
-      "pp": 7,
-      "gf": 13,
-      "gc": 18,
       "pts": 15,
       "zona": "normal"
     },
