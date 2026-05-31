@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-31T13:45:35.168448",
+  "actualizado": "2026-05-31T21:57:41.324276",
   "bracket": {
     "32avos": [
       {
@@ -283,7 +283,7 @@
       {
         "local": "Estudiantes de La Plata",
         "visitante": "Rosario Central",
-        "goles_l": null,
+        "goles_l": 3,
         "goles_v": null
       },
       {
@@ -353,6 +353,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Resultados de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estadísticas de fútbol",
+        "visitante": "Calendario de partidos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -396,14 +408,14 @@
       },
       {
         "local": "Fernando Alarcón",
-        "visitante": "Hernan De La Fuente",
+        "visitante": "Franco Ibarra",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Franco Fagundez",
-        "visitante": "Franco Vázquez",
-        "goles_l": 1,
+        "local": "Hernan De La Fuente",
+        "visitante": "Franco Fagundez",
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -510,61 +522,67 @@
       },
       {
         "local": "Dom 31/05",
-        "visitante": "Aplazado",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "Defensa y Justicia",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Estudiantes",
         "visitante": "Rosario Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Mar 02/06",
-        "visitante": "Barracas Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Huracan",
-        "visitante": "Mié 03/06",
-        "goles_l": null,
-        "goles_v": null
+        "goles_l": 3,
+        "goles_v": 0
       },
       {
         "local": "Aplazado",
-        "visitante": "San Lorenzo",
+        "visitante": "Racing Club",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Riestra",
-        "visitante": "Dom 07/06",
+        "local": "Defensa y Justicia",
+        "visitante": "Mar 02/06",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Ind. Rivadavia",
-        "visitante": "Tigre",
+        "local": "Barracas Central",
+        "visitante": "Huracan",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "River Plate",
-        "visitante": "Aldosivi",
+        "local": "Mié 03/06",
+        "visitante": "Aplazado",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Sarmiento",
-        "visitante": "Boca Juniors",
+        "local": "San Lorenzo",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Dom 07/06",
+        "visitante": "Ind. Rivadavia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Tigre",
+        "visitante": "River Plate",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Aldosivi",
+        "visitante": "Sarmiento",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
       }

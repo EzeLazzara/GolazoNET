@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-31T13:45:35.170358",
+  "actualizado": "2026-05-31T21:57:41.325624",
   "partidos": [
     {
       "id": 100,
@@ -302,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 115,
       "fecha": 16,
       "dia": "Mié 17/06",
       "fechaISO": "2026-06-17",
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 117,
       "fecha": 18,
       "dia": "Lun 01/06",
       "fechaISO": "2026-06-01",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 118,
       "fecha": 18,
       "dia": "Mar 02/06",
       "fechaISO": "2026-06-02",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 119,
       "fecha": 14,
       "dia": "Lun 01/06",
       "fechaISO": "2026-06-01",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 120,
       "fecha": 14,
       "dia": "Lun 01/06",
       "fechaISO": "2026-06-01",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 121,
       "fecha": 14,
       "dia": "Mié 03/06",
       "fechaISO": "2026-06-03",
