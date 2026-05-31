@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-30T21:59:03.015590",
+  "actualizado": "2026-05-31T13:45:35.168448",
   "bracket": {
     "32avos": [
       {
@@ -277,7 +277,7 @@
       {
         "local": "Instituto",
         "visitante": "Lanus",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -323,6 +323,12 @@
         "visitante": "Independiente",
         "goles_l": null,
         "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "Instituto",
+        "goles_l": null,
+        "goles_v": null
       }
     ],
     "cuartos": [],
@@ -366,38 +372,44 @@
       },
       {
         "local": "Barridas ganadas",
-        "visitante": "Alex Díaz",
+        "visitante": "Agustin Massaccesi",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Alexis Zarate",
-        "visitante": "Arnaldo González",
+        "local": "Alex Díaz",
+        "visitante": "Alexis Zarate",
         "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Brian Duarte",
-        "visitante": "Bruno Dordoni",
+        "local": "Arnaldo González",
+        "visitante": "Brian Duarte",
         "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Franco Fagundez",
+        "visitante": "Carlos Izquierdoz",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Franco Vázquez",
-        "visitante": "Gervasio Nuñez",
+        "local": "Fernando Alarcón",
+        "visitante": "Hernan De La Fuente",
+        "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Franco Fagundez",
+        "visitante": "Franco Vázquez",
         "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Maizon Rodriguez",
-        "visitante": "Tarjetas Amarillas",
-        "goles_l": 1,
+        "local": "Tarjetas Amarillas",
+        "visitante": "Agustín Medina",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -410,24 +422,6 @@
         "local": "Lautaro Gordillo",
         "visitante": "Matías Galarza",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Maximiliano Villa",
-        "visitante": "Nacho Fernández",
-        "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Ligas de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Resultados de fútbol",
-        "visitante": "Deportes",
-        "goles_l": null,
         "goles_v": null
       },
       {
@@ -511,8 +505,8 @@
       {
         "local": "Instituto",
         "visitante": "Lanus",
-        "goles_l": 1,
-        "goles_v": 0
+        "goles_l": 2,
+        "goles_v": 1
       },
       {
         "local": "Dom 31/05",
