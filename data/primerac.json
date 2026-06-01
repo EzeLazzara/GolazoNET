@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-01T17:39:02.685858",
+  "actualizado": "2026-06-01T23:00:13.780843",
   "posiciones": [
     {
       "pos": 1,
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Cañuelas",
+      "pj": 14,
+      "pg": 5,
+      "pe": 7,
+      "pp": 2,
+      "gf": 18,
+      "gc": 12,
+      "pts": 22,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Yupanqui",
       "pj": 14,
       "pg": 5,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "El Porvenir",
       "pj": 14,
       "pg": 4,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Leones de Rosario FC",
       "pj": 14,
       "pg": 5,
@@ -230,19 +242,19 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
-      "equipo": "Cañuelas",
-      "pj": 13,
-      "pg": 4,
-      "pe": 7,
-      "pp": 2,
-      "gf": 16,
-      "gc": 12,
+      "pos": 7,
+      "equipo": "Sp. Barracas",
+      "pj": 14,
+      "pg": 5,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 11,
       "pts": 19,
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Central Cordoba",
       "pj": 14,
       "pg": 4,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Claypole",
       "pj": 14,
       "pg": 4,
@@ -263,18 +275,6 @@
       "gf": 11,
       "gc": 16,
       "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Sp. Barracas",
-      "pj": 13,
-      "pg": 4,
-      "pe": 4,
-      "pp": 5,
-      "gf": 12,
-      "gc": 11,
-      "pts": 16,
       "zona": "normal"
     },
     {
@@ -304,12 +304,12 @@
     {
       "pos": 12,
       "equipo": "CA Atlas",
-      "pj": 13,
+      "pj": 14,
       "pg": 2,
       "pe": 6,
-      "pp": 5,
+      "pp": 6,
       "gf": 9,
-      "gc": 14,
+      "gc": 15,
       "pts": 12,
       "zona": "normal"
     },
@@ -328,12 +328,12 @@
     {
       "pos": 14,
       "equipo": "Fenix",
-      "pj": 13,
+      "pj": 14,
       "pg": 2,
       "pe": 4,
-      "pp": 7,
+      "pp": 8,
       "gf": 5,
-      "gc": 13,
+      "gc": 15,
       "pts": 10,
       "zona": "descenso"
     }
