@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-31T21:57:00.189825",
+  "actualizado": "2026-06-01T17:38:38.073476",
   "posiciones": [
     {
       "pos": 1,
@@ -267,6 +267,30 @@
     },
     {
       "pos": 5,
+      "equipo": "Atlético Rafaela",
+      "pj": 15,
+      "pg": 6,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 12,
+      "pts": 22,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
+      "equipo": "Maipú",
+      "pj": 15,
+      "pg": 6,
+      "pe": 3,
+      "pp": 6,
+      "gf": 22,
+      "gc": 18,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "San Martín (T)",
       "pj": 15,
       "pg": 5,
@@ -278,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 8,
       "equipo": "San Martín",
       "pj": 15,
       "pg": 5,
@@ -290,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 9,
       "equipo": "Temperley",
       "pj": 15,
       "pg": 4,
@@ -302,7 +326,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 10,
       "equipo": "Chicago",
       "pj": 14,
       "pg": 4,
@@ -314,7 +338,19 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 11,
+      "equipo": "Chacarita",
+      "pj": 15,
+      "pg": 5,
+      "pe": 3,
+      "pp": 7,
+      "gf": 14,
+      "gc": 17,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
       "equipo": "Patronato",
       "pj": 15,
       "pg": 4,
@@ -326,7 +362,19 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 13,
+      "equipo": "Quilmes",
+      "pj": 15,
+      "pg": 4,
+      "pe": 5,
+      "pp": 6,
+      "gf": 14,
+      "gc": 11,
+      "pts": 17,
+      "zona": "normal"
+    },
+    {
+      "pos": 14,
       "equipo": "Gimnasia y Tiro",
       "pj": 15,
       "pg": 4,
@@ -335,10 +383,10 @@
       "gf": 15,
       "gc": 18,
       "pts": 17,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 11,
+      "pos": 15,
       "equipo": "Colegiales",
       "pj": 15,
       "pg": 4,
@@ -347,42 +395,6 @@
       "gf": 12,
       "gc": 15,
       "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Agropecuario",
-      "pj": 15,
-      "pg": 4,
-      "pe": 5,
-      "pp": 6,
-      "gf": 12,
-      "gc": 17,
-      "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Güemes",
-      "pj": 15,
-      "pg": 4,
-      "pe": 4,
-      "pp": 7,
-      "gf": 15,
-      "gc": 23,
-      "pts": 16,
-      "zona": "descenso"
-    },
-    {
-      "pos": 14,
-      "equipo": "Almagro",
-      "pj": 15,
-      "pg": 4,
-      "pe": 3,
-      "pp": 8,
-      "gf": 11,
-      "gc": 18,
-      "pts": 15,
       "zona": "descenso"
     }
   ]
