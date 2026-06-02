@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-01T23:00:30.724943",
+  "actualizado": "2026-06-02T16:25:14.638232",
   "partidos": [
     {
       "id": 100,
@@ -318,26 +318,6 @@
         "goles": null
       },
       "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 18,
-      "dia": "Mar 02/06",
-      "fechaISO": "2026-06-02",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
