@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-02T16:25:14.636840",
+  "actualizado": "2026-06-02T23:00:39.021964",
   "bracket": {
     "32avos": [
       {
@@ -350,6 +350,18 @@
         "local": "Emiliano Rigoni",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Primera Nacional Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol argentino",
+        "visitante": "Liga Profesional Argentina",
+        "goles_l": null,
         "goles_v": null
       },
       {
