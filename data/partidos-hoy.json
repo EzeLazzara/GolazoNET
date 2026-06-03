@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-06-02T23:00:39.023134",
-  "partidos": []
+  "actualizado": "2026-06-03T16:49:23.360413",
+  "partidos": [
+    {
+      "id": 144,
+      "fecha": 14,
+      "dia": "Mié 03/06",
+      "fechaISO": "2026-06-03",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Berazategui",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

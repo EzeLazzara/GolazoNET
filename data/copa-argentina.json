@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-02T23:00:39.021964",
+  "actualizado": "2026-06-03T16:49:23.359688",
   "bracket": {
     "32avos": [
       {
@@ -289,7 +289,7 @@
       {
         "local": "Barracas Central",
         "visitante": "Huracan",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -329,6 +329,12 @@
         "visitante": "Instituto",
         "goles_l": null,
         "goles_v": null
+      },
+      {
+        "local": "Estudiantes de La Plata",
+        "visitante": "Barracas Central",
+        "goles_l": null,
+        "goles_v": null
       }
     ],
     "cuartos": [],
@@ -350,18 +356,6 @@
         "local": "Emiliano Rigoni",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Primera Nacional Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Fútbol argentino",
-        "visitante": "Liga Profesional Argentina",
-        "goles_l": null,
         "goles_v": null
       },
       {
@@ -431,8 +425,8 @@
         "goles_v": null
       },
       {
-        "local": "Lautaro Gordillo",
-        "visitante": "Matías Galarza",
+        "local": "Facundo Bruera",
+        "visitante": "Lautaro Gordillo",
         "goles_l": 2,
         "goles_v": null
       },
@@ -547,8 +541,8 @@
       {
         "local": "Barracas Central",
         "visitante": "Huracan",
-        "goles_l": null,
-        "goles_v": null
+        "goles_l": 1,
+        "goles_v": 0
       },
       {
         "local": "Mié 03/06",
