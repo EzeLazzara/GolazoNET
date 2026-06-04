@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-03T23:04:39.477617",
+  "actualizado": "2026-06-04T15:15:00.826359",
   "bracket": {
     "32avos": [
       {
@@ -293,6 +293,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Turismo en Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Camisetas de Argentina",
+        "visitante": "Historia Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Mié 22/04",
         "visitante": "Final",
         "goles_l": null,
@@ -340,6 +352,18 @@
     "cuartos": [],
     "semifinales": [],
     "final": [
+      {
+        "local": "Ver más",
+        "visitante": "Deportes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Noticias de fútbol",
+        "visitante": "Análisis de resultados",
+        "goles_l": null,
+        "goles_v": null
+      },
       {
         "local": "Goles",
         "visitante": "Adam Bareiro",
@@ -428,18 +452,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Productos argentinos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Fútbol internacional",
-        "visitante": "Deportes",
-        "goles_l": null,
         "goles_v": null
       },
       {
