@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-04T22:19:04.615455",
+  "actualizado": "2026-06-05T14:51:27.274206",
   "bracket": {
     "32avos": [
       {
@@ -293,18 +293,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Copa Argentina merchandise",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Fútbol apuestas deportivas",
-        "visitante": "Análisis de resultados",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Mié 22/04",
         "visitante": "Final",
         "goles_l": null,
@@ -353,18 +341,6 @@
     "semifinales": [],
     "final": [
       {
-        "local": "Ver más",
-        "visitante": "Equipos de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Fútbol internacional",
-        "visitante": "Sportivo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Goles",
         "visitante": "Adam Bareiro",
         "goles_l": null,
@@ -390,13 +366,13 @@
       },
       {
         "local": "Santiago Lopéz",
-        "visitante": "Facundo Valdez",
+        "visitante": "Tiago Palacios",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Marcelo Torres",
-        "visitante": "Nicolás Laméndola",
+        "local": "Facundo Valdez",
+        "visitante": "Marcelo Torres",
         "goles_l": 2,
         "goles_v": null
       },
@@ -420,20 +396,20 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Carlos Izquierdoz",
+        "visitante": "Franco Ibarra",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fernando Alarcón",
-        "visitante": "Franco Ibarra",
-        "goles_l": 2,
+        "local": "Carlos Izquierdoz",
+        "visitante": "Fernando Alarcón",
+        "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Hernan De La Fuente",
-        "visitante": "Franco Fagundez",
-        "goles_l": 2,
+        "local": "Franco Fagundez",
+        "visitante": "Franco Vázquez",
+        "goles_l": 1,
         "goles_v": null
       },
       {
