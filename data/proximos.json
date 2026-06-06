@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-06T13:42:47.185566",
+  "actualizado": "2026-06-06T22:01:11.545987",
   "partidos": [
     {
       "id": 100,
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 116,
       "fecha": 19,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 117,
       "fecha": 19,
       "dia": "Lun 08/06",
       "fechaISO": "2026-06-08",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 118,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 119,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 120,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -422,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 121,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -442,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 122,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -462,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 123,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -482,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 124,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -502,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 125,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -522,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 126,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -542,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 127,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -562,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 128,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -582,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 129,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -602,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 130,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -622,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 131,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -642,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 132,
       "fecha": 12,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -662,7 +662,7 @@
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 133,
       "fecha": 15,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -682,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 134,
       "fecha": 15,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -702,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 135,
       "fecha": 15,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -722,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 136,
       "fecha": 15,
       "dia": "Dom 07/06",
       "fechaISO": "2026-06-07",
@@ -742,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 137,
       "fecha": 15,
       "dia": "Lun 08/06",
       "fechaISO": "2026-06-08",

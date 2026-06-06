@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-06T13:42:05.912885",
+  "actualizado": "2026-06-06T22:00:28.314871",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Los Andes",
+      "pj": 16,
+      "pg": 6,
+      "pe": 8,
+      "pp": 2,
+      "gf": 12,
+      "gc": 4,
+      "pts": 26,
+      "zona": "promotion"
+    },
+    {
+      "pos": 3,
       "equipo": "Bolivar",
       "pj": 15,
       "pg": 6,
@@ -23,18 +35,6 @@
       "gf": 13,
       "gc": 8,
       "pts": 26,
-      "zona": "promotion"
-    },
-    {
-      "pos": 3,
-      "equipo": "Los Andes",
-      "pj": 15,
-      "pg": 6,
-      "pe": 7,
-      "pp": 2,
-      "gf": 12,
-      "gc": 4,
-      "pts": 25,
       "zona": "normal"
     },
     {
@@ -87,6 +87,18 @@
     },
     {
       "pos": 8,
+      "equipo": "Defensores",
+      "pj": 16,
+      "pg": 4,
+      "pe": 8,
+      "pp": 4,
+      "gf": 12,
+      "gc": 12,
+      "pts": 20,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Alte. Brown",
       "pj": 15,
       "pg": 5,
@@ -98,43 +110,43 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "Defensores",
-      "pj": 15,
-      "pg": 4,
-      "pe": 7,
-      "pp": 4,
-      "gf": 12,
-      "gc": 12,
-      "pts": 19,
-      "zona": "normal"
-    },
-    {
       "pos": 10,
       "equipo": "Estudiantes",
-      "pj": 15,
+      "pj": 16,
       "pg": 5,
-      "pe": 4,
+      "pe": 5,
       "pp": 6,
       "gf": 10,
       "gc": 13,
-      "pts": 19,
+      "pts": 20,
       "zona": "normal"
     },
     {
       "pos": 11,
       "equipo": "San Miguel",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
-      "pe": 7,
+      "pe": 8,
       "pp": 4,
       "gf": 12,
       "gc": 17,
-      "pts": 19,
+      "pts": 20,
       "zona": "normal"
     },
     {
       "pos": 12,
+      "equipo": "Acassuso",
+      "pj": 16,
+      "pg": 5,
+      "pe": 3,
+      "pp": 8,
+      "gf": 11,
+      "gc": 15,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "CA Mitre",
       "pj": 15,
       "pg": 3,
@@ -146,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Racing (Cba)",
       "pj": 15,
       "pg": 4,
@@ -158,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "San Telmo",
       "pj": 15,
       "pg": 3,
@@ -166,18 +178,6 @@
       "pp": 6,
       "gf": 12,
       "gc": 16,
-      "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "Acassuso",
-      "pj": 15,
-      "pg": 4,
-      "pe": 3,
-      "pp": 8,
-      "gf": 9,
-      "gc": 14,
       "pts": 15,
       "zona": "normal"
     },
@@ -196,12 +196,12 @@
     {
       "pos": 17,
       "equipo": "Central Norte",
-      "pj": 15,
+      "pj": 16,
       "pg": 3,
       "pe": 5,
-      "pp": 7,
-      "gf": 9,
-      "gc": 14,
+      "pp": 8,
+      "gf": 10,
+      "gc": 16,
       "pts": 14,
       "zona": "normal"
     },
@@ -220,24 +220,24 @@
     {
       "pos": 1,
       "equipo": "Atlanta",
-      "pj": 15,
-      "pg": 8,
+      "pj": 16,
+      "pg": 9,
       "pe": 3,
       "pp": 4,
-      "gf": 18,
+      "gf": 21,
       "gc": 10,
-      "pts": 27,
+      "pts": 30,
       "zona": "normal"
     },
     {
       "pos": 2,
       "equipo": "Gimnasia (J)",
-      "pj": 14,
+      "pj": 15,
       "pg": 8,
       "pe": 3,
-      "pp": 3,
+      "pp": 4,
       "gf": 21,
-      "gc": 15,
+      "gc": 18,
       "pts": 27,
       "zona": "normal"
     },
@@ -268,13 +268,13 @@
     {
       "pos": 5,
       "equipo": "Atlético Rafaela",
-      "pj": 15,
-      "pg": 6,
+      "pj": 16,
+      "pg": 7,
       "pe": 4,
       "pp": 5,
-      "gf": 13,
+      "gf": 14,
       "gc": 12,
-      "pts": 22,
+      "pts": 25,
       "zona": "normal"
     },
     {
@@ -388,12 +388,12 @@
     {
       "pos": 15,
       "equipo": "Colegiales",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
       "pe": 5,
-      "pp": 6,
+      "pp": 7,
       "gf": 12,
-      "gc": 15,
+      "gc": 16,
       "pts": 17,
       "zona": "descenso"
     }
