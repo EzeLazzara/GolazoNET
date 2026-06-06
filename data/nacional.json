@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-05T22:13:05.169645",
+  "actualizado": "2026-06-06T13:42:05.912885",
   "posiciones": [
     {
       "pos": 1,
@@ -244,12 +244,12 @@
     {
       "pos": 3,
       "equipo": "Midland",
-      "pj": 15,
+      "pj": 16,
       "pg": 7,
       "pe": 4,
-      "pp": 4,
+      "pp": 5,
       "gf": 17,
-      "gc": 10,
+      "gc": 11,
       "pts": 25,
       "zona": "normal"
     },
@@ -315,6 +315,18 @@
     },
     {
       "pos": 9,
+      "equipo": "Gimnasia y Tiro",
+      "pj": 16,
+      "pg": 5,
+      "pe": 5,
+      "pp": 6,
+      "gf": 16,
+      "gc": 18,
+      "pts": 20,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "Temperley",
       "pj": 15,
       "pg": 4,
@@ -326,7 +338,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Chicago",
       "pj": 14,
       "pg": 4,
@@ -338,7 +350,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Chacarita",
       "pj": 15,
       "pg": 5,
@@ -350,7 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Patronato",
       "pj": 15,
       "pg": 4,
@@ -362,7 +374,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Quilmes",
       "pj": 15,
       "pg": 4,
@@ -370,18 +382,6 @@
       "pp": 6,
       "gf": 14,
       "gc": 11,
-      "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "Gimnasia y Tiro",
-      "pj": 15,
-      "pg": 4,
-      "pe": 5,
-      "pp": 6,
-      "gf": 15,
-      "gc": 18,
       "pts": 17,
       "zona": "descenso"
     },
