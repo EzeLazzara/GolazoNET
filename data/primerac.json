@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-07T13:52:26.761795",
+  "actualizado": "2026-06-07T22:01:55.213216",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Victoriano",
+      "pj": 15,
+      "pg": 6,
+      "pe": 6,
+      "pp": 3,
+      "gf": 15,
+      "gc": 9,
+      "pts": 24,
+      "zona": "promotion"
+    },
+    {
+      "pos": 3,
       "equipo": "Centro Español",
       "pj": 15,
       "pg": 6,
@@ -23,10 +35,10 @@
       "gf": 22,
       "gc": 14,
       "pts": 23,
-      "zona": "promotion"
+      "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Berazategui",
       "pj": 14,
       "pg": 5,
@@ -38,7 +50,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Estrella del Sur",
       "pj": 15,
       "pg": 5,
@@ -47,18 +59,6 @@
       "gf": 15,
       "gc": 14,
       "pts": 22,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Victoriano",
-      "pj": 14,
-      "pg": 5,
-      "pe": 6,
-      "pp": 3,
-      "gf": 14,
-      "gc": 9,
-      "pts": 21,
       "zona": "normal"
     },
     {
@@ -76,12 +76,12 @@
     {
       "pos": 7,
       "equipo": "Cambaceres",
-      "pj": 14,
+      "pj": 15,
       "pg": 5,
       "pe": 5,
-      "pp": 4,
+      "pp": 5,
       "gf": 14,
-      "gc": 13,
+      "gc": 14,
       "pts": 20,
       "zona": "normal"
     },
@@ -171,18 +171,30 @@
     },
     {
       "pos": 1,
-      "equipo": "Lamadrid",
-      "pj": 14,
+      "equipo": "Luján",
+      "pj": 15,
       "pg": 7,
       "pe": 5,
-      "pp": 2,
-      "gf": 16,
-      "gc": 10,
+      "pp": 3,
+      "gf": 18,
+      "gc": 11,
       "pts": 26,
       "zona": "normal"
     },
     {
       "pos": 2,
+      "equipo": "Lamadrid",
+      "pj": 15,
+      "pg": 7,
+      "pe": 5,
+      "pp": 3,
+      "gf": 16,
+      "gc": 11,
+      "pts": 26,
+      "zona": "normal"
+    },
+    {
+      "pos": 3,
       "equipo": "Yupanqui",
       "pj": 15,
       "pg": 6,
@@ -194,7 +206,7 @@
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Leones de Rosario FC",
       "pj": 15,
       "pg": 6,
@@ -206,39 +218,27 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
-      "equipo": "Luján",
-      "pj": 14,
-      "pg": 6,
-      "pe": 5,
-      "pp": 3,
-      "gf": 17,
-      "gc": 11,
-      "pts": 23,
-      "zona": "normal"
-    },
-    {
       "pos": 5,
       "equipo": "Cañuelas",
-      "pj": 14,
+      "pj": 15,
       "pg": 5,
-      "pe": 7,
+      "pe": 8,
       "pp": 2,
       "gf": 18,
       "gc": 12,
-      "pts": 22,
+      "pts": 23,
       "zona": "normal"
     },
     {
       "pos": 6,
       "equipo": "El Porvenir",
-      "pj": 14,
+      "pj": 15,
       "pg": 4,
-      "pe": 9,
+      "pe": 10,
       "pp": 1,
       "gf": 14,
       "gc": 11,
-      "pts": 21,
+      "pts": 22,
       "zona": "normal"
     },
     {
@@ -292,17 +292,29 @@
     {
       "pos": 11,
       "equipo": "Central Ballester",
-      "pj": 14,
+      "pj": 15,
       "pg": 4,
       "pe": 4,
-      "pp": 6,
+      "pp": 7,
       "gf": 14,
-      "gc": 14,
+      "gc": 18,
       "pts": 16,
       "zona": "normal"
     },
     {
       "pos": 12,
+      "equipo": "Muñiz",
+      "pj": 15,
+      "pg": 2,
+      "pe": 7,
+      "pp": 6,
+      "gf": 11,
+      "gc": 14,
+      "pts": 13,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "CA Atlas",
       "pj": 15,
       "pg": 2,
@@ -311,10 +323,10 @@
       "gf": 10,
       "gc": 16,
       "pts": 13,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Fenix",
       "pj": 15,
       "pg": 2,
@@ -323,18 +335,6 @@
       "gf": 6,
       "gc": 16,
       "pts": 11,
-      "zona": "descenso"
-    },
-    {
-      "pos": 14,
-      "equipo": "Muñiz",
-      "pj": 14,
-      "pg": 1,
-      "pe": 7,
-      "pp": 6,
-      "gf": 7,
-      "gc": 14,
-      "pts": 10,
       "zona": "descenso"
     }
   ]
