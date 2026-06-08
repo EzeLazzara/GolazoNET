@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-06-08T15:52:43.482060",
+  "actualizado": "2026-06-08T22:24:08.949496",
   "posiciones": [
     {
       "pos": 1,
+      "equipo": "Berazategui",
+      "pj": 15,
+      "pg": 6,
+      "pe": 7,
+      "pp": 2,
+      "gf": 20,
+      "gc": 11,
+      "pts": 25,
+      "zona": "promotion"
+    },
+    {
+      "pos": 2,
       "equipo": "Sacachispas",
       "pj": 15,
       "pg": 7,
@@ -14,7 +26,7 @@
       "zona": "promotion"
     },
     {
-      "pos": 2,
+      "pos": 3,
       "equipo": "Victoriano",
       "pj": 15,
       "pg": 6,
@@ -23,10 +35,10 @@
       "gf": 15,
       "gc": 9,
       "pts": 24,
-      "zona": "promotion"
+      "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Centro Español",
       "pj": 15,
       "pg": 6,
@@ -35,18 +47,6 @@
       "gf": 22,
       "gc": 14,
       "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Berazategui",
-      "pj": 14,
-      "pg": 5,
-      "pe": 7,
-      "pp": 2,
-      "gf": 18,
-      "gc": 10,
-      "pts": 22,
       "zona": "normal"
     },
     {
@@ -136,12 +136,12 @@
     {
       "pos": 12,
       "equipo": "Juventud Unida SM",
-      "pj": 14,
+      "pj": 15,
       "pg": 3,
       "pe": 6,
-      "pp": 5,
-      "gf": 12,
-      "gc": 16,
+      "pp": 6,
+      "gf": 13,
+      "gc": 18,
       "pts": 15,
       "zona": "normal"
     },
