@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-06-09T14:50:56.760989",
+  "actualizado": "2026-06-09T22:21:50.710098",
   "bracket": {
     "32avos": [
       {
         "local": "San Lorenzo",
-        "visitante": "Deportivo Rincón",
+        "visitante": "Deportivo Rincón Deportes",
         "goles_l": 5,
         "goles_v": null
       },
@@ -130,7 +130,7 @@
       },
       {
         "local": "Atlético Tucumán",
-        "visitante": "Sportivo Barracas",
+        "visitante": "Sportivo Barracas Deportes",
         "goles_l": 2,
         "goles_v": null
       },
@@ -294,13 +294,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Streaming de partidos",
+        "visitante": "Camisetas de Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol internacional",
-        "visitante": "Equipos de fútbol",
+        "local": "Análisis de resultados",
+        "visitante": "Turismo en Argentina",
         "goles_l": null,
         "goles_v": null
       },
@@ -372,13 +372,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Productos argentinos",
+        "visitante": "Fútbol internacional",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Análisis de resultados",
-        "visitante": "Deportivo",
+        "local": "Entradas Copa Argentina",
+        "visitante": "Estadísticas en vivo",
         "goles_l": null,
         "goles_v": null
       },
