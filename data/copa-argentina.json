@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-06-10T15:37:09.861467",
+  "actualizado": "2026-06-10T22:51:12.388290",
   "bracket": {
     "32avos": [
       {
         "local": "San Lorenzo",
-        "visitante": "Deportivo Rincón Deportes",
+        "visitante": "Deportivo Rincón",
         "goles_l": 5,
         "goles_v": null
       },
@@ -130,7 +130,7 @@
       },
       {
         "local": "Atlético Tucumán",
-        "visitante": "Sportivo Barracas Deportes",
+        "visitante": "Sportivo Barracas",
         "goles_l": 2,
         "goles_v": null
       },
@@ -293,18 +293,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Productos argentinos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Análisis de resultados",
-        "visitante": "Noticias de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Mié 22/04",
         "visitante": "Final",
         "goles_l": null,
@@ -368,18 +356,6 @@
         "local": "Emiliano Rigoni",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Viajes a Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Deportes",
-        "visitante": "Turismo en Argentina",
-        "goles_l": null,
         "goles_v": null
       },
       {
