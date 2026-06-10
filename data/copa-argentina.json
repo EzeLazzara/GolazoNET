@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-09T22:21:50.710098",
+  "actualizado": "2026-06-10T15:37:09.861467",
   "bracket": {
     "32avos": [
       {
@@ -294,13 +294,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Camisetas de Argentina",
+        "visitante": "Productos argentinos",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Análisis de resultados",
-        "visitante": "Turismo en Argentina",
+        "visitante": "Noticias de fútbol",
         "goles_l": null,
         "goles_v": null
       },
@@ -372,13 +372,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Fútbol internacional",
+        "visitante": "Viajes a Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Entradas Copa Argentina",
-        "visitante": "Estadísticas en vivo",
+        "local": "Deportes",
+        "visitante": "Turismo en Argentina",
         "goles_l": null,
         "goles_v": null
       },
