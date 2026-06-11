@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-11T16:01:06.758000",
+  "actualizado": "2026-06-11T22:49:38.195038",
   "bracket": {
     "32avos": [
       {
@@ -356,6 +356,18 @@
         "local": "Emiliano Rigoni",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Calendario Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Camisetas de Argentina",
+        "visitante": "Entradas Copa Argentina",
+        "goles_l": null,
         "goles_v": null
       },
       {
