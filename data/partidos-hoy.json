@@ -1,4 +1,65 @@
 {
-  "actualizado": "2026-06-11T22:49:38.196034",
-  "partidos": []
+  "actualizado": "2026-06-12T14:58:42.128753",
+  "partidos": [
+    {
+      "id": 116,
+      "fecha": 20,
+      "dia": "Vie 12/06",
+      "fechaISO": "2026-06-12",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 13,
+      "dia": "Vie 12/06",
+      "fechaISO": "2026-06-12",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Juv. Antoniana",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (LB)",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 16,
+      "dia": "Vie 12/06",
+      "fechaISO": "2026-06-12",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Cambaceres",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Berazategui",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

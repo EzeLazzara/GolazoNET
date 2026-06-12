@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-06-11T22:49:38.195038",
+  "actualizado": "2026-06-12T14:58:42.127801",
   "bracket": {
     "32avos": [
       {
         "local": "San Lorenzo",
-        "visitante": "Deportivo Rincón Deportes",
+        "visitante": "Deportivo Rincón",
         "goles_l": 5,
         "goles_v": null
       },
@@ -130,7 +130,7 @@
       },
       {
         "local": "Atlético Tucumán",
-        "visitante": "Sportivo Barracas Deportes",
+        "visitante": "Sportivo Barracas",
         "goles_l": 2,
         "goles_v": null
       },
@@ -359,33 +359,33 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Calendario Copa Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Camisetas de Argentina",
-        "visitante": "Entradas Copa Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Tiago Palacios",
-        "visitante": "Facundo Valdez",
+        "local": "Santiago Lopéz",
+        "visitante": "Tiago Palacios",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Marcelo Torres",
-        "visitante": "Nicolás Laméndola",
+        "local": "Facundo Valdez",
+        "visitante": "Marcelo Torres",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Promiedos app móvil",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Pronósticos Copa Argentina",
+        "visitante": "Entradas Copa Argentina",
+        "goles_l": null,
         "goles_v": null
       },
       {
