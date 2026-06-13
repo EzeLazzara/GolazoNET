@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-12T22:23:00.800152",
+  "actualizado": "2026-06-13T13:59:47.069505",
   "partidos": [
     {
       "id": 100,
@@ -322,147 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 123,
-      "fecha": 20,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
       "fecha": 20,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -482,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 124,
       "fecha": 20,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -502,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 20,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -524,46 +384,6 @@
     {
       "id": 128,
       "fecha": 13,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Atlético Escobar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "9 de Julio (R)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
-      "fecha": 13,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Sportivo LP",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
-        "goles": null
-      },
-      "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 130,
-      "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
       "esHoy": false,
@@ -582,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 129,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -602,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 130,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -622,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 131,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -642,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 132,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -662,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 133,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -682,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 134,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -702,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 135,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -722,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 136,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -742,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 137,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -762,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 138,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -782,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 139,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -802,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 140,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -822,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 141,
       "fecha": 13,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",
@@ -842,87 +662,7 @@
       "estado": "programado"
     },
     {
-      "id": 144,
-      "fecha": 16,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Leandro N. Alem",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 145,
-      "fecha": 16,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 146,
-      "fecha": 16,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 147,
-      "fecha": 16,
-      "dia": "Sáb 13/06",
-      "fechaISO": "2026-06-13",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "El Porvenir",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 148,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -942,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 147,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -962,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 148,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -982,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 149,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -1002,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 150,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -1022,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 151,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -1042,7 +782,7 @@
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 152,
       "fecha": 16,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",
@@ -1062,7 +802,7 @@
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 153,
       "fecha": 16,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",
@@ -1082,7 +822,7 @@
       "estado": "programado"
     },
     {
-      "id": 156,
+      "id": 154,
       "fecha": 16,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",

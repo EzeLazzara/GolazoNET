@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-12T22:23:00.798869",
+  "actualizado": "2026-06-13T13:59:47.068073",
   "bracket": {
     "32avos": [
       {
@@ -527,14 +527,8 @@
         "goles_v": 0
       },
       {
-        "local": "Aplazado",
-        "visitante": "Racing Club",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Defensa y Justicia",
-        "visitante": "Mar 02/06",
+        "local": "Mar 02/06",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
