@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-13T13:59:47.069505",
+  "actualizado": "2026-06-13T22:00:48.992509",
   "partidos": [
     {
       "id": 100,
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 116,
       "fecha": 20,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 117,
       "fecha": 20,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 118,
       "fecha": 20,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 119,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 120,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -422,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 121,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -442,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 122,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -462,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 123,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -482,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 124,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -502,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 125,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -522,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 126,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -542,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 127,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -562,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 128,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -582,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 129,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -602,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 130,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -622,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 131,
       "fecha": 13,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -642,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 132,
       "fecha": 13,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",
@@ -662,7 +662,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 133,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -682,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 134,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -702,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 135,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -722,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 136,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -742,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 137,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -762,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 138,
       "fecha": 16,
       "dia": "Dom 14/06",
       "fechaISO": "2026-06-14",
@@ -782,7 +782,7 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 139,
       "fecha": 16,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",
@@ -802,7 +802,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 140,
       "fecha": 16,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",
@@ -822,7 +822,7 @@
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 141,
       "fecha": 16,
       "dia": "Lun 15/06",
       "fechaISO": "2026-06-15",

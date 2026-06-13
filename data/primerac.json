@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-13T13:59:30.372094",
+  "actualizado": "2026-06-13T22:00:32.147133",
   "posiciones": [
     {
       "pos": 1,
@@ -28,13 +28,13 @@
     {
       "pos": 3,
       "equipo": "Victoriano",
-      "pj": 15,
+      "pj": 16,
       "pg": 6,
-      "pe": 6,
+      "pe": 7,
       "pp": 3,
       "gf": 15,
       "gc": 9,
-      "pts": 24,
+      "pts": 25,
       "zona": "normal"
     },
     {
@@ -64,13 +64,13 @@
     {
       "pos": 6,
       "equipo": "Leandro N. Alem",
-      "pj": 15,
+      "pj": 16,
       "pg": 6,
-      "pe": 3,
+      "pe": 4,
       "pp": 6,
       "gf": 21,
       "gc": 28,
-      "pts": 21,
+      "pts": 22,
       "zona": "normal"
     },
     {
@@ -148,25 +148,25 @@
     {
       "pos": 13,
       "equipo": "Paraguayo",
-      "pj": 15,
+      "pj": 16,
       "pg": 3,
-      "pe": 5,
+      "pe": 6,
       "pp": 7,
       "gf": 10,
       "gc": 22,
-      "pts": 14,
+      "pts": 15,
       "zona": "normal"
     },
     {
       "pos": 14,
       "equipo": "JJ Urquiza",
-      "pj": 15,
+      "pj": 16,
       "pg": 2,
-      "pe": 7,
+      "pe": 8,
       "pp": 6,
       "gf": 6,
       "gc": 13,
-      "pts": 13,
+      "pts": 14,
       "zona": "normal"
     },
     {
@@ -232,17 +232,29 @@
     {
       "pos": 6,
       "equipo": "El Porvenir",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
       "pe": 10,
-      "pp": 1,
+      "pp": 2,
       "gf": 14,
-      "gc": 11,
+      "gc": 12,
       "pts": 22,
       "zona": "normal"
     },
     {
       "pos": 7,
+      "equipo": "Dep. Español",
+      "pj": 16,
+      "pg": 4,
+      "pe": 9,
+      "pp": 3,
+      "gf": 13,
+      "gc": 11,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Sp. Barracas",
       "pj": 15,
       "pg": 5,
@@ -254,26 +266,14 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
-      "equipo": "Dep. Español",
-      "pj": 15,
-      "pg": 3,
-      "pe": 9,
-      "pp": 3,
-      "gf": 12,
-      "gc": 11,
-      "pts": 18,
-      "zona": "normal"
-    },
-    {
       "pos": 9,
       "equipo": "Central Cordoba",
-      "pj": 15,
+      "pj": 16,
       "pg": 4,
       "pe": 6,
-      "pp": 5,
+      "pp": 6,
       "gf": 12,
-      "gc": 13,
+      "gc": 14,
       "pts": 18,
       "zona": "normal"
     },
@@ -303,6 +303,18 @@
     },
     {
       "pos": 12,
+      "equipo": "CA Atlas",
+      "pj": 16,
+      "pg": 3,
+      "pe": 7,
+      "pp": 6,
+      "gf": 11,
+      "gc": 16,
+      "pts": 16,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "Muñiz",
       "pj": 15,
       "pg": 2,
@@ -310,18 +322,6 @@
       "pp": 6,
       "gf": 11,
       "gc": 14,
-      "pts": 13,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "CA Atlas",
-      "pj": 15,
-      "pg": 2,
-      "pe": 7,
-      "pp": 6,
-      "gf": 10,
-      "gc": 16,
       "pts": 13,
       "zona": "descenso"
     },
