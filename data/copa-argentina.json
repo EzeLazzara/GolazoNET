@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-13T22:00:48.991165",
+  "actualizado": "2026-06-14T14:02:51.406519",
   "bracket": {
     "32avos": [
       {
@@ -291,18 +291,6 @@
         "visitante": "Huracan",
         "goles_l": 1,
         "goles_v": null
-      },
-      {
-        "local": "Mié 22/04",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Acassuso",
-        "visitante": "Gimnasia LP",
-        "goles_l": 0,
-        "goles_v": 3
       }
     ],
     "octavos": [
@@ -333,6 +321,36 @@
       {
         "local": "Estudiantes de La Plata",
         "visitante": "Barracas Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Dom 30/08",
+        "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Midland",
+        "visitante": "Atletico Tucuman",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Estudiantes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Barracas Central",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
       }
@@ -429,114 +447,6 @@
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
         "goles_v": null
-      },
-      {
-        "local": "Morón",
-        "visitante": "Midland",
-        "goles_l": 1,
-        "goles_v": 2
-      },
-      {
-        "local": "Jue 30/04",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Velez Sarsfield",
-        "visitante": "Gimnasia y Tiro",
-        "goles_l": 2,
-        "goles_v": 0
-      },
-      {
-        "local": "Vie 08/05",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Banfield",
-        "visitante": "San Martín (T)",
-        "goles_l": 1,
-        "goles_v": 1
-      },
-      {
-        "local": "Mié 13/05",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Platense",
-        "visitante": "San Martín",
-        "goles_l": 0,
-        "goles_v": 0
-      },
-      {
-        "local": "Mié 20/05",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Talleres",
-        "visitante": "Atletico Tucuman",
-        "goles_l": 0,
-        "goles_v": 3
-      },
-      {
-        "local": "Vie 22/05",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Union Santa Fe",
-        "visitante": "Independiente",
-        "goles_l": 0,
-        "goles_v": 2
-      },
-      {
-        "local": "Sáb 30/05",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Gimnasia (J)",
-        "visitante": "Belgrano",
-        "goles_l": 2,
-        "goles_v": 2
-      },
-      {
-        "local": "Instituto",
-        "visitante": "Lanus",
-        "goles_l": 2,
-        "goles_v": 1
-      },
-      {
-        "local": "Dom 31/05",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes",
-        "visitante": "Rosario Central",
-        "goles_l": 3,
-        "goles_v": 0
-      },
-      {
-        "local": "Mar 02/06",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Barracas Central",
-        "visitante": "Huracan",
-        "goles_l": 1,
-        "goles_v": 0
       }
     ]
   }
