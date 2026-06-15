@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-15T17:15:32.254730",
+  "actualizado": "2026-06-15T23:00:50.523593",
   "bracket": {
     "32avos": [
       {
@@ -378,13 +378,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Camisetas de fútbol",
+        "visitante": "Liga Profesional Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol Argentino",
-        "visitante": "Selección Argentina",
+        "local": "Calendario Copa Argentina",
+        "visitante": "Análisis de partidos",
         "goles_l": null,
         "goles_v": null
       },

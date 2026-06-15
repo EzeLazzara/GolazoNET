@@ -1,8 +1,32 @@
 {
-  "actualizado": "2026-06-15T17:15:14.581475",
+  "actualizado": "2026-06-15T23:00:30.140171",
   "posiciones": [
     {
       "pos": 1,
+      "equipo": "Berazategui",
+      "pj": 16,
+      "pg": 7,
+      "pe": 7,
+      "pp": 2,
+      "gf": 21,
+      "gc": 11,
+      "pts": 28,
+      "zona": "promotion"
+    },
+    {
+      "pos": 2,
+      "equipo": "Sacachispas",
+      "pj": 16,
+      "pg": 8,
+      "pe": 4,
+      "pp": 4,
+      "gf": 21,
+      "gc": 13,
+      "pts": 28,
+      "zona": "promotion"
+    },
+    {
+      "pos": 3,
       "equipo": "Centro Español",
       "pj": 16,
       "pg": 7,
@@ -11,30 +35,6 @@
       "gf": 24,
       "gc": 14,
       "pts": 26,
-      "zona": "promotion"
-    },
-    {
-      "pos": 2,
-      "equipo": "Berazategui",
-      "pj": 15,
-      "pg": 6,
-      "pe": 7,
-      "pp": 2,
-      "gf": 20,
-      "gc": 11,
-      "pts": 25,
-      "zona": "promotion"
-    },
-    {
-      "pos": 3,
-      "equipo": "Sacachispas",
-      "pj": 15,
-      "pg": 7,
-      "pe": 4,
-      "pp": 4,
-      "gf": 20,
-      "gc": 13,
-      "pts": 25,
       "zona": "normal"
     },
     {
@@ -88,12 +88,12 @@
     {
       "pos": 8,
       "equipo": "Cambaceres",
-      "pj": 15,
+      "pj": 16,
       "pg": 5,
       "pe": 5,
-      "pp": 5,
+      "pp": 6,
       "gf": 14,
-      "gc": 14,
+      "gc": 15,
       "pts": 20,
       "zona": "normal"
     },
@@ -136,12 +136,12 @@
     {
       "pos": 12,
       "equipo": "Argentino Rosario",
-      "pj": 15,
+      "pj": 16,
       "pg": 2,
       "pe": 9,
-      "pp": 4,
+      "pp": 5,
       "gf": 17,
-      "gc": 18,
+      "gc": 19,
       "pts": 15,
       "zona": "normal"
     },
@@ -183,6 +183,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Leones de Rosario FC",
+      "pj": 16,
+      "pg": 7,
+      "pe": 6,
+      "pp": 3,
+      "gf": 18,
+      "gc": 15,
+      "pts": 27,
+      "zona": "normal"
+    },
+    {
+      "pos": 3,
       "equipo": "Cañuelas",
       "pj": 16,
       "pg": 6,
@@ -194,19 +206,19 @@
       "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "Lamadrid",
-      "pj": 15,
+      "pj": 16,
       "pg": 7,
       "pe": 5,
-      "pp": 3,
+      "pp": 4,
       "gf": 16,
-      "gc": 11,
+      "gc": 13,
       "pts": 26,
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Yupanqui",
       "pj": 16,
       "pg": 6,
@@ -218,19 +230,19 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Leones de Rosario FC",
-      "pj": 15,
+      "pos": 6,
+      "equipo": "Sp. Barracas",
+      "pj": 16,
       "pg": 6,
-      "pe": 6,
-      "pp": 3,
-      "gf": 17,
-      "gc": 15,
-      "pts": 24,
+      "pe": 4,
+      "pp": 6,
+      "gf": 15,
+      "gc": 13,
+      "pts": 22,
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "El Porvenir",
       "pj": 16,
       "pg": 4,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Dep. Español",
       "pj": 16,
       "pg": 4,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Claypole",
       "pj": 16,
       "pg": 5,
@@ -263,18 +275,6 @@
       "gf": 13,
       "gc": 18,
       "pts": 20,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Sp. Barracas",
-      "pj": 15,
-      "pg": 5,
-      "pe": 4,
-      "pp": 6,
-      "gf": 13,
-      "gc": 13,
-      "pts": 19,
       "zona": "normal"
     },
     {
@@ -328,12 +328,12 @@
     {
       "pos": 14,
       "equipo": "Fenix",
-      "pj": 15,
+      "pj": 16,
       "pg": 2,
       "pe": 5,
-      "pp": 8,
+      "pp": 9,
       "gf": 6,
-      "gc": 16,
+      "gc": 17,
       "pts": 11,
       "zona": "descenso"
     }
