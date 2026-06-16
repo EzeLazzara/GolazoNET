@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-16T16:52:08.105051",
+  "actualizado": "2026-06-16T22:52:31.563932",
   "bracket": {
     "32avos": [
       {
@@ -378,13 +378,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Entradas de fútbol",
+        "visitante": "Camisetas de fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Datos históricos fútbol",
-        "visitante": "Liga Profesional Argentina",
+        "local": "Transmisiones en vivo",
+        "visitante": "Sportivo",
         "goles_l": null,
         "goles_v": null
       },
