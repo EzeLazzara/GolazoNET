@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-06-17T15:29:45.830789",
-  "partidos": [
-    {
-      "id": 115,
-      "fecha": 16,
-      "dia": "Mié 17/06",
-      "fechaISO": "2026-06-17",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-06-17T22:45:00.995808",
+  "partidos": []
 }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-17T15:28:55.428386",
+  "actualizado": "2026-06-17T22:44:19.597746",
   "posiciones": [
     {
       "pos": 1,
@@ -232,13 +232,13 @@
     {
       "pos": 2,
       "equipo": "Gimnasia (J)",
-      "pj": 16,
-      "pg": 9,
+      "pj": 17,
+      "pg": 10,
       "pe": 3,
       "pp": 4,
-      "gf": 23,
+      "gf": 27,
       "gc": 19,
-      "pts": 30,
+      "pts": 33,
       "zona": "normal"
     },
     {
@@ -315,18 +315,6 @@
     },
     {
       "pos": 9,
-      "equipo": "Chicago",
-      "pj": 15,
-      "pg": 5,
-      "pe": 6,
-      "pp": 4,
-      "gf": 15,
-      "gc": 12,
-      "pts": 21,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
       "equipo": "Maipú",
       "pj": 17,
       "pg": 6,
@@ -334,6 +322,18 @@
       "pp": 8,
       "gf": 22,
       "gc": 20,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
+      "equipo": "Chicago",
+      "pj": 16,
+      "pg": 5,
+      "pe": 6,
+      "pp": 5,
+      "gf": 15,
+      "gc": 16,
       "pts": 21,
       "zona": "normal"
     },
