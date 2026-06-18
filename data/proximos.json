@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-18T15:24:33.424757",
+  "actualizado": "2026-06-18T22:55:48.154563",
   "partidos": [
     {
       "id": 100,
@@ -310,66 +310,6 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Acassuso",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Miguel",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 4,
-      "dia": "Sáb 20/06",
-      "fechaISO": "2026-06-20",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Defensores",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "All Boys",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 4,
-      "dia": "Sáb 20/06",
-      "fechaISO": "2026-06-20",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 4,
-      "dia": "Sáb 20/06",
-      "fechaISO": "2026-06-20",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
         "nombre": "Almagro",
         "goles": null
       },
@@ -377,52 +317,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
-      "fecha": 4,
-      "dia": "Sáb 20/06",
-      "fechaISO": "2026-06-20",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chaco For Ever",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colón",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 4,
-      "dia": "Sáb 20/06",
-      "fechaISO": "2026-06-20",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Temperley",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
+      "id": 116,
       "fecha": 4,
       "dia": "Sáb 20/06",
       "fechaISO": "2026-06-20",
@@ -437,15 +337,15 @@
         "nombre": "Quilmes",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 117,
       "fecha": 4,
-      "dia": "Dom 21/06",
-      "fechaISO": "2026-06-21",
+      "dia": "Sáb 20/06",
+      "fechaISO": "2026-06-20",
       "esHoy": false,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
@@ -455,6 +355,106 @@
       },
       "visitante": {
         "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 4,
+      "dia": "Sáb 20/06",
+      "fechaISO": "2026-06-20",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Bolivar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 4,
+      "dia": "Sáb 20/06",
+      "fechaISO": "2026-06-20",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Acassuso",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Miguel",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 4,
+      "dia": "Sáb 20/06",
+      "fechaISO": "2026-06-20",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chaco For Ever",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 4,
+      "dia": "Sáb 20/06",
+      "fechaISO": "2026-06-20",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Temperley",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (T)",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 4,
+      "dia": "Sáb 20/06",
+      "fechaISO": "2026-06-20",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Martín",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Agropecuario",
         "goles": null
       },
       "hora": "11:00",
@@ -477,7 +477,7 @@
         "nombre": "Los Andes",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -490,14 +490,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Bolivar",
+        "nombre": "Defensores",
         "goles": null
       },
       "visitante": {
-        "nombre": "Estudiantes",
+        "nombre": "All Boys",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -517,32 +517,12 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 126,
-      "fecha": 4,
-      "dia": "Dom 21/06",
-      "fechaISO": "2026-06-21",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Güemes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 127,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -557,32 +537,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
-      "fecha": 4,
-      "dia": "Dom 21/06",
-      "fechaISO": "2026-06-21",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Central Norte",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
+      "id": 127,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -597,12 +557,12 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 128,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -617,12 +577,12 @@
         "nombre": "Morón",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 129,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -630,19 +590,19 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "San Martín",
+        "nombre": "Central Norte",
         "goles": null
       },
       "visitante": {
-        "nombre": "Agropecuario",
+        "nombre": "Godoy Cruz",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 130,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -657,7 +617,47 @@
         "nombre": "Gimnasia y Tiro",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 4,
+      "dia": "Dom 21/06",
+      "fechaISO": "2026-06-21",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia (J)",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 4,
+      "dia": "Mar 23/06",
+      "fechaISO": "2026-06-23",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },

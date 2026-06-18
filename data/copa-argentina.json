@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-18T15:24:33.423714",
+  "actualizado": "2026-06-18T22:55:48.153352",
   "bracket": {
     "32avos": [
       {
@@ -325,6 +325,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Sportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resultados Copa Argentina",
+        "visitante": "Deportes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Dom 30/08",
         "visitante": "Banfield",
         "goles_l": null,
@@ -374,6 +386,18 @@
         "local": "Emiliano Rigoni",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Fútbol Argentino",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Promiedos Estadísticas",
+        "visitante": "Transmisiones en vivo",
+        "goles_l": null,
         "goles_v": null
       },
       {
