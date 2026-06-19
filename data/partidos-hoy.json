@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-06-18T22:55:48.154262",
-  "partidos": []
+  "actualizado": "2026-06-19T15:16:19.482172",
+  "partidos": [
+    {
+      "id": 133,
+      "fecha": 21,
+      "dia": "Vie 19/06",
+      "fechaISO": "2026-06-19",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Liniers",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
