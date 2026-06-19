@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-19T15:16:19.482172",
+  "actualizado": "2026-06-19T22:02:17.604300",
   "partidos": [
     {
       "id": 133,
@@ -17,7 +17,7 @@
         "nombre": "Liniers",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     }
