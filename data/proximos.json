@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-20T14:03:32.547944",
+  "actualizado": "2026-06-20T22:04:15.792149",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,7 +57,7 @@
         "nombre": "Aldosivi",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -77,7 +77,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -97,7 +97,7 @@
         "nombre": "Estudiantes RC",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -117,7 +117,7 @@
         "nombre": "Sarmiento",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -137,7 +137,7 @@
         "nombre": "Huracan",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -157,7 +157,7 @@
         "nombre": "Riestra",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -177,7 +177,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -197,7 +197,7 @@
         "nombre": "Newells",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -217,7 +217,7 @@
         "nombre": "Velez Sarsfield",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -237,7 +237,7 @@
         "nombre": "Platense",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -257,7 +257,7 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -277,7 +277,7 @@
         "nombre": "Gimnasia Mendoza",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -297,12 +297,12 @@
         "nombre": "Atletico Tucuman",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 115,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -317,12 +317,12 @@
         "nombre": "Los Andes",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 116,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -337,12 +337,12 @@
         "nombre": "Morón",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 117,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -357,12 +357,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 118,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -377,12 +377,12 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 119,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -397,12 +397,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 120,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -417,12 +417,12 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 121,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -437,12 +437,12 @@
         "nombre": "Godoy Cruz",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 122,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -457,12 +457,12 @@
         "nombre": "Gimnasia y Tiro",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 123,
       "fecha": 4,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -477,12 +477,12 @@
         "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 124,
       "fecha": 4,
       "dia": "Mar 23/06",
       "fechaISO": "2026-06-23",
@@ -497,12 +497,12 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 125,
       "fecha": 21,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -517,12 +517,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "07:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 126,
       "fecha": 21,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -537,12 +537,12 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "07:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 127,
       "fecha": 21,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -557,12 +557,12 @@
         "nombre": "Merlo",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "07:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 129,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -577,12 +577,12 @@
         "nombre": "Sol de Mayo",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 130,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -597,12 +597,12 @@
         "nombre": "Dvo. Rincón",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 131,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -617,12 +617,12 @@
         "nombre": "Independiente (Chi)",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 132,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -637,12 +637,12 @@
         "nombre": "Sol De América",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 133,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -657,12 +657,12 @@
         "nombre": "Sportivo LP",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 156,
+      "id": 134,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -677,12 +677,12 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 157,
+      "id": 135,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -697,12 +697,12 @@
         "nombre": "Boca Unidos",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 158,
+      "id": 136,
       "fecha": 14,
       "dia": "Dom 21/06",
       "fechaISO": "2026-06-21",
@@ -717,12 +717,12 @@
         "nombre": "Costa Brava",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 159,
+      "id": 137,
       "fecha": 14,
       "dia": "Lun 22/06",
       "fechaISO": "2026-06-22",
@@ -737,12 +737,12 @@
         "nombre": "El Linqueño",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "13:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 160,
+      "id": 138,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -757,12 +757,12 @@
         "nombre": "Centro Español",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 161,
+      "id": 139,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -777,12 +777,12 @@
         "nombre": "Argentino Rosario",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 162,
+      "id": 140,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -797,12 +797,12 @@
         "nombre": "CA Lugano",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 163,
+      "id": 141,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -817,12 +817,12 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 164,
+      "id": 142,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -837,12 +837,12 @@
         "nombre": "JJ Urquiza",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 165,
+      "id": 143,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -857,12 +857,12 @@
         "nombre": "Dep. Español",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 166,
+      "id": 144,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -877,12 +877,12 @@
         "nombre": "Muñiz",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 167,
+      "id": 145,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -897,12 +897,12 @@
         "nombre": "Luján",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 168,
+      "id": 146,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -917,12 +917,12 @@
         "nombre": "CA Atlas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 169,
+      "id": 147,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -937,12 +937,12 @@
         "nombre": "Victoriano",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 170,
+      "id": 148,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -957,12 +957,12 @@
         "nombre": "Estrella del Sur",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 171,
+      "id": 149,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -977,12 +977,12 @@
         "nombre": "Berazategui",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 172,
+      "id": 150,
       "fecha": 17,
       "dia": "Lun 29/06",
       "fechaISO": "2026-06-29",
@@ -997,12 +997,12 @@
         "nombre": "Lamadrid",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 173,
+      "id": 151,
       "fecha": 17,
       "dia": "Mar 30/06",
       "fechaISO": "2026-06-30",
@@ -1017,7 +1017,7 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }

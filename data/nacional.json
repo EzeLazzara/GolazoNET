@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-20T14:02:51.351892",
+  "actualizado": "2026-06-20T22:03:29.826459",
   "posiciones": [
     {
       "pos": 1,
@@ -40,29 +40,41 @@
     {
       "pos": 4,
       "equipo": "Colón",
-      "pj": 17,
+      "pj": 18,
       "pg": 7,
       "pe": 8,
-      "pp": 2,
+      "pp": 3,
       "gf": 21,
-      "gc": 13,
+      "gc": 14,
       "pts": 29,
       "zona": "normal"
     },
     {
       "pos": 5,
       "equipo": "Bolivar",
-      "pj": 17,
+      "pj": 18,
       "pg": 6,
       "pe": 9,
-      "pp": 2,
-      "gf": 14,
-      "gc": 10,
+      "pp": 3,
+      "gf": 15,
+      "gc": 12,
       "pts": 27,
       "zona": "normal"
     },
     {
       "pos": 6,
+      "equipo": "Estudiantes",
+      "pj": 18,
+      "pg": 7,
+      "pe": 5,
+      "pp": 6,
+      "gf": 14,
+      "gc": 15,
+      "pts": 26,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Dep. Madryn",
       "pj": 17,
       "pg": 6,
@@ -74,7 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Godoy Cruz",
       "pj": 17,
       "pg": 6,
@@ -86,7 +98,19 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
+      "equipo": "San Miguel",
+      "pj": 18,
+      "pg": 5,
+      "pe": 9,
+      "pp": 4,
+      "gf": 16,
+      "gc": 19,
+      "pts": 24,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "Alte. Brown",
       "pj": 17,
       "pg": 6,
@@ -98,38 +122,14 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "Estudiantes",
-      "pj": 17,
-      "pg": 6,
-      "pe": 5,
-      "pp": 6,
-      "gf": 12,
-      "gc": 14,
-      "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
-      "equipo": "San Miguel",
-      "pj": 17,
-      "pg": 4,
-      "pe": 9,
-      "pp": 4,
-      "gf": 14,
-      "gc": 19,
-      "pts": 21,
-      "zona": "normal"
-    },
-    {
       "pos": 11,
-      "equipo": "Racing (Cba)",
-      "pj": 17,
-      "pg": 5,
-      "pe": 5,
-      "pp": 7,
-      "gf": 16,
-      "gc": 19,
+      "equipo": "San Telmo",
+      "pj": 18,
+      "pg": 4,
+      "pe": 8,
+      "pp": 6,
+      "gf": 14,
+      "gc": 16,
       "pts": 20,
       "zona": "normal"
     },
@@ -147,18 +147,30 @@
     },
     {
       "pos": 13,
-      "equipo": "Acassuso",
-      "pj": 17,
+      "equipo": "Racing (Cba)",
+      "pj": 18,
       "pg": 5,
-      "pe": 3,
-      "pp": 9,
-      "gf": 12,
-      "gc": 17,
-      "pts": 18,
+      "pe": 5,
+      "pp": 8,
+      "gf": 16,
+      "gc": 21,
+      "pts": 20,
       "zona": "normal"
     },
     {
       "pos": 14,
+      "equipo": "Acassuso",
+      "pj": 18,
+      "pg": 5,
+      "pe": 3,
+      "pp": 10,
+      "gf": 12,
+      "gc": 19,
+      "pts": 18,
+      "zona": "normal"
+    },
+    {
+      "pos": 15,
       "equipo": "CA Mitre",
       "pj": 17,
       "pg": 3,
@@ -166,18 +178,6 @@
       "pp": 6,
       "gf": 17,
       "gc": 20,
-      "pts": 17,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "San Telmo",
-      "pj": 17,
-      "pg": 3,
-      "pe": 8,
-      "pp": 6,
-      "gf": 12,
-      "gc": 16,
       "pts": 17,
       "zona": "normal"
     },
@@ -208,24 +208,24 @@
     {
       "pos": 18,
       "equipo": "Chaco For Ever",
-      "pj": 17,
-      "pg": 1,
+      "pj": 18,
+      "pg": 2,
       "pe": 6,
       "pp": 10,
-      "gf": 12,
+      "gf": 13,
       "gc": 24,
-      "pts": 9,
+      "pts": 12,
       "zona": "normal"
     },
     {
       "pos": 1,
       "equipo": "Atlanta",
-      "pj": 17,
+      "pj": 18,
       "pg": 10,
       "pe": 3,
-      "pp": 4,
+      "pp": 5,
       "gf": 23,
-      "gc": 11,
+      "gc": 13,
       "pts": 33,
       "zona": "normal"
     },
@@ -255,6 +255,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Temperley",
+      "pj": 18,
+      "pg": 6,
+      "pe": 9,
+      "pp": 3,
+      "gf": 18,
+      "gc": 17,
+      "pts": 27,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Atlético Rafaela",
       "pj": 17,
       "pg": 7,
@@ -262,18 +274,6 @@
       "pp": 5,
       "gf": 14,
       "gc": 12,
-      "pts": 26,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Temperley",
-      "pj": 17,
-      "pg": 6,
-      "pe": 8,
-      "pp": 3,
-      "gf": 17,
-      "gc": 16,
       "pts": 26,
       "zona": "normal"
     },
@@ -291,30 +291,54 @@
     },
     {
       "pos": 7,
-      "equipo": "San Martín (T)",
+      "equipo": "San Martín",
       "pj": 17,
-      "pg": 5,
-      "pe": 7,
-      "pp": 5,
-      "gf": 14,
-      "gc": 14,
-      "pts": 22,
+      "pg": 6,
+      "pe": 5,
+      "pp": 6,
+      "gf": 18,
+      "gc": 18,
+      "pts": 23,
       "zona": "normal"
     },
     {
       "pos": 8,
-      "equipo": "Quilmes",
-      "pj": 17,
-      "pg": 5,
-      "pe": 6,
-      "pp": 6,
-      "gf": 15,
-      "gc": 11,
-      "pts": 21,
+      "equipo": "Colegiales",
+      "pj": 18,
+      "pg": 6,
+      "pe": 5,
+      "pp": 7,
+      "gf": 17,
+      "gc": 17,
+      "pts": 23,
       "zona": "normal"
     },
     {
       "pos": 9,
+      "equipo": "San Martín (T)",
+      "pj": 18,
+      "pg": 5,
+      "pe": 8,
+      "pp": 5,
+      "gf": 15,
+      "gc": 15,
+      "pts": 23,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
+      "equipo": "Almagro",
+      "pj": 18,
+      "pg": 6,
+      "pe": 4,
+      "pp": 8,
+      "gf": 15,
+      "gc": 19,
+      "pts": 22,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Maipú",
       "pj": 17,
       "pg": 6,
@@ -326,7 +350,19 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 12,
+      "equipo": "Quilmes",
+      "pj": 18,
+      "pg": 5,
+      "pe": 6,
+      "pp": 7,
+      "gf": 16,
+      "gc": 14,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "Chicago",
       "pj": 16,
       "pg": 5,
@@ -338,31 +374,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
-      "equipo": "San Martín",
-      "pj": 16,
-      "pg": 5,
-      "pe": 5,
-      "pp": 6,
-      "gf": 16,
-      "gc": 18,
-      "pts": 20,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Colegiales",
-      "pj": 17,
-      "pg": 5,
-      "pe": 5,
-      "pp": 7,
-      "gf": 14,
-      "gc": 16,
-      "pts": 20,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Gimnasia y Tiro",
       "pj": 17,
       "pg": 5,
@@ -371,10 +383,10 @@
       "gf": 16,
       "gc": 19,
       "pts": 20,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "Patronato",
       "pj": 17,
       "pg": 4,
@@ -383,18 +395,6 @@
       "gf": 11,
       "gc": 14,
       "pts": 20,
-      "zona": "descenso"
-    },
-    {
-      "pos": 15,
-      "equipo": "Almagro",
-      "pj": 17,
-      "pg": 5,
-      "pe": 4,
-      "pp": 8,
-      "gf": 13,
-      "gc": 19,
-      "pts": 19,
       "zona": "descenso"
     }
   ]
