@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-06-20T22:04:15.791811",
-  "partidos": [
-    {
-      "id": 128,
-      "fecha": 14,
-      "dia": "Sáb 20/06",
-      "fechaISO": "2026-06-20",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "San Martín (Mdza)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Huracán (LH)",
-        "goles": null
-      },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-06-21T14:14:11.798848",
+  "partidos": []
 }
