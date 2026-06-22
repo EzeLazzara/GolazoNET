@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-06-21T22:11:20.447235",
-  "partidos": []
+  "actualizado": "2026-06-22T16:56:00.866816",
+  "partidos": [
+    {
+      "id": 127,
+      "fecha": 14,
+      "dia": "Lun 22/06",
+      "fechaISO": "2026-06-22",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "9 de Julio (R)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Linqueño",
+        "goles": null
+      },
+      "hora": "15:15",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

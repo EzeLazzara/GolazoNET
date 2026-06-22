@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-21T22:11:20.447569",
+  "actualizado": "2026-06-22T16:56:00.867297",
   "partidos": [
     {
       "id": 100,
@@ -323,26 +323,226 @@
     },
     {
       "id": 116,
-      "fecha": 14,
-      "dia": "Lun 22/06",
-      "fechaISO": "2026-06-22",
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
       "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "9 de Julio (R)",
+        "nombre": "Real Pilar",
         "goles": null
       },
       "visitante": {
-        "nombre": "El Linqueño",
+        "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 117,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 22,
+      "dia": "Dom 28/06",
+      "fechaISO": "2026-06-28",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Liniers",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 22,
+      "dia": "Dom 28/06",
+      "fechaISO": "2026-06-28",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 22,
+      "dia": "Dom 28/06",
+      "fechaISO": "2026-06-28",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino (Q)",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 22,
+      "dia": "Dom 28/06",
+      "fechaISO": "2026-06-28",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 22,
+      "dia": "Dom 28/06",
+      "fechaISO": "2026-06-28",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (M)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -362,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 129,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -382,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 130,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -402,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 131,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -422,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 132,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -442,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 133,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -462,7 +662,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 134,
       "fecha": 17,
       "dia": "Sáb 27/06",
       "fechaISO": "2026-06-27",
@@ -482,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 135,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -502,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 136,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -522,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 137,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -542,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 138,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -562,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 139,
       "fecha": 17,
       "dia": "Dom 28/06",
       "fechaISO": "2026-06-28",
@@ -582,7 +782,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 140,
       "fecha": 17,
       "dia": "Lun 29/06",
       "fechaISO": "2026-06-29",
@@ -602,7 +802,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 141,
       "fecha": 17,
       "dia": "Mar 30/06",
       "fechaISO": "2026-06-30",
