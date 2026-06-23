@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-06-23T14:48:27.315387",
-  "partidos": [
-    {
-      "id": 115,
-      "fecha": 4,
-      "dia": "Mar 23/06",
-      "fechaISO": "2026-06-23",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-06-23T22:10:05.131633",
+  "partidos": []
 }
