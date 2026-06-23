@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-06-22T22:44:54.982566",
+  "actualizado": "2026-06-23T14:48:27.315387",
   "partidos": [
     {
-      "id": 127,
-      "fecha": 14,
-      "dia": "Lun 22/06",
-      "fechaISO": "2026-06-22",
+      "id": 115,
+      "fecha": 4,
+      "dia": "Mar 23/06",
+      "fechaISO": "2026-06-23",
       "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "9 de Julio (R)",
+        "nombre": "Chicago",
         "goles": null
       },
       "visitante": {
-        "nombre": "El Linqueño",
+        "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     }
