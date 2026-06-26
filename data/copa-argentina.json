@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-26T14:24:45.791043",
+  "actualizado": "2026-06-26T22:09:38.592331",
   "bracket": {
     "32avos": [
       {
@@ -326,13 +326,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Calendario Copa Argentina",
+        "visitante": "Viajes a Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Deportivo",
-        "visitante": "Liga Profesional Argentina",
+        "local": "Calendario Copa Argentina",
+        "visitante": "Mercadería Argentina",
         "goles_l": null,
         "goles_v": null
       },
@@ -390,13 +390,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Primera Nacional resultados",
+        "visitante": "Actualidad deportiva",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Resultados de partidos",
-        "visitante": "Sportivo",
+        "local": "Latinos y latinoamericanos",
+        "visitante": "Resultados de partidos",
         "goles_l": null,
         "goles_v": null
       },
