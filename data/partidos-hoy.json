@@ -1,4 +1,345 @@
 {
-  "actualizado": "2026-06-26T22:09:38.593173",
-  "partidos": []
+  "actualizado": "2026-06-27T13:42:34.812727",
+  "partidos": [
+    {
+      "id": 133,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 136,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 137,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 138,
+      "fecha": 22,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 15,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Fundación Amigos por el Deporte",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Cipolletti",
+        "goles": null
+      },
+      "hora": "06:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 145,
+      "fecha": 15,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Dvo. Rincón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atenas (RC)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 146,
+      "fecha": 15,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Argentino MM",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juventud Unida (SL)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 147,
+      "fecha": 15,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sportivo LP",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensores (VR)",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 161,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Paraguayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Centro Español",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 162,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CA Lugano",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 163,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 164,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Juventud Unida SM",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 165,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Yupanqui",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 166,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 167,
+      "fecha": 17,
+      "dia": "Sáb 27/06",
+      "fechaISO": "2026-06-27",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "El Porvenir",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leones de Rosario FC",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
