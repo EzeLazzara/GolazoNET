@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-06-27T13:42:18.247728",
+  "actualizado": "2026-06-27T22:00:16.854504",
   "posiciones": [
     {
       "pos": 1,
+      "equipo": "Centro Español",
+      "pj": 17,
+      "pg": 8,
+      "pe": 5,
+      "pp": 4,
+      "gf": 26,
+      "gc": 14,
+      "pts": 29,
+      "zona": "promotion"
+    },
+    {
+      "pos": 2,
       "equipo": "Berazategui",
       "pj": 16,
       "pg": 7,
@@ -14,27 +26,15 @@
       "zona": "promotion"
     },
     {
-      "pos": 2,
+      "pos": 3,
       "equipo": "Sacachispas",
-      "pj": 16,
+      "pj": 17,
       "pg": 8,
       "pe": 4,
-      "pp": 4,
+      "pp": 5,
       "gf": 21,
-      "gc": 13,
-      "pts": 28,
-      "zona": "promotion"
-    },
-    {
-      "pos": 3,
-      "equipo": "Centro Español",
-      "pj": 16,
-      "pg": 7,
-      "pe": 5,
-      "pp": 4,
-      "gf": 24,
       "gc": 14,
-      "pts": 26,
+      "pts": 28,
       "zona": "normal"
     },
     {
@@ -51,6 +51,30 @@
     },
     {
       "pos": 5,
+      "equipo": "CA Lugano",
+      "pj": 17,
+      "pg": 6,
+      "pe": 6,
+      "pp": 5,
+      "gf": 21,
+      "gc": 17,
+      "pts": 24,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
+      "equipo": "Mercedes",
+      "pj": 17,
+      "pg": 5,
+      "pe": 7,
+      "pp": 5,
+      "gf": 15,
+      "gc": 10,
+      "pts": 22,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Estrella del Sur",
       "pj": 16,
       "pg": 5,
@@ -62,7 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 8,
       "equipo": "Leandro N. Alem",
       "pj": 16,
       "pg": 6,
@@ -74,19 +98,19 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
-      "equipo": "CA Lugano",
-      "pj": 16,
+      "pos": 9,
+      "equipo": "Juventud Unida SM",
+      "pj": 17,
       "pg": 5,
       "pe": 6,
-      "pp": 5,
-      "gf": 20,
-      "gc": 17,
+      "pp": 6,
+      "gf": 18,
+      "gc": 18,
       "pts": 21,
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 10,
       "equipo": "Cambaceres",
       "pj": 16,
       "pg": 5,
@@ -98,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 11,
       "equipo": "Puerto Nuevo",
       "pj": 16,
       "pg": 4,
@@ -110,62 +134,38 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
-      "equipo": "Mercedes",
-      "pj": 16,
-      "pg": 4,
-      "pe": 7,
-      "pp": 5,
-      "gf": 10,
-      "gc": 10,
-      "pts": 19,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "Juventud Unida SM",
-      "pj": 16,
-      "pg": 4,
-      "pe": 6,
-      "pp": 6,
-      "gf": 15,
-      "gc": 18,
-      "pts": 18,
-      "zona": "normal"
-    },
-    {
       "pos": 12,
       "equipo": "Argentino Rosario",
-      "pj": 16,
+      "pj": 17,
       "pg": 2,
       "pe": 9,
-      "pp": 5,
+      "pp": 6,
       "gf": 17,
-      "gc": 19,
+      "gc": 22,
       "pts": 15,
       "zona": "normal"
     },
     {
       "pos": 13,
       "equipo": "Paraguayo",
-      "pj": 16,
+      "pj": 17,
       "pg": 3,
       "pe": 6,
-      "pp": 7,
+      "pp": 8,
       "gf": 10,
-      "gc": 22,
+      "gc": 24,
       "pts": 15,
       "zona": "normal"
     },
     {
       "pos": 14,
       "equipo": "JJ Urquiza",
-      "pj": 16,
+      "pj": 17,
       "pg": 2,
       "pe": 8,
-      "pp": 6,
+      "pp": 7,
       "gf": 6,
-      "gc": 13,
+      "gc": 18,
       "pts": 14,
       "zona": "normal"
     },
@@ -184,13 +184,13 @@
     {
       "pos": 2,
       "equipo": "Leones de Rosario FC",
-      "pj": 16,
+      "pj": 17,
       "pg": 7,
-      "pe": 6,
+      "pe": 7,
       "pp": 3,
       "gf": 18,
       "gc": 15,
-      "pts": 27,
+      "pts": 28,
       "zona": "normal"
     },
     {
@@ -220,17 +220,41 @@
     {
       "pos": 5,
       "equipo": "Yupanqui",
-      "pj": 16,
+      "pj": 17,
       "pg": 6,
       "pe": 6,
-      "pp": 4,
-      "gf": 19,
-      "gc": 15,
+      "pp": 5,
+      "gf": 20,
+      "gc": 17,
       "pts": 24,
       "zona": "normal"
     },
     {
       "pos": 6,
+      "equipo": "Dep. Español",
+      "pj": 17,
+      "pg": 5,
+      "pe": 9,
+      "pp": 3,
+      "gf": 15,
+      "gc": 12,
+      "pts": 24,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
+      "equipo": "El Porvenir",
+      "pj": 17,
+      "pg": 4,
+      "pe": 11,
+      "pp": 2,
+      "gf": 14,
+      "gc": 12,
+      "pts": 23,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Sp. Barracas",
       "pj": 16,
       "pg": 6,
@@ -239,30 +263,6 @@
       "gf": 15,
       "gc": 13,
       "pts": 22,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "El Porvenir",
-      "pj": 16,
-      "pg": 4,
-      "pe": 10,
-      "pp": 2,
-      "gf": 14,
-      "gc": 12,
-      "pts": 22,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Dep. Español",
-      "pj": 16,
-      "pg": 4,
-      "pe": 9,
-      "pp": 3,
-      "gf": 13,
-      "gc": 11,
-      "pts": 21,
       "zona": "normal"
     },
     {
@@ -280,13 +280,13 @@
     {
       "pos": 10,
       "equipo": "Central Cordoba",
-      "pj": 16,
+      "pj": 17,
       "pg": 4,
-      "pe": 6,
+      "pe": 7,
       "pp": 6,
       "gf": 12,
       "gc": 14,
-      "pts": 18,
+      "pts": 19,
       "zona": "normal"
     },
     {
@@ -316,13 +316,13 @@
     {
       "pos": 13,
       "equipo": "Muñiz",
-      "pj": 16,
+      "pj": 17,
       "pg": 2,
-      "pe": 7,
+      "pe": 8,
       "pp": 7,
       "gf": 12,
       "gc": 16,
-      "pts": 13,
+      "pts": 14,
       "zona": "descenso"
     },
     {
