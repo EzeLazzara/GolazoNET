@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-28T13:45:47.891027",
+  "actualizado": "2026-06-28T22:00:43.072580",
   "posiciones": [
     {
       "pos": 1,
@@ -16,13 +16,13 @@
     {
       "pos": 2,
       "equipo": "Berazategui",
-      "pj": 16,
+      "pj": 17,
       "pg": 7,
-      "pe": 7,
+      "pe": 8,
       "pp": 2,
-      "gf": 21,
-      "gc": 11,
-      "pts": 28,
+      "gf": 22,
+      "gc": 12,
+      "pts": 29,
       "zona": "promotion"
     },
     {
@@ -40,17 +40,29 @@
     {
       "pos": 4,
       "equipo": "Victoriano",
-      "pj": 16,
+      "pj": 17,
       "pg": 6,
       "pe": 7,
-      "pp": 3,
-      "gf": 15,
-      "gc": 9,
+      "pp": 4,
+      "gf": 16,
+      "gc": 12,
       "pts": 25,
       "zona": "normal"
     },
     {
       "pos": 5,
+      "equipo": "Estrella del Sur",
+      "pj": 17,
+      "pg": 6,
+      "pe": 7,
+      "pp": 4,
+      "gf": 18,
+      "gc": 16,
+      "pts": 25,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "CA Lugano",
       "pj": 17,
       "pg": 6,
@@ -62,7 +74,31 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
+      "equipo": "Puerto Nuevo",
+      "pj": 17,
+      "pg": 5,
+      "pe": 8,
+      "pp": 4,
+      "gf": 16,
+      "gc": 18,
+      "pts": 23,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
+      "equipo": "Leandro N. Alem",
+      "pj": 17,
+      "pg": 6,
+      "pe": 5,
+      "pp": 6,
+      "gf": 22,
+      "gc": 29,
+      "pts": 23,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Mercedes",
       "pj": 17,
       "pg": 5,
@@ -74,31 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
-      "equipo": "Estrella del Sur",
-      "pj": 16,
-      "pg": 5,
-      "pe": 7,
-      "pp": 4,
-      "gf": 15,
-      "gc": 16,
-      "pts": 22,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Leandro N. Alem",
-      "pj": 16,
-      "pg": 6,
-      "pe": 4,
-      "pp": 6,
-      "gf": 21,
-      "gc": 28,
-      "pts": 22,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Juventud Unida SM",
       "pj": 17,
       "pg": 5,
@@ -110,26 +122,14 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Cambaceres",
-      "pj": 16,
+      "pj": 17,
       "pg": 5,
       "pe": 5,
-      "pp": 6,
+      "pp": 7,
       "gf": 14,
-      "gc": 15,
-      "pts": 20,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "Puerto Nuevo",
-      "pj": 16,
-      "pg": 4,
-      "pe": 8,
-      "pp": 4,
-      "gf": 13,
-      "gc": 17,
+      "gc": 18,
       "pts": 20,
       "zona": "normal"
     },
