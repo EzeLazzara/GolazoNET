@@ -1,4 +1,45 @@
 {
-  "actualizado": "2026-06-28T22:00:59.884971",
-  "partidos": []
+  "actualizado": "2026-06-29T15:46:31.181630",
+  "partidos": [
+    {
+      "id": 161,
+      "fecha": 17,
+      "dia": "Lun 29/06",
+      "fechaISO": "2026-06-29",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Luján",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 162,
+      "fecha": 17,
+      "dia": "Lun 29/06",
+      "fechaISO": "2026-06-29",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Fenix",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lamadrid",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

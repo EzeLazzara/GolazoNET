@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-28T22:00:59.884135",
+  "actualizado": "2026-06-29T15:46:31.180714",
   "bracket": {
     "32avos": [
       {
@@ -325,6 +325,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Análisis de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resultados de partidos",
+        "visitante": "Latinos y latinoamericanos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Dom 30/08",
         "visitante": "Banfield",
         "goles_l": null,
@@ -378,13 +390,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Noticias Copa Argentina",
+        "visitante": "Banderas argentinas",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Streaming fútbol",
-        "visitante": "Mercadería Argentina",
+        "local": "Productos nacionales argentinos",
+        "visitante": "Calendario Copa Argentina",
         "goles_l": null,
         "goles_v": null
       },
