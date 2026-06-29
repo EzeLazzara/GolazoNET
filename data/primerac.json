@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-29T15:45:35.312286",
+  "actualizado": "2026-06-29T22:07:11.100084",
   "posiciones": [
     {
       "pos": 1,
@@ -172,12 +172,12 @@
     {
       "pos": 1,
       "equipo": "Luján",
-      "pj": 16,
+      "pj": 17,
       "pg": 8,
       "pe": 5,
-      "pp": 3,
+      "pp": 4,
       "gf": 20,
-      "gc": 11,
+      "gc": 13,
       "pts": 29,
       "zona": "normal"
     },
@@ -208,17 +208,29 @@
     {
       "pos": 4,
       "equipo": "Lamadrid",
-      "pj": 16,
+      "pj": 17,
       "pg": 7,
       "pe": 5,
-      "pp": 4,
-      "gf": 16,
-      "gc": 13,
+      "pp": 5,
+      "gf": 17,
+      "gc": 16,
       "pts": 26,
       "zona": "normal"
     },
     {
       "pos": 5,
+      "equipo": "Sp. Barracas",
+      "pj": 17,
+      "pg": 7,
+      "pe": 4,
+      "pp": 6,
+      "gf": 17,
+      "gc": 13,
+      "pts": 25,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Yupanqui",
       "pj": 17,
       "pg": 6,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Dep. Español",
       "pj": 17,
       "pg": 5,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "El Porvenir",
       "pj": 17,
       "pg": 4,
@@ -251,18 +263,6 @@
       "gf": 14,
       "gc": 12,
       "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Sp. Barracas",
-      "pj": 16,
-      "pg": 6,
-      "pe": 4,
-      "pp": 6,
-      "gf": 15,
-      "gc": 13,
-      "pts": 22,
       "zona": "normal"
     },
     {
@@ -328,13 +328,13 @@
     {
       "pos": 14,
       "equipo": "Fenix",
-      "pj": 16,
-      "pg": 2,
+      "pj": 17,
+      "pg": 3,
       "pe": 5,
       "pp": 9,
-      "gf": 6,
-      "gc": 17,
-      "pts": 11,
+      "gf": 9,
+      "gc": 18,
+      "pts": 14,
       "zona": "descenso"
     }
   ]
