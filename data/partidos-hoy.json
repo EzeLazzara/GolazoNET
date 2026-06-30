@@ -1,45 +1,4 @@
 {
-  "actualizado": "2026-06-30T14:18:38.659727",
-  "partidos": [
-    {
-      "id": 161,
-      "fecha": 17,
-      "dia": "Mar 30/06",
-      "fechaISO": "2026-06-30",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 162,
-      "fecha": 17,
-      "dia": "Mar 30/06",
-      "fechaISO": "2026-06-30",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Cañuelas",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-06-30T22:14:31.976033",
+  "partidos": []
 }

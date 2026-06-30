@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-30T14:18:21.695789",
+  "actualizado": "2026-06-30T22:14:15.256363",
   "posiciones": [
     {
       "pos": 1,
@@ -171,6 +171,18 @@
     },
     {
       "pos": 1,
+      "equipo": "Cañuelas",
+      "pj": 17,
+      "pg": 7,
+      "pe": 8,
+      "pp": 2,
+      "gf": 21,
+      "gc": 12,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 2,
       "equipo": "Luján",
       "pj": 17,
       "pg": 8,
@@ -182,7 +194,7 @@
       "zona": "normal"
     },
     {
-      "pos": 2,
+      "pos": 3,
       "equipo": "Leones de Rosario FC",
       "pj": 17,
       "pg": 7,
@@ -191,18 +203,6 @@
       "gf": 18,
       "gc": 15,
       "pts": 28,
-      "zona": "normal"
-    },
-    {
-      "pos": 3,
-      "equipo": "Cañuelas",
-      "pj": 16,
-      "pg": 6,
-      "pe": 8,
-      "pp": 2,
-      "gf": 19,
-      "gc": 12,
-      "pts": 26,
       "zona": "normal"
     },
     {
@@ -268,12 +268,12 @@
     {
       "pos": 9,
       "equipo": "Claypole",
-      "pj": 16,
+      "pj": 17,
       "pg": 5,
       "pe": 5,
-      "pp": 6,
+      "pp": 7,
       "gf": 13,
-      "gc": 18,
+      "gc": 20,
       "pts": 20,
       "zona": "normal"
     },
@@ -291,25 +291,25 @@
     },
     {
       "pos": 11,
-      "equipo": "Central Ballester",
-      "pj": 16,
+      "equipo": "CA Atlas",
+      "pj": 17,
       "pg": 4,
-      "pe": 4,
-      "pp": 8,
-      "gf": 14,
-      "gc": 19,
-      "pts": 16,
+      "pe": 7,
+      "pp": 6,
+      "gf": 13,
+      "gc": 16,
+      "pts": 19,
       "zona": "normal"
     },
     {
       "pos": 12,
-      "equipo": "CA Atlas",
-      "pj": 16,
-      "pg": 3,
-      "pe": 7,
-      "pp": 6,
-      "gf": 11,
-      "gc": 16,
+      "equipo": "Central Ballester",
+      "pj": 17,
+      "pg": 4,
+      "pe": 4,
+      "pp": 9,
+      "gf": 14,
+      "gc": 21,
       "pts": 16,
       "zona": "normal"
     },
