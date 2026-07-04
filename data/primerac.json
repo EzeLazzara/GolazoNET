@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-04T13:24:59.845353",
+  "actualizado": "2026-07-04T21:55:29.490182",
   "posiciones": [
     {
       "pos": 1,
@@ -39,6 +39,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Estrella del Sur",
+      "pj": 18,
+      "pg": 7,
+      "pe": 7,
+      "pp": 4,
+      "gf": 21,
+      "gc": 16,
+      "pts": 28,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Victoriano",
       "pj": 17,
       "pg": 6,
@@ -50,27 +62,15 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Estrella del Sur",
-      "pj": 17,
-      "pg": 6,
-      "pe": 7,
-      "pp": 4,
-      "gf": 18,
-      "gc": 16,
-      "pts": 25,
-      "zona": "normal"
-    },
-    {
       "pos": 6,
       "equipo": "CA Lugano",
-      "pj": 17,
+      "pj": 18,
       "pg": 6,
-      "pe": 6,
+      "pe": 7,
       "pp": 5,
       "gf": 21,
       "gc": 17,
-      "pts": 24,
+      "pts": 25,
       "zona": "normal"
     },
     {
@@ -88,12 +88,12 @@
     {
       "pos": 8,
       "equipo": "Leandro N. Alem",
-      "pj": 17,
+      "pj": 18,
       "pg": 6,
       "pe": 5,
-      "pp": 6,
+      "pp": 7,
       "gf": 22,
-      "gc": 29,
+      "gc": 32,
       "pts": 23,
       "zona": "normal"
     },
@@ -124,29 +124,41 @@
     {
       "pos": 11,
       "equipo": "Cambaceres",
-      "pj": 17,
+      "pj": 18,
       "pg": 5,
-      "pe": 5,
+      "pe": 6,
       "pp": 7,
-      "gf": 14,
-      "gc": 18,
-      "pts": 20,
+      "gf": 15,
+      "gc": 19,
+      "pts": 21,
       "zona": "normal"
     },
     {
       "pos": 12,
       "equipo": "Argentino Rosario",
-      "pj": 17,
+      "pj": 18,
       "pg": 2,
-      "pe": 9,
+      "pe": 10,
       "pp": 6,
-      "gf": 17,
-      "gc": 22,
-      "pts": 15,
+      "gf": 18,
+      "gc": 23,
+      "pts": 16,
       "zona": "normal"
     },
     {
       "pos": 13,
+      "equipo": "JJ Urquiza",
+      "pj": 18,
+      "pg": 2,
+      "pe": 9,
+      "pp": 7,
+      "gf": 6,
+      "gc": 18,
+      "pts": 15,
+      "zona": "normal"
+    },
+    {
+      "pos": 14,
       "equipo": "Paraguayo",
       "pj": 17,
       "pg": 3,
@@ -155,18 +167,6 @@
       "gf": 10,
       "gc": 24,
       "pts": 15,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "JJ Urquiza",
-      "pj": 17,
-      "pg": 2,
-      "pe": 8,
-      "pp": 7,
-      "gf": 6,
-      "gc": 18,
-      "pts": 14,
       "zona": "normal"
     },
     {
@@ -196,12 +196,12 @@
     {
       "pos": 3,
       "equipo": "Leones de Rosario FC",
-      "pj": 17,
+      "pj": 18,
       "pg": 7,
       "pe": 7,
-      "pp": 3,
+      "pp": 4,
       "gf": 18,
-      "gc": 15,
+      "gc": 16,
       "pts": 28,
       "zona": "normal"
     },
@@ -304,13 +304,13 @@
     {
       "pos": 12,
       "equipo": "Central Ballester",
-      "pj": 17,
-      "pg": 4,
+      "pj": 18,
+      "pg": 5,
       "pe": 4,
       "pp": 9,
-      "gf": 14,
+      "gf": 15,
       "gc": 21,
-      "pts": 16,
+      "pts": 19,
       "zona": "normal"
     },
     {
