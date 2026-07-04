@@ -1,4 +1,425 @@
 {
-  "actualizado": "2026-07-03T22:02:50.276619",
-  "partidos": []
+  "actualizado": "2026-07-04T13:25:17.331573",
+  "partidos": [
+    {
+      "id": 115,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colegiales",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia y Tiro",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Los Andes",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Defensores",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Morón",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Almagro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Temperley",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Bolivar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Godoy Cruz",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 19,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 136,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 137,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 138,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 139,
+      "fecha": 23,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 16,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Huracán (LH)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Costa Brava",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 145,
+      "fecha": 16,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Defensores Pto. Vilelas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (LB)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 161,
+      "fecha": 18,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "CA Lugano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 162,
+      "fecha": 18,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Cambaceres",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 163,
+      "fecha": 18,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leandro N. Alem",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 164,
+      "fecha": 18,
+      "dia": "Sáb 04/07",
+      "fechaISO": "2026-07-04",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Leones de Rosario FC",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
