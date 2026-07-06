@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-05T21:58:40.296484",
+  "actualizado": "2026-07-06T15:32:08.211405",
   "bracket": {
     "32avos": [
       {
@@ -446,6 +446,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Entradas Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Equipamiento de fútbol",
+        "visitante": "Referencia geográfica",
+        "goles_l": null,
         "goles_v": null
       }
     ]
