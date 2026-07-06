@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-06T15:31:51.586104",
+  "actualizado": "2026-07-06T22:11:11.410604",
   "posiciones": [
     {
       "pos": 1,
@@ -16,12 +16,12 @@
     {
       "pos": 2,
       "equipo": "Centro Español",
-      "pj": 17,
+      "pj": 18,
       "pg": 8,
       "pe": 5,
-      "pp": 4,
+      "pp": 5,
       "gf": 26,
-      "gc": 14,
+      "gc": 17,
       "pts": 29,
       "zona": "promotion"
     },
@@ -75,6 +75,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Mercedes",
+      "pj": 18,
+      "pg": 6,
+      "pe": 7,
+      "pp": 5,
+      "gf": 18,
+      "gc": 10,
+      "pts": 25,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "CA Lugano",
       "pj": 18,
       "pg": 6,
@@ -86,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Leandro N. Alem",
       "pj": 18,
       "pg": 6,
@@ -95,18 +107,6 @@
       "gf": 22,
       "gc": 32,
       "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Mercedes",
-      "pj": 17,
-      "pg": 5,
-      "pe": 7,
-      "pp": 5,
-      "gf": 15,
-      "gc": 10,
-      "pts": 22,
       "zona": "normal"
     },
     {
@@ -207,6 +207,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Yupanqui",
+      "pj": 18,
+      "pg": 7,
+      "pe": 6,
+      "pp": 5,
+      "gf": 23,
+      "gc": 19,
+      "pts": 27,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Lamadrid",
       "pj": 18,
       "pg": 7,
@@ -218,39 +230,27 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Sp. Barracas",
-      "pj": 17,
+      "pj": 18,
       "pg": 7,
       "pe": 4,
-      "pp": 6,
-      "gf": 17,
-      "gc": 13,
+      "pp": 7,
+      "gf": 19,
+      "gc": 16,
       "pts": 25,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Yupanqui",
-      "pj": 17,
-      "pg": 6,
-      "pe": 6,
-      "pp": 5,
-      "gf": 20,
-      "gc": 17,
-      "pts": 24,
       "zona": "normal"
     },
     {
       "pos": 7,
       "equipo": "Dep. Español",
-      "pj": 17,
+      "pj": 18,
       "pg": 5,
-      "pe": 9,
+      "pe": 10,
       "pp": 3,
-      "gf": 15,
-      "gc": 12,
-      "pts": 24,
+      "gf": 16,
+      "gc": 13,
+      "pts": 25,
       "zona": "normal"
     },
     {
@@ -316,13 +316,13 @@
     {
       "pos": 13,
       "equipo": "Muñiz",
-      "pj": 17,
+      "pj": 18,
       "pg": 2,
-      "pe": 8,
+      "pe": 9,
       "pp": 7,
-      "gf": 12,
-      "gc": 16,
-      "pts": 14,
+      "gf": 13,
+      "gc": 17,
+      "pts": 15,
       "zona": "descenso"
     },
     {

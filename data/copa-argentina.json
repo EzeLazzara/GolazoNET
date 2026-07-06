@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-06T15:32:08.211405",
+  "actualizado": "2026-07-06T22:11:28.344439",
   "bracket": {
     "32avos": [
       {
@@ -450,13 +450,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Entradas Copa Argentina",
+        "visitante": "Fútbol fantasy league",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Equipamiento de fútbol",
-        "visitante": "Referencia geográfica",
+        "local": "Camisetas de fútbol",
+        "visitante": "Predicciones de partidos",
         "goles_l": null,
         "goles_v": null
       }
