@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-10T14:25:54.067846",
+  "actualizado": "2026-07-10T21:58:52.499850",
   "bracket": {
     "32avos": [
       {
@@ -377,18 +377,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Deportes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Suscripción a resultados",
-        "visitante": "Equipamiento de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -458,6 +446,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Latinos y latinoamericanos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Sportivo",
+        "visitante": "Apuestas deportivas",
+        "goles_l": null,
         "goles_v": null
       }
     ]
