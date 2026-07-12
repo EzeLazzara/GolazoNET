@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-11T21:44:59.287306",
+  "actualizado": "2026-07-12T13:19:00.817117",
   "bracket": {
     "32avos": [
       {
@@ -450,13 +450,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Estadísticas de fútbol",
+        "visitante": "Predicciones de partidos",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Juegos de fútbol",
-        "visitante": "Latinos y latinoamericanos",
+        "local": "Calendario de partidos",
+        "visitante": "Fútbol fantasy league",
         "goles_l": null,
         "goles_v": null
       }
