@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-12T13:19:00.817117",
+  "actualizado": "2026-07-12T21:44:47.683642",
   "bracket": {
     "32avos": [
       {
@@ -253,7 +253,7 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Tigre",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -307,20 +307,26 @@
         "goles_v": null
       },
       {
-        "local": "Atlético Tucumán",
-        "visitante": "Independiente",
+        "local": "Independiente Rivadavia",
+        "visitante": "Atlético Tucumán",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Platense",
-        "visitante": "Instituto",
+        "local": "Independiente",
+        "visitante": "Platense",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Estudiantes de La Plata",
-        "visitante": "Barracas Central",
+        "local": "Instituto",
+        "visitante": "Estudiantes de La Plata",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Barracas Central",
+        "visitante": "CUARTOS DE FINAL",
         "goles_l": null,
         "goles_v": null
       },
@@ -355,7 +361,6 @@
         "goles_v": null
       }
     ],
-    "cuartos": [],
     "semifinales": [],
     "final": [
       {
@@ -383,14 +388,14 @@
         "goles_v": null
       },
       {
-        "local": "Santiago Lopéz",
-        "visitante": "Tiago Palacios",
+        "local": "Tiago Palacios",
+        "visitante": "Facundo Valdez",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Facundo Valdez",
-        "visitante": "Marcelo Torres",
+        "local": "Marcelo Torres",
+        "visitante": "Nicolás Laméndola",
         "goles_l": 2,
         "goles_v": null
       },
@@ -446,18 +451,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Predicciones de partidos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Calendario de partidos",
-        "visitante": "Fútbol fantasy league",
-        "goles_l": null,
         "goles_v": null
       }
     ]
