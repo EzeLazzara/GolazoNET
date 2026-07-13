@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-12T21:44:06.356660",
+  "actualizado": "2026-07-13T14:33:32.164305",
   "posiciones": [
     {
       "pos": 1,
@@ -279,6 +279,18 @@
     },
     {
       "pos": 6,
+      "equipo": "San Martín (T)",
+      "pj": 20,
+      "pg": 7,
+      "pe": 8,
+      "pp": 5,
+      "gf": 19,
+      "gc": 15,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Maipú",
       "pj": 20,
       "pg": 8,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Atlético Rafaela",
       "pj": 20,
       "pg": 7,
@@ -302,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "San Martín",
       "pj": 19,
       "pg": 7,
@@ -314,7 +326,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Chicago",
       "pj": 19,
       "pg": 6,
@@ -326,7 +338,31 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
+      "equipo": "Gimnasia y Tiro",
+      "pj": 20,
+      "pg": 6,
+      "pe": 7,
+      "pp": 7,
+      "gf": 19,
+      "gc": 21,
+      "pts": 25,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
+      "equipo": "Almagro",
+      "pj": 20,
+      "pg": 7,
+      "pe": 4,
+      "pp": 9,
+      "gf": 16,
+      "gc": 22,
+      "pts": 25,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "Quilmes",
       "pj": 20,
       "pg": 6,
@@ -338,7 +374,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 14,
       "equipo": "Colegiales",
       "pj": 19,
       "pg": 6,
@@ -347,10 +383,10 @@
       "gf": 18,
       "gc": 19,
       "pts": 23,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 12,
+      "pos": 15,
       "equipo": "Chacarita",
       "pj": 20,
       "pg": 6,
@@ -359,30 +395,6 @@
       "gf": 16,
       "gc": 21,
       "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Agropecuario",
-      "pj": 20,
-      "pg": 4,
-      "pe": 7,
-      "pp": 9,
-      "gf": 14,
-      "gc": 24,
-      "pts": 19,
-      "zona": "descenso"
-    },
-    {
-      "pos": 14,
-      "equipo": "Güemes",
-      "pj": 20,
-      "pg": 5,
-      "pe": 4,
-      "pp": 11,
-      "gf": 18,
-      "gc": 34,
-      "pts": 19,
       "zona": "descenso"
     }
   ]
