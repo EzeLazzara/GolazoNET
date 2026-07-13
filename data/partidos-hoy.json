@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-13T14:34:13.395235",
+  "actualizado": "2026-07-13T21:53:27.980761",
   "partidos": [
     {
       "id": 115,
@@ -17,67 +17,7 @@
         "nombre": "Colegiales",
         "goles": null
       },
-      "hora": "16:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 127,
-      "fecha": 17,
-      "dia": "Lun 13/07",
-      "fechaISO": "2026-07-13",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "9 de Julio (R)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Defensores (VR)",
-        "goles": null
-      },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 128,
-      "fecha": 19,
-      "dia": "Lun 13/07",
-      "fechaISO": "2026-07-13",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Fenix",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
-      "fecha": 19,
-      "dia": "Lun 13/07",
-      "fechaISO": "2026-07-13",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Leones de Rosario FC",
-        "goles": null
-      },
-      "hora": "10:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }

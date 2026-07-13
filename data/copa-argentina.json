@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-13T14:34:13.394362",
+  "actualizado": "2026-07-13T21:53:27.979939",
   "bracket": {
     "32avos": [
       {
@@ -382,21 +382,15 @@
         "goles_v": null
       },
       {
-        "local": "Asistencias",
-        "visitante": "Manuel Lanzini",
+        "local": "Ver más",
+        "visitante": "Liga Profesional Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Tiago Palacios",
-        "visitante": "Facundo Valdez",
-        "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Marcelo Torres",
-        "visitante": "Nicolás Laméndola",
-        "goles_l": 2,
+        "local": "Copa Argentina resultados",
+        "visitante": "Deportes",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -419,20 +413,20 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Franco Ibarra",
+        "visitante": "Carlos Izquierdoz",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Carlos Izquierdoz",
-        "visitante": "Fernando Alarcón",
-        "goles_l": 1,
+        "local": "Fernando Alarcón",
+        "visitante": "Franco Fagundez",
+        "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Franco Fagundez",
+        "local": "Franco Ibarra",
         "visitante": "Franco Vázquez",
-        "goles_l": 1,
+        "goles_l": 2,
         "goles_v": null
       },
       {
