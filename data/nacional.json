@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-13T21:52:46.253194",
+  "actualizado": "2026-07-14T13:41:55.336308",
   "posiciones": [
     {
       "pos": 1,
@@ -232,13 +232,13 @@
     {
       "pos": 2,
       "equipo": "Atlanta",
-      "pj": 19,
-      "pg": 10,
+      "pj": 20,
+      "pg": 11,
       "pe": 3,
       "pp": 6,
-      "gf": 24,
+      "gf": 25,
       "gc": 15,
-      "pts": 33,
+      "pts": 36,
       "zona": "normal"
     },
     {
@@ -376,12 +376,12 @@
     {
       "pos": 14,
       "equipo": "Colegiales",
-      "pj": 19,
+      "pj": 20,
       "pg": 6,
       "pe": 5,
-      "pp": 8,
+      "pp": 9,
       "gf": 18,
-      "gc": 19,
+      "gc": 20,
       "pts": 23,
       "zona": "descenso"
     },

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-13T21:53:27.979939",
+  "actualizado": "2026-07-14T13:42:37.298290",
   "bracket": {
     "32avos": [
       {
@@ -382,18 +382,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Liga Profesional Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Copa Argentina resultados",
-        "visitante": "Deportes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Barridas ganadas",
         "visitante": "Agustin Massaccesi",
         "goles_l": null,
@@ -445,6 +433,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Sportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Copa Argentina merchandise",
+        "visitante": "Bundesliga alemana",
+        "goles_l": null,
         "goles_v": null
       }
     ]
