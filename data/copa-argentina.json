@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T13:42:37.298290",
+  "actualizado": "2026-07-14T21:55:56.441476",
   "bracket": {
     "32avos": [
       {
@@ -382,6 +382,24 @@
         "goles_v": null
       },
       {
+        "local": "Asistencias",
+        "visitante": "Manuel Lanzini",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Santiago Lopéz",
+        "visitante": "Tiago Palacios",
+        "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Facundo Valdez",
+        "visitante": "Marcelo Torres",
+        "goles_l": 2,
+        "goles_v": null
+      },
+      {
         "local": "Barridas ganadas",
         "visitante": "Agustin Massaccesi",
         "goles_l": null,
@@ -401,20 +419,20 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Carlos Izquierdoz",
+        "visitante": "Franco Ibarra",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fernando Alarcón",
-        "visitante": "Franco Fagundez",
-        "goles_l": 2,
+        "local": "Carlos Izquierdoz",
+        "visitante": "Fernando Alarcón",
+        "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Franco Ibarra",
+        "local": "Franco Fagundez",
         "visitante": "Franco Vázquez",
-        "goles_l": 2,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -437,12 +455,12 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Sportivo",
+        "visitante": "Deportes",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Copa Argentina merchandise",
+        "local": "Copa Libertadores noticias",
         "visitante": "Bundesliga alemana",
         "goles_l": null,
         "goles_v": null

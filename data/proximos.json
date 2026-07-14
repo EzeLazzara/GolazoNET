@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T13:42:37.299651",
+  "actualizado": "2026-07-14T21:55:56.442258",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Rosario Central",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,7 +57,7 @@
         "nombre": "Aldosivi",
         "goles": null
       },
-      "hora": "14:45",
+      "hora": "15:45",
       "minuto": null,
       "estado": "programado"
     },
@@ -77,7 +77,7 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "09:45",
+      "hora": "10:45",
       "minuto": null,
       "estado": "programado"
     },
@@ -97,7 +97,7 @@
         "nombre": "Gimnasia LP",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -117,7 +117,7 @@
         "nombre": "Instituto",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -137,7 +137,7 @@
         "nombre": "Union Santa Fe",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "15:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -157,7 +157,7 @@
         "nombre": "Banfield",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "15:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -177,7 +177,7 @@
         "nombre": "Tigre",
         "goles": null
       },
-      "hora": "07:45",
+      "hora": "08:45",
       "minuto": null,
       "estado": "programado"
     },
@@ -197,7 +197,7 @@
         "nombre": "Talleres",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -217,7 +217,7 @@
         "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "12:15",
+      "hora": "13:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -237,7 +237,7 @@
         "nombre": "San Lorenzo",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -257,7 +257,7 @@
         "nombre": "Independiente Riv.",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -277,7 +277,7 @@
         "nombre": "Independiente",
         "goles": null
       },
-      "hora": "10:15",
+      "hora": "11:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -297,12 +297,12 @@
         "nombre": "Boca Juniors",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 119,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -317,12 +317,12 @@
         "nombre": "Juventud Unida (SL)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 120,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -337,12 +337,12 @@
         "nombre": "Argentino MM",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 121,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -357,12 +357,12 @@
         "nombre": "Fundación Amigos por el Deporte",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 122,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -377,12 +377,12 @@
         "nombre": "Dvo. Rincón",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 123,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -397,12 +397,12 @@
         "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 124,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -417,12 +417,12 @@
         "nombre": "El Linqueño",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 125,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -437,12 +437,12 @@
         "nombre": "9 de Julio (R)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 126,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -457,12 +457,12 @@
         "nombre": "Atlético Escobar",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 127,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -477,12 +477,12 @@
         "nombre": "Sportivo LP",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 128,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -497,12 +497,12 @@
         "nombre": "Santamarina",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 129,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -517,12 +517,12 @@
         "nombre": "Germinal",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 130,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -537,12 +537,12 @@
         "nombre": "Villa Mitre",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 131,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -557,12 +557,12 @@
         "nombre": "Bartolomé Mitre",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 132,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -577,12 +577,12 @@
         "nombre": "Círculo Deportivo",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 133,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -597,12 +597,12 @@
         "nombre": "Sarmiento (LB)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 134,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -617,12 +617,12 @@
         "nombre": "Juv. Antoniana",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 135,
       "fecha": 18,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -637,12 +637,12 @@
         "nombre": "Sol De América",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 136,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -657,12 +657,12 @@
         "nombre": "Luján",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 137,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -677,12 +677,12 @@
         "nombre": "Leandro N. Alem",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 138,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -697,12 +697,12 @@
         "nombre": "Muñiz",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 139,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -717,12 +717,12 @@
         "nombre": "Fenix",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 140,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -737,12 +737,12 @@
         "nombre": "Sp. Barracas",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 141,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -757,12 +757,12 @@
         "nombre": "Juventud Unida SM",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 142,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -777,12 +777,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 143,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -797,12 +797,12 @@
         "nombre": "Sacachispas",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 144,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -817,12 +817,12 @@
         "nombre": "Lamadrid",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 145,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -837,12 +837,12 @@
         "nombre": "Central Ballester",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 146,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -857,12 +857,12 @@
         "nombre": "Victoriano",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 147,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -877,12 +877,12 @@
         "nombre": "El Porvenir",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 148,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -897,12 +897,12 @@
         "nombre": "Argentino Rosario",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 156,
+      "id": 149,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -917,7 +917,7 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }

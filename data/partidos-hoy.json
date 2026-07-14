@@ -1,148 +1,8 @@
 {
-  "actualizado": "2026-07-14T13:42:37.299120",
+  "actualizado": "2026-07-14T21:55:56.442079",
   "partidos": [
     {
       "id": 115,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Argentino (Q)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 25,
-      "dia": "Mar 14/07",
-      "fechaISO": "2026-07-14",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
       "fecha": 25,
       "dia": "Mar 14/07",
       "fechaISO": "2026-07-14",
@@ -157,12 +17,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 116,
       "fecha": 25,
       "dia": "Mar 14/07",
       "fechaISO": "2026-07-14",
@@ -177,12 +37,12 @@
         "nombre": "Villa Dalmine",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 117,
       "fecha": 25,
       "dia": "Mar 14/07",
       "fechaISO": "2026-07-14",
@@ -197,12 +57,12 @@
         "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 118,
       "fecha": 25,
       "dia": "Mar 14/07",
       "fechaISO": "2026-07-14",
@@ -217,7 +77,7 @@
         "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     }
