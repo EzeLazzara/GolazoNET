@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-15T13:42:55.588051",
+  "actualizado": "2026-07-15T21:56:08.585529",
   "partidos": [
     {
       "id": 100,
@@ -350,6 +350,26 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
+        "nombre": "CA Mitre",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 21,
+      "dia": "Vie 17/07",
+      "fechaISO": "2026-07-17",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
         "nombre": "Chicago",
         "goles": null
       },
@@ -362,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 119,
       "fecha": 21,
       "dia": "Vie 17/07",
       "fechaISO": "2026-07-17",
@@ -382,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 120,
       "fecha": 21,
       "dia": "Vie 17/07",
       "fechaISO": "2026-07-17",
@@ -395,26 +415,6 @@
       },
       "visitante": {
         "nombre": "All Boys",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Colegiales",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Midland",
         "goles": null
       },
       "hora": "13:00",
@@ -444,26 +444,6 @@
     {
       "id": 122,
       "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "CA Mitre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing (Cba)",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 21,
       "dia": "Lun 20/07",
       "fechaISO": "2026-07-20",
       "esHoy": false,
@@ -482,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 123,
       "fecha": 21,
       "dia": "Lun 20/07",
       "fechaISO": "2026-07-20",
@@ -502,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 124,
       "fecha": 21,
       "dia": "Lun 20/07",
       "fechaISO": "2026-07-20",
@@ -522,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 21,
       "dia": "Lun 20/07",
       "fechaISO": "2026-07-20",
@@ -542,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 126,
       "fecha": 21,
       "dia": "Lun 20/07",
       "fechaISO": "2026-07-20",
@@ -555,6 +535,26 @@
       },
       "visitante": {
         "nombre": "Gimnasia (J)",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 21,
+      "dia": "Lun 20/07",
+      "fechaISO": "2026-07-20",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colegiales",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Midland",
         "goles": null
       },
       "hora": "13:00",
@@ -1224,25 +1224,85 @@
     {
       "id": 161,
       "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
+      "dia": "Vie 17/07",
+      "fechaISO": "2026-07-17",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Estrella del Sur",
+        "nombre": "CA Lugano",
         "goles": null
       },
       "visitante": {
-        "nombre": "Luján",
+        "nombre": "Sp. Barracas",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 162,
+      "fecha": 20,
+      "dia": "Vie 17/07",
+      "fechaISO": "2026-07-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Cambaceres",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lamadrid",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 163,
+      "fecha": 20,
+      "dia": "Vie 17/07",
+      "fechaISO": "2026-07-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Victoriano",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 164,
+      "fecha": 20,
+      "dia": "Vie 17/07",
+      "fechaISO": "2026-07-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Yupanqui",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 165,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -1262,7 +1322,7 @@
       "estado": "programado"
     },
     {
-      "id": 163,
+      "id": 166,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -1282,7 +1342,7 @@
       "estado": "programado"
     },
     {
-      "id": 164,
+      "id": 167,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -1302,147 +1362,7 @@
       "estado": "programado"
     },
     {
-      "id": 165,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 166,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Juventud Unida SM",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 167,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Berazategui",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 168,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 169,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 170,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 171,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 172,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -1462,27 +1382,7 @@
       "estado": "programado"
     },
     {
-      "id": 173,
-      "fecha": 20,
-      "dia": "Sáb 18/07",
-      "fechaISO": "2026-07-18",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Yupanqui",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 174,
+      "id": 169,
       "fecha": 20,
       "dia": "Sáb 18/07",
       "fechaISO": "2026-07-18",
@@ -1498,6 +1398,106 @@
         "goles": null
       },
       "hora": "07:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 170,
+      "fecha": 20,
+      "dia": "Lun 20/07",
+      "fechaISO": "2026-07-20",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Luján",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 171,
+      "fecha": 20,
+      "dia": "Lun 20/07",
+      "fechaISO": "2026-07-20",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Berazategui",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 172,
+      "fecha": 20,
+      "dia": "Lun 20/07",
+      "fechaISO": "2026-07-20",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "CA Atlas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 173,
+      "fecha": 20,
+      "dia": "Lun 20/07",
+      "fechaISO": "2026-07-20",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Paraguayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 174,
+      "fecha": 20,
+      "dia": "Mar 21/07",
+      "fechaISO": "2026-07-21",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Claypole",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juventud Unida SM",
+        "goles": null
+      },
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }
