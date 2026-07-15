@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T21:55:56.441476",
+  "actualizado": "2026-07-15T13:42:55.586879",
   "bracket": {
     "32avos": [
       {
@@ -382,21 +382,15 @@
         "goles_v": null
       },
       {
-        "local": "Asistencias",
-        "visitante": "Manuel Lanzini",
+        "local": "Ver más",
+        "visitante": "Mundial Sub-20",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Santiago Lopéz",
-        "visitante": "Tiago Palacios",
-        "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Facundo Valdez",
-        "visitante": "Marcelo Torres",
-        "goles_l": 2,
+        "local": "Latinos y latinoamericanos",
+        "visitante": "Deportivo",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -419,20 +413,20 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Franco Ibarra",
+        "visitante": "Carlos Izquierdoz",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Carlos Izquierdoz",
-        "visitante": "Fernando Alarcón",
-        "goles_l": 1,
+        "local": "Fernando Alarcón",
+        "visitante": "Franco Fagundez",
+        "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Franco Fagundez",
+        "local": "Franco Ibarra",
         "visitante": "Franco Vázquez",
-        "goles_l": 1,
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -451,18 +445,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Deportes",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Copa Libertadores noticias",
-        "visitante": "Bundesliga alemana",
-        "goles_l": null,
         "goles_v": null
       }
     ]
