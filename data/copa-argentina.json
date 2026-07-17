@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T13:27:25.648298",
+  "actualizado": "2026-07-17T21:48:52.872654",
   "bracket": {
     "32avos": [
       {
@@ -362,6 +362,18 @@
       },
       {
         "local": "Barracas Central",
+        "visitante": "Velez Sarsfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "Racing Club",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Belgrano",
         "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
@@ -457,6 +469,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Europa League resultados",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Actualidad deportiva",
+        "visitante": "Fútbol noticias destacadas",
+        "goles_l": null,
         "goles_v": null
       }
     ]

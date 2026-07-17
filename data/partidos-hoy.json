@@ -1,88 +1,8 @@
 {
-  "actualizado": "2026-07-17T13:27:25.649077",
+  "actualizado": "2026-07-17T21:48:52.874666",
   "partidos": [
     {
       "id": 115,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Alte. Brown",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Maipú",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "CA Mitre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing (Cba)",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Agropecuario",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
       "fecha": 21,
       "dia": "Vie 17/07",
       "fechaISO": "2026-07-17",
@@ -97,12 +17,12 @@
         "nombre": "Colón",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 116,
       "fecha": 21,
       "dia": "Vie 17/07",
       "fechaISO": "2026-07-17",
@@ -117,12 +37,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 117,
       "fecha": 21,
       "dia": "Vie 17/07",
       "fechaISO": "2026-07-17",
@@ -137,87 +57,7 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "15:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 161,
-      "fecha": 20,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 162,
-      "fecha": 20,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 163,
-      "fecha": 20,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 164,
-      "fecha": 20,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Yupanqui",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "10:00",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     }
