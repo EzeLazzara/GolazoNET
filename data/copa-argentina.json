@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-16T22:01:16.511269",
+  "actualizado": "2026-07-17T13:27:25.648298",
   "bracket": {
     "32avos": [
       {
@@ -223,7 +223,7 @@
       {
         "local": "Racing Club",
         "visitante": "Defensa y Justicia",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -241,7 +241,7 @@
       {
         "local": "Sarmiento Junín",
         "visitante": "Boca Juniors",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -297,6 +297,12 @@
       {
         "local": "Gimnasia La Plata",
         "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Midland",
+        "visitante": "Racing Club",
         "goles_l": null,
         "goles_v": null
       },
@@ -370,27 +376,33 @@
         "goles_v": null
       },
       {
-        "local": "Cristian Tarragona",
-        "visitante": "Dilan Godoy",
+        "local": "Adrian Martinez",
+        "visitante": "Cristian Tarragona",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Emiliano Rigoni",
-        "visitante": "Facundo Bruera",
+        "local": "Dilan Godoy",
+        "visitante": "Emiliano Rigoni",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Latinos y latinoamericanos",
+        "local": "Asistencias",
+        "visitante": "Manuel Lanzini",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Deportes",
-        "visitante": "Liga Profesional Argentina",
-        "goles_l": null,
+        "local": "Tiago Palacios",
+        "visitante": "Facundo Valdez",
+        "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Marcelo Torres",
+        "visitante": "Nicolás Laméndola",
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -400,33 +412,33 @@
         "goles_v": null
       },
       {
-        "local": "Alex Díaz",
-        "visitante": "Alexis Zarate",
+        "local": "Alan Velasco",
+        "visitante": "Alex Díaz",
         "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Arnaldo González",
-        "visitante": "Brian Duarte",
+        "local": "Alexis Zarate",
+        "visitante": "Arnaldo González",
         "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Carlos Izquierdoz",
+        "visitante": "Franco Ibarra",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fernando Alarcón",
-        "visitante": "Franco Fagundez",
-        "goles_l": 2,
+        "local": "Carlos Izquierdoz",
+        "visitante": "Fernando Alarcón",
+        "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Franco Ibarra",
+        "local": "Franco Fagundez",
         "visitante": "Franco Vázquez",
-        "goles_l": 2,
+        "goles_l": 1,
         "goles_v": null
       },
       {
