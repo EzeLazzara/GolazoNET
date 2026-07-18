@@ -1,63 +1,283 @@
 {
-  "actualizado": "2026-07-17T21:48:52.874666",
+  "actualizado": "2026-07-18T13:14:40.792986",
   "partidos": [
     {
-      "id": 115,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
+      "id": 126,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Ferro",
+        "nombre": "San Martín (Bur.)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Colón",
+        "nombre": "Italiano",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 116,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
+      "id": 127,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Bolivar",
+        "nombre": "San Carlos",
         "goles": null
       },
       "visitante": {
-        "nombre": "All Boys",
+        "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
-      "fecha": 21,
-      "dia": "Vie 17/07",
-      "fechaISO": "2026-07-17",
+      "id": 128,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
       "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Temperley",
+        "nombre": "Liniers",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atlético Rafaela",
+        "nombre": "Merlo",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 129,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 130,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino (Q)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (M)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 136,
+      "fecha": 26,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 154,
+      "fecha": 20,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Cañuelas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leandro N. Alem",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 155,
+      "fecha": 20,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 156,
+      "fecha": 20,
+      "dia": "Sáb 18/07",
+      "fechaISO": "2026-07-18",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Porvenir",
+        "goles": null
+      },
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }

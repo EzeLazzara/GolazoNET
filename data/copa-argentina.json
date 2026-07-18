@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T21:48:52.872654",
+  "actualizado": "2026-07-18T13:14:40.792108",
   "bracket": {
     "32avos": [
       {
@@ -199,7 +199,7 @@
       {
         "local": "San Lorenzo",
         "visitante": "Deportivo Riestra",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -247,7 +247,7 @@
       {
         "local": "River Plate",
         "visitante": "Aldosivi",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -295,44 +295,50 @@
     ],
     "octavos": [
       {
-        "local": "Gimnasia La Plata",
-        "visitante": "Banfield",
+        "local": "Deportivo Riestra",
+        "visitante": "Gimnasia La Plata",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Midland",
-        "visitante": "Racing Club",
+        "local": "Banfield",
+        "visitante": "Midland",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Belgrano",
-        "visitante": "Vélez Sarsfield",
+        "local": "Racing Club",
+        "visitante": "Belgrano",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente Rivadavia",
-        "visitante": "Atlético Tucumán",
+        "local": "Vélez Sarsfield",
+        "visitante": "Boca Juniors",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente",
-        "visitante": "Platense",
+        "local": "Aldosivi",
+        "visitante": "Independiente Rivadavia",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Instituto",
-        "visitante": "Estudiantes de La Plata",
+        "local": "Atlético Tucumán",
+        "visitante": "Independiente",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Barracas Central",
-        "visitante": "CUARTOS DE FINAL",
+        "local": "Platense",
+        "visitante": "Instituto",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estudiantes de La Plata",
+        "visitante": "Barracas Central",
         "goles_l": null,
         "goles_v": null
       },
@@ -379,24 +385,37 @@
         "goles_v": null
       }
     ],
+    "cuartos": [],
     "semifinales": [],
     "final": [
       {
         "local": "Goles",
-        "visitante": "Adam Bareiro",
+        "visitante": "Tomás Fernández",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Adrian Martinez",
-        "visitante": "Cristian Tarragona",
+        "local": "Adam Bareiro",
+        "visitante": "Adrian Martinez",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Dilan Godoy",
-        "visitante": "Emiliano Rigoni",
+        "local": "Cristian Tarragona",
+        "visitante": "Dilan Godoy",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Fútbol noticias destacadas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Serie A italiana",
+        "visitante": "Deportes",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -469,18 +488,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Europa League resultados",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Actualidad deportiva",
-        "visitante": "Fútbol noticias destacadas",
-        "goles_l": null,
         "goles_v": null
       }
     ]

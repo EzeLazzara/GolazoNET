@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T21:48:35.837743",
+  "actualizado": "2026-07-18T13:14:15.958917",
   "posiciones": [
     {
       "pos": 1,
@@ -52,12 +52,12 @@
     {
       "pos": 5,
       "equipo": "Puerto Nuevo",
-      "pj": 19,
+      "pj": 21,
       "pg": 7,
       "pe": 8,
-      "pp": 4,
+      "pp": 6,
       "gf": 18,
-      "gc": 18,
+      "gc": 20,
       "pts": 29,
       "zona": "normal"
     },
@@ -279,6 +279,18 @@
     },
     {
       "pos": 10,
+      "equipo": "Fenix",
+      "pj": 21,
+      "pg": 6,
+      "pe": 5,
+      "pp": 10,
+      "gf": 14,
+      "gc": 21,
+      "pts": 23,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Central Ballester",
       "pj": 19,
       "pg": 6,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Claypole",
       "pj": 19,
       "pg": 5,
@@ -302,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Central Cordoba",
       "pj": 19,
       "pg": 4,
@@ -311,10 +323,10 @@
       "gf": 12,
       "gc": 15,
       "pts": 20,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Muñiz",
       "pj": 19,
       "pg": 3,
@@ -323,18 +335,6 @@
       "gf": 14,
       "gc": 17,
       "pts": 18,
-      "zona": "descenso"
-    },
-    {
-      "pos": 14,
-      "equipo": "Fenix",
-      "pj": 19,
-      "pg": 4,
-      "pe": 5,
-      "pp": 10,
-      "gf": 12,
-      "gc": 21,
-      "pts": 17,
       "zona": "descenso"
     }
   ]
