@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-18T21:46:18.268659",
+  "actualizado": "2026-07-19T13:17:24.240891",
   "bracket": {
     "32avos": [
       {
@@ -380,6 +380,18 @@
       },
       {
         "local": "Belgrano",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia LP",
+        "visitante": "Aldosivi",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente Riv.",
         "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
@@ -476,6 +488,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Copa Argentina resultados",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Bundesliga alemana",
+        "visitante": "Copa Argentina merchandise",
+        "goles_l": null,
         "goles_v": null
       }
     ]
