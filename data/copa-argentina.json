@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-21T22:01:39.219989",
+  "actualizado": "2026-07-22T13:52:46.124651",
   "bracket": {
     "32avos": [
       {
@@ -344,30 +344,6 @@
       },
       {
         "local": "Dom 30/08",
-        "visitante": "Boca Juniors",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Velez Sarsfield",
-        "visitante": "Racing Club",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Belgrano",
-        "visitante": "Riestra",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Gimnasia LP",
-        "visitante": "Aldosivi",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Independiente Riv.",
         "visitante": "Banfield",
         "goles_l": null,
         "goles_v": null
@@ -392,6 +368,30 @@
       },
       {
         "local": "Barracas Central",
+        "visitante": "Boca Juniors",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Velez Sarsfield",
+        "visitante": "Racing Club",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Belgrano",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia LP",
+        "visitante": "Aldosivi",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente Riv.",
         "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
