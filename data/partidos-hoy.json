@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-23T13:57:23.852733",
+  "actualizado": "2026-07-23T22:02:23.548316",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Rosario Central",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,27 +57,7 @@
         "nombre": "Aldosivi",
         "goles": null
       },
-      "hora": "16:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 146,
-      "fecha": 21,
-      "dia": "Jue 23/07",
-      "fechaISO": "2026-07-23",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "hora": "10:00",
+      "hora": "14:45",
       "minuto": null,
       "estado": "programado"
     }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-23T13:57:23.851828",
+  "actualizado": "2026-07-23T22:02:23.547055",
   "bracket": {
     "32avos": [
       {
@@ -420,13 +420,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Camisetas de fútbol",
+        "visitante": "Copa Argentina merchandise",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Entradas de fútbol",
-        "visitante": "Fútbol argentino",
+        "local": "Sportivo",
+        "visitante": "Artículos deportivos",
         "goles_l": null,
         "goles_v": null
       },
@@ -500,18 +500,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Noticias de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Tablas de posiciones",
-        "visitante": "Suscripción fútbol",
-        "goles_l": null,
         "goles_v": null
       }
     ]

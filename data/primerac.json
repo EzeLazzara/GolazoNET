@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-23T13:57:06.999178",
+  "actualizado": "2026-07-23T22:02:06.600419",
   "posiciones": [
     {
       "pos": 1,
@@ -39,6 +39,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Puerto Nuevo",
+      "pj": 22,
+      "pg": 7,
+      "pe": 9,
+      "pp": 6,
+      "gf": 18,
+      "gc": 20,
+      "pts": 30,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Mercedes",
       "pj": 20,
       "pg": 7,
@@ -50,7 +62,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "CA Lugano",
       "pj": 20,
       "pg": 7,
@@ -58,18 +70,6 @@
       "pp": 5,
       "gf": 24,
       "gc": 19,
-      "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Puerto Nuevo",
-      "pj": 21,
-      "pg": 7,
-      "pe": 8,
-      "pp": 6,
-      "gf": 18,
-      "gc": 20,
       "pts": 29,
       "zona": "normal"
     },
@@ -148,13 +148,13 @@
     {
       "pos": 13,
       "equipo": "Argentino Rosario",
-      "pj": 20,
+      "pj": 21,
       "pg": 2,
-      "pe": 11,
+      "pe": 12,
       "pp": 7,
       "gf": 19,
       "gc": 26,
-      "pts": 17,
+      "pts": 18,
       "zona": "normal"
     },
     {
