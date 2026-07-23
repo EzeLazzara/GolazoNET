@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-22T22:02:15.797086",
+  "actualizado": "2026-07-23T13:57:23.851828",
   "bracket": {
     "32avos": [
       {
@@ -419,6 +419,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Camisetas de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Entradas de fútbol",
+        "visitante": "Fútbol argentino",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -492,13 +504,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Deportes",
+        "visitante": "Noticias de fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Calendario de partidos",
-        "visitante": "Apuestas deportivas",
+        "local": "Tablas de posiciones",
+        "visitante": "Suscripción fútbol",
         "goles_l": null,
         "goles_v": null
       }

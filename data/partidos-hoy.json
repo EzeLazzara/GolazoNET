@@ -1,4 +1,85 @@
 {
-  "actualizado": "2026-07-22T22:02:15.797932",
-  "partidos": []
+  "actualizado": "2026-07-23T13:57:23.852733",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 1,
+      "dia": "Jue 23/07",
+      "fechaISO": "2026-07-23",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Sarmiento",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentinos Juniors",
+        "goles": null
+      },
+      "hora": "14:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 1,
+      "dia": "Jue 23/07",
+      "fechaISO": "2026-07-23",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Belgrano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "hora": "14:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 1,
+      "dia": "Jue 23/07",
+      "fechaISO": "2026-07-23",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Aldosivi",
+        "goles": null
+      },
+      "hora": "16:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 146,
+      "fecha": 21,
+      "dia": "Jue 23/07",
+      "fechaISO": "2026-07-23",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Puerto Nuevo",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
