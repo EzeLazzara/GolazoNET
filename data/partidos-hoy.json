@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-07-24T13:44:27.009191",
+  "actualizado": "2026-07-24T22:02:18.791235",
   "partidos": [
     {
       "id": 100,
-      "fecha": 1,
-      "dia": "Vie 24/07",
-      "fechaISO": "2026-07-24",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "11:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 1,
-      "dia": "Vie 24/07",
-      "fechaISO": "2026-07-24",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Racing Club",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia LP",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
       "fecha": 1,
       "dia": "Vie 24/07",
       "fechaISO": "2026-07-24",
@@ -57,12 +17,12 @@
         "nombre": "Instituto",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 101,
       "fecha": 1,
       "dia": "Vie 24/07",
       "fechaISO": "2026-07-24",
@@ -77,12 +37,12 @@
         "nombre": "Union Santa Fe",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 102,
       "fecha": 1,
       "dia": "Vie 24/07",
       "fechaISO": "2026-07-24",
@@ -97,32 +57,12 @@
         "nombre": "Banfield",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
-      "fecha": 18,
-      "dia": "Vie 24/07",
-      "fechaISO": "2026-07-24",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Kimberley",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Círculo Deportivo",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 142,
+      "id": 122,
       "fecha": 18,
       "dia": "Vie 24/07",
       "fechaISO": "2026-07-24",
@@ -137,7 +77,7 @@
         "nombre": "Atlético Escobar",
         "goles": null
       },
-      "hora": "15:35",
+      "hora": "13:35",
       "minuto": null,
       "estado": "programado"
     }

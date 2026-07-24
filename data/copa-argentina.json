@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T13:44:27.008279",
+  "actualizado": "2026-07-24T22:02:18.790328",
   "bracket": {
     "32avos": [
       {
@@ -488,6 +488,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Estadísticas de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Referencia geográfica",
+        "visitante": "Liga Profesional Argentina",
+        "goles_l": null,
         "goles_v": null
       }
     ]
