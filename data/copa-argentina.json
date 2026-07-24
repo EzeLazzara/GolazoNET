@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-23T22:02:23.547055",
+  "actualizado": "2026-07-24T13:44:27.008279",
   "bracket": {
     "32avos": [
       {
@@ -419,32 +419,20 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Copa Argentina merchandise",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Sportivo",
-        "visitante": "Artículos deportivos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Tiago Palacios",
-        "visitante": "Facundo Valdez",
+        "local": "Federico Laurelli",
+        "visitante": "Tiago Palacios",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Marcelo Torres",
-        "visitante": "Nicolás Laméndola",
+        "local": "Facundo Valdez",
+        "visitante": "Marcelo Torres",
         "goles_l": 2,
         "goles_v": null
       },
