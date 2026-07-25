@@ -1,88 +1,8 @@
 {
-  "actualizado": "2026-07-24T22:02:18.791616",
+  "actualizado": "2026-07-25T13:25:04.431752",
   "partidos": [
     {
-      "id": 103,
-      "fecha": 1,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Estudiantes RC",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Tigre",
-        "goles": null
-      },
-      "hora": "07:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 104,
-      "fecha": 1,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Talleres",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 1,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "hora": "12:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 1,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Lorenzo",
-        "goles": null
-      },
-      "hora": "14:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
       "fecha": 1,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -102,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 1,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -122,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 106,
       "fecha": 1,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -142,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 107,
       "fecha": 21,
       "dia": "Mar 25/08",
       "fechaISO": "2026-08-25",
@@ -162,207 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "hora": "06:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Argentino (Q)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 118,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 27,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
       "fecha": 27,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -382,47 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
-      "fecha": 18,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores (VR)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
-      "fecha": 18,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Costa Brava",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dvo. Rincón",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
+      "id": 121,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -442,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 122,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -462,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 123,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -482,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 124,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -502,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 125,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -522,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 126,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -542,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 127,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -562,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 128,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -582,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 129,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -602,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 130,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -622,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 131,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -642,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 132,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -662,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 133,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -682,147 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Berazategui",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Mercedes",
-        "goles": null
-      },
-      "hora": "06:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 139,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cañuelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Muñiz",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 141,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Estrella del Sur",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 142,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 143,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Centro Español",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 144,
-      "fecha": 21,
-      "dia": "Sáb 25/07",
-      "fechaISO": "2026-07-25",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Leones de Rosario FC",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 145,
       "fecha": 21,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -842,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 142,
       "fecha": 21,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -862,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 143,
       "fecha": 21,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -882,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 144,
       "fecha": 21,
       "dia": "Lun 27/07",
       "fechaISO": "2026-07-27",
@@ -902,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 145,
       "fecha": 21,
       "dia": "Lun 27/07",
       "fechaISO": "2026-07-27",
@@ -922,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 146,
       "fecha": 21,
       "dia": "Lun 27/07",
       "fechaISO": "2026-07-27",

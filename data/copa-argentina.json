@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T22:02:18.790328",
+  "actualizado": "2026-07-25T13:25:04.430197",
   "bracket": {
     "32avos": [
       {
@@ -419,6 +419,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Fútbol en vivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol argentino",
+        "visitante": "Liga Profesional Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -488,18 +500,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Estadísticas de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Referencia geográfica",
-        "visitante": "Liga Profesional Argentina",
-        "goles_l": null,
         "goles_v": null
       }
     ]
