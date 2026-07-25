@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-07-25T13:25:04.431752",
+  "actualizado": "2026-07-25T21:52:13.150154",
   "partidos": [
     {
-      "id": 104,
+      "id": 102,
       "fecha": 1,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 103,
       "fecha": 1,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -42,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 1,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -62,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 21,
       "dia": "Mar 25/08",
       "fechaISO": "2026-08-25",
@@ -82,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 107,
       "fecha": 27,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -102,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 108,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -122,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 109,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -142,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 110,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -162,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 111,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -182,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 112,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -202,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 113,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -222,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 114,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -242,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 115,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -262,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 116,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -282,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 117,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -302,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 118,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 119,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 120,
       "fecha": 18,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 121,
       "fecha": 21,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 122,
       "fecha": 21,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 123,
       "fecha": 21,
       "dia": "Dom 26/07",
       "fechaISO": "2026-07-26",
@@ -422,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 124,
       "fecha": 21,
       "dia": "Lun 27/07",
       "fechaISO": "2026-07-27",
@@ -442,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 125,
       "fecha": 21,
       "dia": "Lun 27/07",
       "fechaISO": "2026-07-27",
@@ -462,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 126,
       "fecha": 21,
       "dia": "Lun 27/07",
       "fechaISO": "2026-07-27",
