@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-25T21:52:13.148980",
+  "actualizado": "2026-07-26T13:20:57.110419",
   "bracket": {
     "32avos": [
       {
@@ -416,6 +416,18 @@
         "local": "Cristian Tarragona",
         "visitante": "Dilan Godoy",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Estadísticas Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Datos de fútbol",
+        "visitante": "Promiedos fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {
