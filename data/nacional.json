@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-26T21:55:42.430225",
+  "actualizado": "2026-07-27T14:32:15.188474",
   "posiciones": [
     {
       "pos": 1,
@@ -303,6 +303,30 @@
     },
     {
       "pos": 8,
+      "equipo": "Maipú",
+      "pj": 22,
+      "pg": 8,
+      "pe": 5,
+      "pp": 9,
+      "gf": 27,
+      "gc": 22,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
+      "equipo": "Gimnasia y Tiro",
+      "pj": 21,
+      "pg": 7,
+      "pe": 7,
+      "pp": 7,
+      "gf": 20,
+      "gc": 21,
+      "pts": 28,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "San Martín",
       "pj": 20,
       "pg": 7,
@@ -314,7 +338,19 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 11,
+      "equipo": "Colegiales",
+      "pj": 21,
+      "pg": 7,
+      "pe": 5,
+      "pp": 9,
+      "gf": 19,
+      "gc": 20,
+      "pts": 26,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
       "equipo": "Chicago",
       "pj": 21,
       "pg": 6,
@@ -326,7 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 13,
       "equipo": "Almagro",
       "pj": 20,
       "pg": 7,
@@ -338,31 +374,19 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 14,
       "equipo": "Quilmes",
-      "pj": 20,
+      "pj": 21,
       "pg": 6,
       "pe": 6,
-      "pp": 8,
-      "gf": 18,
-      "gc": 16,
-      "pts": 24,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Colegiales",
-      "pj": 20,
-      "pg": 6,
-      "pe": 5,
       "pp": 9,
       "gf": 18,
-      "gc": 20,
-      "pts": 23,
-      "zona": "normal"
+      "gc": 17,
+      "pts": 24,
+      "zona": "descenso"
     },
     {
-      "pos": 13,
+      "pos": 15,
       "equipo": "Chacarita",
       "pj": 21,
       "pg": 6,
@@ -371,30 +395,6 @@
       "gf": 16,
       "gc": 22,
       "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "Agropecuario",
-      "pj": 22,
-      "pg": 5,
-      "pe": 8,
-      "pp": 9,
-      "gf": 17,
-      "gc": 26,
-      "pts": 23,
-      "zona": "descenso"
-    },
-    {
-      "pos": 15,
-      "equipo": "Patronato",
-      "pj": 21,
-      "pg": 4,
-      "pe": 10,
-      "pp": 7,
-      "gf": 13,
-      "gc": 18,
-      "pts": 22,
       "zona": "descenso"
     }
   ]
