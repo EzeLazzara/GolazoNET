@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27T14:32:56.525255",
+  "actualizado": "2026-07-27T22:02:59.527125",
   "partidos": [
     {
       "id": 100,
@@ -538,6 +538,26 @@
         "goles": null
       },
       "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 21,
+      "dia": "Mar 28/07",
+      "fechaISO": "2026-07-28",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Porvenir",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }

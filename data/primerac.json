@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-07-27T14:32:39.821357",
+  "actualizado": "2026-07-27T22:02:42.841596",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Sacachispas",
-      "pj": 19,
+      "pj": 20,
       "pg": 10,
-      "pe": 4,
+      "pe": 5,
       "pp": 5,
-      "gf": 24,
-      "gc": 14,
-      "pts": 34,
+      "gf": 25,
+      "gc": 15,
+      "pts": 35,
       "zona": "promotion"
     },
     {
@@ -100,13 +100,13 @@
     {
       "pos": 9,
       "equipo": "Leandro N. Alem",
-      "pj": 20,
+      "pj": 21,
       "pg": 7,
-      "pe": 5,
+      "pe": 6,
       "pp": 8,
-      "gf": 24,
-      "gc": 33,
-      "pts": 26,
+      "gf": 25,
+      "gc": 34,
+      "pts": 27,
       "zona": "normal"
     },
     {
@@ -207,6 +207,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Yupanqui",
+      "pj": 21,
+      "pg": 7,
+      "pe": 8,
+      "pp": 6,
+      "gf": 25,
+      "gc": 22,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Leones de Rosario FC",
       "pj": 20,
       "pg": 7,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Lamadrid",
       "pj": 21,
       "pg": 7,
@@ -227,18 +239,6 @@
       "gf": 18,
       "gc": 20,
       "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Yupanqui",
-      "pj": 20,
-      "pg": 7,
-      "pe": 7,
-      "pp": 6,
-      "gf": 24,
-      "gc": 21,
-      "pts": 28,
       "zona": "normal"
     },
     {
@@ -279,6 +279,18 @@
     },
     {
       "pos": 10,
+      "equipo": "Fenix",
+      "pj": 22,
+      "pg": 6,
+      "pe": 6,
+      "pp": 10,
+      "gf": 15,
+      "gc": 22,
+      "pts": 24,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Central Cordoba",
       "pj": 20,
       "pg": 5,
@@ -286,18 +298,6 @@
       "pp": 7,
       "gf": 14,
       "gc": 15,
-      "pts": 23,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "Fenix",
-      "pj": 21,
-      "pg": 6,
-      "pe": 5,
-      "pp": 10,
-      "gf": 14,
-      "gc": 21,
       "pts": 23,
       "zona": "normal"
     },
