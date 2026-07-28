@@ -1,86 +1,6 @@
 {
-  "actualizado": "2026-07-27T22:02:59.527125",
+  "actualizado": "2026-07-28T14:06:46.249932",
   "partidos": [
-    {
-      "id": 100,
-      "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Banfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "San Lorenzo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Rosario Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing Club",
-        "goles": null
-      },
-      "hora": "16:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Argentinos Juniors",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes RC",
-        "goles": null
-      },
-      "hora": "16:15",
-      "minuto": null,
-      "estado": "programado"
-    },
     {
       "id": 104,
       "fecha": 2,
@@ -304,6 +224,46 @@
     {
       "id": 115,
       "fecha": 21,
+      "dia": "Mié 05/08",
+      "fechaISO": "2026-08-05",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia (J)",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 21,
+      "dia": "Mié 05/08",
+      "fechaISO": "2026-08-05",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colegiales",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 21,
       "dia": "Mar 25/08",
       "fechaISO": "2026-08-25",
       "esHoy": false,
@@ -322,7 +282,47 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 118,
+      "fecha": 28,
+      "dia": "Vie 31/07",
+      "fechaISO": "2026-07-31",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 28,
+      "dia": "Vie 31/07",
+      "fechaISO": "2026-07-31",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -337,32 +337,12 @@
         "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
+      "id": 121,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -377,32 +357,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
+      "id": 122,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -417,32 +377,12 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (Q)",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
+      "id": 123,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -457,52 +397,12 @@
         "nombre": "Flandria",
         "goles": null
       },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 124,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -517,12 +417,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -537,24 +437,64 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 28,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 127,
-      "fecha": 21,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
+      "fecha": 28,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Sp. Barracas",
+        "nombre": "San Carlos",
         "goles": null
       },
       "visitante": {
-        "nombre": "El Porvenir",
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
+      "fecha": 28,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino (Q)",
         "goles": null
       },
       "hora": "10:00",

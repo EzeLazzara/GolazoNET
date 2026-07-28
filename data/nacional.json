@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27T22:02:18.208762",
+  "actualizado": "2026-07-28T14:05:13.903420",
   "posiciones": [
     {
       "pos": 1,
@@ -244,12 +244,12 @@
     {
       "pos": 3,
       "equipo": "Atlanta",
-      "pj": 20,
+      "pj": 21,
       "pg": 11,
       "pe": 3,
-      "pp": 6,
-      "gf": 25,
-      "gc": 15,
+      "pp": 7,
+      "gf": 26,
+      "gc": 18,
       "pts": 36,
       "zona": "normal"
     },
@@ -327,6 +327,18 @@
     },
     {
       "pos": 10,
+      "equipo": "Almagro",
+      "pj": 21,
+      "pg": 8,
+      "pe": 4,
+      "pp": 9,
+      "gf": 19,
+      "gc": 23,
+      "pts": 28,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "San Martín",
       "pj": 20,
       "pg": 7,
@@ -338,7 +350,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Colegiales",
       "pj": 21,
       "pg": 7,
@@ -350,7 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Chicago",
       "pj": 21,
       "pg": 6,
@@ -359,18 +371,6 @@
       "gf": 18,
       "gc": 19,
       "pts": 26,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Almagro",
-      "pj": 20,
-      "pg": 7,
-      "pe": 4,
-      "pp": 9,
-      "gf": 16,
-      "gc": 22,
-      "pts": 25,
       "zona": "normal"
     },
     {
