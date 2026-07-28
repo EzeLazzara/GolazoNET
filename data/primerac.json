@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-28T14:05:38.766459",
+  "actualizado": "2026-07-28T22:00:19.791825",
   "posiciones": [
     {
       "pos": 1,
@@ -244,24 +244,24 @@
     {
       "pos": 7,
       "equipo": "Sp. Barracas",
-      "pj": 20,
-      "pg": 7,
+      "pj": 21,
+      "pg": 8,
       "pe": 4,
       "pp": 9,
-      "gf": 22,
-      "gc": 21,
-      "pts": 25,
+      "gf": 25,
+      "gc": 23,
+      "pts": 28,
       "zona": "normal"
     },
     {
       "pos": 8,
       "equipo": "El Porvenir",
-      "pj": 20,
+      "pj": 21,
       "pg": 4,
       "pe": 13,
-      "pp": 3,
-      "gf": 15,
-      "gc": 15,
+      "pp": 4,
+      "gf": 17,
+      "gc": 18,
       "pts": 25,
       "zona": "normal"
     },
