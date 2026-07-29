@@ -1,40 +1,40 @@
 {
-  "actualizado": "2026-07-28T22:00:42.523714",
+  "actualizado": "2026-07-29T14:09:04.861822",
   "partidos": [
     {
       "id": 100,
       "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
+      "dia": "Mié 29/07",
+      "fechaISO": "2026-07-29",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Banfield",
+        "nombre": "Barracas Central",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sarmiento",
+        "nombre": "Aldosivi",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
       "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
+      "dia": "Mié 29/07",
+      "fechaISO": "2026-07-29",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "San Lorenzo",
+        "nombre": "Defensa y Justicia",
         "goles": null
       },
       "visitante": {
-        "nombre": "Gimnasia Mendoza",
+        "nombre": "Riestra",
         "goles": null
       },
       "hora": "12:00",
@@ -44,17 +44,17 @@
     {
       "id": 102,
       "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
+      "dia": "Mié 29/07",
+      "fechaISO": "2026-07-29",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Rosario Central",
+        "nombre": "Gimnasia LP",
         "goles": null
       },
       "visitante": {
-        "nombre": "Racing Club",
+        "nombre": "River Plate",
         "goles": null
       },
       "hora": "14:15",
@@ -64,20 +64,20 @@
     {
       "id": 103,
       "fecha": 2,
-      "dia": "Mar 28/07",
-      "fechaISO": "2026-07-28",
+      "dia": "Mié 29/07",
+      "fechaISO": "2026-07-29",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Argentinos Juniors",
+        "nombre": "Instituto",
         "goles": null
       },
       "visitante": {
-        "nombre": "Estudiantes RC",
+        "nombre": "Platense",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     }
