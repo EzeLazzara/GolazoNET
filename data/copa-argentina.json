@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-29T14:09:04.860960",
+  "actualizado": "2026-07-29T21:57:49.081877",
   "bracket": {
     "32avos": [
       {
@@ -419,6 +419,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Referencia geográfica",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Promiedos suscripción premium",
+        "visitante": "Turismo en Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -488,6 +500,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Noticias deportivas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Copa Argentina merchandise",
+        "visitante": "Sportivo",
+        "goles_l": null,
         "goles_v": null
       }
     ]

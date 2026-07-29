@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-07-29T14:09:04.861822",
+  "actualizado": "2026-07-29T21:57:49.082719",
   "partidos": [
     {
       "id": 100,
-      "fecha": 2,
-      "dia": "Mié 29/07",
-      "fechaISO": "2026-07-29",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Aldosivi",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 2,
-      "dia": "Mié 29/07",
-      "fechaISO": "2026-07-29",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Defensa y Justicia",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
       "fecha": 2,
       "dia": "Mié 29/07",
       "fechaISO": "2026-07-29",
@@ -57,12 +17,12 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "12:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 101,
       "fecha": 2,
       "dia": "Mié 29/07",
       "fechaISO": "2026-07-29",
@@ -77,7 +37,7 @@
         "nombre": "Platense",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     }
