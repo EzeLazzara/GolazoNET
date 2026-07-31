@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T14:05:22.086370",
+  "actualizado": "2026-07-31T22:01:34.187232",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,7 +57,7 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -77,7 +77,7 @@
         "nombre": "San Martín (T)",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "07:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -97,7 +97,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -117,7 +117,7 @@
         "nombre": "Godoy Cruz",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -137,7 +137,7 @@
         "nombre": "Colón",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -157,7 +157,7 @@
         "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -177,7 +177,7 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -197,7 +197,7 @@
         "nombre": "Quilmes",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -217,7 +217,7 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -237,7 +237,7 @@
         "nombre": "Racing (Cba)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -257,7 +257,7 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -277,7 +277,7 @@
         "nombre": "San Miguel",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -297,7 +297,7 @@
         "nombre": "Agropecuario",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -317,7 +317,7 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -337,7 +337,7 @@
         "nombre": "Gimnasia y Tiro",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -357,7 +357,7 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -377,7 +377,7 @@
         "nombre": "Morón",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -397,7 +397,7 @@
         "nombre": "Los Andes",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -417,12 +417,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 122,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -437,12 +437,12 @@
         "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 123,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -457,12 +457,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 124,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -477,12 +477,12 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -497,12 +497,12 @@
         "nombre": "Argentino (Q)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 126,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -517,12 +517,12 @@
         "nombre": "Flandria",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 127,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -537,12 +537,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 128,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -557,12 +557,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 129,
       "fecha": 28,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -577,12 +577,12 @@
         "nombre": "Merlo",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 130,
       "fecha": 28,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -597,12 +597,12 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 131,
       "fecha": 22,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -617,12 +617,12 @@
         "nombre": "Fenix",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 132,
       "fecha": 22,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -637,7 +637,7 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }
