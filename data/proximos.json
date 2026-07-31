@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-07-30T22:08:47.660435",
+  "actualizado": "2026-07-31T14:05:22.086370",
   "partidos": [
     {
-      "id": 102,
+      "id": 100,
       "fecha": 2,
       "dia": "Mié 05/08",
       "fechaISO": "2026-08-05",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 101,
       "fecha": 2,
       "dia": "Mié 05/08",
       "fechaISO": "2026-08-05",
@@ -42,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 102,
       "fecha": 2,
       "dia": "Jue 06/08",
       "fechaISO": "2026-08-06",
@@ -62,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 103,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -82,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -102,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -122,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -142,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -162,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -182,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 109,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -202,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 110,
       "fecha": 23,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -222,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 111,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -242,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 112,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -262,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 113,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -282,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 114,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -302,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 115,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 116,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 117,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 118,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 119,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 120,
       "fecha": 23,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -424,46 +424,6 @@
     {
       "id": 123,
       "fecha": 28,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
-      "fecha": 28,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
-      "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
       "esHoy": false,
@@ -482,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 124,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -502,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 125,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -522,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 126,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -542,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 127,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -562,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 128,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -582,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 129,
       "fecha": 28,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -602,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 130,
       "fecha": 28,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -622,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 131,
       "fecha": 28,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -642,227 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Luján",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lamadrid",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 137,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Centro Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 138,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Berazategui",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 139,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 141,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Leandro N. Alem",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Juventud Unida SM",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 142,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Leones de Rosario FC",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 143,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Mercedes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estrella del Sur",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 144,
-      "fecha": 22,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 145,
       "fecha": 22,
       "dia": "Sáb 01/08",
       "fechaISO": "2026-08-01",
@@ -882,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 144,
       "fecha": 22,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
