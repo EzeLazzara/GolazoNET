@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T22:01:34.186097",
+  "actualizado": "2026-08-01T21:53:31.683219",
   "bracket": {
     "32avos": [
       {
@@ -368,12 +368,12 @@
       },
       {
         "local": "Barracas Central",
-        "visitante": "Boca Juniors",
+        "visitante": "Velez Sarsfield",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Velez Sarsfield",
+        "local": "Boca Juniors",
         "visitante": "Racing Club",
         "goles_l": null,
         "goles_v": null
@@ -492,13 +492,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Noticias deportivas",
+        "visitante": "Clubes y organizaciones",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Deportes",
-        "visitante": "Actualidad deportiva",
+        "local": "Ligas de fútbol",
+        "visitante": "Promiedos suscripción premium",
         "goles_l": null,
         "goles_v": null
       }

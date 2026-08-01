@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-07-31T22:01:34.186932",
-  "partidos": [
-    {
-      "id": 121,
-      "fecha": 28,
-      "dia": "Vie 31/07",
-      "fechaISO": "2026-07-31",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-08-01T21:53:31.684163",
+  "partidos": []
 }

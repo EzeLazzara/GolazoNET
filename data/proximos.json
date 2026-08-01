@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T22:01:34.187232",
+  "actualizado": "2026-08-01T21:53:31.684471",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,172 +57,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 103,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "hora": "07:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Defensores",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Ferro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Acassuso",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colón",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Colegiales",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Almagro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Midland",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 109,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Patronato",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Quilmes",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 110,
-      "fecha": 23,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 111,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -237,12 +77,12 @@
         "nombre": "Racing (Cba)",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 104,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -257,12 +97,12 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 105,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -277,12 +117,12 @@
         "nombre": "San Miguel",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 106,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -297,12 +137,12 @@
         "nombre": "Agropecuario",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 107,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -317,12 +157,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 108,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -337,12 +177,12 @@
         "nombre": "Gimnasia y Tiro",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 109,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -357,12 +197,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 110,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -377,12 +217,12 @@
         "nombre": "Morón",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 111,
       "fecha": 23,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -397,12 +237,12 @@
         "nombre": "Los Andes",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "11:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 112,
       "fecha": 23,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -417,152 +257,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (Q)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 126,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 127,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 128,
-      "fecha": 28,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
+      "id": 113,
       "fecha": 28,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -577,12 +277,12 @@
         "nombre": "Merlo",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 114,
       "fecha": 28,
       "dia": "Dom 02/08",
       "fechaISO": "2026-08-02",
@@ -597,32 +297,312 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
-      "fecha": 22,
-      "dia": "Sáb 01/08",
-      "fechaISO": "2026-08-01",
+      "id": 115,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "federala",
+      "ligaNombre": "Federal A",
       "local": {
-        "nombre": "El Porvenir",
+        "nombre": "Fundación Amigos por el Deporte",
         "goles": null
       },
       "visitante": {
-        "nombre": "Fenix",
+        "nombre": "Círculo Deportivo",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "06:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 116,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sol de Mayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Santamarina",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "El Linqueño",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sportivo LP",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Olimpo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juv. Antoniana",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Dvo. Rincón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gmo. Brown",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Cipolletti",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Huracán (LH)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Gimnasia de Concepción",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tucumán Central",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Defensores (VR)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Bartolomé Mitre",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Atenas (RC)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Mitre",
+        "goles": null
+      },
+      "hora": "10:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Germinal",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juventud Unida (SL)",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "9 de Julio (R)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Douglas Haig",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "San Martín (For)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sol De América",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 1,
+      "dia": "Dom 02/08",
+      "fechaISO": "2026-08-02",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "San Martín (Mdza)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Costa Brava",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
+      "fecha": 1,
+      "dia": "Lun 03/08",
+      "fechaISO": "2026-08-03",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Kimberley",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino MM",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 129,
+      "fecha": 1,
+      "dia": "Lun 03/08",
+      "fechaISO": "2026-08-03",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Defensores Pto. Vilelas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (R)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 130,
       "fecha": 22,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -637,7 +617,7 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
