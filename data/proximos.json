@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T13:19:50.068425",
+  "actualizado": "2026-08-02T21:52:26.374505",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,12 +57,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 103,
       "fecha": 23,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -77,12 +77,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 104,
       "fecha": 1,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -97,12 +97,12 @@
         "nombre": "Argentino MM",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 105,
       "fecha": 1,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -117,12 +117,12 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 106,
       "fecha": 22,
       "dia": "Lun 03/08",
       "fechaISO": "2026-08-03",
@@ -137,7 +137,7 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }
