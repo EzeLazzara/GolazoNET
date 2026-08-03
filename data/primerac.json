@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T14:37:23.333825",
+  "actualizado": "2026-08-03T22:05:01.346724",
   "posiciones": [
     {
       "pos": 1,
@@ -184,13 +184,13 @@
     {
       "pos": 2,
       "equipo": "Cañuelas",
-      "pj": 21,
-      "pg": 9,
+      "pj": 22,
+      "pg": 10,
       "pe": 9,
       "pp": 3,
-      "gf": 23,
-      "gc": 13,
-      "pts": 36,
+      "gf": 25,
+      "gc": 14,
+      "pts": 39,
       "zona": "normal"
     },
     {
@@ -220,12 +220,12 @@
     {
       "pos": 5,
       "equipo": "Yupanqui",
-      "pj": 21,
+      "pj": 22,
       "pg": 7,
       "pe": 8,
-      "pp": 6,
-      "gf": 25,
-      "gc": 22,
+      "pp": 7,
+      "gf": 26,
+      "gc": 24,
       "pts": 29,
       "zona": "normal"
     },

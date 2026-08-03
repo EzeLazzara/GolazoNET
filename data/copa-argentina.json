@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T14:37:39.871142",
+  "actualizado": "2026-08-03T22:05:17.820740",
   "bracket": {
     "32avos": [
       {
@@ -488,6 +488,18 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Promiedos suscripción premium",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resultados de fútbol",
+        "visitante": "Productos regionales argentinos",
+        "goles_l": null,
         "goles_v": null
       }
     ]

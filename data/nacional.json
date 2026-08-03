@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T14:36:58.481104",
+  "actualizado": "2026-08-03T22:04:36.348667",
   "posiciones": [
     {
       "pos": 1,
@@ -231,6 +231,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Tristan Suárez",
+      "pj": 22,
+      "pg": 10,
+      "pe": 9,
+      "pp": 3,
+      "gf": 21,
+      "gc": 12,
+      "pts": 39,
+      "zona": "normal"
+    },
+    {
+      "pos": 3,
       "equipo": "Temperley",
       "pj": 23,
       "pg": 9,
@@ -239,18 +251,6 @@
       "gf": 24,
       "gc": 20,
       "pts": 37,
-      "zona": "normal"
-    },
-    {
-      "pos": 3,
-      "equipo": "Tristan Suárez",
-      "pj": 21,
-      "pg": 9,
-      "pe": 9,
-      "pp": 3,
-      "gf": 18,
-      "gc": 11,
-      "pts": 36,
       "zona": "normal"
     },
     {
