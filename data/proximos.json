@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T21:52:26.374505",
+  "actualizado": "2026-08-03T14:37:39.872402",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,24 +57,24 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
-      "fecha": 23,
-      "dia": "Lun 03/08",
-      "fechaISO": "2026-08-03",
+      "id": 104,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
       "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Güemes",
+        "nombre": "Talleres RE",
         "goles": null
       },
       "visitante": {
-        "nombre": "Tristan Suárez",
+        "nombre": "Argentino (M)",
         "goles": null
       },
       "hora": "09:00",
@@ -82,62 +82,202 @@
       "estado": "programado"
     },
     {
-      "id": 104,
-      "fecha": 1,
-      "dia": "Lun 03/08",
-      "fechaISO": "2026-08-03",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Kimberley",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino MM",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 105,
-      "fecha": 1,
-      "dia": "Lun 03/08",
-      "fechaISO": "2026-08-03",
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
       "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Defensores Pto. Vilelas",
+        "nombre": "Laferrere",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sarmiento (R)",
+        "nombre": "Arsenal",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 106,
-      "fecha": 22,
-      "dia": "Lun 03/08",
-      "fechaISO": "2026-08-03",
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Yupanqui",
+        "nombre": "Brown de Adrogué",
         "goles": null
       },
       "visitante": {
-        "nombre": "Cañuelas",
+        "nombre": "Excursionistas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (Q)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Liniers",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 29,
+      "dia": "Sáb 08/08",
+      "fechaISO": "2026-08-08",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
