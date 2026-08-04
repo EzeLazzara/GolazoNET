@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T22:05:17.820740",
+  "actualizado": "2026-08-04T14:09:57.342908",
   "bracket": {
     "32avos": [
       {
@@ -492,13 +492,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Promiedos suscripción premium",
+        "visitante": "Resultados de fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Resultados de fútbol",
-        "visitante": "Productos regionales argentinos",
+        "local": "Historia Copa Argentina",
+        "visitante": "Promiedos app móvil",
         "goles_l": null,
         "goles_v": null
       }
