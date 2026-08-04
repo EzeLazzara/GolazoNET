@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T14:09:57.342908",
+  "actualizado": "2026-08-04T22:08:37.250259",
   "bracket": {
     "32avos": [
       {
@@ -488,18 +488,6 @@
         "local": "Facundo Bruera",
         "visitante": "Lautaro Gordillo",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Resultados de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Historia Copa Argentina",
-        "visitante": "Promiedos app móvil",
-        "goles_l": null,
         "goles_v": null
       }
     ]
