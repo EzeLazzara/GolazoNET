@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-08-05T14:07:41.510330",
+  "actualizado": "2026-08-05T22:09:47.460685",
   "partidos": [
     {
       "id": 100,
-      "fecha": 2,
-      "dia": "Mié 05/08",
-      "fechaISO": "2026-08-05",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Boca Juniors",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 2,
       "dia": "Mié 05/08",
       "fechaISO": "2026-08-05",
@@ -37,7 +17,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     }

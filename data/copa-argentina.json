@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T14:07:41.509448",
+  "actualizado": "2026-08-05T22:09:47.459738",
   "bracket": {
     "32avos": [
       {
@@ -420,13 +420,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Transmisiones de partidos",
+        "visitante": "Ligas de fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol",
-        "visitante": "Promiedos app móvil",
+        "local": "Transmisiones de partidos",
+        "visitante": "Productos argentinos",
         "goles_l": null,
         "goles_v": null
       },
