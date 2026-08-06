@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T22:09:47.459738",
+  "actualizado": "2026-08-06T14:07:17.882376",
   "bracket": {
     "32avos": [
       {
@@ -343,55 +343,61 @@
         "goles_v": null
       },
       {
-        "local": "Dom 30/08",
-        "visitante": "Banfield",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Midland",
+        "local": "Mié 12/08",
         "visitante": "Atletico Tucuman",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Independiente",
-        "visitante": "Platense",
+        "visitante": "Mar 18/08",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Instituto",
-        "visitante": "Estudiantes",
+        "local": "Riestra",
+        "visitante": "Gimnasia LP",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Barracas Central",
-        "visitante": "Velez Sarsfield",
+        "local": "Banfield",
+        "visitante": "Midland",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Boca Juniors",
+        "local": "Mié 19/08",
         "visitante": "Racing Club",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Belgrano",
-        "visitante": "Riestra",
+        "visitante": "Mié 26/08",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Gimnasia LP",
-        "visitante": "Aldosivi",
+        "local": "Aldosivi",
+        "visitante": "Independiente Riv.",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente Riv.",
+        "local": "Jue 27/08",
+        "visitante": "Estudiantes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Barracas Central",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
         "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
@@ -420,12 +426,12 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Ligas de fútbol",
+        "visitante": "Fútbol Sudamericano",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Transmisiones de partidos",
+        "local": "Historia Copa Argentina",
         "visitante": "Productos argentinos",
         "goles_l": null,
         "goles_v": null

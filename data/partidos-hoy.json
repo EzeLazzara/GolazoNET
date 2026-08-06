@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-08-05T22:09:47.460685",
+  "actualizado": "2026-08-06T14:07:17.883256",
   "partidos": [
     {
       "id": 100,
       "fecha": 2,
-      "dia": "Mié 05/08",
-      "fechaISO": "2026-08-05",
+      "dia": "Jue 06/08",
+      "fechaISO": "2026-08-06",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Tigre",
+        "nombre": "Union Santa Fe",
         "goles": null
       },
       "visitante": {
-        "nombre": "Belgrano",
+        "nombre": "Lanus",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
