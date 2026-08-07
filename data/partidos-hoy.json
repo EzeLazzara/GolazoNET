@@ -1,23 +1,143 @@
 {
-  "actualizado": "2026-08-06T14:07:17.883256",
+  "actualizado": "2026-08-07T01:01:11.527924",
   "partidos": [
     {
       "id": 100,
-      "fecha": 2,
-      "dia": "Jue 06/08",
-      "fechaISO": "2026-08-06",
+      "fecha": 4,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Union Santa Fe",
+        "nombre": "Rosario Central",
         "goles": null
       },
       "visitante": {
-        "nombre": "Lanus",
+        "nombre": "Aldosivi",
+        "goles": null
+      },
+      "hora": "13:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 4,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente Riv.",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estudiantes RC",
+        "goles": null
+      },
+      "hora": "15:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 24,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Maipú",
         "goles": null
       },
       "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 29,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 29,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 2,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sp. Belgrano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "9 de Julio (R)",
+        "goles": null
+      },
+      "hora": "14:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 145,
+      "fecha": 2,
+      "dia": "Vie 07/08",
+      "fechaISO": "2026-08-07",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Juv. Antoniana",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Alvarado",
+        "goles": null
+      },
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     }
