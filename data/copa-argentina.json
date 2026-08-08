@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T21:35:40.107847",
+  "actualizado": "2026-08-08T12:46:48.269470",
   "bracket": {
     "32avos": [
       {
@@ -422,6 +422,18 @@
         "local": "Cristian Tarragona",
         "visitante": "Dilan Godoy",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Análisis de partidos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol internacional",
+        "visitante": "Clubes y organizaciones",
+        "goles_l": null,
         "goles_v": null
       },
       {

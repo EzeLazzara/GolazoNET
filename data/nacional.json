@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T21:34:58.459690",
+  "actualizado": "2026-08-08T12:45:56.609177",
   "posiciones": [
     {
       "pos": 1,
@@ -243,6 +243,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Midland",
+      "pj": 23,
+      "pg": 10,
+      "pe": 7,
+      "pp": 6,
+      "gf": 25,
+      "gc": 16,
+      "pts": 37,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Temperley",
       "pj": 23,
       "pg": 9,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Atlanta",
       "pj": 22,
       "pg": 11,
@@ -263,18 +275,6 @@
       "gf": 28,
       "gc": 22,
       "pts": 36,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Midland",
-      "pj": 22,
-      "pg": 9,
-      "pe": 7,
-      "pp": 6,
-      "gf": 23,
-      "gc": 16,
-      "pts": 34,
       "zona": "normal"
     },
     {
@@ -292,12 +292,12 @@
     {
       "pos": 7,
       "equipo": "Maipú",
-      "pj": 23,
+      "pj": 24,
       "pg": 9,
       "pe": 5,
-      "pp": 9,
+      "pp": 10,
       "gf": 31,
-      "gc": 24,
+      "gc": 26,
       "pts": 32,
       "zona": "normal"
     },
