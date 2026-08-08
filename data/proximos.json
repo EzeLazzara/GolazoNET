@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-08-08T12:46:48.271400",
+  "actualizado": "2026-08-08T21:25:51.717463",
   "partidos": [
     {
-      "id": 106,
+      "id": 103,
       "fecha": 4,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -17,12 +17,12 @@
         "nombre": "Huracan",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 4,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -37,12 +37,12 @@
         "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "12:45",
+      "hora": "10:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 4,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -57,12 +57,12 @@
         "nombre": "Newells",
         "goles": null
       },
-      "hora": "12:45",
+      "hora": "10:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 106,
       "fecha": 4,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -77,12 +77,12 @@
         "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "13:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 107,
       "fecha": 4,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -97,12 +97,12 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 108,
       "fecha": 4,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -117,12 +117,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 109,
       "fecha": 4,
       "dia": "Mar 11/08",
       "fechaISO": "2026-08-11",
@@ -137,12 +137,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "16:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 110,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -157,12 +157,12 @@
         "nombre": "Temperley",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 111,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -177,12 +177,12 @@
         "nombre": "Ferro",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "07:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 112,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -197,12 +197,12 @@
         "nombre": "Acassuso",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 113,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -217,12 +217,12 @@
         "nombre": "Patronato",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 114,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -237,12 +237,12 @@
         "nombre": "San Telmo",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 115,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -257,12 +257,12 @@
         "nombre": "San Miguel",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 116,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -277,12 +277,12 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 117,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -297,12 +297,12 @@
         "nombre": "Chaco For Ever",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 118,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -317,12 +317,12 @@
         "nombre": "Almagro",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 119,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -337,12 +337,12 @@
         "nombre": "Chicago",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 120,
       "fecha": 24,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -357,12 +357,12 @@
         "nombre": "San Martín",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 121,
       "fecha": 24,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -377,12 +377,12 @@
         "nombre": "Central Norte",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 122,
       "fecha": 24,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -397,12 +397,12 @@
         "nombre": "Tristan Suárez",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 124,
       "fecha": 29,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -417,12 +417,12 @@
         "nombre": "Arsenal",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 125,
       "fecha": 29,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -437,12 +437,12 @@
         "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 159,
+      "id": 127,
       "fecha": 23,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -457,12 +457,12 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 160,
+      "id": 128,
       "fecha": 23,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -477,12 +477,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 161,
+      "id": 129,
       "fecha": 23,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -497,12 +497,12 @@
         "nombre": "Puerto Nuevo",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 162,
+      "id": 130,
       "fecha": 23,
       "dia": "Dom 09/08",
       "fechaISO": "2026-08-09",
@@ -517,12 +517,12 @@
         "nombre": "Victoriano",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 163,
+      "id": 131,
       "fecha": 23,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -537,12 +537,12 @@
         "nombre": "Claypole",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 164,
+      "id": 132,
       "fecha": 23,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -557,12 +557,12 @@
         "nombre": "Central Ballester",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 165,
+      "id": 133,
       "fecha": 23,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -577,12 +577,12 @@
         "nombre": "Paraguayo",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 166,
+      "id": 134,
       "fecha": 23,
       "dia": "Lun 10/08",
       "fechaISO": "2026-08-10",
@@ -597,7 +597,7 @@
         "nombre": "Muñiz",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T12:46:23.522614",
+  "actualizado": "2026-08-08T21:25:31.318466",
   "posiciones": [
     {
       "pos": 1,
@@ -16,12 +16,12 @@
     {
       "pos": 2,
       "equipo": "Berazategui",
-      "pj": 22,
+      "pj": 23,
       "pg": 9,
       "pe": 9,
-      "pp": 4,
+      "pp": 5,
       "gf": 24,
-      "gc": 15,
+      "gc": 16,
       "pts": 36,
       "zona": "promotion"
     },
@@ -39,18 +39,42 @@
     },
     {
       "pos": 4,
-      "equipo": "Mercedes",
-      "pj": 22,
-      "pg": 8,
-      "pe": 9,
-      "pp": 5,
-      "gf": 23,
-      "gc": 12,
-      "pts": 33,
+      "equipo": "Estrella del Sur",
+      "pj": 23,
+      "pg": 9,
+      "pe": 8,
+      "pp": 6,
+      "gf": 24,
+      "gc": 20,
+      "pts": 35,
       "zona": "normal"
     },
     {
       "pos": 5,
+      "equipo": "Mercedes",
+      "pj": 23,
+      "pg": 8,
+      "pe": 9,
+      "pp": 6,
+      "gf": 23,
+      "gc": 14,
+      "pts": 33,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
+      "equipo": "Centro Español",
+      "pj": 22,
+      "pg": 9,
+      "pe": 6,
+      "pp": 7,
+      "gf": 27,
+      "gc": 19,
+      "pts": 33,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Puerto Nuevo",
       "pj": 22,
       "pg": 8,
@@ -62,19 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
-      "equipo": "Estrella del Sur",
-      "pj": 22,
-      "pg": 8,
-      "pe": 8,
-      "pp": 6,
-      "gf": 23,
-      "gc": 20,
-      "pts": 32,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Victoriano",
       "pj": 22,
       "pg": 7,
@@ -83,18 +95,6 @@
       "gf": 18,
       "gc": 13,
       "pts": 31,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Centro Español",
-      "pj": 21,
-      "pg": 8,
-      "pe": 6,
-      "pp": 7,
-      "gf": 26,
-      "gc": 19,
-      "pts": 30,
       "zona": "normal"
     },
     {
@@ -112,41 +112,53 @@
     {
       "pos": 10,
       "equipo": "Leandro N. Alem",
-      "pj": 21,
+      "pj": 22,
       "pg": 7,
       "pe": 6,
-      "pp": 8,
+      "pp": 9,
       "gf": 25,
-      "gc": 34,
+      "gc": 36,
       "pts": 27,
       "zona": "normal"
     },
     {
       "pos": 11,
       "equipo": "Cambaceres",
-      "pj": 22,
-      "pg": 5,
+      "pj": 23,
+      "pg": 6,
       "pe": 7,
       "pp": 10,
-      "gf": 17,
+      "gf": 19,
       "gc": 26,
-      "pts": 22,
+      "pts": 25,
       "zona": "normal"
     },
     {
       "pos": 12,
-      "equipo": "JJ Urquiza",
-      "pj": 22,
+      "equipo": "Argentino Rosario",
+      "pj": 23,
       "pg": 3,
       "pe": 12,
-      "pp": 7,
-      "gf": 9,
-      "gc": 18,
+      "pp": 8,
+      "gf": 22,
+      "gc": 28,
       "pts": 21,
       "zona": "normal"
     },
     {
       "pos": 13,
+      "equipo": "JJ Urquiza",
+      "pj": 23,
+      "pg": 3,
+      "pe": 12,
+      "pp": 8,
+      "gf": 9,
+      "gc": 19,
+      "pts": 21,
+      "zona": "normal"
+    },
+    {
+      "pos": 14,
       "equipo": "Paraguayo",
       "pj": 22,
       "pg": 4,
@@ -155,18 +167,6 @@
       "gf": 12,
       "gc": 27,
       "pts": 20,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
-      "equipo": "Argentino Rosario",
-      "pj": 22,
-      "pg": 2,
-      "pe": 12,
-      "pp": 8,
-      "gf": 20,
-      "gc": 28,
-      "pts": 18,
       "zona": "normal"
     },
     {
@@ -207,6 +207,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Yupanqui",
+      "pj": 23,
+      "pg": 8,
+      "pe": 8,
+      "pp": 7,
+      "gf": 28,
+      "gc": 24,
+      "pts": 32,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Leones de Rosario FC",
       "pj": 21,
       "pg": 7,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Lamadrid",
       "pj": 23,
       "pg": 7,
@@ -227,18 +239,6 @@
       "gf": 19,
       "gc": 22,
       "pts": 30,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Yupanqui",
-      "pj": 22,
-      "pg": 7,
-      "pe": 8,
-      "pp": 7,
-      "gf": 26,
-      "gc": 24,
-      "pts": 29,
       "zona": "normal"
     },
     {
@@ -280,12 +280,12 @@
     {
       "pos": 10,
       "equipo": "El Porvenir",
-      "pj": 21,
+      "pj": 22,
       "pg": 4,
       "pe": 13,
-      "pp": 4,
+      "pp": 5,
       "gf": 17,
-      "gc": 18,
+      "gc": 20,
       "pts": 25,
       "zona": "normal"
     },

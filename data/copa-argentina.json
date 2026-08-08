@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T12:46:48.269470",
+  "actualizado": "2026-08-08T21:25:51.715708",
   "bracket": {
     "32avos": [
       {
@@ -426,13 +426,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Análisis de partidos",
+        "visitante": "Calendario de partidos",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol internacional",
-        "visitante": "Clubes y organizaciones",
+        "local": "Noticias de fútbol",
+        "visitante": "Deportes",
         "goles_l": null,
         "goles_v": null
       },
