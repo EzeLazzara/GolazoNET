@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T12:48:15.359156",
+  "actualizado": "2026-08-09T21:27:34.316642",
   "posiciones": [
     {
       "pos": 1,
@@ -28,13 +28,13 @@
     {
       "pos": 3,
       "equipo": "CA Lugano",
-      "pj": 22,
+      "pj": 23,
       "pg": 9,
-      "pe": 8,
+      "pe": 9,
       "pp": 5,
       "gf": 27,
       "gc": 20,
-      "pts": 35,
+      "pts": 36,
       "zona": "normal"
     },
     {
@@ -63,6 +63,18 @@
     },
     {
       "pos": 6,
+      "equipo": "Puerto Nuevo",
+      "pj": 23,
+      "pg": 8,
+      "pe": 10,
+      "pp": 5,
+      "gf": 20,
+      "gc": 20,
+      "pts": 34,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Mercedes",
       "pj": 23,
       "pg": 8,
@@ -74,39 +86,27 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
-      "equipo": "Puerto Nuevo",
-      "pj": 22,
-      "pg": 8,
-      "pe": 9,
-      "pp": 5,
-      "gf": 19,
-      "gc": 19,
-      "pts": 33,
-      "zona": "normal"
-    },
-    {
       "pos": 8,
       "equipo": "Victoriano",
-      "pj": 22,
+      "pj": 23,
       "pg": 7,
-      "pe": 10,
+      "pe": 11,
       "pp": 5,
       "gf": 18,
       "gc": 13,
-      "pts": 31,
+      "pts": 32,
       "zona": "normal"
     },
     {
       "pos": 9,
       "equipo": "Juventud Unida SM",
-      "pj": 21,
+      "pj": 22,
       "pg": 7,
-      "pe": 7,
+      "pe": 8,
       "pp": 7,
-      "gf": 23,
-      "gc": 20,
-      "pts": 28,
+      "gf": 24,
+      "gc": 21,
+      "pts": 29,
       "zona": "normal"
     },
     {
@@ -172,24 +172,24 @@
     {
       "pos": 1,
       "equipo": "Luján",
-      "pj": 22,
+      "pj": 23,
       "pg": 12,
       "pe": 6,
-      "pp": 4,
-      "gf": 30,
-      "gc": 16,
+      "pp": 5,
+      "gf": 31,
+      "gc": 18,
       "pts": 42,
       "zona": "normal"
     },
     {
       "pos": 2,
       "equipo": "Cañuelas",
-      "pj": 22,
+      "pj": 23,
       "pg": 10,
       "pe": 9,
-      "pp": 3,
+      "pp": 4,
       "gf": 25,
-      "gc": 14,
+      "gc": 16,
       "pts": 39,
       "zona": "normal"
     },
@@ -243,6 +243,30 @@
     },
     {
       "pos": 7,
+      "equipo": "Central Cordoba",
+      "pj": 23,
+      "pg": 7,
+      "pe": 8,
+      "pp": 8,
+      "gf": 19,
+      "gc": 18,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
+      "equipo": "CA Atlas",
+      "pj": 23,
+      "pg": 7,
+      "pe": 8,
+      "pp": 8,
+      "gf": 19,
+      "gc": 21,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Sp. Barracas",
       "pj": 21,
       "pg": 8,
@@ -251,30 +275,6 @@
       "gf": 25,
       "gc": 23,
       "pts": 28,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Central Cordoba",
-      "pj": 22,
-      "pg": 6,
-      "pe": 8,
-      "pp": 8,
-      "gf": 17,
-      "gc": 17,
-      "pts": 26,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "CA Atlas",
-      "pj": 22,
-      "pg": 6,
-      "pe": 8,
-      "pp": 8,
-      "gf": 17,
-      "gc": 21,
-      "pts": 26,
       "zona": "normal"
     },
     {
