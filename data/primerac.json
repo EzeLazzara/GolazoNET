@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-08-10T13:05:59.909836",
+  "actualizado": "2026-08-10T21:37:19.212385",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Sacachispas",
-      "pj": 22,
-      "pg": 11,
+      "pj": 23,
+      "pg": 12,
       "pe": 5,
       "pp": 6,
-      "gf": 27,
+      "gf": 29,
       "gc": 16,
-      "pts": 38,
+      "pts": 41,
       "zona": "promotion"
     },
     {
@@ -160,12 +160,12 @@
     {
       "pos": 14,
       "equipo": "Paraguayo",
-      "pj": 22,
+      "pj": 23,
       "pg": 4,
       "pe": 8,
-      "pp": 10,
+      "pp": 11,
       "gf": 12,
-      "gc": 27,
+      "gc": 29,
       "pts": 20,
       "zona": "normal"
     },
@@ -219,6 +219,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Sp. Barracas",
+      "pj": 22,
+      "pg": 9,
+      "pe": 4,
+      "pp": 9,
+      "gf": 27,
+      "gc": 23,
+      "pts": 31,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Leones de Rosario FC",
       "pj": 22,
       "pg": 7,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Lamadrid",
       "pj": 23,
       "pg": 7,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Central Cordoba",
       "pj": 23,
       "pg": 7,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "CA Atlas",
       "pj": 23,
       "pg": 7,
@@ -263,18 +275,6 @@
       "gf": 19,
       "gc": 21,
       "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Sp. Barracas",
-      "pj": 21,
-      "pg": 8,
-      "pe": 4,
-      "pp": 9,
-      "gf": 25,
-      "gc": 23,
-      "pts": 28,
       "zona": "normal"
     },
     {
@@ -291,18 +291,30 @@
     },
     {
       "pos": 11,
-      "equipo": "Central Ballester",
-      "pj": 21,
+      "equipo": "Fenix",
+      "pj": 23,
       "pg": 6,
-      "pe": 5,
+      "pe": 7,
       "pp": 10,
-      "gf": 19,
-      "gc": 24,
-      "pts": 23,
+      "gf": 17,
+      "gc": 23,
+      "pts": 25,
       "zona": "normal"
     },
     {
       "pos": 12,
+      "equipo": "Central Ballester",
+      "pj": 22,
+      "pg": 6,
+      "pe": 5,
+      "pp": 11,
+      "gf": 20,
+      "gc": 27,
+      "pts": 23,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "Muñiz",
       "pj": 22,
       "pg": 4,
@@ -311,29 +323,17 @@
       "gf": 16,
       "gc": 21,
       "pts": 22,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Fenix",
-      "pj": 22,
-      "pg": 5,
-      "pe": 7,
-      "pp": 10,
-      "gf": 14,
-      "gc": 22,
-      "pts": 22,
       "zona": "descenso"
     },
     {
       "pos": 14,
       "equipo": "Claypole",
-      "pj": 22,
+      "pj": 23,
       "pg": 5,
       "pe": 7,
-      "pp": 10,
+      "pp": 11,
       "gf": 16,
-      "gc": 28,
+      "gc": 30,
       "pts": 22,
       "zona": "descenso"
     }

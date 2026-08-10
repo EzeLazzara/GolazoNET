@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T13:06:16.937894",
+  "actualizado": "2026-08-10T21:37:35.626769",
   "partidos": [
     {
       "id": 102,
@@ -17,12 +17,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 103,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -37,12 +37,12 @@
         "nombre": "Merlo",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -57,12 +57,12 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -77,12 +77,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -97,12 +97,12 @@
         "nombre": "Flandria",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -117,12 +117,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -137,12 +137,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 109,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -157,12 +157,12 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 110,
       "fecha": 30,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -177,12 +177,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 111,
       "fecha": 30,
       "dia": "Dom 16/08",
       "fechaISO": "2026-08-16",
@@ -197,12 +197,12 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 112,
       "fecha": 30,
       "dia": "Dom 16/08",
       "fechaISO": "2026-08-16",
@@ -217,12 +217,12 @@
         "nombre": "Argentino (Q)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 113,
       "fecha": 30,
       "dia": "Dom 16/08",
       "fechaISO": "2026-08-16",
@@ -235,6 +235,46 @@
       },
       "visitante": {
         "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 3,
+      "dia": "Mié 12/08",
+      "fechaISO": "2026-08-12",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Independiente (Chi)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (R)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 3,
+      "dia": "Mié 12/08",
+      "fechaISO": "2026-08-12",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "San Martín (Mdza)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sol de Mayo",
         "goles": null
       },
       "hora": "09:00",
@@ -250,46 +290,6 @@
       "liga": "federala",
       "ligaNombre": "Federal A",
       "local": {
-        "nombre": "Independiente (Chi)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento (R)",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "San Martín (Mdza)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sol de Mayo",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": false,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
         "nombre": "Germinal",
         "goles": null
       },
@@ -297,12 +297,12 @@
         "nombre": "Santamarina",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 117,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -317,12 +317,12 @@
         "nombre": "Costa Brava",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 118,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -337,12 +337,12 @@
         "nombre": "Círculo Deportivo",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 119,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -357,12 +357,12 @@
         "nombre": "Juventud Unida (SL)",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 120,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -377,12 +377,12 @@
         "nombre": "Tucumán Central",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 121,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -397,12 +397,12 @@
         "nombre": "Kimberley",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 122,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -417,12 +417,12 @@
         "nombre": "Argentino MM",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 123,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -437,12 +437,12 @@
         "nombre": "Gimnasia de Concepción",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 124,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -457,12 +457,12 @@
         "nombre": "Villa Mitre",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 125,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -477,12 +477,12 @@
         "nombre": "Huracán (LH)",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 126,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -497,12 +497,12 @@
         "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 127,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -517,12 +517,12 @@
         "nombre": "Sp. Belgrano",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 128,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -537,12 +537,12 @@
         "nombre": "Sol De América",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 129,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -557,12 +557,12 @@
         "nombre": "Sportivo LP",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 130,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -577,7 +577,7 @@
         "nombre": "Douglas Haig",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
