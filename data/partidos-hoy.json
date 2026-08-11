@@ -1,43 +1,23 @@
 {
-  "actualizado": "2026-08-10T21:37:35.626393",
+  "actualizado": "2026-08-11T13:03:28.390098",
   "partidos": [
     {
       "id": 100,
       "fecha": 4,
-      "dia": "Lun 10/08",
-      "fechaISO": "2026-08-10",
+      "dia": "Mar 11/08",
+      "fechaISO": "2026-08-11",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Banfield",
+        "nombre": "Talleres",
         "goles": null
       },
       "visitante": {
-        "nombre": "Belgrano",
+        "nombre": "Lanus",
         "goles": null
       },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 4,
-      "dia": "Lun 10/08",
-      "fechaISO": "2026-08-10",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "16:15",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }
