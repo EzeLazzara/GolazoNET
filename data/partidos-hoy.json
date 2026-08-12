@@ -1,228 +1,8 @@
 {
-  "actualizado": "2026-08-12T13:07:21.588776",
+  "actualizado": "2026-08-12T21:41:15.361091",
   "partidos": [
     {
       "id": 111,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Fundación Amigos por el Deporte",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Costa Brava",
-        "goles": null
-      },
-      "hora": "06:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Germinal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Santamarina",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Dvo. Rincón",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Círculo Deportivo",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Gmo. Brown",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Juventud Unida (SL)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Atlético Escobar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sportivo LP",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Independiente (Chi)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento (R)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores Pto. Vilelas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Tucumán Central",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Cipolletti",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino MM",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Alvarado",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Huracán (LH)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Defensores (VR)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Douglas Haig",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 3,
-      "dia": "Mié 12/08",
-      "fechaISO": "2026-08-12",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "San Martín (For)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Belgrano",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -242,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 112,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -262,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 113,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -282,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 114,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -302,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 115,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",
@@ -322,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 116,
       "fecha": 3,
       "dia": "Mié 12/08",
       "fechaISO": "2026-08-12",

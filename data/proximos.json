@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T13:07:21.589216",
+  "actualizado": "2026-08-12T21:41:15.361516",
   "partidos": [
     {
       "id": 100,
@@ -222,19 +222,19 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 117,
       "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
+      "dia": "Vie 14/08",
+      "fechaISO": "2026-08-14",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Berazategui",
+        "nombre": "Puerto Nuevo",
         "goles": null
       },
       "visitante": {
-        "nombre": "Fenix",
+        "nombre": "Yupanqui",
         "goles": null
       },
       "hora": "10:00",
@@ -242,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 118,
       "fecha": 24,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -262,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 119,
       "fecha": 24,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -282,187 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Luján",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 132,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 133,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "El Porvenir",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Paraguayo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Muñiz",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Juventud Unida SM",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 137,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Yupanqui",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 138,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Mercedes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 139,
-      "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Centro Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
+      "id": 120,
       "fecha": 24,
       "dia": "Sáb 15/08",
       "fechaISO": "2026-08-15",
@@ -482,10 +302,170 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 121,
       "fecha": 24,
-      "dia": "Sáb 15/08",
-      "fechaISO": "2026-08-15",
+      "dia": "Dom 16/08",
+      "fechaISO": "2026-08-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Berazategui",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Fenix",
+        "goles": null
+      },
+      "hora": "06:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 24,
+      "dia": "Dom 16/08",
+      "fechaISO": "2026-08-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "CA Atlas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 24,
+      "dia": "Dom 16/08",
+      "fechaISO": "2026-08-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Paraguayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 24,
+      "dia": "Dom 16/08",
+      "fechaISO": "2026-08-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "CA Lugano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Luján",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 24,
+      "dia": "Dom 16/08",
+      "fechaISO": "2026-08-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Porvenir",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 24,
+      "dia": "Dom 16/08",
+      "fechaISO": "2026-08-16",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Claypole",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 24,
+      "dia": "Lun 17/08",
+      "fechaISO": "2026-08-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Centro Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
+      "fecha": 24,
+      "dia": "Lun 17/08",
+      "fechaISO": "2026-08-17",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 129,
+      "fecha": 24,
+      "dia": "Lun 17/08",
+      "fechaISO": "2026-08-17",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
@@ -495,6 +475,26 @@
       },
       "visitante": {
         "nombre": "Cambaceres",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 130,
+      "fecha": 24,
+      "dia": "Mar 18/08",
+      "fechaISO": "2026-08-18",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juventud Unida SM",
         "goles": null
       },
       "hora": "10:00",
