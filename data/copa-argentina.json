@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T21:41:15.360183",
+  "actualizado": "2026-08-13T13:09:00.770927",
   "bracket": {
     "32avos": [
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -344,61 +344,61 @@
       },
       {
         "local": "Mié 12/08",
-        "visitante": "Atletico Tucuman",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente",
-        "visitante": "Mar 18/08",
+        "local": "Atletico Tucuman",
+        "visitante": "Independiente",
+        "goles_l": 4,
+        "goles_v": 0
+      },
+      {
+        "local": "Mar 18/08",
+        "visitante": "Riestra",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Riestra",
-        "visitante": "Gimnasia LP",
+        "local": "Gimnasia LP",
+        "visitante": "Banfield",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Banfield",
-        "visitante": "Midland",
+        "local": "Midland",
+        "visitante": "Mié 19/08",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Mié 19/08",
-        "visitante": "Racing Club",
+        "local": "Racing Club",
+        "visitante": "Belgrano",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Belgrano",
-        "visitante": "Mié 26/08",
+        "local": "Mié 26/08",
+        "visitante": "Aldosivi",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Aldosivi",
-        "visitante": "Independiente Riv.",
+        "local": "Independiente Riv.",
+        "visitante": "Jue 27/08",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Jue 27/08",
-        "visitante": "Estudiantes",
+        "local": "Estudiantes",
+        "visitante": "Barracas Central",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Barracas Central",
-        "visitante": "Platense",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Instituto",
-        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
+        "local": "Platense",
+        "visitante": "Instituto",
         "goles_l": null,
         "goles_v": null
       }
@@ -408,19 +408,19 @@
     "final": [
       {
         "local": "Goles",
-        "visitante": "Tomás Fernández",
+        "visitante": "Nicolás Laméndola",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Adam Bareiro",
-        "visitante": "Adrian Martinez",
-        "goles_l": 2,
+        "local": "Tomás Fernández",
+        "visitante": "Adam Bareiro",
+        "goles_l": 3,
         "goles_v": null
       },
       {
-        "local": "Cristian Tarragona",
-        "visitante": "Dilan Godoy",
+        "local": "Adrian Martinez",
+        "visitante": "Cristian Tarragona",
         "goles_l": 2,
         "goles_v": null
       },
@@ -437,8 +437,8 @@
         "goles_v": null
       },
       {
-        "local": "Facundo Valdez",
-        "visitante": "Marcelo Torres",
+        "local": "Marcelo Torres",
+        "visitante": "Mathías De Ritis",
         "goles_l": 2,
         "goles_v": null
       },
