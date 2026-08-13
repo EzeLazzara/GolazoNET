@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T13:09:00.770927",
+  "actualizado": "2026-08-13T21:40:34.102347",
   "bracket": {
     "32avos": [
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {

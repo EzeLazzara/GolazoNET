@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T13:09:00.771891",
+  "actualizado": "2026-08-13T21:40:34.103442",
   "partidos": [
     {
       "id": 100,
@@ -770,11 +770,11 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Claypole",
+        "nombre": "Muñiz",
         "goles": null
       },
       "visitante": {
-        "nombre": "Mercedes",
+        "nombre": "Juventud Unida SM",
         "goles": null
       },
       "hora": "09:00",
@@ -790,11 +790,11 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Muñiz",
+        "nombre": "Claypole",
         "goles": null
       },
       "visitante": {
-        "nombre": "Juventud Unida SM",
+        "nombre": "Mercedes",
         "goles": null
       },
       "hora": "09:00",
