@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T13:04:37.774045",
+  "actualizado": "2026-08-14T21:21:22.434242",
   "posiciones": [
     {
       "pos": 1,
@@ -51,24 +51,24 @@
     },
     {
       "pos": 5,
+      "equipo": "Puerto Nuevo",
+      "pj": 24,
+      "pg": 8,
+      "pe": 11,
+      "pp": 5,
+      "gf": 22,
+      "gc": 22,
+      "pts": 35,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Centro Español",
       "pj": 23,
       "pg": 9,
       "pe": 7,
       "pp": 7,
       "gf": 28,
-      "gc": 20,
-      "pts": 34,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Puerto Nuevo",
-      "pj": 23,
-      "pg": 8,
-      "pe": 10,
-      "pp": 5,
-      "gf": 20,
       "gc": 20,
       "pts": 34,
       "zona": "normal"
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Yupanqui",
+      "pj": 24,
+      "pg": 8,
+      "pe": 9,
+      "pp": 7,
+      "gf": 31,
+      "gc": 26,
+      "pts": 33,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Dep. Español",
       "pj": 23,
       "pg": 7,
@@ -203,18 +215,6 @@
       "gf": 18,
       "gc": 14,
       "pts": 33,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Yupanqui",
-      "pj": 23,
-      "pg": 8,
-      "pe": 8,
-      "pp": 7,
-      "gf": 29,
-      "gc": 24,
-      "pts": 32,
       "zona": "normal"
     },
     {

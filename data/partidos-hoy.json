@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T13:04:59.439168",
+  "actualizado": "2026-08-14T21:21:39.354731",
   "partidos": [
     {
       "id": 100,
@@ -17,27 +17,7 @@
         "nombre": "Banfield",
         "goles": null
       },
-      "hora": "15:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 143,
-      "fecha": 24,
-      "dia": "Vie 14/08",
-      "fechaISO": "2026-08-14",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Yupanqui",
-        "goles": null
-      },
-      "hora": "10:00",
+      "hora": "14:30",
       "minuto": null,
       "estado": "programado"
     }

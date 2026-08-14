@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T13:04:13.031405",
+  "actualizado": "2026-08-14T21:20:57.186008",
   "posiciones": [
     {
       "pos": 1,
@@ -208,13 +208,13 @@
     {
       "pos": 18,
       "equipo": "Acassuso",
-      "pj": 23,
+      "pj": 24,
       "pg": 5,
-      "pe": 6,
+      "pe": 7,
       "pp": 12,
-      "gf": 17,
-      "gc": 28,
-      "pts": 21,
+      "gf": 18,
+      "gc": 29,
+      "pts": 22,
       "zona": "normal"
     },
     {
@@ -256,13 +256,13 @@
     {
       "pos": 4,
       "equipo": "Midland",
-      "pj": 23,
+      "pj": 24,
       "pg": 10,
-      "pe": 7,
+      "pe": 8,
       "pp": 6,
-      "gf": 25,
-      "gc": 16,
-      "pts": 37,
+      "gf": 26,
+      "gc": 17,
+      "pts": 38,
       "zona": "normal"
     },
     {
