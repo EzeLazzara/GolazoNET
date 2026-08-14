@@ -1,4 +1,45 @@
 {
-  "actualizado": "2026-08-13T21:40:34.103199",
-  "partidos": []
+  "actualizado": "2026-08-14T13:04:59.439168",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 5,
+      "dia": "Vie 14/08",
+      "fechaISO": "2026-08-14",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Racing Club",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Banfield",
+        "goles": null
+      },
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 143,
+      "fecha": 24,
+      "dia": "Vie 14/08",
+      "fechaISO": "2026-08-14",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Puerto Nuevo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Yupanqui",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
