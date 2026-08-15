@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-15T12:35:49.385759",
+  "actualizado": "2026-08-15T21:17:05.880056",
   "posiciones": [
     {
       "pos": 1,
@@ -15,6 +15,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Estrella del Sur",
+      "pj": 24,
+      "pg": 10,
+      "pe": 8,
+      "pp": 6,
+      "gf": 26,
+      "gc": 21,
+      "pts": 38,
+      "zona": "promotion"
+    },
+    {
+      "pos": 3,
       "equipo": "Berazategui",
       "pj": 23,
       "pg": 9,
@@ -23,10 +35,10 @@
       "gf": 24,
       "gc": 16,
       "pts": 36,
-      "zona": "promotion"
+      "zona": "normal"
     },
     {
-      "pos": 3,
+      "pos": 4,
       "equipo": "CA Lugano",
       "pj": 23,
       "pg": 9,
@@ -35,18 +47,6 @@
       "gf": 27,
       "gc": 20,
       "pts": 36,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Estrella del Sur",
-      "pj": 23,
-      "pg": 9,
-      "pe": 8,
-      "pp": 6,
-      "gf": 24,
-      "gc": 20,
-      "pts": 35,
       "zona": "normal"
     },
     {
@@ -88,12 +88,12 @@
     {
       "pos": 8,
       "equipo": "Victoriano",
-      "pj": 23,
+      "pj": 24,
       "pg": 7,
       "pe": 11,
-      "pp": 5,
+      "pp": 6,
       "gf": 18,
-      "gc": 13,
+      "gc": 14,
       "pts": 32,
       "zona": "normal"
     },
@@ -112,12 +112,12 @@
     {
       "pos": 10,
       "equipo": "Leandro N. Alem",
-      "pj": 22,
+      "pj": 23,
       "pg": 7,
       "pe": 6,
-      "pp": 9,
+      "pp": 10,
       "gf": 25,
-      "gc": 36,
+      "gc": 39,
       "pts": 27,
       "zona": "normal"
     },
@@ -184,12 +184,12 @@
     {
       "pos": 2,
       "equipo": "Cañuelas",
-      "pj": 23,
+      "pj": 24,
       "pg": 10,
       "pe": 9,
-      "pp": 4,
-      "gf": 25,
-      "gc": 16,
+      "pp": 5,
+      "gf": 26,
+      "gc": 18,
       "pts": 39,
       "zona": "normal"
     },
@@ -219,6 +219,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Lamadrid",
+      "pj": 24,
+      "pg": 8,
+      "pe": 9,
+      "pp": 7,
+      "gf": 20,
+      "gc": 23,
+      "pts": 33,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Sp. Barracas",
       "pj": 22,
       "pg": 9,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Leones de Rosario FC",
       "pj": 22,
       "pg": 7,
@@ -239,18 +251,6 @@
       "gf": 20,
       "gc": 20,
       "pts": 31,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Lamadrid",
-      "pj": 23,
-      "pg": 7,
-      "pe": 9,
-      "pp": 7,
-      "gf": 19,
-      "gc": 23,
-      "pts": 30,
       "zona": "normal"
     },
     {
@@ -279,6 +279,18 @@
     },
     {
       "pos": 10,
+      "equipo": "Central Ballester",
+      "pj": 23,
+      "pg": 7,
+      "pe": 5,
+      "pp": 11,
+      "gf": 23,
+      "gc": 27,
+      "pts": 26,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "El Porvenir",
       "pj": 23,
       "pg": 4,
@@ -290,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Fenix",
       "pj": 23,
       "pg": 6,
@@ -299,18 +311,6 @@
       "gf": 17,
       "gc": 23,
       "pts": 25,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
-      "equipo": "Central Ballester",
-      "pj": 22,
-      "pg": 6,
-      "pe": 5,
-      "pp": 11,
-      "gf": 20,
-      "gc": 27,
-      "pts": 23,
       "zona": "normal"
     },
     {
