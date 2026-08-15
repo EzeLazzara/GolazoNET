@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T21:20:57.186008",
+  "actualizado": "2026-08-15T12:35:23.758718",
   "posiciones": [
     {
       "pos": 1,
@@ -135,6 +135,18 @@
     },
     {
       "pos": 12,
+      "equipo": "Defensores",
+      "pj": 24,
+      "pg": 5,
+      "pe": 11,
+      "pp": 8,
+      "gf": 16,
+      "gc": 21,
+      "pts": 26,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "San Miguel",
       "pj": 23,
       "pg": 5,
@@ -143,18 +155,6 @@
       "gf": 17,
       "gc": 23,
       "pts": 26,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Defensores",
-      "pj": 23,
-      "pg": 5,
-      "pe": 10,
-      "pp": 8,
-      "gf": 16,
-      "gc": 21,
-      "pts": 25,
       "zona": "normal"
     },
     {
@@ -292,13 +292,13 @@
     {
       "pos": 7,
       "equipo": "Atlético Rafaela",
-      "pj": 24,
+      "pj": 25,
       "pg": 9,
-      "pe": 7,
+      "pe": 8,
       "pp": 8,
       "gf": 18,
       "gc": 19,
-      "pts": 34,
+      "pts": 35,
       "zona": "normal"
     },
     {
