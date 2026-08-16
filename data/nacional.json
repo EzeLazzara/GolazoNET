@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-15T21:16:40.853707",
+  "actualizado": "2026-08-16T12:36:42.776455",
   "posiciones": [
     {
       "pos": 1,
@@ -27,6 +27,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Colón",
+      "pj": 25,
+      "pg": 11,
+      "pe": 9,
+      "pp": 5,
+      "gf": 32,
+      "gc": 19,
+      "pts": 42,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Alte. Brown",
       "pj": 24,
       "pg": 10,
@@ -38,7 +50,19 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
+      "equipo": "Godoy Cruz",
+      "pj": 24,
+      "pg": 10,
+      "pe": 7,
+      "pp": 7,
+      "gf": 28,
+      "gc": 22,
+      "pts": 37,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Dep. Madryn",
       "pj": 23,
       "pg": 9,
@@ -50,8 +74,20 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Ciudad De Bolivar",
+      "pos": 7,
+      "equipo": "Estudiantes",
+      "pj": 25,
+      "pg": 9,
+      "pe": 8,
+      "pp": 8,
+      "gf": 22,
+      "gc": 20,
+      "pts": 35,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
+      "equipo": "Bolivar",
       "pj": 25,
       "pg": 8,
       "pe": 10,
@@ -62,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 9,
       "equipo": "Los Andes",
       "pj": 23,
       "pg": 8,
@@ -74,19 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
-      "equipo": "Estudiantes",
-      "pj": 24,
-      "pg": 8,
-      "pe": 8,
-      "pp": 8,
-      "gf": 20,
-      "gc": 20,
-      "pts": 32,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
+      "pos": 10,
       "equipo": "Racing (Cba)",
       "pj": 24,
       "pg": 8,
@@ -98,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 11,
       "equipo": "CA Mitre",
       "pj": 25,
       "pg": 6,
@@ -110,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 12,
       "equipo": "San Miguel",
       "pj": 24,
       "pg": 6,
@@ -122,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 13,
       "equipo": "Defensores",
       "pj": 24,
       "pg": 5,
@@ -134,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 14,
       "equipo": "All Boys",
       "pj": 24,
       "pg": 4,
@@ -146,19 +170,19 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 15,
       "equipo": "San Telmo",
-      "pj": 23,
+      "pj": 24,
       "pg": 5,
       "pe": 8,
-      "pp": 10,
+      "pp": 11,
       "gf": 18,
-      "gc": 24,
+      "gc": 27,
       "pts": 23,
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 16,
       "equipo": "Central Norte",
       "pj": 23,
       "pg": 5,
@@ -170,7 +194,7 @@
       "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 17,
       "equipo": "Chaco For Ever",
       "pj": 23,
       "pg": 5,
@@ -182,7 +206,7 @@
       "zona": "normal"
     },
     {
-      "pos": 16,
+      "pos": 18,
       "equipo": "Acassuso",
       "pj": 24,
       "pg": 5,
@@ -267,6 +291,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Maipú",
+      "pj": 25,
+      "pg": 10,
+      "pe": 5,
+      "pp": 10,
+      "gf": 33,
+      "gc": 27,
+      "pts": 35,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Atlético Rafaela",
       "pj": 25,
       "pg": 9,
@@ -278,7 +314,19 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
+      "equipo": "Quilmes",
+      "pj": 25,
+      "pg": 8,
+      "pe": 8,
+      "pp": 9,
+      "gf": 27,
+      "gc": 21,
+      "pts": 32,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "San Martín (T)",
       "pj": 24,
       "pg": 7,
@@ -290,7 +338,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 11,
       "equipo": "Colegiales",
       "pj": 24,
       "pg": 8,
@@ -302,7 +350,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 12,
       "equipo": "Almagro",
       "pj": 25,
       "pg": 8,
@@ -314,19 +362,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
-      "equipo": "Quilmes",
-      "pj": 24,
-      "pg": 7,
-      "pe": 8,
-      "pp": 9,
-      "gf": 24,
-      "gc": 21,
-      "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Chicago",
       "pj": 23,
       "pg": 7,
@@ -338,7 +374,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Agropecuario",
       "pj": 25,
       "pg": 7,
@@ -347,10 +383,10 @@
       "gf": 22,
       "gc": 28,
       "pts": 29,
-      "zona": "normal"
+      "zona": "descenso"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "San Martín",
       "pj": 22,
       "pg": 7,
@@ -359,18 +395,6 @@
       "gf": 23,
       "gc": 23,
       "pts": 28,
-      "zona": "descenso"
-    },
-    {
-      "pos": 15,
-      "equipo": "Chacarita",
-      "pj": 23,
-      "pg": 7,
-      "pe": 5,
-      "pp": 11,
-      "gf": 18,
-      "gc": 24,
-      "pts": 26,
       "zona": "descenso"
     }
   ]
