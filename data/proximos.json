@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-08-16T12:37:50.754858",
+  "actualizado": "2026-08-16T21:16:25.221858",
   "partidos": [
     {
-      "id": 104,
+      "id": 102,
       "fecha": 5,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 103,
       "fecha": 5,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -42,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 5,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -62,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 5,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -82,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 107,
       "fecha": 4,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -102,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 108,
       "fecha": 4,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -122,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 109,
       "fecha": 24,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -142,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 110,
       "fecha": 24,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -162,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 111,
       "fecha": 24,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -182,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 112,
       "fecha": 24,
       "dia": "Mar 18/08",
       "fechaISO": "2026-08-18",
@@ -202,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 113,
       "fecha": 24,
       "dia": "Mar 18/08",
       "fechaISO": "2026-08-18",

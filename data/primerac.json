@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-16T12:37:28.730678",
+  "actualizado": "2026-08-16T21:16:08.634787",
   "posiciones": [
     {
       "pos": 1,
@@ -28,24 +28,24 @@
     {
       "pos": 3,
       "equipo": "Berazategui",
-      "pj": 23,
+      "pj": 24,
       "pg": 9,
-      "pe": 9,
+      "pe": 10,
       "pp": 5,
-      "gf": 24,
-      "gc": 16,
-      "pts": 36,
+      "gf": 26,
+      "gc": 18,
+      "pts": 37,
       "zona": "normal"
     },
     {
       "pos": 4,
       "equipo": "CA Lugano",
-      "pj": 23,
+      "pj": 24,
       "pg": 9,
       "pe": 9,
-      "pp": 5,
-      "gf": 27,
-      "gc": 20,
+      "pp": 6,
+      "gf": 28,
+      "gc": 22,
       "pts": 36,
       "zona": "normal"
     },
@@ -136,49 +136,49 @@
     {
       "pos": 12,
       "equipo": "Argentino Rosario",
-      "pj": 23,
+      "pj": 24,
       "pg": 3,
       "pe": 12,
-      "pp": 8,
+      "pp": 9,
       "gf": 22,
-      "gc": 28,
+      "gc": 29,
       "pts": 21,
       "zona": "normal"
     },
     {
       "pos": 13,
       "equipo": "JJ Urquiza",
-      "pj": 23,
+      "pj": 24,
       "pg": 3,
       "pe": 12,
-      "pp": 8,
+      "pp": 9,
       "gf": 9,
-      "gc": 19,
+      "gc": 20,
       "pts": 21,
       "zona": "normal"
     },
     {
       "pos": 14,
       "equipo": "Paraguayo",
-      "pj": 23,
+      "pj": 24,
       "pg": 4,
       "pe": 8,
-      "pp": 11,
+      "pp": 12,
       "gf": 12,
-      "gc": 29,
+      "gc": 30,
       "pts": 20,
       "zona": "normal"
     },
     {
       "pos": 1,
       "equipo": "Luján",
-      "pj": 23,
-      "pg": 12,
+      "pj": 24,
+      "pg": 13,
       "pe": 6,
       "pp": 5,
-      "gf": 31,
-      "gc": 18,
-      "pts": 42,
+      "gf": 33,
+      "gc": 19,
+      "pts": 45,
       "zona": "normal"
     },
     {
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Sp. Barracas",
+      "pj": 23,
+      "pg": 10,
+      "pe": 4,
+      "pp": 9,
+      "gf": 28,
+      "gc": 23,
+      "pts": 34,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Yupanqui",
       "pj": 24,
       "pg": 8,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Dep. Español",
       "pj": 23,
       "pg": 7,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Lamadrid",
       "pj": 24,
       "pg": 8,
@@ -230,19 +242,19 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
-      "equipo": "Sp. Barracas",
-      "pj": 22,
-      "pg": 9,
-      "pe": 4,
-      "pp": 9,
-      "gf": 27,
-      "gc": 23,
-      "pts": 31,
+      "pos": 7,
+      "equipo": "CA Atlas",
+      "pj": 24,
+      "pg": 8,
+      "pe": 8,
+      "pp": 8,
+      "gf": 20,
+      "gc": 21,
+      "pts": 32,
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "Leones de Rosario FC",
       "pj": 22,
       "pg": 7,
@@ -254,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Central Cordoba",
       "pj": 23,
       "pg": 7,
@@ -266,19 +278,19 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "CA Atlas",
-      "pj": 23,
-      "pg": 7,
-      "pe": 8,
-      "pp": 8,
-      "gf": 19,
+      "pos": 10,
+      "equipo": "El Porvenir",
+      "pj": 24,
+      "pg": 5,
+      "pe": 14,
+      "pp": 5,
+      "gf": 18,
       "gc": 21,
       "pts": 29,
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Central Ballester",
       "pj": 23,
       "pg": 7,
@@ -290,27 +302,15 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
-      "equipo": "El Porvenir",
-      "pj": 23,
-      "pg": 4,
-      "pe": 14,
-      "pp": 5,
-      "gf": 17,
-      "gc": 21,
-      "pts": 26,
-      "zona": "normal"
-    },
-    {
       "pos": 12,
       "equipo": "Fenix",
-      "pj": 23,
+      "pj": 24,
       "pg": 6,
-      "pe": 7,
+      "pe": 8,
       "pp": 10,
-      "gf": 17,
-      "gc": 23,
-      "pts": 25,
+      "gf": 19,
+      "gc": 25,
+      "pts": 26,
       "zona": "normal"
     },
     {
