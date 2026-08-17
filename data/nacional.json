@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-17T12:41:44.697089",
+  "actualizado": "2026-08-17T21:24:27.088208",
   "posiciones": [
     {
       "pos": 1,
@@ -147,6 +147,18 @@
     },
     {
       "pos": 13,
+      "equipo": "All Boys",
+      "pj": 25,
+      "pg": 5,
+      "pe": 12,
+      "pp": 8,
+      "gf": 15,
+      "gc": 23,
+      "pts": 27,
+      "zona": "normal"
+    },
+    {
+      "pos": 14,
       "equipo": "Defensores",
       "pj": 24,
       "pg": 5,
@@ -158,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "Central Norte",
       "pj": 24,
       "pg": 5,
@@ -166,18 +178,6 @@
       "pp": 10,
       "gf": 15,
       "gc": 24,
-      "pts": 24,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "All Boys",
-      "pj": 24,
-      "pg": 4,
-      "pe": 12,
-      "pp": 8,
-      "gf": 14,
-      "gc": 23,
       "pts": 24,
       "zona": "normal"
     },
@@ -376,12 +376,12 @@
     {
       "pos": 14,
       "equipo": "Chicago",
-      "pj": 23,
+      "pj": 24,
       "pg": 7,
       "pe": 8,
-      "pp": 8,
+      "pp": 9,
       "gf": 20,
-      "gc": 22,
+      "gc": 23,
       "pts": 29,
       "zona": "descenso"
     },

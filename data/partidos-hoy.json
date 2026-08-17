@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-08-17T12:42:29.813795",
+  "actualizado": "2026-08-17T21:25:12.802853",
   "partidos": [
     {
       "id": 100,
-      "fecha": 5,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Estudiantes RC",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "hora": "09:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 5,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Independiente",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
       "fecha": 5,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -62,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 101,
       "fecha": 5,
       "dia": "Lun 17/08",
       "fechaISO": "2026-08-17",
@@ -78,106 +38,6 @@
         "goles": null
       },
       "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 4,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Sp. Belgrano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Defensores (VR)",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 4,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Santamarina",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Fundación Amigos por el Deporte",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 24,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 24,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Centro Español",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 24,
-      "dia": "Lun 17/08",
-      "fechaISO": "2026-08-17",
-      "esHoy": true,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Leones de Rosario FC",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }

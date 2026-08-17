@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-08-17T12:42:09.342763",
+  "actualizado": "2026-08-17T21:24:51.894454",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Sacachispas",
-      "pj": 23,
+      "pj": 24,
       "pg": 12,
-      "pe": 5,
+      "pe": 6,
       "pp": 6,
       "gf": 29,
       "gc": 16,
-      "pts": 41,
+      "pts": 42,
       "zona": "promotion"
     },
     {
@@ -51,6 +51,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Centro Español",
+      "pj": 24,
+      "pg": 9,
+      "pe": 8,
+      "pp": 7,
+      "gf": 30,
+      "gc": 22,
+      "pts": 35,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Puerto Nuevo",
       "pj": 24,
       "pg": 8,
@@ -59,18 +71,6 @@
       "gf": 22,
       "gc": 22,
       "pts": 35,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Centro Español",
-      "pj": 23,
-      "pg": 9,
-      "pe": 7,
-      "pp": 7,
-      "gf": 28,
-      "gc": 20,
-      "pts": 34,
       "zona": "normal"
     },
     {
@@ -124,12 +124,12 @@
     {
       "pos": 11,
       "equipo": "Cambaceres",
-      "pj": 23,
+      "pj": 24,
       "pg": 6,
       "pe": 7,
-      "pp": 10,
+      "pp": 11,
       "gf": 19,
-      "gc": 26,
+      "gc": 28,
       "pts": 25,
       "zona": "normal"
     },
@@ -207,6 +207,30 @@
     },
     {
       "pos": 4,
+      "equipo": "Dep. Español",
+      "pj": 24,
+      "pg": 7,
+      "pe": 13,
+      "pp": 4,
+      "gf": 18,
+      "gc": 14,
+      "pts": 34,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
+      "equipo": "Leones de Rosario FC",
+      "pj": 23,
+      "pg": 8,
+      "pe": 10,
+      "pp": 5,
+      "gf": 22,
+      "gc": 20,
+      "pts": 34,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Yupanqui",
       "pj": 24,
       "pg": 8,
@@ -218,19 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Dep. Español",
-      "pj": 23,
-      "pg": 7,
-      "pe": 12,
-      "pp": 4,
-      "gf": 18,
-      "gc": 14,
-      "pts": 33,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Lamadrid",
       "pj": 24,
       "pg": 8,
@@ -242,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "CA Atlas",
       "pj": 24,
       "pg": 8,
@@ -254,27 +266,15 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
-      "equipo": "Leones de Rosario FC",
-      "pj": 22,
-      "pg": 7,
-      "pe": 10,
-      "pp": 5,
-      "gf": 20,
-      "gc": 20,
-      "pts": 31,
-      "zona": "normal"
-    },
-    {
       "pos": 9,
       "equipo": "Central Cordoba",
-      "pj": 23,
+      "pj": 24,
       "pg": 7,
-      "pe": 8,
+      "pe": 9,
       "pp": 8,
-      "gf": 19,
-      "gc": 18,
-      "pts": 29,
+      "gf": 21,
+      "gc": 20,
+      "pts": 30,
       "zona": "normal"
     },
     {

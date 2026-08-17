@@ -1,8 +1,68 @@
 {
-  "actualizado": "2026-08-17T12:42:29.814218",
+  "actualizado": "2026-08-17T21:25:12.803283",
   "partidos": [
     {
+      "id": 102,
+      "fecha": 31,
+      "dia": "Vie 21/08",
+      "fechaISO": "2026-08-21",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 31,
+      "dia": "Vie 21/08",
+      "fechaISO": "2026-08-21",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
       "id": 104,
+      "fecha": 31,
+      "dia": "Vie 21/08",
+      "fechaISO": "2026-08-21",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
       "fecha": 31,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -17,12 +77,12 @@
         "nombre": "Excursionistas",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 106,
       "fecha": 31,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -37,52 +97,12 @@
         "nombre": "Arsenal",
         "goles": null
       },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 107,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
       "fecha": 31,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -97,7 +117,27 @@
         "nombre": "Liniers",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 31,
+      "dia": "Sáb 22/08",
+      "fechaISO": "2026-08-22",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -110,14 +150,14 @@
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Argentino (Q)",
+        "nombre": "Ituzaingó",
         "goles": null
       },
       "visitante": {
-        "nombre": "San Carlos",
+        "nombre": "Merlo",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -137,7 +177,7 @@
         "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -150,42 +190,22 @@
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "CADU",
+        "nombre": "Argentino (Q)",
         "goles": null
       },
       "visitante": {
-        "nombre": "San Martín (Bur.)",
+        "nombre": "San Carlos",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 112,
       "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
+      "dia": "Dom 23/08",
+      "fechaISO": "2026-08-23",
       "esHoy": false,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
@@ -197,32 +217,12 @@
         "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
+      "id": 113,
       "fecha": 24,
       "dia": "Mar 18/08",
       "fechaISO": "2026-08-18",
@@ -242,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 114,
       "fecha": 24,
       "dia": "Mar 18/08",
       "fechaISO": "2026-08-18",
