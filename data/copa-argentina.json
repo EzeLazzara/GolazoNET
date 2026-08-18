@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T12:43:38.418846",
+  "actualizado": "2026-08-18T21:21:18.580648",
   "bracket": {
     "32avos": [
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -422,18 +422,6 @@
         "local": "Adrian Martinez",
         "visitante": "Cristian Tarragona",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Eventos fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Viajes fútbol",
-        "visitante": "Accesorios fútbol",
-        "goles_l": null,
         "goles_v": null
       },
       {

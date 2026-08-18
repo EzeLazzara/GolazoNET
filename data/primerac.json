@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T12:43:21.522903",
+  "actualizado": "2026-08-18T21:21:01.785608",
   "posiciones": [
     {
       "pos": 1,
@@ -76,17 +76,29 @@
     {
       "pos": 7,
       "equipo": "Mercedes",
-      "pj": 23,
+      "pj": 24,
       "pg": 8,
       "pe": 9,
-      "pp": 6,
+      "pp": 7,
       "gf": 23,
-      "gc": 14,
+      "gc": 15,
       "pts": 33,
       "zona": "normal"
     },
     {
       "pos": 8,
+      "equipo": "Juventud Unida SM",
+      "pj": 23,
+      "pg": 8,
+      "pe": 8,
+      "pp": 7,
+      "gf": 25,
+      "gc": 21,
+      "pts": 32,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Victoriano",
       "pj": 24,
       "pg": 7,
@@ -95,18 +107,6 @@
       "gf": 18,
       "gc": 14,
       "pts": 32,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Juventud Unida SM",
-      "pj": 22,
-      "pg": 7,
-      "pe": 8,
-      "pp": 7,
-      "gf": 24,
-      "gc": 21,
-      "pts": 29,
       "zona": "normal"
     },
     {
@@ -315,25 +315,25 @@
     },
     {
       "pos": 13,
-      "equipo": "Muñiz",
-      "pj": 22,
-      "pg": 4,
-      "pe": 10,
-      "pp": 8,
-      "gf": 16,
-      "gc": 21,
-      "pts": 22,
+      "equipo": "Claypole",
+      "pj": 24,
+      "pg": 6,
+      "pe": 7,
+      "pp": 11,
+      "gf": 17,
+      "gc": 30,
+      "pts": 25,
       "zona": "descenso"
     },
     {
       "pos": 14,
-      "equipo": "Claypole",
+      "equipo": "Muñiz",
       "pj": 23,
-      "pg": 5,
-      "pe": 7,
-      "pp": 11,
+      "pg": 4,
+      "pe": 10,
+      "pp": 9,
       "gf": 16,
-      "gc": 30,
+      "gc": 22,
       "pts": 22,
       "zona": "descenso"
     }
