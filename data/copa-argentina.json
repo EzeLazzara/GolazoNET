@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-17T21:25:12.801615",
+  "actualizado": "2026-08-18T12:43:38.418846",
   "bracket": {
     "32avos": [
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -426,13 +426,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Promiedos Estadísticas Fútbol",
+        "visitante": "Eventos fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol apuestas",
-        "visitante": "Libros historia fútbol",
+        "local": "Viajes fútbol",
+        "visitante": "Accesorios fútbol",
         "goles_l": null,
         "goles_v": null
       },
