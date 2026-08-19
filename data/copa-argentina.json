@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T21:21:18.580648",
+  "actualizado": "2026-08-19T12:47:20.994616",
   "bracket": {
     "32avos": [
       {
@@ -297,13 +297,13 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -356,12 +356,18 @@
       },
       {
         "local": "Mar 18/08",
-        "visitante": "Riestra",
+        "visitante": "Por penales",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Gimnasia LP",
+        "local": "Riestra",
+        "visitante": "Gimnasia LP",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "Por penales",
         "visitante": "Banfield",
         "goles_l": null,
         "goles_v": null
@@ -403,7 +409,14 @@
         "goles_v": null
       }
     ],
-    "cuartos": [],
+    "cuartos": [
+      {
+        "local": "Deportivo Riestra",
+        "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      }
+    ],
     "semifinales": [],
     "final": [
       {
@@ -422,6 +435,18 @@
         "local": "Adrian Martinez",
         "visitante": "Cristian Tarragona",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Equipamiento deportivo fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Suscripción fútbol noticias",
+        "visitante": "Accesorios fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -444,19 +469,19 @@
       },
       {
         "local": "Barridas ganadas",
-        "visitante": "Agustin Massaccesi",
+        "visitante": "Germán Conti",
         "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Lucas Janson",
+        "visitante": "Agustin Massaccesi",
+        "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Alan Velasco",
         "visitante": "Alex Díaz",
-        "goles_l": 1,
-        "goles_v": null
-      },
-      {
-        "local": "Alexis Zarate",
-        "visitante": "Arnaldo González",
         "goles_l": 1,
         "goles_v": null
       },
@@ -467,32 +492,32 @@
         "goles_v": null
       },
       {
-        "local": "Carlos Izquierdoz",
-        "visitante": "Fernando Alarcón",
+        "local": "Augusto Max",
+        "visitante": "Carlos Izquierdoz",
         "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Franco Fagundez",
-        "visitante": "Franco Vázquez",
+        "local": "Fernando Alarcón",
+        "visitante": "Franco Fagundez",
         "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Tarjetas Amarillas",
-        "visitante": "Agustín Medina",
+        "visitante": "Nacho Fernández",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Carlo Lattanzio",
-        "visitante": "Claudio Baeza",
+        "local": "Agustín Medina",
+        "visitante": "Carlo Lattanzio",
         "goles_l": 2,
         "goles_v": null
       },
       {
-        "local": "Facundo Bruera",
-        "visitante": "Lautaro Gordillo",
+        "local": "Claudio Baeza",
+        "visitante": "Facundo Bruera",
         "goles_l": 2,
         "goles_v": null
       }
