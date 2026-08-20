@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T21:24:52.191145",
+  "actualizado": "2026-08-20T12:47:47.853075",
   "bracket": {
     "32avos": [
       {
@@ -309,7 +309,7 @@
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -375,36 +375,6 @@
       {
         "local": "Midland",
         "visitante": "Mié 19/08",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "Belgrano",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Mié 26/08",
-        "visitante": "Aldosivi",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Independiente Riv.",
-        "visitante": "Jue 27/08",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes",
-        "visitante": "Barracas Central",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Platense",
-        "visitante": "Instituto",
         "goles_l": null,
         "goles_v": null
       }
@@ -507,6 +477,36 @@
         "local": "Claudio Baeza",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Belgrano",
+        "goles_l": 1,
+        "goles_v": 0
+      },
+      {
+        "local": "Mié 26/08",
+        "visitante": "Aldosivi",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente Riv.",
+        "visitante": "Jue 27/08",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estudiantes",
+        "visitante": "Barracas Central",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "Instituto",
+        "goles_l": null,
         "goles_v": null
       }
     ]
