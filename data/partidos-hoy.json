@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-08-21T12:44:56.725396",
+  "actualizado": "2026-08-21T21:20:16.096707",
   "partidos": [
     {
       "id": 100,
-      "fecha": 6,
-      "dia": "Vie 21/08",
-      "fechaISO": "2026-08-21",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Aldosivi",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "hora": "07:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 6,
       "dia": "Vie 21/08",
       "fechaISO": "2026-08-21",
@@ -37,52 +17,12 @@
         "nombre": "San Lorenzo",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
-      "fecha": 26,
-      "dia": "Vie 21/08",
-      "fechaISO": "2026-08-21",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Acassuso",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 26,
-      "dia": "Vie 21/08",
-      "fechaISO": "2026-08-21",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Telmo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Morón",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
+      "id": 114,
       "fecha": 26,
       "dia": "Vie 21/08",
       "fechaISO": "2026-08-21",
@@ -97,32 +37,12 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
-      "fecha": 31,
-      "dia": "Vie 21/08",
-      "fechaISO": "2026-08-21",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "hora": "08:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
+      "id": 130,
       "fecha": 31,
       "dia": "Vie 21/08",
       "fechaISO": "2026-08-21",
@@ -137,12 +57,12 @@
         "nombre": "Villa Dalmine",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 131,
       "fecha": 31,
       "dia": "Vie 21/08",
       "fechaISO": "2026-08-21",
@@ -157,12 +77,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 140,
       "fecha": 5,
       "dia": "Vie 21/08",
       "fechaISO": "2026-08-21",
@@ -177,7 +97,7 @@
         "nombre": "Villa Mitre",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }

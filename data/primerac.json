@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T12:44:36.068545",
+  "actualizado": "2026-08-21T21:19:55.814061",
   "posiciones": [
     {
       "pos": 1,
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Lamadrid",
+      "pj": 25,
+      "pg": 9,
+      "pe": 9,
+      "pp": 7,
+      "gf": 22,
+      "gc": 23,
+      "pts": 36,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Sp. Barracas",
       "pj": 23,
       "pg": 10,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Dep. Español",
       "pj": 24,
       "pg": 7,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Leones de Rosario FC",
       "pj": 23,
       "pg": 8,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Yupanqui",
       "pj": 24,
       "pg": 8,
@@ -238,18 +250,6 @@
       "pp": 7,
       "gf": 31,
       "gc": 26,
-      "pts": 33,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Lamadrid",
-      "pj": 24,
-      "pg": 8,
-      "pe": 9,
-      "pp": 7,
-      "gf": 20,
-      "gc": 23,
       "pts": 33,
       "zona": "normal"
     },
@@ -328,12 +328,12 @@
     {
       "pos": 14,
       "equipo": "Muñiz",
-      "pj": 23,
+      "pj": 24,
       "pg": 4,
       "pe": 10,
-      "pp": 9,
+      "pp": 10,
       "gf": 16,
-      "gc": 22,
+      "gc": 24,
       "pts": 22,
       "zona": "descenso"
     }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T12:44:56.724593",
+  "actualizado": "2026-08-21T21:20:16.095779",
   "bracket": {
     "32avos": [
       {
@@ -297,19 +297,19 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -477,18 +477,6 @@
         "local": "Claudio Baeza",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Deportivo",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Comprar Equipamiento Y Ropa Deportiva",
-        "visitante": "Suscribirse A Noticias Deportivas En Vivo",
-        "goles_l": null,
         "goles_v": null
       },
       {
