@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-08-22T12:37:24.593667",
+  "actualizado": "2026-08-22T21:17:53.463775",
   "partidos": [
     {
       "id": 100,
-      "fecha": 6,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Gimnasia LP",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 6,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Instituto",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
       "fecha": 6,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -62,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 101,
       "fecha": 6,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -82,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 102,
       "fecha": 6,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -102,167 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Tristan Suárez",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Agropecuario",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Almagro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colegiales",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlanta",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Defensores",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Alte. Brown",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Miguel",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colón",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Patronato",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia y Tiro",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 26,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chaco For Ever",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
+      "id": 111,
       "fecha": 26,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -282,127 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 130,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 131,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 132,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 133,
-      "fecha": 31,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
+      "id": 118,
       "fecha": 31,
       "dia": "Sáb 22/08",
       "fechaISO": "2026-08-22",
@@ -418,26 +98,6 @@
         "goles": null
       },
       "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
-      "fecha": 5,
-      "dia": "Sáb 22/08",
-      "fechaISO": "2026-08-22",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "Círculo Deportivo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Costa Brava",
-        "goles": null
-      },
-      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
