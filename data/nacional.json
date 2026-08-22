@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T21:19:31.003315",
+  "actualizado": "2026-08-22T12:36:42.222055",
   "posiciones": [
     {
       "pos": 1,
@@ -39,6 +39,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Dep. Madryn",
+      "pj": 25,
+      "pg": 10,
+      "pe": 10,
+      "pp": 5,
+      "gf": 36,
+      "gc": 24,
+      "pts": 40,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Godoy Cruz",
       "pj": 25,
       "pg": 11,
@@ -50,7 +62,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Alte. Brown",
       "pj": 25,
       "pg": 10,
@@ -59,18 +71,6 @@
       "gf": 20,
       "gc": 16,
       "pts": 38,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
-      "equipo": "Dep. Madryn",
-      "pj": 24,
-      "pg": 9,
-      "pe": 10,
-      "pp": 5,
-      "gf": 32,
-      "gc": 24,
-      "pts": 37,
       "zona": "normal"
     },
     {
@@ -123,18 +123,6 @@
     },
     {
       "pos": 11,
-      "equipo": "CA Mitre",
-      "pj": 25,
-      "pg": 6,
-      "pe": 11,
-      "pp": 8,
-      "gf": 25,
-      "gc": 29,
-      "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 12,
       "equipo": "San Miguel",
       "pj": 24,
       "pg": 6,
@@ -142,6 +130,18 @@
       "pp": 7,
       "gf": 19,
       "gc": 23,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
+      "equipo": "CA Mitre",
+      "pj": 26,
+      "pg": 6,
+      "pe": 11,
+      "pp": 9,
+      "gf": 25,
+      "gc": 33,
       "pts": 29,
       "zona": "normal"
     },
