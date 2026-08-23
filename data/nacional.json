@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T12:37:49.709447",
+  "actualizado": "2026-08-23T21:17:11.808272",
   "posiciones": [
     {
       "pos": 1,
@@ -88,13 +88,13 @@
     {
       "pos": 8,
       "equipo": "Ciudad De Bolivar",
-      "pj": 25,
+      "pj": 26,
       "pg": 8,
-      "pe": 10,
+      "pe": 11,
       "pp": 7,
-      "gf": 21,
-      "gc": 22,
-      "pts": 34,
+      "gf": 22,
+      "gc": 23,
+      "pts": 35,
       "zona": "normal"
     },
     {
@@ -112,13 +112,13 @@
     {
       "pos": 10,
       "equipo": "Racing (Cba)",
-      "pj": 25,
+      "pj": 26,
       "pg": 8,
-      "pe": 7,
+      "pe": 8,
       "pp": 10,
-      "gf": 23,
-      "gc": 28,
-      "pts": 31,
+      "gf": 24,
+      "gc": 29,
+      "pts": 32,
       "zona": "normal"
     },
     {
@@ -243,6 +243,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Temperley",
+      "pj": 26,
+      "pg": 11,
+      "pe": 10,
+      "pp": 5,
+      "gf": 29,
+      "gc": 22,
+      "pts": 43,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Atlanta",
       "pj": 25,
       "pg": 13,
@@ -254,31 +266,31 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
-      "equipo": "Temperley",
-      "pj": 25,
-      "pg": 10,
-      "pe": 10,
-      "pp": 5,
-      "gf": 27,
-      "gc": 21,
-      "pts": 40,
-      "zona": "normal"
-    },
-    {
       "pos": 5,
       "equipo": "Midland",
-      "pj": 24,
+      "pj": 25,
       "pg": 10,
       "pe": 8,
-      "pp": 6,
-      "gf": 26,
-      "gc": 17,
+      "pp": 7,
+      "gf": 27,
+      "gc": 19,
       "pts": 38,
       "zona": "normal"
     },
     {
       "pos": 6,
+      "equipo": "Maipú",
+      "pj": 26,
+      "pg": 11,
+      "pe": 5,
+      "pp": 10,
+      "gf": 34,
+      "gc": 27,
+      "pts": 38,
+      "zona": "normal"
+    },
+    {
+      "pos": 7,
       "equipo": "Gimnasia y Tiro",
       "pj": 26,
       "pg": 10,
@@ -290,19 +302,19 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
-      "equipo": "Maipú",
-      "pj": 25,
-      "pg": 10,
-      "pe": 5,
-      "pp": 10,
-      "gf": 33,
-      "gc": 27,
+      "pos": 8,
+      "equipo": "San Martín (T)",
+      "pj": 26,
+      "pg": 8,
+      "pe": 11,
+      "pp": 7,
+      "gf": 26,
+      "gc": 23,
       "pts": 35,
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Atlético Rafaela",
       "pj": 25,
       "pg": 9,
@@ -314,19 +326,19 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Quilmes",
-      "pj": 25,
+      "pj": 26,
       "pg": 8,
       "pe": 8,
-      "pp": 9,
+      "pp": 10,
       "gf": 27,
-      "gc": 21,
+      "gc": 22,
       "pts": 32,
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "San Martín",
       "pj": 24,
       "pg": 8,
@@ -334,18 +346,6 @@
       "pp": 8,
       "gf": 26,
       "gc": 24,
-      "pts": 32,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "San Martín (T)",
-      "pj": 25,
-      "pg": 7,
-      "pe": 11,
-      "pp": 7,
-      "gf": 24,
-      "gc": 22,
       "pts": 32,
       "zona": "normal"
     },

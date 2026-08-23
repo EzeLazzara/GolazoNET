@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-08-23T12:38:32.853887",
+  "actualizado": "2026-08-23T21:17:52.917414",
   "partidos": [
     {
-      "id": 105,
+      "id": 102,
       "fecha": 6,
       "dia": "Lun 24/08",
       "fechaISO": "2026-08-24",
@@ -17,12 +17,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 6,
       "dia": "Lun 24/08",
       "fechaISO": "2026-08-24",
@@ -37,12 +37,12 @@
         "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 6,
       "dia": "Lun 24/08",
       "fechaISO": "2026-08-24",
@@ -57,12 +57,12 @@
         "nombre": "Rosario Central",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 105,
       "fecha": 26,
       "dia": "Lun 24/08",
       "fechaISO": "2026-08-24",
@@ -77,12 +77,12 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 106,
       "fecha": 26,
       "dia": "Lun 24/08",
       "fechaISO": "2026-08-24",
@@ -97,12 +97,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 107,
       "fecha": 22,
       "dia": "Mar 25/08",
       "fechaISO": "2026-08-25",
@@ -117,12 +117,12 @@
         "nombre": "Juventud Unida SM",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 108,
       "fecha": 22,
       "dia": "Mié 26/08",
       "fechaISO": "2026-08-26",
@@ -137,7 +137,7 @@
         "nombre": "Sp. Barracas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
