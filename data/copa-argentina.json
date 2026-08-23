@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T21:17:53.462800",
+  "actualizado": "2026-08-23T12:38:32.852324",
   "bracket": {
     "32avos": [
       {
@@ -297,19 +297,19 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -477,6 +477,18 @@
         "local": "Claudio Baeza",
         "visitante": "Facundo Bruera",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Actualidad deportiva",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Entradas partidos fútbol",
+        "visitante": "Eventos fútbol",
+        "goles_l": null,
         "goles_v": null
       },
       {
