@@ -1,43 +1,103 @@
 {
-  "actualizado": "2026-08-23T21:17:52.917062",
+  "actualizado": "2026-08-24T12:48:37.363857",
   "partidos": [
     {
       "id": 100,
       "fecha": 6,
-      "dia": "Dom 23/08",
-      "fechaISO": "2026-08-23",
+      "dia": "Lun 24/08",
+      "fechaISO": "2026-08-24",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "River Plate",
+        "nombre": "Tigre",
         "goles": null
       },
       "visitante": {
-        "nombre": "Velez Sarsfield",
+        "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
       "fecha": 6,
-      "dia": "Dom 23/08",
-      "fechaISO": "2026-08-23",
+      "dia": "Lun 24/08",
+      "fechaISO": "2026-08-24",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Racing Club",
+        "nombre": "Lanus",
         "goles": null
       },
       "visitante": {
-        "nombre": "Boca Juniors",
+        "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 6,
+      "dia": "Lun 24/08",
+      "fechaISO": "2026-08-24",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Talleres",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 26,
+      "dia": "Lun 24/08",
+      "fechaISO": "2026-08-24",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 26,
+      "dia": "Lun 24/08",
+      "fechaISO": "2026-08-24",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Ferro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "All Boys",
+        "goles": null
+      },
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }
