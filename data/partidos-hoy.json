@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T12:48:37.363857",
+  "actualizado": "2026-08-24T21:24:46.819255",
   "partidos": [
     {
       "id": 100,
@@ -63,26 +63,6 @@
     },
     {
       "id": 103,
-      "fecha": 26,
-      "dia": "Lun 24/08",
-      "fechaISO": "2026-08-24",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Güemes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atlético Rafaela",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
       "fecha": 26,
       "dia": "Lun 24/08",
       "fechaISO": "2026-08-24",
