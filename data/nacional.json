@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-08-24T21:24:05.346967",
+  "actualizado": "2026-08-25T12:44:40.155120",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Ferro",
-      "pj": 25,
-      "pg": 15,
+      "pj": 26,
+      "pg": 16,
       "pe": 4,
       "pp": 6,
-      "gf": 31,
+      "gf": 32,
       "gc": 23,
-      "pts": 49,
+      "pts": 52,
       "zona": "promotion"
     },
     {
@@ -160,12 +160,12 @@
     {
       "pos": 14,
       "equipo": "All Boys",
-      "pj": 25,
+      "pj": 26,
       "pg": 5,
       "pe": 12,
-      "pp": 8,
+      "pp": 9,
       "gf": 15,
-      "gc": 23,
+      "gc": 24,
       "pts": 27,
       "zona": "normal"
     },
