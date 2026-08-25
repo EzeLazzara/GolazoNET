@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T12:45:22.044111",
+  "actualizado": "2026-08-25T21:23:25.979103",
   "bracket": {
     "32avos": [
       {
@@ -259,7 +259,7 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -405,18 +405,6 @@
         "local": "Adrian Martinez",
         "visitante": "Cristian Tarragona",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Copa Argentina merchandise",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Turismo deportivo Argentina",
-        "visitante": "App resultados fútbol",
-        "goles_l": null,
         "goles_v": null
       },
       {

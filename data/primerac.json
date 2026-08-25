@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T12:45:05.125356",
+  "actualizado": "2026-08-25T21:23:09.427913",
   "posiciones": [
     {
       "pos": 1,
@@ -87,6 +87,18 @@
     },
     {
       "pos": 8,
+      "equipo": "Juventud Unida SM",
+      "pj": 25,
+      "pg": 9,
+      "pe": 8,
+      "pp": 8,
+      "gf": 28,
+      "gc": 24,
+      "pts": 35,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Puerto Nuevo",
       "pj": 25,
       "pg": 8,
@@ -95,18 +107,6 @@
       "gf": 22,
       "gc": 24,
       "pts": 35,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Juventud Unida SM",
-      "pj": 24,
-      "pg": 8,
-      "pe": 8,
-      "pp": 8,
-      "gf": 26,
-      "gc": 23,
-      "pts": 32,
       "zona": "normal"
     },
     {
@@ -124,12 +124,12 @@
     {
       "pos": 11,
       "equipo": "Leandro N. Alem",
-      "pj": 24,
+      "pj": 25,
       "pg": 7,
       "pe": 6,
-      "pp": 11,
-      "gf": 25,
-      "gc": 40,
+      "pp": 12,
+      "gf": 26,
+      "gc": 42,
       "pts": 27,
       "zona": "normal"
     },
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Leones de Rosario FC",
+      "pj": 25,
+      "pg": 9,
+      "pe": 10,
+      "pp": 6,
+      "gf": 24,
+      "gc": 22,
+      "pts": 37,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Lamadrid",
       "pj": 25,
       "pg": 9,
@@ -206,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 5,
       "equipo": "Dep. Español",
       "pj": 25,
       "pg": 7,
@@ -218,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "CA Atlas",
       "pj": 25,
       "pg": 9,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Sp. Barracas",
       "pj": 24,
       "pg": 10,
@@ -238,18 +250,6 @@
       "pp": 10,
       "gf": 29,
       "gc": 25,
-      "pts": 34,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Leones de Rosario FC",
-      "pj": 24,
-      "pg": 8,
-      "pe": 10,
-      "pp": 6,
-      "gf": 22,
-      "gc": 21,
       "pts": 34,
       "zona": "normal"
     },
@@ -328,12 +328,12 @@
     {
       "pos": 14,
       "equipo": "Muñiz",
-      "pj": 24,
+      "pj": 25,
       "pg": 4,
       "pe": 10,
-      "pp": 10,
-      "gf": 16,
-      "gc": 24,
+      "pp": 11,
+      "gf": 17,
+      "gc": 26,
       "pts": 22,
       "zona": "descenso"
     }

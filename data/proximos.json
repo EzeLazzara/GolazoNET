@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-08-25T12:45:22.045457",
+  "actualizado": "2026-08-25T21:23:25.980275",
   "partidos": [
     {
-      "id": 108,
+      "id": 101,
       "fecha": 32,
       "dia": "Mié 26/08",
       "fechaISO": "2026-08-26",
@@ -17,12 +17,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "06:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 102,
       "fecha": 32,
       "dia": "Mié 26/08",
       "fechaISO": "2026-08-26",
@@ -37,12 +37,12 @@
         "nombre": "Armenio",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 103,
       "fecha": 32,
       "dia": "Mié 26/08",
       "fechaISO": "2026-08-26",
@@ -57,12 +57,12 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 104,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -77,12 +77,12 @@
         "nombre": "Boca Unidos",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 105,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -97,12 +97,12 @@
         "nombre": "Sol De América",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 106,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -117,12 +117,12 @@
         "nombre": "Independiente (Chi)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 107,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -137,12 +137,12 @@
         "nombre": "Bartolomé Mitre",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 108,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -157,12 +157,12 @@
         "nombre": "Sarmiento (LB)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 109,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -177,12 +177,12 @@
         "nombre": "Juventud Unida (SL)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 110,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -197,12 +197,12 @@
         "nombre": "Círculo Deportivo",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 111,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -217,12 +217,12 @@
         "nombre": "Gmo. Brown",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 112,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -237,12 +237,12 @@
         "nombre": "Dvo. Rincón",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 113,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -257,12 +257,12 @@
         "nombre": "Fundación Amigos por el Deporte",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 114,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -277,12 +277,12 @@
         "nombre": "Sarmiento (R)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 115,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -297,12 +297,12 @@
         "nombre": "Atlético Escobar",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 116,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -317,12 +317,12 @@
         "nombre": "Huracán (LH)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 117,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -337,12 +337,12 @@
         "nombre": "Juv. Antoniana",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 118,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -357,12 +357,12 @@
         "nombre": "Alvarado",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 119,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -377,12 +377,12 @@
         "nombre": "Olimpo",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 120,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -397,12 +397,12 @@
         "nombre": "Defensores (VR)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 121,
       "fecha": 22,
       "dia": "Mié 26/08",
       "fechaISO": "2026-08-26",
@@ -417,7 +417,7 @@
         "nombre": "Sp. Barracas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
