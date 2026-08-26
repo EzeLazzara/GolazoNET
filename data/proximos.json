@@ -1,60 +1,20 @@
 {
-  "actualizado": "2026-08-25T21:23:25.980275",
+  "actualizado": "2026-08-26T12:50:51.116898",
   "partidos": [
     {
-      "id": 101,
-      "fecha": 32,
-      "dia": "Mié 26/08",
-      "fechaISO": "2026-08-26",
+      "id": 100,
+      "fecha": 7,
+      "dia": "Vie 28/08",
+      "fechaISO": "2026-08-28",
       "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Camioneros",
+        "nombre": "Union Santa Fe",
         "goles": null
       },
       "visitante": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 32,
-      "dia": "Mié 26/08",
-      "fechaISO": "2026-08-26",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 32,
-      "dia": "Mié 26/08",
-      "fechaISO": "2026-08-26",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dock Sud",
+        "nombre": "Sarmiento",
         "goles": null
       },
       "hora": "14:00",
@@ -62,7 +22,287 @@
       "estado": "programado"
     },
     {
+      "id": 101,
+      "fecha": 7,
+      "dia": "Vie 28/08",
+      "fechaISO": "2026-08-28",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 7,
+      "dia": "Sáb 29/08",
+      "fechaISO": "2026-08-29",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Riestra",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Velez Sarsfield",
+        "goles": null
+      },
+      "hora": "09:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 7,
+      "dia": "Sáb 29/08",
+      "fechaISO": "2026-08-29",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia LP",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
       "id": 104,
+      "fecha": 7,
+      "dia": "Sáb 29/08",
+      "fechaISO": "2026-08-29",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Huracan",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estudiantes RC",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 7,
+      "dia": "Sáb 29/08",
+      "fechaISO": "2026-08-29",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Atletico Tucuman",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Belgrano",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
+      "fecha": 7,
+      "dia": "Sáb 29/08",
+      "fechaISO": "2026-08-29",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Talleres",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 7,
+      "dia": "Dom 30/08",
+      "fechaISO": "2026-08-30",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Banfield",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "River Plate",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
+      "fecha": 7,
+      "dia": "Dom 30/08",
+      "fechaISO": "2026-08-30",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Argentinos Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Aldosivi",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 109,
+      "fecha": 7,
+      "dia": "Dom 30/08",
+      "fechaISO": "2026-08-30",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia Mendoza",
+        "goles": null
+      },
+      "hora": "14:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
+      "fecha": 7,
+      "dia": "Dom 30/08",
+      "fechaISO": "2026-08-30",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente Riv.",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Racing Club",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Newells",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Tigre",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Barracas Central",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -82,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 119,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -102,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 120,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -122,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 121,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -142,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 122,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -162,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 123,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -182,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 124,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -202,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 125,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -222,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 126,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -242,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 127,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -262,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 128,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -282,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 129,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -302,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 130,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -322,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 131,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -342,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 132,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -362,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 133,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -382,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 134,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -398,26 +638,6 @@
         "goles": null
       },
       "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 22,
-      "dia": "Mié 26/08",
-      "fechaISO": "2026-08-26",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }

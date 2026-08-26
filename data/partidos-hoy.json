@@ -1,23 +1,83 @@
 {
-  "actualizado": "2026-08-25T21:23:25.979997",
+  "actualizado": "2026-08-26T12:50:51.116440",
   "partidos": [
     {
-      "id": 100,
+      "id": 115,
       "fecha": 32,
-      "dia": "Mar 25/08",
-      "fechaISO": "2026-08-25",
+      "dia": "Mié 26/08",
+      "fechaISO": "2026-08-26",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Excursionistas",
+        "nombre": "Camioneros",
         "goles": null
       },
       "visitante": {
-        "nombre": "Argentino (M)",
+        "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 32,
+      "dia": "Mié 26/08",
+      "fechaISO": "2026-08-26",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Liniers",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 32,
+      "dia": "Mié 26/08",
+      "fechaISO": "2026-08-26",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 22,
+      "dia": "Mié 26/08",
+      "fechaISO": "2026-08-26",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }

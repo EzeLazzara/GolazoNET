@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T21:22:44.565223",
+  "actualizado": "2026-08-26T12:50:07.350791",
   "posiciones": [
     {
       "pos": 1,
@@ -39,6 +39,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Dep. Madryn",
+      "pj": 26,
+      "pg": 11,
+      "pe": 10,
+      "pp": 5,
+      "gf": 38,
+      "gc": 24,
+      "pts": 43,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Alte. Brown",
       "pj": 26,
       "pg": 11,
@@ -50,26 +62,14 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Dep. Madryn",
-      "pj": 25,
-      "pg": 10,
-      "pe": 10,
-      "pp": 5,
-      "gf": 36,
-      "gc": 24,
-      "pts": 40,
-      "zona": "normal"
-    },
-    {
       "pos": 6,
       "equipo": "Godoy Cruz",
-      "pj": 25,
+      "pj": 26,
       "pg": 11,
       "pe": 7,
-      "pp": 7,
+      "pp": 8,
       "gf": 29,
-      "gc": 22,
+      "gc": 24,
       "pts": 40,
       "zona": "normal"
     },

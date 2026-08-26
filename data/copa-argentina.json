@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T21:23:25.979103",
+  "actualizado": "2026-08-26T12:50:51.115130",
   "bracket": {
     "32avos": [
       {
@@ -259,7 +259,7 @@
       {
         "local": "Talleres de Córdoba",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -405,6 +405,18 @@
         "local": "Adrian Martinez",
         "visitante": "Cristian Tarragona",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol",
+        "visitante": "Actualidad deportiva",
+        "goles_l": null,
         "goles_v": null
       },
       {
