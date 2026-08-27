@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T00:25:19.024591",
+  "actualizado": "2026-08-27T21:50:54.157373",
   "bracket": {
     "32avos": [
       {
@@ -297,19 +297,19 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": null,
+        "goles_l": 4,
         "goles_v": null
       },
       {
@@ -411,18 +411,6 @@
         "local": "Adrian Martinez",
         "visitante": "Cristian Tarragona",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Comparador equipos fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Entradas Copa Argentina",
-        "visitante": "Camisetas Argentina",
-        "goles_l": null,
         "goles_v": null
       },
       {

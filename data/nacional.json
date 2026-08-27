@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T00:24:26.620894",
+  "actualizado": "2026-08-27T21:50:12.878876",
   "posiciones": [
     {
       "pos": 1,
@@ -16,13 +16,13 @@
     {
       "pos": 2,
       "equipo": "Morón",
-      "pj": 25,
+      "pj": 26,
       "pg": 13,
-      "pe": 6,
+      "pe": 7,
       "pp": 6,
       "gf": 41,
       "gc": 24,
-      "pts": 45,
+      "pts": 46,
       "zona": "promotion"
     },
     {
@@ -159,6 +159,18 @@
     },
     {
       "pos": 14,
+      "equipo": "Central Norte",
+      "pj": 26,
+      "pg": 6,
+      "pe": 10,
+      "pp": 10,
+      "gf": 17,
+      "gc": 25,
+      "pts": 28,
+      "zona": "normal"
+    },
+    {
+      "pos": 15,
       "equipo": "San Telmo",
       "pj": 26,
       "pg": 6,
@@ -166,18 +178,6 @@
       "pp": 11,
       "gf": 22,
       "gc": 30,
-      "pts": 27,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "Central Norte",
-      "pj": 25,
-      "pg": 6,
-      "pe": 9,
-      "pp": 10,
-      "gf": 17,
-      "gc": 25,
       "pts": 27,
       "zona": "normal"
     },
