@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T12:50:31.966387",
+  "actualizado": "2026-08-27T00:24:52.192345",
   "posiciones": [
     {
       "pos": 1,
@@ -219,6 +219,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Sp. Barracas",
+      "pj": 25,
+      "pg": 10,
+      "pe": 5,
+      "pp": 10,
+      "gf": 29,
+      "gc": 25,
+      "pts": 35,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Dep. Español",
       "pj": 25,
       "pg": 7,
@@ -230,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "CA Atlas",
       "pj": 25,
       "pg": 9,
@@ -239,18 +251,6 @@
       "gf": 22,
       "gc": 21,
       "pts": 35,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Sp. Barracas",
-      "pj": 24,
-      "pg": 10,
-      "pe": 4,
-      "pp": 10,
-      "gf": 29,
-      "gc": 25,
-      "pts": 34,
       "zona": "normal"
     },
     {
@@ -292,13 +292,13 @@
     {
       "pos": 11,
       "equipo": "Central Ballester",
-      "pj": 24,
+      "pj": 25,
       "pg": 7,
-      "pe": 6,
+      "pe": 7,
       "pp": 11,
       "gf": 23,
       "gc": 27,
-      "pts": 27,
+      "pts": 28,
       "zona": "normal"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T12:50:51.115130",
+  "actualizado": "2026-08-27T00:25:19.024591",
   "bracket": {
     "32avos": [
       {
@@ -297,19 +297,19 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -321,13 +321,13 @@
       {
         "local": "Aldosivi",
         "visitante": "Independiente Rivadavia",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -385,6 +385,12 @@
         "visitante": "Banfield",
         "goles_l": null,
         "goles_v": null
+      },
+      {
+        "local": "Independiente Rivadavia",
+        "visitante": "Atlético Tucumán",
+        "goles_l": null,
+        "goles_v": null
       }
     ],
     "semifinales": [],
@@ -409,13 +415,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "fútbol",
+        "visitante": "Comparador equipos fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol",
-        "visitante": "Actualidad deportiva",
+        "local": "Entradas Copa Argentina",
+        "visitante": "Camisetas Argentina",
         "goles_l": null,
         "goles_v": null
       },
@@ -427,13 +433,13 @@
       },
       {
         "local": "Nicolás Laméndola",
-        "visitante": "Federico Laurelli",
+        "visitante": "Tiago Palacios",
         "goles_l": 4,
         "goles_v": null
       },
       {
-        "local": "Tiago Palacios",
-        "visitante": "Facundo Valdez",
+        "local": "Facundo Valdez",
+        "visitante": "Marcelo Torres",
         "goles_l": 2,
         "goles_v": null
       },
@@ -475,19 +481,19 @@
       },
       {
         "local": "Tarjetas Amarillas",
-        "visitante": "Nacho Fernández",
+        "visitante": "Martín García",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Agustín Medina",
-        "visitante": "Carlo Lattanzio",
-        "goles_l": 2,
+        "local": "Nacho Fernández",
+        "visitante": "Agustín Medina",
+        "goles_l": 3,
         "goles_v": null
       },
       {
-        "local": "Claudio Baeza",
-        "visitante": "Facundo Bruera",
+        "local": "Carlo Lattanzio",
+        "visitante": "Claudio Baeza",
         "goles_l": 2,
         "goles_v": null
       },
@@ -499,25 +505,31 @@
       },
       {
         "local": "Mié 26/08",
-        "visitante": "Aldosivi",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente Riv.",
-        "visitante": "Jue 27/08",
+        "local": "Aldosivi",
+        "visitante": "Independiente Riv.",
+        "goles_l": 0,
+        "goles_v": 2
+      },
+      {
+        "local": "Jue 27/08",
+        "visitante": "Estudiantes",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Estudiantes",
-        "visitante": "Barracas Central",
+        "local": "Barracas Central",
+        "visitante": "Platense",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Platense",
-        "visitante": "Instituto",
+        "local": "Instituto",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
       }
