@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T05:04:52.220509",
+  "actualizado": "2026-08-28T21:46:08.980065",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "Sarmiento",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     }

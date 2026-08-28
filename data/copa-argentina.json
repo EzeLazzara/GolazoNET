@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T05:04:52.219601",
+  "actualizado": "2026-08-28T21:46:08.979232",
   "bracket": {
     "32avos": [
       {
@@ -333,7 +333,7 @@
       {
         "local": "Platense",
         "visitante": "Instituto",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -420,18 +420,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Comprar Entradas Para Competiciones Deportivas Internacionales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Equipar Equipos Para Deportes En Grupo",
-        "visitante": "Unirse A Clubes Y Organizaciones Locales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -444,8 +432,8 @@
         "goles_v": null
       },
       {
-        "local": "Tiago Palacios",
-        "visitante": "Facundo Valdez",
+        "local": "Facundo Valdez",
+        "visitante": "Marcelo Torres",
         "goles_l": 2,
         "goles_v": null
       },
@@ -469,19 +457,19 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Franco Ibarra",
+        "visitante": "Fernando Alarcón",
         "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Franco Ibarra",
+        "visitante": "Hernán de la Fuente",
+        "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Thiago Cardozo",
         "visitante": "Augusto Max",
-        "goles_l": 1,
-        "goles_v": null
-      },
-      {
-        "local": "Carlos Izquierdoz",
-        "visitante": "Fernando Alarcón",
         "goles_l": 1,
         "goles_v": null
       },
@@ -501,6 +489,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Leer Noticias Deportivas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Compra Botas Fútbol",
+        "visitante": "Únete A Clubes",
+        "goles_l": null,
         "goles_v": null
       },
       {
