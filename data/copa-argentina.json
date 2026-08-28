@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T21:50:54.157373",
+  "actualizado": "2026-08-28T05:04:52.219601",
   "bracket": {
     "32avos": [
       {
@@ -297,19 +297,19 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -321,19 +321,19 @@
       {
         "local": "Aldosivi",
         "visitante": "Independiente Rivadavia",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "Instituto",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -391,26 +391,44 @@
         "visitante": "Atlético Tucumán",
         "goles_l": null,
         "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "Estudiantes de La Plata",
+        "goles_l": null,
+        "goles_v": null
       }
     ],
     "semifinales": [],
     "final": [
       {
         "local": "Goles",
-        "visitante": "Nicolás Laméndola",
+        "visitante": "Guido Carrillo",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Tomás Fernández",
-        "visitante": "Adam Bareiro",
+        "local": "Nicolás Laméndola",
+        "visitante": "Tomás Fernández",
         "goles_l": 3,
         "goles_v": null
       },
       {
-        "local": "Adrian Martinez",
-        "visitante": "Cristian Tarragona",
+        "local": "Adam Bareiro",
+        "visitante": "Adrian Martinez",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Comprar Entradas Para Competiciones Deportivas Internacionales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Equipar Equipos Para Deportes En Grupo",
+        "visitante": "Unirse A Clubes Y Organizaciones Locales",
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -421,25 +439,25 @@
       },
       {
         "local": "Nicolás Laméndola",
-        "visitante": "Tiago Palacios",
+        "visitante": "Federico Laurelli",
         "goles_l": 4,
         "goles_v": null
       },
       {
-        "local": "Facundo Valdez",
-        "visitante": "Marcelo Torres",
+        "local": "Tiago Palacios",
+        "visitante": "Facundo Valdez",
         "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Barridas ganadas",
-        "visitante": "Germán Conti",
+        "visitante": "Agustin Massaccesi",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Lucas Janson",
-        "visitante": "Agustin Massaccesi",
+        "local": "Germán Conti",
+        "visitante": "Lucas Janson",
         "goles_l": 1,
         "goles_v": null
       },
@@ -469,19 +487,19 @@
       },
       {
         "local": "Tarjetas Amarillas",
-        "visitante": "Martín García",
+        "visitante": "Facundo Bruera",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Nacho Fernández",
-        "visitante": "Agustín Medina",
+        "local": "Martín García",
+        "visitante": "Nacho Fernández",
         "goles_l": 3,
         "goles_v": null
       },
       {
-        "local": "Carlo Lattanzio",
-        "visitante": "Claudio Baeza",
+        "local": "Agustín Medina",
+        "visitante": "Carlo Lattanzio",
         "goles_l": 2,
         "goles_v": null
       },
@@ -505,12 +523,18 @@
       },
       {
         "local": "Jue 27/08",
-        "visitante": "Estudiantes",
+        "visitante": "Final",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Barracas Central",
+        "local": "Estudiantes",
+        "visitante": "Barracas Central",
+        "goles_l": 3,
+        "goles_v": 1
+      },
+      {
+        "local": "Por penales",
         "visitante": "Platense",
         "goles_l": null,
         "goles_v": null

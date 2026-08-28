@@ -1,4 +1,45 @@
 {
-  "actualizado": "2026-08-27T21:50:54.158282",
-  "partidos": []
+  "actualizado": "2026-08-28T05:04:52.220509",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 7,
+      "dia": "Vie 28/08",
+      "fechaISO": "2026-08-28",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 7,
+      "dia": "Vie 28/08",
+      "fechaISO": "2026-08-28",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
