@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T21:45:25.280191",
+  "actualizado": "2026-08-29T03:02:32.829111",
   "posiciones": [
     {
       "pos": 1,
@@ -267,6 +267,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Gimnasia y Tiro",
+      "pj": 27,
+      "pg": 11,
+      "pe": 8,
+      "pp": 8,
+      "gf": 28,
+      "gc": 25,
+      "pts": 41,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Midland",
       "pj": 25,
       "pg": 10,
@@ -278,7 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Maipú",
       "pj": 26,
       "pg": 11,
@@ -286,18 +298,6 @@
       "pp": 10,
       "gf": 34,
       "gc": 27,
-      "pts": 38,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Gimnasia y Tiro",
-      "pj": 26,
-      "pg": 10,
-      "pe": 8,
-      "pp": 8,
-      "gf": 27,
-      "gc": 25,
       "pts": 38,
       "zona": "normal"
     },
