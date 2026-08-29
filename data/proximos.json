@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-08-29T16:16:43.455877",
+  "actualizado": "2026-08-29T22:59:08.645565",
   "partidos": [
     {
-      "id": 105,
+      "id": 102,
       "fecha": 7,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 7,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -42,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 7,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -62,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 7,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -82,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 106,
       "fecha": 7,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -102,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 107,
       "fecha": 7,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -122,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 108,
       "fecha": 7,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -142,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 109,
       "fecha": 7,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -162,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 110,
       "fecha": 33,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -182,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 111,
       "fecha": 33,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -202,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 112,
       "fecha": 33,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -222,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 113,
       "fecha": 33,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -242,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 115,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -262,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 116,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -282,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 117,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -302,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 118,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -322,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 119,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -342,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 120,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -362,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 121,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -382,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 122,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -402,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 123,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -422,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 124,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -442,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 125,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -462,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 126,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -482,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 127,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -502,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 128,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -522,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 129,
       "fecha": 6,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -542,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 144,
+      "id": 130,
       "fecha": 26,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -562,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 131,
       "fecha": 26,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -582,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 132,
       "fecha": 26,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -602,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 133,
       "fecha": 26,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -622,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 134,
       "fecha": 26,
       "dia": "Dom 30/08",
       "fechaISO": "2026-08-30",
@@ -642,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 135,
       "fecha": 26,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -662,7 +662,7 @@
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 136,
       "fecha": 26,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -682,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 137,
       "fecha": 26,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -702,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 138,
       "fecha": 26,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -722,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 139,
       "fecha": 26,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
@@ -742,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 140,
       "fecha": 26,
       "dia": "Lun 31/08",
       "fechaISO": "2026-08-31",
