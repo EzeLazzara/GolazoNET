@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T22:58:51.963620",
+  "actualizado": "2026-08-30T16:07:42.330044",
   "posiciones": [
     {
       "pos": 1,
@@ -111,6 +111,18 @@
     },
     {
       "pos": 10,
+      "equipo": "Cambaceres",
+      "pj": 26,
+      "pg": 7,
+      "pe": 8,
+      "pp": 11,
+      "gf": 21,
+      "gc": 28,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Leandro N. Alem",
       "pj": 25,
       "pg": 7,
@@ -122,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "JJ Urquiza",
       "pj": 25,
       "pg": 4,
@@ -134,7 +146,19 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
+      "equipo": "Paraguayo",
+      "pj": 26,
+      "pg": 5,
+      "pe": 9,
+      "pp": 12,
+      "gf": 14,
+      "gc": 31,
+      "pts": 24,
+      "zona": "normal"
+    },
+    {
+      "pos": 14,
       "equipo": "Argentino Rosario",
       "pj": 25,
       "pg": 3,
