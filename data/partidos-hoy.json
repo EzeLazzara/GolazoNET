@@ -1,23 +1,103 @@
 {
-  "actualizado": "2026-08-30T23:06:48.691212",
+  "actualizado": "2026-08-31T18:51:01.040253",
   "partidos": [
     {
       "id": 100,
       "fecha": 7,
-      "dia": "Dom 30/08",
-      "fechaISO": "2026-08-30",
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Independiente Riv.",
+        "nombre": "Estudiantes",
         "goles": null
       },
       "visitante": {
-        "nombre": "Racing Club",
+        "nombre": "Newells",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Tigre",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Barracas Central",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 7,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 33,
+      "dia": "Lun 31/08",
+      "fechaISO": "2026-08-31",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
