@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T16:08:19.037868",
+  "actualizado": "2026-09-01T22:58:37.331305",
   "bracket": {
     "32avos": [
       {
@@ -327,7 +327,7 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -477,6 +477,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Consulta Mapas Interactivos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Compra Botas Fútbol",
+        "visitante": "Únete A Clubes",
+        "goles_l": null,
         "goles_v": null
       }
     ]
