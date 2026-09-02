@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T16:04:17.599745",
+  "actualizado": "2026-09-02T22:58:07.743693",
   "bracket": {
     "32avos": [
       {
@@ -297,19 +297,19 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Gimnasia La Plata",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Banfield",
         "visitante": "Midland",
-        "goles_l": 2,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Racing Club",
         "visitante": "Belgrano",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -321,25 +321,25 @@
       {
         "local": "Aldosivi",
         "visitante": "Independiente Rivadavia",
-        "goles_l": 0,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "Instituto",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Estudiantes de La Plata",
         "visitante": "Barracas Central",
-        "goles_l": 3,
+        "goles_l": null,
         "goles_v": null
       }
     ],
@@ -405,6 +405,18 @@
         "local": "Adam Bareiro",
         "visitante": "Adrian Martinez",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Ligas internacionales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol",
+        "visitante": "Tabla de posiciones",
+        "goles_l": null,
         "goles_v": null
       },
       {
