@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T22:57:25.973419",
+  "actualizado": "2026-09-03T15:51:21.027166",
   "posiciones": [
     {
       "pos": 1,
@@ -268,12 +268,12 @@
     {
       "pos": 5,
       "equipo": "Midland",
-      "pj": 26,
+      "pj": 27,
       "pg": 11,
       "pe": 8,
-      "pp": 7,
+      "pp": 8,
       "gf": 29,
-      "gc": 19,
+      "gc": 22,
       "pts": 41,
       "zona": "normal"
     },
@@ -327,6 +327,18 @@
     },
     {
       "pos": 10,
+      "equipo": "Colegiales",
+      "pj": 27,
+      "pg": 10,
+      "pe": 7,
+      "pp": 10,
+      "gf": 27,
+      "gc": 25,
+      "pts": 37,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "San Martín (T)",
       "pj": 27,
       "pg": 8,
@@ -335,18 +347,6 @@
       "gf": 27,
       "gc": 24,
       "pts": 36,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
-      "equipo": "Colegiales",
-      "pj": 26,
-      "pg": 9,
-      "pe": 7,
-      "pp": 10,
-      "gf": 24,
-      "gc": 25,
-      "pts": 34,
       "zona": "normal"
     },
     {
