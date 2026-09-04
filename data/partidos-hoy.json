@@ -1,4 +1,125 @@
 {
-  "actualizado": "2026-09-03T22:58:00.217741",
-  "partidos": []
+  "actualizado": "2026-09-04T15:50:28.704841",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 8,
+      "dia": "Vie 04/09",
+      "fechaISO": "2026-09-04",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Estudiantes RC",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento",
+        "goles": null
+      },
+      "hora": "09:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 8,
+      "dia": "Vie 04/09",
+      "fechaISO": "2026-09-04",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Belgrano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Huracan",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 8,
+      "dia": "Vie 04/09",
+      "fechaISO": "2026-09-04",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Riestra",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 7,
+      "dia": "Vie 04/09",
+      "fechaISO": "2026-09-04",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Juv. Antoniana",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Kimberley",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 27,
+      "dia": "Vie 04/09",
+      "fechaISO": "2026-09-04",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Yupanqui",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leones de Rosario FC",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 27,
+      "dia": "Vie 04/09",
+      "fechaISO": "2026-09-04",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Cambaceres",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

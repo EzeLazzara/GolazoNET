@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T22:58:00.217148",
+  "actualizado": "2026-09-04T15:50:28.704126",
   "bracket": {
     "32avos": [
       {
@@ -438,8 +438,8 @@
         "goles_v": null
       },
       {
-        "local": "Facundo Valdez",
-        "visitante": "Marcelo Torres",
+        "local": "Tiago Palacios",
+        "visitante": "Facundo Valdez",
         "goles_l": 2,
         "goles_v": null
       },
@@ -463,19 +463,19 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Fernando Alarcón",
+        "visitante": "Franco Ibarra",
         "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Franco Ibarra",
-        "visitante": "Hernán de la Fuente",
-        "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Thiago Cardozo",
         "visitante": "Augusto Max",
+        "goles_l": 1,
+        "goles_v": null
+      },
+      {
+        "local": "Carlos Izquierdoz",
+        "visitante": "Fernando Alarcón",
         "goles_l": 1,
         "goles_v": null
       },
@@ -495,6 +495,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Estadísticas de ligas",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Copa Argentina tickets",
+        "visitante": "Copa Argentina 2026",
+        "goles_l": null,
         "goles_v": null
       }
     ]
