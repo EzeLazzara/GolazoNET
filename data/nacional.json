@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-09-04T22:45:15.278342",
+  "actualizado": "2026-09-05T14:40:05.258543",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Ferro",
-      "pj": 27,
+      "pj": 28,
       "pg": 16,
-      "pe": 5,
+      "pe": 6,
       "pp": 6,
       "gf": 34,
       "gc": 25,
-      "pts": 53,
+      "pts": 54,
       "zona": "promotion"
     },
     {
@@ -124,13 +124,13 @@
     {
       "pos": 11,
       "equipo": "CA Mitre",
-      "pj": 27,
+      "pj": 28,
       "pg": 6,
-      "pe": 12,
+      "pe": 13,
       "pp": 9,
       "gf": 27,
       "gc": 35,
-      "pts": 30,
+      "pts": 31,
       "zona": "normal"
     },
     {

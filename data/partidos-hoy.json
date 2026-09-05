@@ -1,43 +1,303 @@
 {
-  "actualizado": "2026-09-04T22:46:02.999261",
+  "actualizado": "2026-09-05T14:41:08.861119",
   "partidos": [
     {
-      "id": 112,
+      "id": 100,
       "fecha": 28,
-      "dia": "Vie 04/09",
-      "fechaISO": "2026-09-04",
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
       "esHoy": true,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Ferro",
+        "nombre": "San Telmo",
         "goles": null
       },
       "visitante": {
-        "nombre": "CA Mitre",
+        "nombre": "Los Andes",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 101,
+      "fecha": 28,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (T)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 28,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chacarita",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 28,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Acassuso",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "All Boys",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 28,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Morón",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 34,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 34,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 34,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 34,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 34,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
       "fecha": 7,
-      "dia": "Vie 04/09",
-      "fechaISO": "2026-09-04",
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
       "esHoy": true,
       "liga": "federala",
       "ligaNombre": "Federal A",
       "local": {
-        "nombre": "Juv. Antoniana",
+        "nombre": "Sarmiento (R)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Kimberley",
+        "nombre": "Tucumán Central",
         "goles": null
       },
-      "hora": "17:00",
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 143,
+      "fecha": 27,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Victoriano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 27,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Centro Español",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 145,
+      "fecha": 27,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Porvenir",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 146,
+      "fecha": 27,
+      "dia": "Sáb 05/09",
+      "fechaISO": "2026-09-05",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Claypole",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     }

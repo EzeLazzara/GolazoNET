@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T22:45:39.977507",
+  "actualizado": "2026-09-05T14:40:51.395561",
   "posiciones": [
     {
       "pos": 1,
@@ -99,6 +99,30 @@
     },
     {
       "pos": 9,
+      "equipo": "Mercedes",
+      "pj": 27,
+      "pg": 9,
+      "pe": 9,
+      "pp": 9,
+      "gf": 26,
+      "gc": 22,
+      "pts": 36,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
+      "equipo": "Cambaceres",
+      "pj": 27,
+      "pg": 8,
+      "pe": 8,
+      "pp": 11,
+      "gf": 24,
+      "gc": 28,
+      "pts": 32,
+      "zona": "normal"
+    },
+    {
+      "pos": 11,
       "equipo": "Leandro N. Alem",
       "pj": 26,
       "pg": 7,
@@ -110,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 12,
       "equipo": "JJ Urquiza",
       "pj": 26,
       "pg": 4,
@@ -122,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 13,
       "equipo": "Paraguayo",
       "pj": 26,
       "pg": 5,
@@ -134,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 14,
       "equipo": "Argentino Rosario",
       "pj": 26,
       "pg": 3,
