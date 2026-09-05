@@ -1,20 +1,32 @@
 {
-  "actualizado": "2026-09-05T14:40:51.395561",
+  "actualizado": "2026-09-05T22:37:41.530480",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Sacachispas",
-      "pj": 26,
+      "pj": 27,
       "pg": 13,
-      "pe": 6,
+      "pe": 7,
       "pp": 7,
-      "gf": 31,
-      "gc": 19,
-      "pts": 45,
+      "gf": 32,
+      "gc": 20,
+      "pts": 46,
       "zona": "promotion"
     },
     {
       "pos": 2,
+      "equipo": "Centro Español",
+      "pj": 27,
+      "pg": 10,
+      "pe": 10,
+      "pp": 7,
+      "gf": 34,
+      "gc": 24,
+      "pts": 40,
+      "zona": "promotion"
+    },
+    {
+      "pos": 3,
       "equipo": "CA Lugano",
       "pj": 26,
       "pg": 10,
@@ -23,18 +35,6 @@
       "gf": 30,
       "gc": 23,
       "pts": 40,
-      "zona": "promotion"
-    },
-    {
-      "pos": 3,
-      "equipo": "Centro Español",
-      "pj": 26,
-      "pg": 10,
-      "pe": 9,
-      "pp": 7,
-      "gf": 33,
-      "gc": 23,
-      "pts": 39,
       "zona": "normal"
     },
     {
@@ -88,13 +88,13 @@
     {
       "pos": 8,
       "equipo": "Victoriano",
-      "pj": 26,
+      "pj": 27,
       "pg": 8,
-      "pe": 12,
+      "pe": 13,
       "pp": 6,
-      "gf": 20,
-      "gc": 15,
-      "pts": 36,
+      "gf": 21,
+      "gc": 16,
+      "pts": 37,
       "zona": "normal"
     },
     {
@@ -160,13 +160,13 @@
     {
       "pos": 14,
       "equipo": "Argentino Rosario",
-      "pj": 26,
+      "pj": 27,
       "pg": 3,
-      "pe": 13,
+      "pe": 14,
       "pp": 10,
-      "gf": 24,
-      "gc": 32,
-      "pts": 22,
+      "gf": 25,
+      "gc": 33,
+      "pts": 23,
       "zona": "normal"
     },
     {
@@ -207,6 +207,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Central Cordoba",
+      "pj": 27,
+      "pg": 10,
+      "pe": 9,
+      "pp": 8,
+      "gf": 26,
+      "gc": 21,
+      "pts": 39,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Dep. Español",
       "pj": 26,
       "pg": 8,
@@ -215,18 +227,6 @@
       "gf": 19,
       "gc": 14,
       "pts": 38,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Central Cordoba",
-      "pj": 26,
-      "pg": 9,
-      "pe": 9,
-      "pp": 8,
-      "gf": 24,
-      "gc": 21,
-      "pts": 36,
       "zona": "normal"
     },
     {
@@ -280,12 +280,12 @@
     {
       "pos": 10,
       "equipo": "El Porvenir",
-      "pj": 26,
+      "pj": 27,
       "pg": 6,
       "pe": 15,
-      "pp": 5,
+      "pp": 6,
       "gf": 22,
-      "gc": 23,
+      "gc": 25,
       "pts": 33,
       "zona": "normal"
     },

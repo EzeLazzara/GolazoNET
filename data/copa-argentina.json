@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T14:41:08.860360",
+  "actualizado": "2026-09-05T22:37:58.002148",
   "bracket": {
     "32avos": [
       {
@@ -495,18 +495,6 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Estadísticas de ligas",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Análisis de partidos",
-        "visitante": "Estadísticas en Promiedos",
-        "goles_l": null,
         "goles_v": null
       }
     ]

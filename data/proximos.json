@@ -1,8 +1,148 @@
 {
-  "actualizado": "2026-09-05T14:41:08.861525",
+  "actualizado": "2026-09-05T22:37:58.002940",
   "partidos": [
     {
+      "id": 101,
+      "fecha": 8,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Newells",
+        "goles": null
+      },
+      "hora": "09:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 8,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Independiente",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 8,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 8,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "River Plate",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Independiente Riv.",
+        "goles": null
+      },
+      "hora": "14:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
       "id": 105,
+      "fecha": 8,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Racing Club",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atletico Tucuman",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
+      "fecha": 8,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Barracas Central",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentinos Juniors",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 8,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": false,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 108,
       "fecha": 28,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -17,67 +157,7 @@
         "nombre": "Atlético Rafaela",
         "goles": null
       },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 28,
-      "dia": "Dom 06/09",
-      "fechaISO": "2026-09-06",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Miguel",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
-      "fecha": 28,
-      "dia": "Dom 06/09",
-      "fechaISO": "2026-09-06",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Almagro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 28,
-      "dia": "Dom 06/09",
-      "fechaISO": "2026-09-06",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Midland",
-        "goles": null
-      },
-      "hora": "09:30",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -90,11 +170,11 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Temperley",
+        "nombre": "San Miguel",
         "goles": null
       },
       "visitante": {
-        "nombre": "Colegiales",
+        "nombre": "Godoy Cruz",
         "goles": null
       },
       "hora": "10:00",
@@ -110,14 +190,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Chaco For Ever",
+        "nombre": "Almagro",
         "goles": null
       },
       "visitante": {
-        "nombre": "Estudiantes",
+        "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -130,14 +210,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Dep. Madryn",
+        "nombre": "San Martín",
         "goles": null
       },
       "visitante": {
-        "nombre": "Ciudad De Bolivar",
+        "nombre": "Midland",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -150,14 +230,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Maipú",
+        "nombre": "Temperley",
         "goles": null
       },
       "visitante": {
-        "nombre": "Patronato",
+        "nombre": "Colegiales",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -170,11 +250,11 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Central Norte",
+        "nombre": "Chaco For Ever",
         "goles": null
       },
       "visitante": {
-        "nombre": "Alte. Brown",
+        "nombre": "Estudiantes",
         "goles": null
       },
       "hora": "11:00",
@@ -190,11 +270,11 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Güemes",
+        "nombre": "Dep. Madryn",
         "goles": null
       },
       "visitante": {
-        "nombre": "Gimnasia y Tiro",
+        "nombre": "Ciudad De Bolivar",
         "goles": null
       },
       "hora": "11:00",
@@ -203,6 +283,66 @@
     },
     {
       "id": 115,
+      "fecha": 28,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Maipú",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Patronato",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 28,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 28,
+      "dia": "Dom 06/09",
+      "fechaISO": "2026-09-06",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia y Tiro",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
       "fecha": 28,
       "dia": "Lun 07/09",
       "fechaISO": "2026-09-07",
@@ -217,12 +357,12 @@
         "nombre": "Quilmes",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 119,
       "fecha": 34,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -237,12 +377,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 120,
       "fecha": 34,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -257,12 +397,12 @@
         "nombre": "Argentino (Q)",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 121,
       "fecha": 34,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -277,12 +417,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 122,
       "fecha": 34,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -297,12 +437,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 123,
       "fecha": 34,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -317,12 +457,12 @@
         "nombre": "Argentino (M)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 124,
       "fecha": 34,
       "dia": "Lun 07/09",
       "fechaISO": "2026-09-07",
@@ -337,12 +477,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 125,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -357,12 +497,12 @@
         "nombre": "Germinal",
         "goles": null
       },
-      "hora": "05:30",
+      "hora": "06:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 126,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -377,12 +517,12 @@
         "nombre": "Sol de Mayo",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 127,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -397,12 +537,12 @@
         "nombre": "Santamarina",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 128,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -417,12 +557,12 @@
         "nombre": "San Martín (Mdza)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 129,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -437,12 +577,12 @@
         "nombre": "Costa Brava",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 130,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -457,12 +597,12 @@
         "nombre": "Atenas (RC)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 131,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -477,12 +617,12 @@
         "nombre": "Cipolletti",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 132,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -497,12 +637,12 @@
         "nombre": "Argentino MM",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 133,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -517,12 +657,12 @@
         "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 134,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -537,12 +677,12 @@
         "nombre": "Gimnasia de Concepción",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 135,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -557,12 +697,12 @@
         "nombre": "El Linqueño",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 136,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -577,12 +717,12 @@
         "nombre": "San Martín (For)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 137,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -597,12 +737,12 @@
         "nombre": "9 de Julio (R)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 138,
       "fecha": 7,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -617,12 +757,12 @@
         "nombre": "Sp. Belgrano",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 139,
       "fecha": 7,
       "dia": "Lun 07/09",
       "fechaISO": "2026-09-07",
@@ -637,12 +777,12 @@
         "nombre": "Defensores Pto. Vilelas",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 140,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -657,12 +797,12 @@
         "nombre": "Estrella del Sur",
         "goles": null
       },
-      "hora": "05:00",
+      "hora": "06:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 141,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -677,12 +817,12 @@
         "nombre": "Juventud Unida SM",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 142,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -697,12 +837,12 @@
         "nombre": "Leandro N. Alem",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 143,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -717,12 +857,12 @@
         "nombre": "CA Lugano",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 144,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -737,12 +877,12 @@
         "nombre": "Fenix",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 145,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -757,12 +897,12 @@
         "nombre": "Luján",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 146,
       "fecha": 27,
       "dia": "Dom 06/09",
       "fechaISO": "2026-09-06",
@@ -777,12 +917,12 @@
         "nombre": "Lamadrid",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 154,
+      "id": 147,
       "fecha": 27,
       "dia": "Lun 07/09",
       "fechaISO": "2026-09-07",
@@ -797,12 +937,12 @@
         "nombre": "Sp. Barracas",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 148,
       "fecha": 27,
       "dia": "Mar 08/09",
       "fechaISO": "2026-09-08",
@@ -817,7 +957,7 @@
         "nombre": "Central Ballester",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
