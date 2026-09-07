@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T17:19:03.643159",
+  "actualizado": "2026-09-07T23:15:39.454167",
   "posiciones": [
     {
       "pos": 1,
@@ -376,25 +376,25 @@
     {
       "pos": 14,
       "equipo": "Quilmes",
-      "pj": 27,
+      "pj": 28,
       "pg": 8,
       "pe": 8,
-      "pp": 11,
+      "pp": 12,
       "gf": 27,
-      "gc": 23,
+      "gc": 24,
       "pts": 32,
       "zona": "descenso"
     },
     {
       "pos": 15,
-      "equipo": "Patronato",
+      "equipo": "Chicago",
       "pj": 28,
-      "pg": 5,
-      "pe": 14,
-      "pp": 9,
-      "gf": 23,
-      "gc": 30,
-      "pts": 29,
+      "pg": 8,
+      "pe": 8,
+      "pp": 12,
+      "gf": 21,
+      "gc": 27,
+      "pts": 32,
       "zona": "descenso"
     }
   ]
