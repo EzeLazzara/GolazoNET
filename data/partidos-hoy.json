@@ -1,23 +1,123 @@
 {
-  "actualizado": "2026-09-06T22:39:45.700958",
+  "actualizado": "2026-09-07T17:19:49.810649",
   "partidos": [
     {
       "id": 100,
       "fecha": 8,
-      "dia": "Dom 06/09",
-      "fechaISO": "2026-09-06",
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Racing Club",
+        "nombre": "Barracas Central",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atletico Tucuman",
+        "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 8,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "hora": "15:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 28,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 34,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 7,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Atlético Escobar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensores Pto. Vilelas",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 27,
+      "dia": "Lun 07/09",
+      "fechaISO": "2026-09-07",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
