@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T16:04:41.730460",
+  "actualizado": "2026-09-08T23:09:22.305204",
   "bracket": {
     "32avos": [
       {
@@ -426,18 +426,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Bundesliga Alemania",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Premier League Inglaterra",
-        "visitante": "Camisetas de equipos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -507,6 +495,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "La Liga España",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Copa Argentina merchandise",
+        "visitante": "Fútbol noticias resultados",
+        "goles_l": null,
         "goles_v": null
       }
     ]
