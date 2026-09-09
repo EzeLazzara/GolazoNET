@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T15:59:10.460275",
+  "actualizado": "2026-09-09T22:53:23.662498",
   "posiciones": [
     {
       "pos": 1,
@@ -87,6 +87,18 @@
     },
     {
       "pos": 8,
+      "equipo": "Los Andes",
+      "pj": 28,
+      "pg": 8,
+      "pe": 12,
+      "pp": 8,
+      "gf": 21,
+      "gc": 16,
+      "pts": 36,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Estudiantes",
       "pj": 28,
       "pg": 9,
@@ -95,18 +107,6 @@
       "gf": 25,
       "gc": 25,
       "pts": 36,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Los Andes",
-      "pj": 27,
-      "pg": 8,
-      "pe": 11,
-      "pp": 8,
-      "gf": 20,
-      "gc": 15,
-      "pts": 35,
       "zona": "normal"
     },
     {
@@ -159,6 +159,18 @@
     },
     {
       "pos": 14,
+      "equipo": "Defensores",
+      "pj": 28,
+      "pg": 6,
+      "pe": 12,
+      "pp": 10,
+      "gf": 20,
+      "gc": 25,
+      "pts": 30,
+      "zona": "normal"
+    },
+    {
+      "pos": 15,
       "equipo": "Central Norte",
       "pj": 28,
       "pg": 6,
@@ -167,18 +179,6 @@
       "gf": 19,
       "gc": 27,
       "pts": 30,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "Defensores",
-      "pj": 27,
-      "pg": 6,
-      "pe": 11,
-      "pp": 10,
-      "gf": 19,
-      "gc": 24,
-      "pts": 29,
       "zona": "normal"
     },
     {

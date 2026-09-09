@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T23:09:22.305204",
+  "actualizado": "2026-09-09T22:54:05.085591",
   "bracket": {
     "32avos": [
       {
@@ -370,36 +370,42 @@
       },
       {
         "local": "Mié 09/09",
-        "visitante": "Riestra",
+        "visitante": "ET",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Banfield",
-        "visitante": "Mié 16/09",
+        "local": "Riestra",
+        "visitante": "Banfield",
+        "goles_l": 1,
+        "goles_v": 0
+      },
+      {
+        "local": "Mié 16/09",
+        "visitante": "Independiente Riv.",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Independiente Riv.",
-        "visitante": "Atletico Tucuman",
+        "local": "Atletico Tucuman",
+        "visitante": "Dom 27/09",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Dom 27/09",
+        "local": "Racing Club",
+        "visitante": "Boca Juniors",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Jue 01/10",
         "visitante": "Platense",
         "goles_l": null,
         "goles_v": null
       },
       {
         "local": "Estudiantes",
-        "visitante": "Racing Club",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Boca Juniors",
         "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
         "goles_l": null,
         "goles_v": null
@@ -495,18 +501,6 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "La Liga España",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Copa Argentina merchandise",
-        "visitante": "Fútbol noticias resultados",
-        "goles_l": null,
         "goles_v": null
       }
     ]
