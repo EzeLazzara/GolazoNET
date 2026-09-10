@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T22:54:05.085591",
+  "actualizado": "2026-09-10T15:54:46.840467",
   "bracket": {
     "32avos": [
       {
@@ -347,7 +347,7 @@
       {
         "local": "Deportivo Riestra",
         "visitante": "Banfield",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -370,7 +370,7 @@
       },
       {
         "local": "Mié 09/09",
-        "visitante": "ET",
+        "visitante": "Por penales",
         "goles_l": null,
         "goles_v": null
       },
@@ -378,7 +378,7 @@
         "local": "Riestra",
         "visitante": "Banfield",
         "goles_l": 1,
-        "goles_v": 0
+        "goles_v": 1
       },
       {
         "local": "Mié 16/09",

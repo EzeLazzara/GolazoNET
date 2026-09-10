@@ -1,4 +1,25 @@
 {
-  "actualizado": "2026-09-09T22:54:05.086508",
-  "partidos": []
+  "actualizado": "2026-09-10T15:54:46.841397",
+  "partidos": [
+    {
+      "id": 128,
+      "fecha": 28,
+      "dia": "Jue 10/09",
+      "fechaISO": "2026-09-10",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
