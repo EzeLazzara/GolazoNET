@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T22:55:25.182253",
+  "actualizado": "2026-09-11T15:56:47.562836",
   "posiciones": [
     {
       "pos": 1,
@@ -99,6 +99,18 @@
     },
     {
       "pos": 9,
+      "equipo": "Mercedes",
+      "pj": 28,
+      "pg": 9,
+      "pe": 10,
+      "pp": 9,
+      "gf": 27,
+      "gc": 23,
+      "pts": 37,
+      "zona": "normal"
+    },
+    {
+      "pos": 10,
       "equipo": "Cambaceres",
       "pj": 27,
       "pg": 8,
@@ -110,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "JJ Urquiza",
       "pj": 27,
       "pg": 5,
@@ -122,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Paraguayo",
       "pj": 27,
       "pg": 6,
@@ -134,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Leandro N. Alem",
       "pj": 27,
       "pg": 7,
@@ -146,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Argentino Rosario",
       "pj": 27,
       "pg": 3,
@@ -195,6 +207,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Dep. Español",
+      "pj": 28,
+      "pg": 9,
+      "pe": 15,
+      "pp": 4,
+      "gf": 21,
+      "gc": 15,
+      "pts": 42,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Central Cordoba",
       "pj": 27,
       "pg": 10,
@@ -206,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Sp. Barracas",
       "pj": 27,
       "pg": 11,
@@ -218,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Lamadrid",
       "pj": 27,
       "pg": 9,
@@ -230,7 +254,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "CA Atlas",
       "pj": 27,
       "pg": 9,
@@ -242,7 +266,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "Central Ballester",
       "pj": 27,
       "pg": 9,
@@ -254,7 +278,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Yupanqui",
       "pj": 27,
       "pg": 8,
@@ -266,7 +290,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "El Porvenir",
       "pj": 27,
       "pg": 6,
@@ -278,7 +302,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 12,
       "equipo": "Fenix",
       "pj": 27,
       "pg": 6,
@@ -290,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Claypole",
       "pj": 27,
       "pg": 6,
@@ -302,7 +326,7 @@
       "zona": "descenso"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Muñiz",
       "pj": 27,
       "pg": 4,
