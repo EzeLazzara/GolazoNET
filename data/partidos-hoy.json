@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-09-11T15:57:04.228379",
+  "actualizado": "2026-09-11T22:57:26.239115",
   "partidos": [
     {
       "id": 100,
-      "fecha": 9,
-      "dia": "Vie 11/09",
-      "fechaISO": "2026-09-11",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 9,
-      "dia": "Vie 11/09",
-      "fechaISO": "2026-09-11",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Defensa y Justicia",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "hora": "14:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
       "fecha": 9,
       "dia": "Vie 11/09",
       "fechaISO": "2026-09-11",
@@ -62,27 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
-      "fecha": 35,
-      "dia": "Vie 11/09",
-      "fechaISO": "2026-09-11",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
+      "id": 113,
       "fecha": 35,
       "dia": "Vie 11/09",
       "fechaISO": "2026-09-11",
@@ -98,26 +38,6 @@
         "goles": null
       },
       "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 126,
-      "fecha": 8,
-      "dia": "Vie 11/09",
-      "fechaISO": "2026-09-11",
-      "esHoy": true,
-      "liga": "federala",
-      "ligaNombre": "Federal A",
-      "local": {
-        "nombre": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sol De América",
-        "goles": null
-      },
-      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
