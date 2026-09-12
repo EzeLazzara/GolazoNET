@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T22:56:44.961641",
+  "actualizado": "2026-09-12T15:04:26.177494",
   "posiciones": [
     {
       "pos": 1,
@@ -220,13 +220,13 @@
     {
       "pos": 1,
       "equipo": "Tristan Suárez",
-      "pj": 27,
+      "pj": 28,
       "pg": 14,
-      "pe": 9,
+      "pe": 10,
       "pp": 4,
       "gf": 31,
       "gc": 15,
-      "pts": 51,
+      "pts": 52,
       "zona": "normal"
     },
     {
@@ -255,6 +255,18 @@
     },
     {
       "pos": 4,
+      "equipo": "Gimnasia y Tiro",
+      "pj": 29,
+      "pg": 12,
+      "pe": 9,
+      "pp": 8,
+      "gf": 31,
+      "gc": 26,
+      "pts": 45,
+      "zona": "normal"
+    },
+    {
+      "pos": 5,
       "equipo": "Atlanta",
       "pj": 28,
       "pg": 14,
@@ -263,18 +275,6 @@
       "gf": 32,
       "gc": 28,
       "pts": 45,
-      "zona": "normal"
-    },
-    {
-      "pos": 5,
-      "equipo": "Gimnasia y Tiro",
-      "pj": 28,
-      "pg": 12,
-      "pe": 8,
-      "pp": 8,
-      "gf": 31,
-      "gc": 26,
-      "pts": 44,
       "zona": "normal"
     },
     {
