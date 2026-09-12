@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-09-12T15:05:15.978664",
+  "actualizado": "2026-09-12T22:48:43.425385",
   "partidos": [
     {
-      "id": 104,
+      "id": 101,
       "fecha": 9,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -17,12 +17,12 @@
         "nombre": "Rosario Central",
         "goles": null
       },
-      "hora": "07:45",
+      "hora": "09:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 9,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -37,12 +37,12 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "07:45",
+      "hora": "09:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 9,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -57,12 +57,12 @@
         "nombre": "Gimnasia LP",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 9,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -77,12 +77,12 @@
         "nombre": "San Lorenzo",
         "goles": null
       },
-      "hora": "12:15",
+      "hora": "14:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 9,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -97,12 +97,12 @@
         "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 106,
       "fecha": 9,
       "dia": "Lun 14/09",
       "fechaISO": "2026-09-14",
@@ -117,12 +117,12 @@
         "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 107,
       "fecha": 9,
       "dia": "Lun 14/09",
       "fechaISO": "2026-09-14",
@@ -137,12 +137,12 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 108,
       "fecha": 9,
       "dia": "Lun 14/09",
       "fechaISO": "2026-09-14",
@@ -157,12 +157,12 @@
         "nombre": "Estudiantes RC",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 110,
       "fecha": 35,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -177,12 +177,12 @@
         "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 111,
       "fecha": 35,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -197,12 +197,332 @@
         "nombre": "Merlo",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 112,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Santamarina",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Costa Brava",
+        "goles": null
+      },
+      "hora": "06:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Fundación Amigos por el Deporte",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dvo. Rincón",
+        "goles": null
+      },
+      "hora": "06:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Tucumán Central",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sportivo LP",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Kimberley",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Huracán (LH)",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Germinal",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gmo. Brown",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Gimnasia de Concepción",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (R)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Defensores Pto. Vilelas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Independiente (Chi)",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Cipolletti",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Alvarado",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Argentino MM",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Mitre",
+        "goles": null
+      },
+      "hora": "10:45",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sol de Mayo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juventud Unida (SL)",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "San Martín (Mdza)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Círculo Deportivo",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "El Linqueño",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Boca Unidos",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sp. Belgrano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Douglas Haig",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "San Martín (For)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento (LB)",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Atenas (RC)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Juv. Antoniana",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 8,
+      "dia": "Dom 13/09",
+      "fechaISO": "2026-09-13",
+      "esHoy": false,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "9 de Julio (R)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Bartolomé Mitre",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
       "fecha": 28,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -217,12 +537,12 @@
         "nombre": "Lamadrid",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 129,
       "fecha": 28,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -237,12 +557,12 @@
         "nombre": "Sp. Barracas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 130,
       "fecha": 28,
       "dia": "Dom 13/09",
       "fechaISO": "2026-09-13",
@@ -257,12 +577,12 @@
         "nombre": "Argentino Rosario",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 131,
       "fecha": 28,
       "dia": "Lun 14/09",
       "fechaISO": "2026-09-14",
@@ -277,12 +597,12 @@
         "nombre": "Centro Español",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 132,
       "fecha": 28,
       "dia": "Mar 15/09",
       "fechaISO": "2026-09-15",
@@ -297,7 +617,7 @@
         "nombre": "Sacachispas",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
