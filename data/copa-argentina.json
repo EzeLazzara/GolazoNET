@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T22:48:43.424244",
+  "actualizado": "2026-09-13T15:42:15.945309",
   "bracket": {
     "32avos": [
       {
@@ -429,6 +429,18 @@
         "local": "Adam Bareiro",
         "visitante": "Adrian Martinez",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Tabla de posiciones",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Serie A Italia",
+        "visitante": "Camisetas de equipos",
+        "goles_l": null,
         "goles_v": null
       },
       {
