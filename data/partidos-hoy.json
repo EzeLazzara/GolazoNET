@@ -1,23 +1,103 @@
 {
-  "actualizado": "2026-09-13T22:49:57.364318",
+  "actualizado": "2026-09-14T17:47:58.021300",
   "partidos": [
     {
       "id": 100,
       "fecha": 9,
-      "dia": "Dom 13/09",
-      "fechaISO": "2026-09-13",
+      "dia": "Lun 14/09",
+      "fechaISO": "2026-09-14",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Huracan",
+        "nombre": "Banfield",
         "goles": null
       },
       "visitante": {
-        "nombre": "Racing Club",
+        "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 9,
+      "dia": "Lun 14/09",
+      "fechaISO": "2026-09-14",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Riestra",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 9,
+      "dia": "Lun 14/09",
+      "fechaISO": "2026-09-14",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estudiantes RC",
+        "goles": null
+      },
+      "hora": "15:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 29,
+      "dia": "Lun 14/09",
+      "fechaISO": "2026-09-14",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Defensores",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Madryn",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 28,
+      "dia": "Lun 14/09",
+      "fechaISO": "2026-09-14",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Fenix",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Centro Español",
+        "goles": null
+      },
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
