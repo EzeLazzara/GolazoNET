@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T17:47:34.435014",
+  "actualizado": "2026-09-14T23:40:50.204803",
   "posiciones": [
     {
       "pos": 1,
@@ -40,13 +40,13 @@
     {
       "pos": 4,
       "equipo": "Centro Español",
-      "pj": 27,
+      "pj": 28,
       "pg": 10,
-      "pe": 10,
+      "pe": 11,
       "pp": 7,
-      "gf": 34,
-      "gc": 24,
-      "pts": 40,
+      "gf": 35,
+      "gc": 25,
+      "pts": 41,
       "zona": "normal"
     },
     {
@@ -304,13 +304,13 @@
     {
       "pos": 12,
       "equipo": "Fenix",
-      "pj": 27,
+      "pj": 28,
       "pg": 6,
-      "pe": 9,
+      "pe": 10,
       "pp": 12,
-      "gf": 19,
-      "gc": 27,
-      "pts": 27,
+      "gf": 20,
+      "gc": 28,
+      "pts": 28,
       "zona": "normal"
     },
     {

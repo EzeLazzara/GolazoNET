@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T17:47:09.472822",
+  "actualizado": "2026-09-14T23:40:25.130371",
   "posiciones": [
     {
       "pos": 1,
@@ -40,12 +40,12 @@
     {
       "pos": 4,
       "equipo": "Dep. Madryn",
-      "pj": 28,
+      "pj": 29,
       "pg": 12,
       "pe": 10,
-      "pp": 6,
-      "gf": 41,
-      "gc": 26,
+      "pp": 7,
+      "gf": 42,
+      "gc": 28,
       "pts": 46,
       "zona": "normal"
     },
@@ -135,6 +135,18 @@
     },
     {
       "pos": 12,
+      "equipo": "Defensores",
+      "pj": 29,
+      "pg": 7,
+      "pe": 12,
+      "pp": 10,
+      "gf": 22,
+      "gc": 26,
+      "pts": 33,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "CA Mitre",
       "pj": 29,
       "pg": 6,
@@ -146,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 14,
       "equipo": "Central Norte",
       "pj": 29,
       "pg": 6,
@@ -158,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 15,
       "equipo": "All Boys",
       "pj": 29,
       "pg": 6,
@@ -170,7 +182,7 @@
       "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 16,
       "equipo": "San Telmo",
       "pj": 29,
       "pg": 7,
@@ -179,18 +191,6 @@
       "gf": 23,
       "gc": 33,
       "pts": 31,
-      "zona": "normal"
-    },
-    {
-      "pos": 16,
-      "equipo": "Defensores",
-      "pj": 28,
-      "pg": 6,
-      "pe": 12,
-      "pp": 10,
-      "gf": 20,
-      "gc": 25,
-      "pts": 30,
       "zona": "normal"
     },
     {

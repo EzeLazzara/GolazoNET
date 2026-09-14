@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T17:47:58.020514",
+  "actualizado": "2026-09-14T23:41:07.018622",
   "bracket": {
     "32avos": [
       {
@@ -501,6 +501,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Accesorios de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Camisetas de equipos",
+        "visitante": "Champions League",
+        "goles_l": null,
         "goles_v": null
       }
     ]
