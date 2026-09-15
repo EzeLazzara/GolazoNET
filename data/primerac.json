@@ -1,15 +1,15 @@
 {
-  "actualizado": "2026-09-15T16:22:04.947781",
+  "actualizado": "2026-09-15T23:23:23.323364",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Sacachispas",
-      "pj": 27,
+      "pj": 28,
       "pg": 13,
       "pe": 7,
-      "pp": 7,
+      "pp": 8,
       "gf": 32,
-      "gc": 20,
+      "gc": 22,
       "pts": 46,
       "zona": "promotion"
     },
@@ -303,6 +303,18 @@
     },
     {
       "pos": 12,
+      "equipo": "Claypole",
+      "pj": 28,
+      "pg": 7,
+      "pe": 8,
+      "pp": 13,
+      "gf": 21,
+      "gc": 35,
+      "pts": 29,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "Fenix",
       "pj": 28,
       "pg": 6,
@@ -311,18 +323,6 @@
       "gf": 20,
       "gc": 28,
       "pts": 28,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Claypole",
-      "pj": 27,
-      "pg": 6,
-      "pe": 8,
-      "pp": 13,
-      "gf": 19,
-      "gc": 35,
-      "pts": 26,
       "zona": "descenso"
     },
     {
