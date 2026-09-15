@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T23:41:07.018622",
+  "actualizado": "2026-09-15T16:22:21.717302",
   "bracket": {
     "32avos": [
       {
@@ -432,6 +432,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Serie A Italia",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Mundial Sub-20",
+        "visitante": "Champions League",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -501,18 +513,6 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Accesorios de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Camisetas de equipos",
-        "visitante": "Champions League",
-        "goles_l": null,
         "goles_v": null
       }
     ]

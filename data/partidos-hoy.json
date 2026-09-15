@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-09-14T23:41:07.019519",
+  "actualizado": "2026-09-15T16:22:21.718017",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 9,
-      "dia": "Lun 14/09",
-      "fechaISO": "2026-09-14",
+      "id": 112,
+      "fecha": 28,
+      "dia": "Mar 15/09",
+      "fechaISO": "2026-09-15",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Instituto",
+        "nombre": "Claypole",
         "goles": null
       },
       "visitante": {
-        "nombre": "Estudiantes RC",
+        "nombre": "Sacachispas",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
