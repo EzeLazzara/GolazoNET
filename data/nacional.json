@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T16:13:01.111893",
+  "actualizado": "2026-09-16T23:30:12.786186",
   "posiciones": [
     {
       "pos": 1,
@@ -220,13 +220,13 @@
     {
       "pos": 1,
       "equipo": "Tristan Suárez",
-      "pj": 28,
+      "pj": 29,
       "pg": 14,
-      "pe": 10,
+      "pe": 11,
       "pp": 4,
       "gf": 31,
       "gc": 15,
-      "pts": 52,
+      "pts": 53,
       "zona": "normal"
     },
     {
@@ -292,13 +292,13 @@
     {
       "pos": 7,
       "equipo": "San Martín",
-      "pj": 28,
+      "pj": 29,
       "pg": 11,
-      "pe": 8,
+      "pe": 9,
       "pp": 9,
       "gf": 31,
       "gc": 27,
-      "pts": 41,
+      "pts": 42,
       "zona": "normal"
     },
     {
