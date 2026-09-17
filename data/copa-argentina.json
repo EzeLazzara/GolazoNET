@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T23:30:54.737899",
+  "actualizado": "2026-09-17T16:19:52.283269",
   "bracket": {
     "32avos": [
       {
@@ -359,7 +359,7 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -382,31 +382,31 @@
       },
       {
         "local": "Mié 16/09",
-        "visitante": "Independiente Riv.",
+        "visitante": "Por penales",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Atletico Tucuman",
-        "visitante": "Dom 27/09",
+        "local": "Independiente Riv.",
+        "visitante": "Atletico Tucuman",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "Dom 27/09",
+        "visitante": "Racing Club",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Racing Club",
-        "visitante": "Boca Juniors",
+        "local": "Boca Juniors",
+        "visitante": "Jue 01/10",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Jue 01/10",
-        "visitante": "Platense",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Estudiantes",
-        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
+        "local": "Platense",
+        "visitante": "Estudiantes",
         "goles_l": null,
         "goles_v": null
       }
@@ -433,13 +433,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Referencia geográfica",
+        "visitante": "Clubes y organizaciones",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Actualidad deportiva",
-        "visitante": "Premier League Inglaterra",
+        "local": "La Liga España",
+        "visitante": "Champions League",
         "goles_l": null,
         "goles_v": null
       },
@@ -513,6 +513,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Copa Sudamericana",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estadísticas de fútbol",
+        "visitante": "Fútbol",
+        "goles_l": null,
         "goles_v": null
       }
     ]
