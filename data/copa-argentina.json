@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T23:21:55.175702",
+  "actualizado": "2026-09-18T15:55:26.778213",
   "bracket": {
     "32avos": [
       {
@@ -429,6 +429,18 @@
         "local": "Adam Bareiro",
         "visitante": "Adrian Martinez",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Deportivo",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "fútbol",
+        "visitante": "Leer Noticias Deportivas",
+        "goles_l": null,
         "goles_v": null
       },
       {
