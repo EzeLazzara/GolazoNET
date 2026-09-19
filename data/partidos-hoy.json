@@ -1,43 +1,203 @@
 {
-  "actualizado": "2026-09-18T22:59:28.601200",
+  "actualizado": "2026-09-19T15:26:49.230147",
   "partidos": [
     {
       "id": 100,
-      "fecha": 10,
-      "dia": "Vie 18/09",
-      "fechaISO": "2026-09-18",
+      "fecha": 36,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Racing Club",
+        "nombre": "Camioneros",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sarmiento",
+        "nombre": "Armenio",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 101,
+      "fecha": 36,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 36,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 36,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 36,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 36,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 110,
       "fecha": 9,
-      "dia": "Vie 18/09",
-      "fechaISO": "2026-09-18",
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
       "esHoy": true,
       "liga": "federala",
       "ligaNombre": "Federal A",
       "local": {
-        "nombre": "Juv. Antoniana",
+        "nombre": "Independiente (Chi)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Cipolletti",
+        "nombre": "Atlético Escobar",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 9,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sarmiento (R)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "El Linqueño",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 9,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Sportivo LP",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia de Concepción",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 9,
+      "dia": "Sáb 19/09",
+      "fechaISO": "2026-09-19",
+      "esHoy": true,
+      "liga": "federala",
+      "ligaNombre": "Federal A",
+      "local": {
+        "nombre": "Boca Unidos",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensores Pto. Vilelas",
+        "goles": null
+      },
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
