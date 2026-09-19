@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T15:26:49.229612",
+  "actualizado": "2026-09-19T22:38:35.512641",
   "bracket": {
     "32avos": [
       {
@@ -501,6 +501,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Únete A Clubes",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Compra Botas Fútbol",
+        "visitante": "Consulta Mapas Interactivos",
+        "goles_l": null,
         "goles_v": null
       }
     ]
