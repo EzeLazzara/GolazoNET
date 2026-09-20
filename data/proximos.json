@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-09-20T15:31:45.580363",
+  "actualizado": "2026-09-20T22:56:09.143060",
   "partidos": [
     {
-      "id": 105,
+      "id": 101,
       "fecha": 10,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -17,12 +17,12 @@
         "nombre": "Atletico Tucuman",
         "goles": null
       },
-      "hora": "08:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 102,
       "fecha": 10,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -37,12 +37,12 @@
         "nombre": "Independiente Riv.",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 103,
       "fecha": 10,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -57,12 +57,52 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 104,
+      "fecha": 30,
+      "dia": "Lun 21/09",
+      "fechaISO": "2026-09-21",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 30,
+      "dia": "Lun 21/09",
+      "fechaISO": "2026-09-21",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chicago",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Patronato",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
       "fecha": 29,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -77,12 +117,12 @@
         "nombre": "Victoriano",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 107,
       "fecha": 29,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -97,12 +137,12 @@
         "nombre": "Cañuelas",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 108,
       "fecha": 29,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -117,12 +157,12 @@
         "nombre": "Muñiz",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 109,
       "fecha": 29,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -137,12 +177,12 @@
         "nombre": "Dep. Español",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 110,
       "fecha": 29,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -157,12 +197,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 111,
       "fecha": 29,
       "dia": "Lun 21/09",
       "fechaISO": "2026-09-21",
@@ -177,7 +217,7 @@
         "nombre": "Yupanqui",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
