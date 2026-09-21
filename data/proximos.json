@@ -1,223 +1,223 @@
 {
-  "actualizado": "2026-09-20T22:56:09.143060",
+  "actualizado": "2026-09-21T17:55:20.454537",
   "partidos": [
     {
-      "id": 101,
-      "fecha": 10,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Aldosivi",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 10,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Independiente Riv.",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 10,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "16:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 104,
-      "fecha": 30,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Tristan Suárez",
+        "nombre": "Villa Dalmine",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atlanta",
+        "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 105,
-      "fecha": 30,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Chicago",
+        "nombre": "Excursionistas",
         "goles": null
       },
       "visitante": {
-        "nombre": "Patronato",
+        "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 106,
-      "fecha": 29,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Sacachispas",
+        "nombre": "Argentino (M)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Victoriano",
+        "nombre": "San Carlos",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 107,
-      "fecha": 29,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Sp. Barracas",
+        "nombre": "Arsenal",
         "goles": null
       },
       "visitante": {
-        "nombre": "Cañuelas",
+        "nombre": "Liniers",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 108,
-      "fecha": 29,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Fenix",
+        "nombre": "Talleres RE",
         "goles": null
       },
       "visitante": {
-        "nombre": "Muñiz",
+        "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 109,
-      "fecha": 29,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "El Porvenir",
+        "nombre": "Laferrere",
         "goles": null
       },
       "visitante": {
-        "nombre": "Dep. Español",
+        "nombre": "Italiano",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 110,
-      "fecha": 29,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Central Ballester",
+        "nombre": "Brown de Adrogué",
         "goles": null
       },
       "visitante": {
-        "nombre": "Central Cordoba",
+        "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 111,
-      "fecha": 29,
-      "dia": "Lun 21/09",
-      "fechaISO": "2026-09-21",
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
       "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Claypole",
+        "nombre": "Armenio",
         "goles": null
       },
       "visitante": {
-        "nombre": "Yupanqui",
+        "nombre": "Merlo",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (Q)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 37,
+      "dia": "Sáb 26/09",
+      "fechaISO": "2026-09-26",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }

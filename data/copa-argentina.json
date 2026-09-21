@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T22:56:09.141833",
+  "actualizado": "2026-09-21T17:55:20.453478",
   "bracket": {
     "32avos": [
       {
@@ -359,7 +359,7 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
