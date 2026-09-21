@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T17:54:38.899701",
+  "actualizado": "2026-09-21T23:47:37.186288",
   "posiciones": [
     {
       "pos": 1,
@@ -220,13 +220,13 @@
     {
       "pos": 1,
       "equipo": "Tristan Suárez",
-      "pj": 29,
+      "pj": 30,
       "pg": 14,
-      "pe": 11,
+      "pe": 12,
       "pp": 4,
       "gf": 31,
       "gc": 15,
-      "pts": 53,
+      "pts": 54,
       "zona": "normal"
     },
     {
@@ -256,13 +256,13 @@
     {
       "pos": 4,
       "equipo": "Atlanta",
-      "pj": 29,
+      "pj": 30,
       "pg": 15,
-      "pe": 3,
+      "pe": 4,
       "pp": 11,
       "gf": 34,
       "gc": 28,
-      "pts": 48,
+      "pts": 49,
       "zona": "normal"
     },
     {
@@ -387,14 +387,14 @@
     },
     {
       "pos": 15,
-      "equipo": "Chicago",
-      "pj": 29,
+      "equipo": "Chacarita",
+      "pj": 30,
       "pg": 8,
-      "pe": 8,
-      "pp": 13,
-      "gf": 21,
-      "gc": 28,
-      "pts": 32,
+      "pe": 6,
+      "pp": 16,
+      "gf": 22,
+      "gc": 31,
+      "pts": 30,
       "zona": "descenso"
     }
   ]

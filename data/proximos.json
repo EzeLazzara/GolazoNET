@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-09-21T17:55:20.454537",
+  "actualizado": "2026-09-21T23:48:19.400009",
   "partidos": [
     {
-      "id": 104,
+      "id": 101,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -17,12 +17,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -37,12 +37,12 @@
         "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -57,12 +57,12 @@
         "nombre": "San Carlos",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -77,12 +77,12 @@
         "nombre": "Liniers",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -97,12 +97,12 @@
         "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 106,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -117,12 +117,12 @@
         "nombre": "Italiano",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 107,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -137,12 +137,12 @@
         "nombre": "Camioneros",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 108,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -157,12 +157,12 @@
         "nombre": "Merlo",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 109,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -177,12 +177,12 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 110,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -197,12 +197,12 @@
         "nombre": "Comunicaciones",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 111,
       "fecha": 37,
       "dia": "Sáb 26/09",
       "fechaISO": "2026-09-26",
@@ -217,7 +217,7 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     }
