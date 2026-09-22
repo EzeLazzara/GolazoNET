@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T23:47:37.186288",
+  "actualizado": "2026-09-22T16:21:21.595716",
   "posiciones": [
     {
       "pos": 1,
@@ -387,14 +387,14 @@
     },
     {
       "pos": 15,
-      "equipo": "Chacarita",
+      "equipo": "Chicago",
       "pj": 30,
       "pg": 8,
-      "pe": 6,
-      "pp": 16,
+      "pe": 9,
+      "pp": 13,
       "gf": 22,
-      "gc": 31,
-      "pts": 30,
+      "gc": 29,
+      "pts": 33,
       "zona": "descenso"
     }
   ]

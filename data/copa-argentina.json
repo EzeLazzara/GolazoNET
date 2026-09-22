@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T23:48:19.398204",
+  "actualizado": "2026-09-22T16:22:03.282290",
   "bracket": {
     "32avos": [
       {
@@ -359,7 +359,7 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -432,18 +432,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Bases de datos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Clubes y organizaciones",
-        "visitante": "Libros historia fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -513,6 +501,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Promiedos app",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Libros historia fútbol",
+        "visitante": "Fútbol noticias",
+        "goles_l": null,
         "goles_v": null
       }
     ]
