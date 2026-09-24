@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T23:25:49.036698",
+  "actualizado": "2026-09-24T16:35:10.914834",
   "bracket": {
     "32avos": [
       {
@@ -359,7 +359,7 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -432,18 +432,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Suscripción canales fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Camisetas equipos fútbol",
-        "visitante": "Apuestas deportivas",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -513,18 +501,6 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Consulta Mapas Interactivos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Juegos de fútbol",
-        "visitante": "Compra Botas Fútbol",
-        "goles_l": null,
         "goles_v": null
       }
     ]
