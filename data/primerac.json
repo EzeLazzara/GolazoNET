@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T16:39:00.775823",
+  "actualizado": "2026-09-25T23:46:24.754525",
   "posiciones": [
     {
       "pos": 1,
@@ -75,18 +75,6 @@
     },
     {
       "pos": 7,
-      "equipo": "Mercedes",
-      "pj": 29,
-      "pg": 10,
-      "pe": 10,
-      "pp": 9,
-      "gf": 28,
-      "gc": 23,
-      "pts": 40,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
       "equipo": "Victoriano",
       "pj": 29,
       "pg": 9,
@@ -98,19 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
-      "equipo": "Puerto Nuevo",
-      "pj": 29,
-      "pg": 9,
-      "pe": 11,
-      "pp": 9,
-      "gf": 27,
-      "gc": 30,
-      "pts": 38,
-      "zona": "normal"
-    },
-    {
-      "pos": 10,
+      "pos": 8,
       "equipo": "Cambaceres",
       "pj": 29,
       "pg": 9,
@@ -122,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 9,
       "equipo": "Paraguayo",
       "pj": 29,
       "pg": 7,
@@ -134,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 10,
       "equipo": "JJ Urquiza",
       "pj": 29,
       "pg": 5,
@@ -146,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 11,
       "equipo": "Leandro N. Alem",
       "pj": 29,
       "pg": 7,
@@ -158,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 12,
       "equipo": "Argentino Rosario",
       "pj": 29,
       "pg": 3,
