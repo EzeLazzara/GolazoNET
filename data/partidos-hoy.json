@@ -1,4 +1,65 @@
 {
-  "actualizado": "2026-09-24T23:45:01.424688",
-  "partidos": []
+  "actualizado": "2026-09-25T16:39:17.500429",
+  "partidos": [
+    {
+      "id": 133,
+      "fecha": 37,
+      "dia": "Vie 25/09",
+      "fechaISO": "2026-09-25",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 37,
+      "dia": "Vie 25/09",
+      "fechaISO": "2026-09-25",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 30,
+      "dia": "Vie 25/09",
+      "fechaISO": "2026-09-25",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Mercedes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Puerto Nuevo",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }

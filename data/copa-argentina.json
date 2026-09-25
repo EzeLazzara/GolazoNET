@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T23:45:01.423259",
+  "actualizado": "2026-09-25T16:39:17.496452",
   "bracket": {
     "32avos": [
       {
@@ -432,18 +432,6 @@
         "goles_v": null
       },
       {
-        "local": "Ver más",
-        "visitante": "Productos regionales argentinos",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Compra Botas Fútbol",
-        "visitante": "Fútbol argentino",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -481,19 +469,19 @@
       },
       {
         "local": "Tarjetas Rojas",
-        "visitante": "Franco Ibarra",
+        "visitante": "Thiago Cardozo",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Thiago Cardozo",
-        "visitante": "Augusto Max",
+        "local": "Augusto Max",
+        "visitante": "Carlos Izquierdoz",
         "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Carlos Izquierdoz",
-        "visitante": "Fernando Alarcón",
+        "local": "Fernando Alarcón",
+        "visitante": "Franco Fagundez",
         "goles_l": 1,
         "goles_v": null
       },
@@ -513,6 +501,18 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Datos históricos fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estadísticas en vivo",
+        "visitante": "Consulta Mapas Interactivos",
+        "goles_l": null,
         "goles_v": null
       }
     ]
