@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T15:53:14.422778",
+  "actualizado": "2026-09-26T23:21:58.048741",
   "bracket": {
     "32avos": [
       {
@@ -359,7 +359,7 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": 1,
+        "goles_l": null,
         "goles_v": null
       },
       {
@@ -429,6 +429,18 @@
         "local": "Adam Bareiro",
         "visitante": "Adrian Martinez",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Clubes y organizaciones",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Juegos de fútbol",
+        "visitante": "Fútbol noticias",
+        "goles_l": null,
         "goles_v": null
       },
       {
