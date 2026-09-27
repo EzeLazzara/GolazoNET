@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T23:21:58.048741",
+  "actualizado": "2026-09-27T16:28:59.652420",
   "bracket": {
     "32avos": [
       {
@@ -327,23 +327,27 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Independiente",
-        "goles_l": 4,
+        "goles_l": 5,
         "goles_v": null
       },
       {
-        "local": "Platense",
-        "visitante": "Instituto",
+        "local": "Global",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Estudiantes de La Plata",
         "goles_l": 1,
         "goles_v": null
       },
       {
-        "local": "Estudiantes de La Plata",
-        "visitante": "Barracas Central",
-        "goles_l": 3,
+        "local": "Barracas Central",
+        "visitante": "CUARTOS DE FINAL",
+        "goles_l": 1,
         "goles_v": null
-      }
-    ],
-    "cuartos": [
+      },
       {
         "local": "Deportivo Riestra",
         "visitante": "Banfield",
@@ -359,54 +363,12 @@
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
         "local": "Platense",
         "visitante": "Estudiantes de La Plata",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Mié 09/09",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Riestra",
-        "visitante": "Banfield",
-        "goles_l": 1,
-        "goles_v": 1
-      },
-      {
-        "local": "Mié 16/09",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Independiente Riv.",
-        "visitante": "Atletico Tucuman",
-        "goles_l": 1,
-        "goles_v": 1
-      },
-      {
-        "local": "Dom 27/09",
-        "visitante": "Racing Club",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Boca Juniors",
-        "visitante": "Jue 01/10",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Platense",
-        "visitante": "Estudiantes",
         "goles_l": null,
         "goles_v": null
       }
@@ -438,8 +400,8 @@
         "goles_v": null
       },
       {
-        "local": "Juegos de fútbol",
-        "visitante": "Fútbol noticias",
+        "local": "Copa Argentina merchandise",
+        "visitante": "Camisetas equipos fútbol",
         "goles_l": null,
         "goles_v": null
       },
@@ -513,6 +475,50 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
+        "goles_v": null
+      }
+    ],
+    "cuartos": [
+      {
+        "local": "Mié 09/09",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Riestra",
+        "visitante": "Banfield",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "Mié 16/09",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente Riv.",
+        "visitante": "Atletico Tucuman",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "Dom 27/09",
+        "visitante": "Racing Club",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "Jue 01/10",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "Estudiantes",
+        "goles_l": null,
         "goles_v": null
       }
     ]
