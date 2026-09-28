@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T23:34:52.684541",
+  "actualizado": "2026-09-28T19:17:47.784233",
   "posiciones": [
     {
       "pos": 1,
@@ -231,6 +231,18 @@
     },
     {
       "pos": 2,
+      "equipo": "Gimnasia (J)",
+      "pj": 31,
+      "pg": 15,
+      "pe": 9,
+      "pp": 7,
+      "gf": 47,
+      "gc": 38,
+      "pts": 54,
+      "zona": "normal"
+    },
+    {
+      "pos": 3,
       "equipo": "Temperley",
       "pj": 31,
       "pg": 14,
@@ -238,18 +250,6 @@
       "pp": 6,
       "gf": 36,
       "gc": 25,
-      "pts": 53,
-      "zona": "normal"
-    },
-    {
-      "pos": 3,
-      "equipo": "Gimnasia (J)",
-      "pj": 30,
-      "pg": 15,
-      "pe": 8,
-      "pp": 7,
-      "gf": 45,
-      "gc": 36,
       "pts": 53,
       "zona": "normal"
     },
@@ -340,13 +340,13 @@
     {
       "pos": 11,
       "equipo": "San Martín (T)",
-      "pj": 30,
+      "pj": 31,
       "pg": 9,
-      "pe": 12,
+      "pe": 13,
       "pp": 9,
-      "gf": 32,
-      "gc": 30,
-      "pts": 39,
+      "gf": 34,
+      "gc": 32,
+      "pts": 40,
       "zona": "normal"
     },
     {

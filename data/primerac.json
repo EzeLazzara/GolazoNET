@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T23:35:17.250489",
+  "actualizado": "2026-09-28T19:18:12.388334",
   "posiciones": [
     {
       "pos": 1,
@@ -75,18 +75,6 @@
     },
     {
       "pos": 7,
-      "equipo": "Centro Español",
-      "pj": 29,
-      "pg": 10,
-      "pe": 11,
-      "pp": 8,
-      "gf": 35,
-      "gc": 27,
-      "pts": 41,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
       "equipo": "Victoriano",
       "pj": 30,
       "pg": 9,
@@ -98,7 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 8,
       "equipo": "Puerto Nuevo",
       "pj": 30,
       "pg": 9,
@@ -110,19 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
-      "equipo": "Cambaceres",
-      "pj": 29,
-      "pg": 9,
-      "pe": 9,
-      "pp": 11,
-      "gf": 25,
-      "gc": 28,
-      "pts": 36,
-      "zona": "normal"
-    },
-    {
-      "pos": 11,
+      "pos": 9,
       "equipo": "Paraguayo",
       "pj": 30,
       "pg": 7,
@@ -134,31 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
-      "equipo": "JJ Urquiza",
-      "pj": 29,
-      "pg": 5,
-      "pe": 14,
-      "pp": 10,
-      "gf": 14,
-      "gc": 23,
-      "pts": 29,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Leandro N. Alem",
-      "pj": 29,
-      "pg": 7,
-      "pe": 7,
-      "pp": 15,
-      "gf": 27,
-      "gc": 50,
-      "pts": 28,
-      "zona": "normal"
-    },
-    {
-      "pos": 14,
+      "pos": 10,
       "equipo": "Argentino Rosario",
       "pj": 30,
       "pg": 3,
@@ -183,18 +135,6 @@
     },
     {
       "pos": 2,
-      "equipo": "Luján",
-      "pj": 29,
-      "pg": 16,
-      "pe": 7,
-      "pp": 6,
-      "gf": 43,
-      "gc": 22,
-      "pts": 55,
-      "zona": "normal"
-    },
-    {
-      "pos": 3,
       "equipo": "Dep. Español",
       "pj": 30,
       "pg": 11,
@@ -206,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 4,
+      "pos": 3,
       "equipo": "Central Cordoba",
       "pj": 30,
       "pg": 12,
@@ -218,19 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 5,
-      "equipo": "Leones de Rosario FC",
-      "pj": 29,
-      "pg": 11,
-      "pe": 12,
-      "pp": 6,
-      "gf": 27,
-      "gc": 23,
-      "pts": 45,
-      "zona": "normal"
-    },
-    {
-      "pos": 6,
+      "pos": 4,
       "equipo": "Lamadrid",
       "pj": 30,
       "pg": 9,
@@ -242,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 5,
       "equipo": "Sp. Barracas",
       "pj": 30,
       "pg": 11,
@@ -254,7 +182,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 6,
       "equipo": "Central Ballester",
       "pj": 30,
       "pg": 10,
@@ -266,7 +194,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 7,
       "equipo": "CA Atlas",
       "pj": 30,
       "pg": 9,
@@ -278,7 +206,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 8,
       "equipo": "El Porvenir",
       "pj": 29,
       "pg": 7,
@@ -290,7 +218,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 9,
       "equipo": "Yupanqui",
       "pj": 30,
       "pg": 8,
@@ -302,7 +230,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 10,
       "equipo": "Claypole",
       "pj": 30,
       "pg": 8,
@@ -314,7 +242,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 11,
       "equipo": "Fenix",
       "pj": 30,
       "pg": 7,
@@ -326,7 +254,7 @@
       "zona": "descenso"
     },
     {
-      "pos": 14,
+      "pos": 12,
       "equipo": "Muñiz",
       "pj": 29,
       "pg": 4,

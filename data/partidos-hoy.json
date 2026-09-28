@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-09-27T23:35:33.566946",
-  "partidos": [
-    {
-      "id": 115,
-      "fecha": 31,
-      "dia": "Dom 27/09",
-      "fechaISO": "2026-09-27",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "hora": "16:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-09-28T19:18:28.848248",
+  "partidos": []
 }
