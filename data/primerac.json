@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T17:43:10.376673",
+  "actualizado": "2026-09-30T00:03:21.718624",
   "posiciones": [
     {
       "pos": 1,
@@ -280,12 +280,12 @@
     {
       "pos": 10,
       "equipo": "El Porvenir",
-      "pj": 29,
+      "pj": 30,
       "pg": 7,
       "pe": 15,
-      "pp": 7,
-      "gf": 23,
-      "gc": 27,
+      "pp": 8,
+      "gf": 25,
+      "gc": 30,
       "pts": 36,
       "zona": "normal"
     },
@@ -328,13 +328,13 @@
     {
       "pos": 14,
       "equipo": "Muñiz",
-      "pj": 29,
-      "pg": 4,
+      "pj": 30,
+      "pg": 5,
       "pe": 11,
       "pp": 14,
-      "gf": 17,
-      "gc": 33,
-      "pts": 23,
+      "gf": 20,
+      "gc": 35,
+      "pts": 26,
       "zona": "descenso"
     }
   ]
