@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T00:03:38.560635",
+  "actualizado": "2026-09-30T17:40:59.072529",
   "partidos": [
     {
       "id": 100,
@@ -317,7 +317,7 @@
         "nombre": "Dep. Madryn",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -764,6 +764,46 @@
     {
       "id": 138,
       "fecha": 38,
+      "dia": "Sáb 03/10",
+      "fechaISO": "2026-10-03",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 139,
+      "fecha": 38,
+      "dia": "Sáb 03/10",
+      "fechaISO": "2026-10-03",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 140,
+      "fecha": 38,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
       "esHoy": false,
@@ -782,27 +822,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
-      "fecha": 38,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
+      "id": 141,
       "fecha": 38,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -815,26 +835,6 @@
       },
       "visitante": {
         "nombre": "Talleres RE",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 141,
-      "fecha": 38,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Dalmine",
         "goles": null
       },
       "hora": "08:00",
@@ -890,6 +890,26 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
+        "nombre": "Sacachispas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Estrella del Sur",
+        "goles": null
+      },
+      "hora": "07:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 145,
+      "fecha": 31,
+      "dia": "Sáb 03/10",
+      "fechaISO": "2026-10-03",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
         "nombre": "Paraguayo",
         "goles": null
       },
@@ -902,7 +922,7 @@
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 146,
       "fecha": 31,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -922,7 +942,7 @@
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 147,
       "fecha": 31,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -942,7 +962,7 @@
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 148,
       "fecha": 31,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -955,26 +975,6 @@
       },
       "visitante": {
         "nombre": "Berazategui",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 148,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estrella del Sur",
         "goles": null
       },
       "hora": "08:00",
@@ -1070,11 +1070,11 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Central Cordoba",
+        "nombre": "Sp. Barracas",
         "goles": null
       },
       "visitante": {
-        "nombre": "Yupanqui",
+        "nombre": "Leones de Rosario FC",
         "goles": null
       },
       "hora": "08:00",
@@ -1084,17 +1084,17 @@
     {
       "id": 154,
       "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Sp. Barracas",
+        "nombre": "Claypole",
         "goles": null
       },
       "visitante": {
-        "nombre": "Leones de Rosario FC",
+        "nombre": "Dep. Español",
         "goles": null
       },
       "hora": "08:00",
@@ -1110,11 +1110,11 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Claypole",
+        "nombre": "Central Cordoba",
         "goles": null
       },
       "visitante": {
-        "nombre": "Dep. Español",
+        "nombre": "Yupanqui",
         "goles": null
       },
       "hora": "08:00",
