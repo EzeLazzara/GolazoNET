@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T00:20:30.401725",
+  "actualizado": "2026-10-01T18:09:44.462068",
   "bracket": {
     "32avos": [
       {
@@ -353,13 +353,13 @@
       {
         "local": "Racing Club",
         "visitante": "Boca Juniors",
-        "goles_l": null,
+        "goles_l": 2,
         "goles_v": null
       },
       {
         "local": "Independiente Rivadavia",
         "visitante": "Atlético Tucumán",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       },
       {
@@ -446,12 +446,12 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Liga Profesional argentina",
+        "visitante": "Premier League resultados",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Copa Libertadores noticias",
+        "local": "Liga Profesional argentina",
         "visitante": "Promiedos app",
         "goles_l": null,
         "goles_v": null
