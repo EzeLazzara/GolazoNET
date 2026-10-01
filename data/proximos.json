@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T17:40:59.072529",
+  "actualizado": "2026-10-01T00:20:30.408762",
   "partidos": [
     {
       "id": 100,
@@ -690,6 +690,26 @@
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 38,
+      "dia": "Sáb 03/10",
+      "fechaISO": "2026-10-03",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
         "nombre": "Camioneros",
         "goles": null
       },
@@ -702,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 136,
       "fecha": 38,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -722,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 137,
       "fecha": 38,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -742,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 138,
       "fecha": 38,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -755,26 +775,6 @@
       },
       "visitante": {
         "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 138,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
         "goles": null
       },
       "hora": "08:00",
@@ -1090,11 +1090,11 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Claypole",
+        "nombre": "Central Cordoba",
         "goles": null
       },
       "visitante": {
-        "nombre": "Dep. Español",
+        "nombre": "Yupanqui",
         "goles": null
       },
       "hora": "08:00",
@@ -1104,20 +1104,20 @@
     {
       "id": 155,
       "fecha": 31,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Central Cordoba",
+        "nombre": "Claypole",
         "goles": null
       },
       "visitante": {
-        "nombre": "Yupanqui",
+        "nombre": "Dep. Español",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T17:40:59.070448",
+  "actualizado": "2026-10-01T00:20:30.401725",
   "bracket": {
     "32avos": [
       {
@@ -445,6 +445,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Liga Profesional argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Copa Libertadores noticias",
+        "visitante": "Promiedos app",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -514,18 +526,6 @@
         "local": "Agustín Medina",
         "visitante": "Carlo Lattanzio",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Equipos Copa Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Noticias de fútbol",
-        "visitante": "Fútbol argentino",
-        "goles_l": null,
         "goles_v": null
       }
     ]
