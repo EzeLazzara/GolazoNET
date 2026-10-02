@@ -1,4 +1,85 @@
 {
-  "actualizado": "2026-10-01T18:09:44.463090",
-  "partidos": []
+  "actualizado": "2026-10-02T00:29:25.300998",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 11,
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "hora": "14:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 11,
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente Riv.",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia LP",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 11,
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "hora": "16:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 32,
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Ferro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Madryn",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
