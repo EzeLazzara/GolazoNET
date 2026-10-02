@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T00:29:25.303292",
+  "actualizado": "2026-10-02T17:33:02.839208",
   "partidos": [
     {
       "id": 103,
@@ -430,6 +430,26 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 32,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
         "nombre": "Güemes",
         "goles": null
       },
@@ -442,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 127,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -462,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 128,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -475,26 +495,6 @@
       },
       "visitante": {
         "nombre": "Defensores",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 128,
-      "fecha": 32,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Central Norte",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing (Cba)",
         "goles": null
       },
       "hora": "12:00",
@@ -802,26 +802,6 @@
       "estado": "programado"
     },
     {
-      "id": 144,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sacachispas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estrella del Sur",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 145,
       "fecha": 31,
       "dia": "Sáb 03/10",
@@ -850,46 +830,6 @@
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 147,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Cambaceres",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Victoriano",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 148,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
         "nombre": "Juventud Unida SM",
         "goles": null
       },
@@ -902,27 +842,7 @@
       "estado": "programado"
     },
     {
-      "id": 149,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "CA Lugano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino Rosario",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 150,
+      "id": 147,
       "fecha": 31,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -942,7 +862,7 @@
       "estado": "programado"
     },
     {
-      "id": 151,
+      "id": 148,
       "fecha": 31,
       "dia": "Sáb 03/10",
       "fechaISO": "2026-10-03",
@@ -962,19 +882,19 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 149,
       "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Sp. Barracas",
+        "nombre": "Sacachispas",
         "goles": null
       },
       "visitante": {
-        "nombre": "Leones de Rosario FC",
+        "nombre": "Estrella del Sur",
         "goles": null
       },
       "hora": "10:00",
@@ -982,7 +902,47 @@
       "estado": "programado"
     },
     {
-      "id": 153,
+      "id": 150,
+      "fecha": 31,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Puerto Nuevo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "JJ Urquiza",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 151,
+      "fecha": 31,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "CA Lugano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino Rosario",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 152,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -995,6 +955,26 @@
       },
       "visitante": {
         "nombre": "Yupanqui",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 153,
+      "fecha": 31,
+      "dia": "Lun 05/10",
+      "fechaISO": "2026-10-05",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leones de Rosario FC",
         "goles": null
       },
       "hora": "10:00",

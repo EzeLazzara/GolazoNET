@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T00:29:25.300998",
+  "actualizado": "2026-10-02T17:33:02.838489",
   "partidos": [
     {
       "id": 100,
@@ -78,6 +78,26 @@
         "goles": null
       },
       "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 144,
+      "fecha": 31,
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Cambaceres",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Victoriano",
+        "goles": null
+      },
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     }
