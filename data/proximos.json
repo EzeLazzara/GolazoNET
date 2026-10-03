@@ -1,68 +1,48 @@
 {
-  "actualizado": "2026-10-02T17:33:02.839208",
+  "actualizado": "2026-10-03T00:07:42.325982",
   "partidos": [
     {
-      "id": 103,
+      "id": 100,
       "fecha": 11,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
       "esHoy": false,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Defensa y Justicia",
+        "nombre": "Independiente Riv.",
         "goles": null
       },
       "visitante": {
-        "nombre": "San Lorenzo",
+        "nombre": "Gimnasia LP",
         "goles": null
       },
-      "hora": "09:45",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 101,
       "fecha": 11,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
+      "dia": "Vie 02/10",
+      "fechaISO": "2026-10-02",
       "esHoy": false,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Atletico Tucuman",
+        "nombre": "Boca Juniors",
         "goles": null
       },
       "visitante": {
-        "nombre": "Barracas Central",
+        "nombre": "Union Santa Fe",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "16:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 105,
-      "fecha": 11,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -82,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 106,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -102,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -122,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -142,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -162,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -182,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -202,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -222,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 113,
       "fecha": 11,
       "dia": "Mié 14/10",
       "fechaISO": "2026-10-14",
@@ -242,127 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
-      "fecha": 32,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Tristan Suárez",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Quilmes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 32,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Temperley",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 32,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Morón",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "All Boys",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 32,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Colón",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 120,
-      "fecha": 32,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Miguel",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Mitre",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 32,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Acassuso",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Ciudad De Bolivar",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -382,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 121,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -402,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 122,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -422,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 123,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -442,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 124,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -462,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 125,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -482,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 126,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -502,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 127,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -522,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 128,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -542,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 129,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -562,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 130,
       "fecha": 32,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -582,147 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (Q)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 134,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 135,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 136,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 137,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 138,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 139,
-      "fecha": 38,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 140,
       "fecha": 38,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -742,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 139,
       "fecha": 38,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -762,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 140,
       "fecha": 38,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -782,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 143,
+      "id": 141,
       "fecha": 38,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -804,17 +524,17 @@
     {
       "id": 145,
       "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
       "esHoy": false,
       "liga": "primerac",
       "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Paraguayo",
+        "nombre": "Puerto Nuevo",
         "goles": null
       },
       "visitante": {
-        "nombre": "Mercedes",
+        "nombre": "JJ Urquiza",
         "goles": null
       },
       "hora": "10:00",
@@ -823,66 +543,6 @@
     },
     {
       "id": 146,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Juventud Unida SM",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Berazategui",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 147,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "El Porvenir",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Cañuelas",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 148,
-      "fecha": 31,
-      "dia": "Sáb 03/10",
-      "fechaISO": "2026-10-03",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Central Ballester",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Muñiz",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 149,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -902,27 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 150,
-      "fecha": 31,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Puerto Nuevo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "JJ Urquiza",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 151,
+      "id": 147,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -942,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 152,
+      "id": 148,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -962,27 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 153,
-      "fecha": 31,
-      "dia": "Lun 05/10",
-      "fechaISO": "2026-10-05",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Sp. Barracas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Leones de Rosario FC",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 154,
+      "id": 149,
       "fecha": 31,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -1002,7 +622,47 @@
       "estado": "programado"
     },
     {
-      "id": 155,
+      "id": 150,
+      "fecha": 31,
+      "dia": "Lun 05/10",
+      "fechaISO": "2026-10-05",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Sp. Barracas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Leones de Rosario FC",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 151,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 152,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -1022,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 156,
+      "id": 153,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -1042,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 157,
+      "id": 154,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",

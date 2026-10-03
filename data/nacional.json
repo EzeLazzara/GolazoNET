@@ -1,15 +1,15 @@
 {
-  "actualizado": "2026-10-02T17:32:21.539819",
+  "actualizado": "2026-10-03T00:07:01.178881",
   "posiciones": [
     {
       "pos": 1,
       "equipo": "Ferro",
-      "pj": 31,
+      "pj": 32,
       "pg": 18,
       "pe": 7,
-      "pp": 6,
+      "pp": 7,
       "gf": 36,
-      "gc": 25,
+      "gc": 27,
       "pts": 61,
       "zona": "promotion"
     },
@@ -27,6 +27,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Dep. Madryn",
+      "pj": 32,
+      "pg": 14,
+      "pe": 11,
+      "pp": 7,
+      "gf": 46,
+      "gc": 28,
+      "pts": 53,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Godoy Cruz",
       "pj": 31,
       "pg": 15,
@@ -35,18 +47,6 @@
       "gf": 40,
       "gc": 28,
       "pts": 53,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Dep. Madryn",
-      "pj": 31,
-      "pg": 13,
-      "pe": 11,
-      "pp": 7,
-      "gf": 44,
-      "gc": 28,
-      "pts": 50,
       "zona": "normal"
     },
     {
