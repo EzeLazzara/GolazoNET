@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-10-03T00:07:42.325982",
+  "actualizado": "2026-10-03T15:47:16.866408",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 11,
-      "dia": "Vie 02/10",
-      "fechaISO": "2026-10-02",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Independiente Riv.",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia LP",
-        "goles": null
-      },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 11,
-      "dia": "Vie 02/10",
-      "fechaISO": "2026-10-02",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Boca Juniors",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "hora": "16:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
+      "id": 103,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -57,12 +17,12 @@
         "nombre": "Aldosivi",
         "goles": null
       },
-      "hora": "09:45",
+      "hora": "08:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 104,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -77,12 +37,12 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -97,12 +57,12 @@
         "nombre": "Tigre",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "13:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 11,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -117,12 +77,12 @@
         "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "15:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 107,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -137,12 +97,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "11:45",
+      "hora": "10:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 108,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -157,12 +117,12 @@
         "nombre": "Platense",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 109,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -177,12 +137,12 @@
         "nombre": "Gimnasia Mendoza",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 110,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -197,12 +157,12 @@
         "nombre": "Rosario Central",
         "goles": null
       },
-      "hora": "16:15",
+      "hora": "15:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 111,
       "fecha": 11,
       "dia": "Mié 14/10",
       "fechaISO": "2026-10-14",
@@ -217,12 +177,12 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 118,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -237,12 +197,12 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 119,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -255,6 +215,46 @@
       },
       "visitante": {
         "nombre": "Patronato",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 32,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Telmo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 32,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Racing (Cba)",
         "goles": null
       },
       "hora": "10:30",
@@ -270,46 +270,6 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "San Telmo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Alte. Brown",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 32,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Central Norte",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing (Cba)",
-        "goles": null
-      },
-      "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
-      "fecha": 32,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
         "nombre": "Güemes",
         "goles": null
       },
@@ -317,12 +277,12 @@
         "nombre": "Colegiales",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 123,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -337,12 +297,12 @@
         "nombre": "Almagro",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 124,
       "fecha": 32,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -355,6 +315,46 @@
       },
       "visitante": {
         "nombre": "Defensores",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 32,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 32,
+      "dia": "Dom 04/10",
+      "fechaISO": "2026-10-04",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Godoy Cruz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Los Andes",
         "goles": null
       },
       "hora": "12:00",
@@ -370,11 +370,11 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Atlético Rafaela",
+        "nombre": "San Martín (T)",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atlanta",
+        "nombre": "Gimnasia y Tiro",
         "goles": null
       },
       "hora": "12:30",
@@ -383,46 +383,6 @@
     },
     {
       "id": 128,
-      "fecha": 32,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 129,
-      "fecha": 32,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia y Tiro",
-        "goles": null
-      },
-      "hora": "13:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 130,
       "fecha": 32,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -437,12 +397,12 @@
         "nombre": "Maipú",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 136,
       "fecha": 38,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -457,12 +417,12 @@
         "nombre": "Flandria",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 137,
       "fecha": 38,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -477,12 +437,12 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 138,
       "fecha": 38,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -497,12 +457,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 139,
       "fecha": 38,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -517,12 +477,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 145,
+      "id": 143,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -537,12 +497,12 @@
         "nombre": "JJ Urquiza",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 146,
+      "id": 144,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -557,12 +517,12 @@
         "nombre": "Estrella del Sur",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 147,
+      "id": 145,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -577,12 +537,12 @@
         "nombre": "Argentino Rosario",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 148,
+      "id": 146,
       "fecha": 31,
       "dia": "Dom 04/10",
       "fechaISO": "2026-10-04",
@@ -597,12 +557,12 @@
         "nombre": "Yupanqui",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 149,
+      "id": 147,
       "fecha": 31,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -617,12 +577,12 @@
         "nombre": "Lamadrid",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 150,
+      "id": 148,
       "fecha": 31,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -637,7 +597,47 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 149,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Fenix",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CA Atlas",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 150,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
+      "esHoy": false,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Claypole",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -657,52 +657,12 @@
         "nombre": "Muñiz",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 152,
-      "fecha": 31,
-      "dia": "Mar 06/10",
-      "fechaISO": "2026-10-06",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Fenix",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Atlas",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 153,
-      "fecha": 31,
-      "dia": "Mar 06/10",
-      "fechaISO": "2026-10-06",
-      "esHoy": false,
-      "liga": "primerac",
-      "ligaNombre": "Primera C Metropolitana",
-      "local": {
-        "nombre": "Claypole",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dep. Español",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 154,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -717,7 +677,7 @@
         "nombre": "Centro Español",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
