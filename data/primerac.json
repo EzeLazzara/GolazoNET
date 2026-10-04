@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T16:30:44.470842",
+  "actualizado": "2026-10-04T23:48:27.782126",
   "posiciones": [
     {
       "pos": 1,
@@ -15,25 +15,25 @@
     },
     {
       "pos": 2,
-      "equipo": "CA Lugano",
-      "pj": 30,
-      "pg": 11,
-      "pe": 13,
-      "pp": 6,
-      "gf": 33,
-      "gc": 25,
-      "pts": 46,
+      "equipo": "Sacachispas",
+      "pj": 31,
+      "pg": 13,
+      "pe": 8,
+      "pp": 10,
+      "gf": 32,
+      "gc": 26,
+      "pts": 47,
       "zona": "promotion"
     },
     {
       "pos": 3,
-      "equipo": "Sacachispas",
-      "pj": 30,
-      "pg": 13,
-      "pe": 7,
-      "pp": 10,
-      "gf": 32,
-      "gc": 26,
+      "equipo": "CA Lugano",
+      "pj": 31,
+      "pg": 11,
+      "pe": 13,
+      "pp": 7,
+      "gf": 35,
+      "gc": 28,
       "pts": 46,
       "zona": "normal"
     },
@@ -51,6 +51,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Estrella del Sur",
+      "pj": 31,
+      "pg": 11,
+      "pe": 12,
+      "pp": 8,
+      "gf": 31,
+      "gc": 29,
+      "pts": 45,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Centro Español",
       "pj": 30,
       "pg": 11,
@@ -62,7 +74,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Victoriano",
       "pj": 31,
       "pg": 10,
@@ -70,18 +82,6 @@
       "pp": 7,
       "gf": 24,
       "gc": 19,
-      "pts": 44,
-      "zona": "normal"
-    },
-    {
-      "pos": 7,
-      "equipo": "Estrella del Sur",
-      "pj": 30,
-      "pg": 11,
-      "pe": 11,
-      "pp": 8,
-      "gf": 31,
-      "gc": 29,
       "pts": 44,
       "zona": "normal"
     },
@@ -100,12 +100,12 @@
     {
       "pos": 9,
       "equipo": "Puerto Nuevo",
-      "pj": 30,
+      "pj": 31,
       "pg": 9,
       "pe": 11,
-      "pp": 10,
-      "gf": 27,
-      "gc": 31,
+      "pp": 11,
+      "gf": 28,
+      "gc": 35,
       "pts": 38,
       "zona": "normal"
     },
@@ -123,6 +123,18 @@
     },
     {
       "pos": 11,
+      "equipo": "JJ Urquiza",
+      "pj": 31,
+      "pg": 6,
+      "pe": 14,
+      "pp": 11,
+      "gf": 19,
+      "gc": 26,
+      "pts": 32,
+      "zona": "normal"
+    },
+    {
+      "pos": 12,
       "equipo": "Paraguayo",
       "pj": 30,
       "pg": 7,
@@ -134,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 13,
       "equipo": "Leandro N. Alem",
       "pj": 30,
       "pg": 8,
@@ -146,27 +158,15 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
-      "equipo": "JJ Urquiza",
-      "pj": 30,
-      "pg": 5,
-      "pe": 14,
-      "pp": 11,
-      "gf": 15,
-      "gc": 25,
-      "pts": 29,
-      "zona": "normal"
-    },
-    {
       "pos": 14,
       "equipo": "Argentino Rosario",
-      "pj": 30,
-      "pg": 3,
+      "pj": 31,
+      "pg": 4,
       "pe": 15,
       "pp": 12,
-      "gf": 27,
-      "gc": 39,
-      "pts": 24,
+      "gf": 30,
+      "gc": 41,
+      "pts": 27,
       "zona": "normal"
     },
     {
@@ -195,6 +195,18 @@
     },
     {
       "pos": 3,
+      "equipo": "Central Cordoba",
+      "pj": 31,
+      "pg": 13,
+      "pe": 10,
+      "pp": 8,
+      "gf": 32,
+      "gc": 22,
+      "pts": 49,
+      "zona": "normal"
+    },
+    {
+      "pos": 4,
       "equipo": "Dep. Español",
       "pj": 30,
       "pg": 11,
@@ -203,18 +215,6 @@
       "gf": 24,
       "gc": 15,
       "pts": 48,
-      "zona": "normal"
-    },
-    {
-      "pos": 4,
-      "equipo": "Central Cordoba",
-      "pj": 30,
-      "pg": 12,
-      "pe": 10,
-      "pp": 8,
-      "gf": 31,
-      "gc": 22,
-      "pts": 46,
       "zona": "normal"
     },
     {
@@ -292,12 +292,12 @@
     {
       "pos": 11,
       "equipo": "Yupanqui",
-      "pj": 30,
+      "pj": 31,
       "pg": 8,
       "pe": 11,
-      "pp": 11,
+      "pp": 12,
       "gf": 33,
-      "gc": 34,
+      "gc": 35,
       "pts": 35,
       "zona": "normal"
     },

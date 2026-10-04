@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-04T16:31:01.263685",
+  "actualizado": "2026-10-04T23:48:44.531486",
   "partidos": [
     {
-      "id": 104,
+      "id": 101,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -17,12 +17,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "09:45",
+      "hora": "11:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -37,12 +37,12 @@
         "nombre": "Platense",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -57,12 +57,12 @@
         "nombre": "Gimnasia Mendoza",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 11,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -77,12 +77,12 @@
         "nombre": "Rosario Central",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 11,
       "dia": "Mié 14/10",
       "fechaISO": "2026-10-14",
@@ -97,12 +97,12 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 106,
       "fecha": 32,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -117,12 +117,12 @@
         "nombre": "Maipú",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 107,
       "fecha": 38,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -137,12 +137,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 108,
       "fecha": 38,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -157,12 +157,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 109,
       "fecha": 31,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -177,12 +177,12 @@
         "nombre": "Lamadrid",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 110,
       "fecha": 31,
       "dia": "Lun 05/10",
       "fechaISO": "2026-10-05",
@@ -197,12 +197,12 @@
         "nombre": "Leones de Rosario FC",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 111,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -217,12 +217,12 @@
         "nombre": "Centro Español",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 112,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -237,12 +237,12 @@
         "nombre": "CA Atlas",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 113,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -257,12 +257,12 @@
         "nombre": "Dep. Español",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 114,
       "fecha": 31,
       "dia": "Mar 06/10",
       "fechaISO": "2026-10-06",
@@ -277,7 +277,7 @@
         "nombre": "Muñiz",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
