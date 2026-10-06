@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T23:48:03.048064",
+  "actualizado": "2026-10-06T01:38:48.366827",
   "posiciones": [
     {
       "pos": 1,
@@ -291,6 +291,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Maipú",
+      "pj": 32,
+      "pg": 13,
+      "pe": 8,
+      "pp": 11,
+      "gf": 39,
+      "gc": 31,
+      "pts": 47,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Colegiales",
       "pj": 32,
       "pg": 13,
@@ -302,7 +314,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 9,
       "equipo": "San Martín",
       "pj": 32,
       "pg": 12,
@@ -311,18 +323,6 @@
       "gf": 34,
       "gc": 32,
       "pts": 45,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
-      "equipo": "Maipú",
-      "pj": 31,
-      "pg": 12,
-      "pe": 8,
-      "pp": 11,
-      "gf": 38,
-      "gc": 31,
-      "pts": 44,
       "zona": "normal"
     },
     {
@@ -388,12 +388,12 @@
     {
       "pos": 15,
       "equipo": "Chicago",
-      "pj": 31,
+      "pj": 32,
       "pg": 9,
       "pe": 9,
-      "pp": 13,
+      "pp": 14,
       "gf": 23,
-      "gc": 29,
+      "gc": 30,
       "pts": 36,
       "zona": "descenso"
     }

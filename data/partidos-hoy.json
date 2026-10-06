@@ -1,23 +1,83 @@
 {
-  "actualizado": "2026-10-04T23:48:44.531092",
+  "actualizado": "2026-10-06T01:39:29.961253",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 11,
-      "dia": "Dom 04/10",
-      "fechaISO": "2026-10-04",
+      "id": 130,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
       "local": {
-        "nombre": "Estudiantes RC",
+        "nombre": "Leandro N. Alem",
         "goles": null
       },
       "visitante": {
-        "nombre": "Racing Club",
+        "nombre": "Centro Español",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Fenix",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CA Atlas",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Claypole",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Español",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 31,
+      "dia": "Mar 06/10",
+      "fechaISO": "2026-10-06",
+      "esHoy": true,
+      "liga": "primerac",
+      "ligaNombre": "Primera C Metropolitana",
+      "local": {
+        "nombre": "Central Ballester",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Muñiz",
+        "goles": null
+      },
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }

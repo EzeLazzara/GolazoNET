@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T23:48:27.782126",
+  "actualizado": "2026-10-06T01:39:13.228463",
   "posiciones": [
     {
       "pos": 1,
@@ -75,6 +75,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Mercedes",
+      "pj": 31,
+      "pg": 11,
+      "pe": 11,
+      "pp": 9,
+      "gf": 30,
+      "gc": 24,
+      "pts": 44,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Victoriano",
       "pj": 31,
       "pg": 10,
@@ -83,18 +95,6 @@
       "gf": 24,
       "gc": 19,
       "pts": 44,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Mercedes",
-      "pj": 30,
-      "pg": 11,
-      "pe": 10,
-      "pp": 9,
-      "gf": 29,
-      "gc": 23,
-      "pts": 43,
       "zona": "normal"
     },
     {
@@ -136,13 +136,13 @@
     {
       "pos": 12,
       "equipo": "Paraguayo",
-      "pj": 30,
+      "pj": 31,
       "pg": 7,
-      "pe": 10,
+      "pe": 11,
       "pp": 13,
-      "gf": 22,
-      "gc": 38,
-      "pts": 31,
+      "gf": 23,
+      "gc": 39,
+      "pts": 32,
       "zona": "normal"
     },
     {
@@ -172,25 +172,25 @@
     {
       "pos": 1,
       "equipo": "Luján",
-      "pj": 30,
-      "pg": 17,
+      "pj": 31,
+      "pg": 18,
       "pe": 7,
       "pp": 6,
-      "gf": 44,
+      "gf": 45,
       "gc": 22,
-      "pts": 58,
+      "pts": 61,
       "zona": "normal"
     },
     {
       "pos": 2,
       "equipo": "Cañuelas",
-      "pj": 30,
+      "pj": 31,
       "pg": 16,
-      "pe": 9,
+      "pe": 10,
       "pp": 5,
-      "gf": 38,
-      "gc": 21,
-      "pts": 57,
+      "gf": 39,
+      "gc": 22,
+      "pts": 58,
       "zona": "normal"
     },
     {
@@ -220,36 +220,36 @@
     {
       "pos": 5,
       "equipo": "Leones de Rosario FC",
-      "pj": 30,
-      "pg": 11,
+      "pj": 31,
+      "pg": 12,
       "pe": 12,
       "pp": 7,
-      "gf": 27,
+      "gf": 29,
       "gc": 24,
-      "pts": 45,
+      "pts": 48,
       "zona": "normal"
     },
     {
       "pos": 6,
       "equipo": "Lamadrid",
-      "pj": 30,
+      "pj": 31,
       "pg": 9,
       "pe": 13,
-      "pp": 8,
+      "pp": 9,
       "gf": 23,
-      "gc": 26,
+      "gc": 27,
       "pts": 40,
       "zona": "normal"
     },
     {
       "pos": 7,
       "equipo": "Sp. Barracas",
-      "pj": 30,
+      "pj": 31,
       "pg": 11,
       "pe": 6,
-      "pp": 13,
+      "pp": 14,
       "gf": 32,
-      "gc": 30,
+      "gc": 32,
       "pts": 39,
       "zona": "normal"
     },
@@ -280,13 +280,13 @@
     {
       "pos": 10,
       "equipo": "El Porvenir",
-      "pj": 30,
+      "pj": 31,
       "pg": 7,
-      "pe": 15,
+      "pe": 16,
       "pp": 8,
-      "gf": 25,
-      "gc": 30,
-      "pts": 36,
+      "gf": 26,
+      "gc": 31,
+      "pts": 37,
       "zona": "normal"
     },
     {
