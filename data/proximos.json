@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-10-08T00:41:51.032493",
+  "actualizado": "2026-10-08T18:28:56.075581",
   "partidos": [
     {
       "id": 100,
-      "fecha": 11,
-      "dia": "Mié 14/10",
-      "fechaISO": "2026-10-14",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -42,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 101,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -62,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -82,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -98,6 +78,26 @@
         "goles": null
       },
       "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 33,
+      "dia": "Dom 11/10",
+      "fechaISO": "2026-10-11",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (T)",
+        "goles": null
+      },
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -130,26 +130,6 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Atlanta",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
-      "fecha": 33,
-      "dia": "Dom 11/10",
-      "fechaISO": "2026-10-11",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
         "nombre": "Defensores",
         "goles": null
       },
@@ -162,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -182,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -202,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -222,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -242,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -262,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -282,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 113,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -302,7 +282,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 114,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -322,7 +302,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 115,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -342,7 +322,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 116,
       "fecha": 33,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -362,7 +342,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 117,
       "fecha": 33,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -382,7 +362,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 118,
       "fecha": 39,
       "dia": "Vie 09/10",
       "fechaISO": "2026-10-09",
@@ -402,7 +382,7 @@
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 119,
       "fecha": 39,
       "dia": "Vie 09/10",
       "fechaISO": "2026-10-09",
@@ -422,7 +402,7 @@
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 120,
       "fecha": 39,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -442,7 +422,7 @@
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 121,
       "fecha": 39,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -462,7 +442,7 @@
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 122,
       "fecha": 39,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -482,7 +462,7 @@
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 123,
       "fecha": 39,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -502,7 +482,7 @@
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 124,
       "fecha": 39,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -522,7 +502,7 @@
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 39,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -542,7 +522,7 @@
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 126,
       "fecha": 39,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -562,7 +542,7 @@
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 127,
       "fecha": 39,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -582,7 +562,7 @@
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 128,
       "fecha": 39,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -602,7 +582,7 @@
       "estado": "programado"
     },
     {
-      "id": 130,
+      "id": 129,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -622,7 +602,7 @@
       "estado": "programado"
     },
     {
-      "id": 131,
+      "id": 130,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -642,7 +622,7 @@
       "estado": "programado"
     },
     {
-      "id": 132,
+      "id": 131,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -662,7 +642,7 @@
       "estado": "programado"
     },
     {
-      "id": 133,
+      "id": 132,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -682,7 +662,7 @@
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 133,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -702,7 +682,7 @@
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 134,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -722,7 +702,7 @@
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 135,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -742,7 +722,7 @@
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 136,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -762,7 +742,7 @@
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 137,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -782,7 +762,7 @@
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 138,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -802,7 +782,7 @@
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 139,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -822,7 +802,7 @@
       "estado": "programado"
     },
     {
-      "id": 141,
+      "id": 140,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -842,7 +822,7 @@
       "estado": "programado"
     },
     {
-      "id": 142,
+      "id": 141,
       "fecha": 32,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
