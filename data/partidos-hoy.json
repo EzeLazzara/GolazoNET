@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-09T00:57:24.292706",
+  "actualizado": "2026-10-09T18:01:04.670829",
   "partidos": [
     {
-      "id": 118,
+      "id": 119,
       "fecha": 39,
       "dia": "Vie 09/10",
       "fechaISO": "2026-10-09",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 120,
       "fecha": 39,
       "dia": "Vie 09/10",
       "fechaISO": "2026-10-09",
