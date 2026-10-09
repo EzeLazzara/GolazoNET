@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T18:28:56.075581",
+  "actualizado": "2026-10-09T00:57:24.293238",
   "partidos": [
     {
       "id": 100,
@@ -358,46 +358,6 @@
         "goles": null
       },
       "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
-      "fecha": 39,
-      "dia": "Vie 09/10",
-      "fechaISO": "2026-10-09",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Excursionistas",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 39,
-      "dia": "Vie 09/10",
-      "fechaISO": "2026-10-09",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Talleres RE",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Camioneros",
-        "goles": null
-      },
-      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
