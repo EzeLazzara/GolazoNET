@@ -1,43 +1,203 @@
 {
-  "actualizado": "2026-10-09T18:01:04.670829",
+  "actualizado": "2026-10-10T00:29:13.634025",
   "partidos": [
+    {
+      "id": 101,
+      "fecha": 33,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colegiales",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 33,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Almagro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Chacarita",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 33,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Agropecuario",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 33,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
     {
       "id": 119,
       "fecha": 39,
-      "dia": "Vie 09/10",
-      "fechaISO": "2026-10-09",
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Excursionistas",
+        "nombre": "Villa Dalmine",
         "goles": null
       },
       "visitante": {
-        "nombre": "San Carlos",
+        "nombre": "Liniers",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 120,
       "fecha": 39,
-      "dia": "Vie 09/10",
-      "fechaISO": "2026-10-09",
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Talleres RE",
+        "nombre": "Arsenal",
         "goles": null
       },
       "visitante": {
-        "nombre": "Camioneros",
+        "nombre": "San Martín (Bur.)",
         "goles": null
       },
-      "hora": "15:00",
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 39,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 39,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 39,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arg. de Quilmes",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 39,
+      "dia": "Sáb 10/10",
+      "fechaISO": "2026-10-10",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
