@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-10-10T00:29:13.634628",
+  "actualizado": "2026-10-10T17:02:34.280768",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 11,
-      "dia": "Mié 14/10",
-      "fechaISO": "2026-10-14",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
+      "id": 104,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -42,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 105,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -62,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 106,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -82,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -102,7 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -122,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -142,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -162,7 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -182,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -202,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
+      "id": 113,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -222,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 115,
+      "id": 114,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -242,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 115,
       "fecha": 33,
       "dia": "Dom 11/10",
       "fechaISO": "2026-10-11",
@@ -262,7 +242,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 116,
       "fecha": 33,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -282,7 +262,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 117,
       "fecha": 33,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -298,66 +278,6 @@
         "goles": null
       },
       "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 125,
-      "fecha": 39,
-      "dia": "Dom 11/10",
-      "fechaISO": "2026-10-11",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Italiano",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 126,
-      "fecha": 39,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 127,
-      "fecha": 39,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }

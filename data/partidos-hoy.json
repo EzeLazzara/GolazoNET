@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-10T00:29:13.634025",
+  "actualizado": "2026-10-10T17:02:34.279928",
   "partidos": [
     {
-      "id": 101,
+      "id": 100,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -22,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 101,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -42,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -62,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 33,
       "dia": "Sáb 10/10",
       "fechaISO": "2026-10-10",
@@ -78,126 +78,6 @@
         "goles": null
       },
       "hora": "11:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 119,
-      "fecha": 39,
-      "dia": "Sáb 10/10",
-      "fechaISO": "2026-10-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Villa Dalmine",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Liniers",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 120,
-      "fecha": 39,
-      "dia": "Sáb 10/10",
-      "fechaISO": "2026-10-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Arsenal",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín (Bur.)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 121,
-      "fecha": 39,
-      "dia": "Sáb 10/10",
-      "fechaISO": "2026-10-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Laferrere",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Merlo",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 122,
-      "fecha": 39,
-      "dia": "Sáb 10/10",
-      "fechaISO": "2026-10-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Flandria",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CADU",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 123,
-      "fecha": 39,
-      "dia": "Sáb 10/10",
-      "fechaISO": "2026-10-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Ituzaingó",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Arg. de Quilmes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 124,
-      "fecha": 39,
-      "dia": "Sáb 10/10",
-      "fechaISO": "2026-10-10",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Armenio",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Comunicaciones",
-        "goles": null
-      },
-      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
