@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T00:05:14.082294",
+  "actualizado": "2026-10-11T17:24:14.844342",
   "partidos": [
     {
       "id": 100,
@@ -17,52 +17,12 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
-      "fecha": 33,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Racing (Cba)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 33,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "All Boys",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
+      "id": 102,
       "fecha": 39,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -77,12 +37,12 @@
         "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 103,
       "fecha": 39,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -97,7 +57,7 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     }
