@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T17:01:22.796106",
+  "actualizado": "2026-10-11T00:04:32.331750",
   "posiciones": [
     {
       "pos": 1,
@@ -220,13 +220,13 @@
     {
       "pos": 1,
       "equipo": "Tristan Suárez",
-      "pj": 32,
+      "pj": 33,
       "pg": 15,
-      "pe": 13,
+      "pe": 14,
       "pp": 4,
       "gf": 32,
       "gc": 15,
-      "pts": 58,
+      "pts": 59,
       "zona": "normal"
     },
     {
@@ -268,13 +268,13 @@
     {
       "pos": 5,
       "equipo": "Midland",
-      "pj": 32,
-      "pg": 13,
+      "pj": 33,
+      "pg": 14,
       "pe": 9,
       "pp": 10,
-      "gf": 34,
+      "gf": 38,
       "gc": 26,
-      "pts": 48,
+      "pts": 51,
       "zona": "normal"
     },
     {
@@ -304,13 +304,13 @@
     {
       "pos": 8,
       "equipo": "Colegiales",
-      "pj": 32,
+      "pj": 33,
       "pg": 13,
-      "pe": 7,
+      "pe": 8,
       "pp": 12,
       "gf": 32,
       "gc": 31,
-      "pts": 46,
+      "pts": 47,
       "zona": "normal"
     },
     {
@@ -340,49 +340,49 @@
     {
       "pos": 11,
       "equipo": "Atlético Rafaela",
-      "pj": 32,
+      "pj": 33,
       "pg": 11,
       "pe": 9,
-      "pp": 12,
+      "pp": 13,
       "gf": 27,
-      "gc": 30,
+      "gc": 34,
       "pts": 42,
       "zona": "normal"
     },
     {
       "pos": 12,
-      "equipo": "Quilmes",
-      "pj": 32,
-      "pg": 10,
-      "pe": 9,
-      "pp": 13,
+      "equipo": "Almagro",
+      "pj": 33,
+      "pg": 11,
+      "pe": 8,
+      "pp": 14,
       "gf": 30,
-      "gc": 27,
-      "pts": 39,
+      "gc": 39,
+      "pts": 41,
       "zona": "normal"
     },
     {
       "pos": 13,
-      "equipo": "Almagro",
-      "pj": 32,
+      "equipo": "Agropecuario",
+      "pj": 33,
       "pg": 10,
-      "pe": 8,
-      "pp": 14,
-      "gf": 28,
-      "gc": 38,
-      "pts": 38,
+      "pe": 10,
+      "pp": 13,
+      "gf": 27,
+      "gc": 35,
+      "pts": 40,
       "zona": "normal"
     },
     {
       "pos": 14,
-      "equipo": "Agropecuario",
-      "pj": 32,
-      "pg": 9,
-      "pe": 10,
-      "pp": 13,
-      "gf": 26,
-      "gc": 35,
-      "pts": 37,
+      "equipo": "Quilmes",
+      "pj": 33,
+      "pg": 10,
+      "pe": 9,
+      "pp": 14,
+      "gf": 30,
+      "gc": 28,
+      "pts": 39,
       "zona": "descenso"
     },
     {
