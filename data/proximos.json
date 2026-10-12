@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T00:10:23.146148",
+  "actualizado": "2026-10-12T20:58:22.524820",
   "partidos": [
     {
       "id": 100,
@@ -17,7 +17,7 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     }

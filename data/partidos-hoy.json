@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-10-12T00:10:23.145574",
+  "actualizado": "2026-10-12T20:58:22.524284",
   "partidos": [
     {
       "id": 101,
-      "fecha": 33,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Racing (Cba)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
       "fecha": 33,
       "dia": "Lun 12/10",
       "fechaISO": "2026-10-12",
@@ -37,47 +17,7 @@
         "nombre": "Godoy Cruz",
         "goles": null
       },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 39,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Real Pilar",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 39,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": true,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "hora": "08:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T00:09:41.402149",
+  "actualizado": "2026-10-12T20:57:32.489647",
   "posiciones": [
     {
       "pos": 1,
@@ -75,6 +75,18 @@
     },
     {
       "pos": 7,
+      "equipo": "Ciudad De Bolivar",
+      "pj": 33,
+      "pg": 12,
+      "pe": 12,
+      "pp": 9,
+      "gf": 28,
+      "gc": 28,
+      "pts": 48,
+      "zona": "normal"
+    },
+    {
+      "pos": 8,
       "equipo": "Alte. Brown",
       "pj": 33,
       "pg": 12,
@@ -83,18 +95,6 @@
       "gf": 26,
       "gc": 22,
       "pts": 47,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Los Andes",
-      "pj": 32,
-      "pg": 9,
-      "pe": 13,
-      "pp": 10,
-      "gf": 25,
-      "gc": 23,
-      "pts": 40,
       "zona": "normal"
     },
     {
@@ -123,13 +123,13 @@
     },
     {
       "pos": 11,
-      "equipo": "Racing (Cba)",
-      "pj": 32,
+      "equipo": "San Telmo",
+      "pj": 33,
       "pg": 9,
       "pe": 10,
-      "pp": 13,
-      "gf": 29,
-      "gc": 39,
+      "pp": 14,
+      "gf": 28,
+      "gc": 37,
       "pts": 37,
       "zona": "normal"
     },
