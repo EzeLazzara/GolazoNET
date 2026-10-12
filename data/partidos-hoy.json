@@ -1,23 +1,83 @@
 {
-  "actualizado": "2026-10-11T17:24:14.843902",
+  "actualizado": "2026-10-12T00:10:23.145574",
   "partidos": [
     {
       "id": 101,
+      "fecha": 33,
+      "dia": "Lun 12/10",
+      "fechaISO": "2026-10-12",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Los Andes",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 33,
+      "dia": "Lun 12/10",
+      "fechaISO": "2026-10-12",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "All Boys",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Godoy Cruz",
+        "goles": null
+      },
+      "hora": "12:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
       "fecha": 39,
-      "dia": "Dom 11/10",
-      "fechaISO": "2026-10-11",
+      "dia": "Lun 12/10",
+      "fechaISO": "2026-10-12",
       "esHoy": true,
       "liga": "bmetro",
       "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Argentino (M)",
+        "nombre": "UAI Urquiza",
         "goles": null
       },
       "visitante": {
-        "nombre": "Italiano",
+        "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 39,
+      "dia": "Lun 12/10",
+      "fechaISO": "2026-10-12",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     }
