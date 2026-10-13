@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-10-12T20:58:22.524284",
-  "partidos": [
-    {
-      "id": 101,
-      "fecha": 33,
-      "dia": "Lun 12/10",
-      "fechaISO": "2026-10-12",
-      "esHoy": true,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "All Boys",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-10-13T02:24:45.274351",
+  "partidos": []
 }
