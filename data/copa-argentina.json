@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T02:24:45.273345",
+  "actualizado": "2026-10-13T18:56:02.819988",
   "bracket": {
     "32avos": [
       {
@@ -524,13 +524,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Copa Argentina merchandise",
+        "visitante": "Entradas Copa Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Fútbol noticias",
-        "visitante": "Estadísticas de fútbol",
+        "local": "Resultados Copa Argentina",
+        "visitante": "Calendario Fútbol",
         "goles_l": null,
         "goles_v": null
       }
