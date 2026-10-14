@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-10-14T16:38:18.424269",
-  "partidos": [
-    {
-      "id": 100,
-      "fecha": 11,
-      "dia": "Mié 14/10",
-      "fechaISO": "2026-10-14",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-10-14T23:38:04.027016",
+  "partidos": []
 }

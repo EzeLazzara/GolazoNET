@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-14T16:38:18.425192",
+  "actualizado": "2026-10-14T23:38:04.029499",
   "partidos": [
     {
-      "id": 101,
+      "id": 100,
       "fecha": 34,
       "dia": "Vie 16/10",
       "fechaISO": "2026-10-16",
@@ -17,12 +17,12 @@
         "nombre": "Quilmes",
         "goles": null
       },
-      "hora": "16:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 102,
+      "id": 101,
       "fecha": 34,
       "dia": "Vie 16/10",
       "fechaISO": "2026-10-16",
@@ -37,12 +37,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "17:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
+      "id": 102,
       "fecha": 34,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -57,12 +57,12 @@
         "nombre": "Maipú",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "08:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 104,
+      "id": 103,
       "fecha": 34,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -77,12 +77,12 @@
         "nombre": "Colegiales",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 104,
       "fecha": 34,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -97,12 +97,12 @@
         "nombre": "Patronato",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 105,
       "fecha": 34,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -117,12 +117,12 @@
         "nombre": "Ciudad De Bolivar",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 106,
       "fecha": 34,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -137,12 +137,12 @@
         "nombre": "Dep. Madryn",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 34,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -157,12 +157,12 @@
         "nombre": "Alte. Brown",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 34,
       "dia": "Dom 18/10",
       "fechaISO": "2026-10-18",
@@ -177,12 +177,12 @@
         "nombre": "CA Mitre",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 34,
       "dia": "Dom 18/10",
       "fechaISO": "2026-10-18",
@@ -197,12 +197,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 34,
       "dia": "Dom 18/10",
       "fechaISO": "2026-10-18",
@@ -217,12 +217,12 @@
         "nombre": "Gimnasia (J)",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 34,
       "dia": "Dom 18/10",
       "fechaISO": "2026-10-18",
@@ -235,6 +235,26 @@
       },
       "visitante": {
         "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 34,
+      "dia": "Dom 18/10",
+      "fechaISO": "2026-10-18",
+      "esHoy": false,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chaco For Ever",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Norte",
         "goles": null
       },
       "hora": "11:00",
@@ -250,14 +270,14 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Chaco For Ever",
+        "nombre": "Güemes",
         "goles": null
       },
       "visitante": {
-        "nombre": "Central Norte",
+        "nombre": "Almagro",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -270,11 +290,11 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Güemes",
+        "nombre": "Godoy Cruz",
         "goles": null
       },
       "visitante": {
-        "nombre": "Almagro",
+        "nombre": "Estudiantes",
         "goles": null
       },
       "hora": "12:00",
@@ -290,26 +310,6 @@
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 116,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
         "nombre": "San Martín",
         "goles": null
       },
@@ -317,12 +317,12 @@
         "nombre": "Temperley",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 116,
       "fecha": 34,
       "dia": "Dom 18/10",
       "fechaISO": "2026-10-18",
@@ -337,12 +337,12 @@
         "nombre": "Midland",
         "goles": null
       },
-      "hora": "14:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 117,
       "fecha": 34,
       "dia": "Lun 19/10",
       "fechaISO": "2026-10-19",
@@ -357,12 +357,12 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "10:30",
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 118,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -377,12 +377,12 @@
         "nombre": "Flandria",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 119,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -397,12 +397,12 @@
         "nombre": "Armenio",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 120,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -417,12 +417,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 121,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -437,12 +437,12 @@
         "nombre": "Arsenal",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 122,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -457,12 +457,12 @@
         "nombre": "Argentino (M)",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 123,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -477,12 +477,12 @@
         "nombre": "Excursionistas",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 124,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -497,12 +497,12 @@
         "nombre": "Villa Dalmine",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 125,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -517,12 +517,12 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 126,
       "fecha": 40,
       "dia": "Sáb 17/10",
       "fechaISO": "2026-10-17",
@@ -537,12 +537,12 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 127,
       "fecha": 40,
       "dia": "Dom 18/10",
       "fechaISO": "2026-10-18",
@@ -557,12 +557,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 128,
       "fecha": 40,
       "dia": "Lun 19/10",
       "fechaISO": "2026-10-19",
@@ -577,7 +577,7 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
