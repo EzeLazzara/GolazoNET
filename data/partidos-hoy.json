@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-10-15T16:23:39.896810",
-  "partidos": [
-    {
-      "id": 100,
-      "fecha": 13,
-      "dia": "Jue 15/10",
-      "fechaISO": "2026-10-15",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Huracan",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia LP",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-10-15T23:32:15.520010",
+  "partidos": []
 }

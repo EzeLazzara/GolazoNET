@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T16:23:39.895810",
+  "actualizado": "2026-10-15T23:32:15.516840",
   "bracket": {
     "32avos": [
       {
@@ -520,6 +520,18 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Entradas Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Resultados Copa Argentina",
+        "visitante": "Calendario Fútbol",
+        "goles_l": null,
         "goles_v": null
       }
     ]
