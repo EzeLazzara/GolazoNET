@@ -1,4 +1,85 @@
 {
-  "actualizado": "2026-10-15T23:32:15.520010",
-  "partidos": []
+  "actualizado": "2026-10-16T16:10:01.884569",
+  "partidos": [
+    {
+      "id": 100,
+      "fecha": 13,
+      "dia": "Vie 16/10",
+      "fechaISO": "2026-10-16",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 13,
+      "dia": "Vie 16/10",
+      "fechaISO": "2026-10-16",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Talleres",
+        "goles": null
+      },
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 34,
+      "dia": "Vie 16/10",
+      "fechaISO": "2026-10-16",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlético Rafaela",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Quilmes",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 34,
+      "dia": "Vie 16/10",
+      "fechaISO": "2026-10-16",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Gimnasia y Tiro",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "hora": "16:00",
+      "minuto": null,
+      "estado": "programado"
+    }
+  ]
 }
