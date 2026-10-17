@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T15:01:35.364077",
+  "actualizado": "2026-10-17T22:50:18.228304",
   "posiciones": [
     {
       "pos": 1,
@@ -40,25 +40,25 @@
     {
       "pos": 4,
       "equipo": "Dep. Madryn",
-      "pj": 33,
+      "pj": 34,
       "pg": 14,
-      "pe": 11,
+      "pe": 12,
       "pp": 8,
       "gf": 47,
       "gc": 30,
-      "pts": 53,
+      "pts": 54,
       "zona": "normal"
     },
     {
       "pos": 5,
-      "equipo": "Colón",
-      "pj": 33,
-      "pg": 14,
-      "pe": 11,
-      "pp": 8,
-      "gf": 39,
-      "gc": 25,
-      "pts": 53,
+      "equipo": "Ciudad De Bolivar",
+      "pj": 34,
+      "pg": 13,
+      "pe": 12,
+      "pp": 9,
+      "gf": 30,
+      "gc": 29,
+      "pts": 51,
       "zona": "normal"
     },
     {
@@ -75,30 +75,6 @@
     },
     {
       "pos": 7,
-      "equipo": "Ciudad De Bolivar",
-      "pj": 33,
-      "pg": 12,
-      "pe": 12,
-      "pp": 9,
-      "gf": 28,
-      "gc": 28,
-      "pts": 48,
-      "zona": "normal"
-    },
-    {
-      "pos": 8,
-      "equipo": "Alte. Brown",
-      "pj": 33,
-      "pg": 12,
-      "pe": 11,
-      "pp": 10,
-      "gf": 26,
-      "gc": 22,
-      "pts": 47,
-      "zona": "normal"
-    },
-    {
-      "pos": 9,
       "equipo": "Los Andes",
       "pj": 33,
       "pg": 9,
@@ -110,7 +86,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 8,
       "equipo": "Chaco For Ever",
       "pj": 33,
       "pg": 10,
@@ -122,7 +98,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 9,
       "equipo": "Racing (Cba)",
       "pj": 33,
       "pg": 10,
@@ -134,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 10,
       "equipo": "Defensores",
       "pj": 33,
       "pg": 8,
@@ -146,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 11,
       "equipo": "San Telmo",
       "pj": 33,
       "pg": 9,
@@ -158,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 12,
       "equipo": "CA Mitre",
       "pj": 33,
       "pg": 7,
@@ -170,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 13,
       "equipo": "Central Norte",
       "pj": 33,
       "pg": 6,
@@ -182,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 16,
+      "pos": 14,
       "equipo": "All Boys",
       "pj": 33,
       "pg": 6,
@@ -194,39 +170,39 @@
       "zona": "normal"
     },
     {
-      "pos": 17,
+      "pos": 15,
       "equipo": "Acassuso",
-      "pj": 33,
+      "pj": 34,
       "pg": 8,
-      "pe": 8,
+      "pe": 9,
       "pp": 17,
       "gf": 25,
       "gc": 35,
-      "pts": 32,
+      "pts": 33,
       "zona": "normal"
     },
     {
-      "pos": 18,
+      "pos": 16,
       "equipo": "San Miguel",
-      "pj": 33,
+      "pj": 34,
       "pg": 6,
       "pe": 14,
-      "pp": 13,
-      "gf": 26,
-      "gc": 39,
+      "pp": 14,
+      "gf": 27,
+      "gc": 41,
       "pts": 32,
       "zona": "normal"
     },
     {
       "pos": 1,
       "equipo": "Tristan Suárez",
-      "pj": 33,
-      "pg": 15,
+      "pj": 34,
+      "pg": 16,
       "pe": 14,
       "pp": 4,
-      "gf": 32,
+      "gf": 33,
       "gc": 15,
-      "pts": 59,
+      "pts": 62,
       "zona": "normal"
     },
     {
@@ -291,26 +267,26 @@
     },
     {
       "pos": 7,
-      "equipo": "Maipú",
-      "pj": 33,
-      "pg": 13,
-      "pe": 9,
-      "pp": 11,
-      "gf": 40,
-      "gc": 32,
-      "pts": 48,
+      "equipo": "Colegiales",
+      "pj": 34,
+      "pg": 14,
+      "pe": 8,
+      "pp": 12,
+      "gf": 35,
+      "gc": 31,
+      "pts": 50,
       "zona": "normal"
     },
     {
       "pos": 8,
-      "equipo": "Colegiales",
-      "pj": 33,
+      "equipo": "Maipú",
+      "pj": 34,
       "pg": 13,
-      "pe": 8,
+      "pe": 9,
       "pp": 12,
-      "gf": 32,
-      "gc": 31,
-      "pts": 47,
+      "gf": 40,
+      "gc": 33,
+      "pts": 48,
       "zona": "normal"
     },
     {
@@ -364,12 +340,12 @@
     {
       "pos": 13,
       "equipo": "Agropecuario",
-      "pj": 33,
+      "pj": 34,
       "pg": 10,
       "pe": 10,
-      "pp": 13,
+      "pp": 14,
       "gf": 27,
-      "gc": 35,
+      "gc": 38,
       "pts": 40,
       "zona": "normal"
     },
@@ -388,12 +364,12 @@
     {
       "pos": 15,
       "equipo": "Patronato",
-      "pj": 33,
+      "pj": 34,
       "pg": 7,
       "pe": 16,
-      "pp": 10,
+      "pp": 11,
       "gf": 29,
-      "gc": 32,
+      "gc": 33,
       "pts": 37,
       "zona": "descenso"
     }
