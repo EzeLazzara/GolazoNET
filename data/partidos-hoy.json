@@ -1,63 +1,403 @@
 {
-  "actualizado": "2026-10-16T23:14:30.857508",
+  "actualizado": "2026-10-17T15:02:16.640969",
   "partidos": [
     {
       "id": 100,
       "fecha": 13,
-      "dia": "Vie 16/10",
-      "fechaISO": "2026-10-16",
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Boca Juniors",
+        "nombre": "Banfield",
         "goles": null
       },
       "visitante": {
-        "nombre": "Talleres",
+        "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 13,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente Riv.",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Tigre",
+        "goles": null
+      },
+      "hora": "12:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 13,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Lanus",
+        "goles": null
+      },
+      "hora": "12:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 13,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Atletico Tucuman",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Rosario Central",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 13,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Velez Sarsfield",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia Mendoza",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 34,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chacarita",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Maipú",
+        "goles": null
+      },
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 113,
       "fecha": 34,
-      "dia": "Vie 16/10",
-      "fechaISO": "2026-10-16",
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
       "esHoy": true,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Atlético Rafaela",
+        "nombre": "Agropecuario",
         "goles": null
       },
       "visitante": {
-        "nombre": "Quilmes",
+        "nombre": "Colegiales",
         "goles": null
       },
-      "hora": "16:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 114,
       "fecha": 34,
-      "dia": "Vie 16/10",
-      "fechaISO": "2026-10-16",
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
       "esHoy": true,
       "liga": "nacional",
       "ligaNombre": "Primera Nacional",
       "local": {
-        "nombre": "Gimnasia y Tiro",
+        "nombre": "San Miguel",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atlanta",
+        "nombre": "Ciudad De Bolivar",
         "goles": null
       },
-      "hora": "17:00",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 34,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Acassuso",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Madryn",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 34,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Patronato",
+        "goles": null
+      },
+      "hora": "11:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 34,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "hora": "13:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 128,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Argentino (M)",
+        "goles": null
+      },
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 129,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Arg. de Quilmes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 130,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 134,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 135,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 136,
+      "fecha": 40,
+      "dia": "Sáb 17/10",
+      "fechaISO": "2026-10-17",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
