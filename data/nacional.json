@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T22:50:18.228304",
+  "actualizado": "2026-10-18T15:26:05.109650",
   "posiciones": [
     {
       "pos": 1,
@@ -51,6 +51,18 @@
     },
     {
       "pos": 5,
+      "equipo": "Colón",
+      "pj": 34,
+      "pg": 14,
+      "pe": 12,
+      "pp": 8,
+      "gf": 41,
+      "gc": 27,
+      "pts": 54,
+      "zona": "normal"
+    },
+    {
+      "pos": 6,
       "equipo": "Ciudad De Bolivar",
       "pj": 34,
       "pg": 13,
@@ -62,7 +74,7 @@
       "zona": "normal"
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Estudiantes",
       "pj": 33,
       "pg": 13,
@@ -74,7 +86,19 @@
       "zona": "normal"
     },
     {
-      "pos": 7,
+      "pos": 8,
+      "equipo": "Alte. Brown",
+      "pj": 34,
+      "pg": 12,
+      "pe": 12,
+      "pp": 10,
+      "gf": 28,
+      "gc": 24,
+      "pts": 48,
+      "zona": "normal"
+    },
+    {
+      "pos": 9,
       "equipo": "Los Andes",
       "pj": 33,
       "pg": 9,
@@ -86,7 +110,7 @@
       "zona": "normal"
     },
     {
-      "pos": 8,
+      "pos": 10,
       "equipo": "Chaco For Ever",
       "pj": 33,
       "pg": 10,
@@ -98,7 +122,7 @@
       "zona": "normal"
     },
     {
-      "pos": 9,
+      "pos": 11,
       "equipo": "Racing (Cba)",
       "pj": 33,
       "pg": 10,
@@ -110,7 +134,7 @@
       "zona": "normal"
     },
     {
-      "pos": 10,
+      "pos": 12,
       "equipo": "Defensores",
       "pj": 33,
       "pg": 8,
@@ -122,7 +146,7 @@
       "zona": "normal"
     },
     {
-      "pos": 11,
+      "pos": 13,
       "equipo": "San Telmo",
       "pj": 33,
       "pg": 9,
@@ -134,7 +158,7 @@
       "zona": "normal"
     },
     {
-      "pos": 12,
+      "pos": 14,
       "equipo": "CA Mitre",
       "pj": 33,
       "pg": 7,
@@ -146,7 +170,7 @@
       "zona": "normal"
     },
     {
-      "pos": 13,
+      "pos": 15,
       "equipo": "Central Norte",
       "pj": 33,
       "pg": 6,
@@ -158,7 +182,7 @@
       "zona": "normal"
     },
     {
-      "pos": 14,
+      "pos": 16,
       "equipo": "All Boys",
       "pj": 33,
       "pg": 6,
@@ -170,7 +194,7 @@
       "zona": "normal"
     },
     {
-      "pos": 15,
+      "pos": 17,
       "equipo": "Acassuso",
       "pj": 34,
       "pg": 8,
@@ -182,7 +206,7 @@
       "zona": "normal"
     },
     {
-      "pos": 16,
+      "pos": 18,
       "equipo": "San Miguel",
       "pj": 34,
       "pg": 6,

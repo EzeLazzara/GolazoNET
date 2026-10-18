@@ -1,88 +1,8 @@
 {
-  "actualizado": "2026-10-17T22:51:00.007171",
+  "actualizado": "2026-10-18T15:26:47.972075",
   "partidos": [
     {
-      "id": 102,
-      "fecha": 13,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Racing Club",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Independiente",
-        "goles": null
-      },
-      "hora": "08:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 13,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Estudiantes RC",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Aldosivi",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 104,
-      "fecha": 13,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Lorenzo",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 13,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Belgrano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "14:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
       "fecha": 13,
       "dia": "Lun 19/10",
       "fechaISO": "2026-10-19",
@@ -97,12 +17,12 @@
         "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 105,
       "fecha": 13,
       "dia": "Lun 19/10",
       "fechaISO": "2026-10-19",
@@ -117,12 +37,12 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 106,
       "fecha": 13,
       "dia": "Lun 19/10",
       "fechaISO": "2026-10-19",
@@ -137,192 +57,12 @@
         "nombre": "Union Santa Fe",
         "goles": null
       },
-      "hora": "15:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 109,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Morón",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CA Mitre",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 110,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Los Andes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "All Boys",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 111,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia (J)",
-        "goles": null
-      },
-      "hora": "09:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 112,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Ferro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing (Cba)",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 113,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chaco For Ever",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Central Norte",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 114,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Güemes",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Almagro",
-        "goles": null
-      },
-      "hora": "11:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Godoy Cruz",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "12:00",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 116,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Temperley",
-        "goles": null
-      },
-      "hora": "12:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 117,
-      "fecha": 34,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Midland",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 118,
       "fecha": 34,
       "dia": "Lun 19/10",
       "fechaISO": "2026-10-19",
@@ -337,7 +77,227 @@
         "nombre": "Defensores",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Real Pilar",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Liniers",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Martín (Bur.)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "UAI Urquiza",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Carlos",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Argentino (M)",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Laferrere",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Comunicaciones",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 124,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 125,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Talleres RE",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dock Sud",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 126,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Armenio",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arg. de Quilmes",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 127,
+      "fecha": 41,
+      "dia": "Sáb 24/10",
+      "fechaISO": "2026-10-24",
+      "esHoy": false,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Ituzaingó",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Flandria",
+        "goles": null
+      },
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
