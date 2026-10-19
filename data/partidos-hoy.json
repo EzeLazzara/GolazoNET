@@ -1,23 +1,83 @@
 {
-  "actualizado": "2026-10-18T22:44:09.598246",
+  "actualizado": "2026-10-19T18:23:39.730113",
   "partidos": [
     {
       "id": 100,
       "fecha": 13,
-      "dia": "Dom 18/10",
-      "fechaISO": "2026-10-18",
+      "dia": "Lun 19/10",
+      "fechaISO": "2026-10-19",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Belgrano",
+        "nombre": "Sarmiento",
         "goles": null
       },
       "visitante": {
-        "nombre": "River Plate",
+        "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 13,
+      "dia": "Lun 19/10",
+      "fechaISO": "2026-10-19",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Newells",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Cordoba",
+        "goles": null
+      },
+      "hora": "14:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 13,
+      "dia": "Lun 19/10",
+      "fechaISO": "2026-10-19",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Riestra",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 34,
+      "dia": "Lun 19/10",
+      "fechaISO": "2026-10-19",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Telmo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensores",
+        "goles": null
+      },
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     }
