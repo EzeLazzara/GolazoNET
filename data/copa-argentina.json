@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T00:05:35.105123",
+  "actualizado": "2026-10-20T16:25:20.218626",
   "bracket": {
     "32avos": [
       {
@@ -448,6 +448,18 @@
         "local": "Nicolás Laméndola",
         "visitante": "Tomás Fernández",
         "goles_l": 3,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Pronósticos deportivos",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Prensa deportiva",
+        "visitante": "Unirse a clubs",
+        "goles_l": null,
         "goles_v": null
       },
       {
