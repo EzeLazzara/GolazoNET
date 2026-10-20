@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T18:22:58.478635",
+  "actualizado": "2026-10-20T00:04:53.979070",
   "posiciones": [
     {
       "pos": 1,
@@ -148,17 +148,29 @@
     {
       "pos": 13,
       "equipo": "Defensores",
-      "pj": 33,
+      "pj": 34,
       "pg": 8,
-      "pe": 13,
+      "pe": 14,
       "pp": 12,
       "gf": 25,
       "gc": 32,
-      "pts": 37,
+      "pts": 38,
       "zona": "normal"
     },
     {
       "pos": 14,
+      "equipo": "San Telmo",
+      "pj": 34,
+      "pg": 9,
+      "pe": 11,
+      "pp": 14,
+      "gf": 28,
+      "gc": 37,
+      "pts": 38,
+      "zona": "normal"
+    },
+    {
+      "pos": 15,
       "equipo": "Central Norte",
       "pj": 34,
       "pg": 7,
@@ -166,18 +178,6 @@
       "pp": 11,
       "gf": 23,
       "gc": 31,
-      "pts": 37,
-      "zona": "normal"
-    },
-    {
-      "pos": 15,
-      "equipo": "San Telmo",
-      "pj": 33,
-      "pg": 9,
-      "pe": 10,
-      "pp": 14,
-      "gf": 28,
-      "gc": 37,
       "pts": 37,
       "zona": "normal"
     },
