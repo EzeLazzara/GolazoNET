@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-24T15:27:36.065393",
+  "actualizado": "2026-10-24T22:51:14.525160",
   "partidos": [
     {
-      "id": 104,
+      "id": 101,
       "fecha": 14,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -17,12 +17,12 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "08:45",
+      "hora": "11:45",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 105,
+      "id": 102,
       "fecha": 14,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -37,12 +37,12 @@
         "nombre": "Boca Juniors",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 103,
       "fecha": 14,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -57,12 +57,12 @@
         "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "13:15",
+      "hora": "16:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 104,
       "fecha": 14,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -77,12 +77,12 @@
         "nombre": "Estudiantes RC",
         "goles": null
       },
-      "hora": "15:30",
+      "hora": "18:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 105,
       "fecha": 14,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -97,12 +97,12 @@
         "nombre": "Velez Sarsfield",
         "goles": null
       },
-      "hora": "15:30",
+      "hora": "18:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 106,
       "fecha": 14,
       "dia": "Lun 26/10",
       "fechaISO": "2026-10-26",
@@ -117,12 +117,12 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 107,
       "fecha": 14,
       "dia": "Lun 26/10",
       "fechaISO": "2026-10-26",
@@ -137,12 +137,12 @@
         "nombre": "Riestra",
         "goles": null
       },
-      "hora": "15:15",
+      "hora": "18:15",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 108,
       "fecha": 14,
       "dia": "Mar 27/10",
       "fechaISO": "2026-10-27",
@@ -157,12 +157,12 @@
         "nombre": "Independiente Riv.",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 111,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -177,12 +177,12 @@
         "nombre": "Morón",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 112,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -197,12 +197,12 @@
         "nombre": "Los Andes",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 120,
+      "id": 113,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -217,12 +217,12 @@
         "nombre": "All Boys",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 121,
+      "id": 114,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -237,12 +237,12 @@
         "nombre": "Chacarita",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 122,
+      "id": 115,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -257,12 +257,12 @@
         "nombre": "Agropecuario",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 123,
+      "id": 116,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -277,12 +277,12 @@
         "nombre": "Atlanta",
         "goles": null
       },
-      "hora": "10:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 124,
+      "id": 117,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -297,12 +297,12 @@
         "nombre": "Acassuso",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 125,
+      "id": 118,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -317,12 +317,12 @@
         "nombre": "Godoy Cruz",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 126,
+      "id": 119,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -337,12 +337,12 @@
         "nombre": "Güemes",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 127,
+      "id": 120,
       "fecha": 35,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -357,12 +357,12 @@
         "nombre": "Gimnasia y Tiro",
         "goles": null
       },
-      "hora": "11:00",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 128,
+      "id": 121,
       "fecha": 35,
       "dia": "Lun 26/10",
       "fechaISO": "2026-10-26",
@@ -377,12 +377,12 @@
         "nombre": "San Martín",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "10:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 129,
+      "id": 122,
       "fecha": 35,
       "dia": "Lun 26/10",
       "fechaISO": "2026-10-26",
@@ -397,12 +397,12 @@
         "nombre": "San Miguel",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 123,
       "fecha": 41,
       "dia": "Dom 25/10",
       "fechaISO": "2026-10-25",
@@ -417,12 +417,12 @@
         "nombre": "Dock Sud",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 124,
       "fecha": 41,
       "dia": "Lun 26/10",
       "fechaISO": "2026-10-26",
@@ -437,12 +437,12 @@
         "nombre": "San Carlos",
         "goles": null
       },
-      "hora": "09:00",
+      "hora": "12:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 140,
+      "id": 125,
       "fecha": 41,
       "dia": "Lun 26/10",
       "fechaISO": "2026-10-26",
@@ -457,7 +457,7 @@
         "nombre": "CADU",
         "goles": null
       },
-      "hora": "13:00",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     }
