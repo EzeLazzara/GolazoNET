@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T22:59:56.411135",
+  "actualizado": "2026-10-26T18:19:13.983024",
   "posiciones": [
     {
       "pos": 1,
@@ -316,13 +316,13 @@
     {
       "pos": 9,
       "equipo": "San Martín",
-      "pj": 34,
+      "pj": 35,
       "pg": 12,
-      "pe": 11,
+      "pe": 12,
       "pp": 11,
-      "gf": 36,
-      "gc": 34,
-      "pts": 47,
+      "gf": 37,
+      "gc": 35,
+      "pts": 48,
       "zona": "normal"
     },
     {

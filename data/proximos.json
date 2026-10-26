@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-10-25T23:00:39.073703",
+  "actualizado": "2026-10-26T18:19:55.317876",
   "partidos": [
     {
       "id": 102,
-      "fecha": 14,
-      "dia": "Lun 26/10",
-      "fechaISO": "2026-10-26",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Estudiantes",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 14,
-      "dia": "Lun 26/10",
-      "fechaISO": "2026-10-26",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Instituto",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "hora": "16:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
       "fecha": 14,
       "dia": "Mar 27/10",
       "fechaISO": "2026-10-27",
@@ -55,86 +15,6 @@
       },
       "visitante": {
         "nombre": "Independiente Riv.",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 35,
-      "dia": "Lun 26/10",
-      "fechaISO": "2026-10-26",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Chicago",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Martín",
-        "goles": null
-      },
-      "hora": "08:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 106,
-      "fecha": 35,
-      "dia": "Lun 26/10",
-      "fechaISO": "2026-10-26",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Defensores",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Miguel",
-        "goles": null
-      },
-      "hora": "10:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
-      "fecha": 41,
-      "dia": "Lun 26/10",
-      "fechaISO": "2026-10-26",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "UAI Urquiza",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "San Carlos",
-        "goles": null
-      },
-      "hora": "10:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
-      "fecha": 41,
-      "dia": "Lun 26/10",
-      "fechaISO": "2026-10-26",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Brown de Adrogué",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "CADU",
         "goles": null
       },
       "hora": "14:00",

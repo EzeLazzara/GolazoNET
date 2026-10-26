@@ -1,43 +1,83 @@
 {
-  "actualizado": "2026-10-25T23:00:39.073189",
+  "actualizado": "2026-10-26T18:19:55.316906",
   "partidos": [
     {
       "id": 100,
       "fecha": 14,
-      "dia": "Dom 25/10",
-      "fechaISO": "2026-10-25",
+      "dia": "Lun 26/10",
+      "fechaISO": "2026-10-26",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Barracas Central",
+        "nombre": "Union Santa Fe",
         "goles": null
       },
       "visitante": {
-        "nombre": "Estudiantes RC",
+        "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
       "fecha": 14,
-      "dia": "Dom 25/10",
-      "fechaISO": "2026-10-25",
+      "dia": "Lun 26/10",
+      "fechaISO": "2026-10-26",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Central Cordoba",
+        "nombre": "Instituto",
         "goles": null
       },
       "visitante": {
-        "nombre": "Velez Sarsfield",
+        "nombre": "Riestra",
         "goles": null
       },
-      "hora": "16:30",
+      "hora": "16:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 35,
+      "dia": "Lun 26/10",
+      "fechaISO": "2026-10-26",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Defensores",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "San Miguel",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 41,
+      "dia": "Lun 26/10",
+      "fechaISO": "2026-10-26",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Brown de Adrogué",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CADU",
+        "goles": null
+      },
+      "hora": "14:00",
       "minuto": null,
       "estado": "programado"
     }
