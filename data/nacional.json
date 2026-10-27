@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T18:19:13.983024",
+  "actualizado": "2026-10-27T00:21:54.074120",
   "posiciones": [
     {
       "pos": 1,
@@ -135,6 +135,18 @@
     },
     {
       "pos": 12,
+      "equipo": "Defensores",
+      "pj": 35,
+      "pg": 8,
+      "pe": 15,
+      "pp": 12,
+      "gf": 25,
+      "gc": 32,
+      "pts": 39,
+      "zona": "normal"
+    },
+    {
+      "pos": 13,
       "equipo": "CA Mitre",
       "pj": 35,
       "pg": 8,
@@ -143,18 +155,6 @@
       "gf": 31,
       "gc": 42,
       "pts": 39,
-      "zona": "normal"
-    },
-    {
-      "pos": 13,
-      "equipo": "Defensores",
-      "pj": 34,
-      "pg": 8,
-      "pe": 14,
-      "pp": 12,
-      "gf": 25,
-      "gc": 32,
-      "pts": 38,
       "zona": "normal"
     },
     {
@@ -208,13 +208,13 @@
     {
       "pos": 18,
       "equipo": "San Miguel",
-      "pj": 34,
+      "pj": 35,
       "pg": 6,
-      "pe": 14,
+      "pe": 15,
       "pp": 14,
       "gf": 27,
       "gc": 41,
-      "pts": 32,
+      "pts": 33,
       "zona": "normal"
     },
     {
