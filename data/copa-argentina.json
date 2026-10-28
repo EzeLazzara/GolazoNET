@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T17:32:17.537400",
+  "actualizado": "2026-10-28T00:14:26.839735",
   "bracket": {
     "32avos": [
       {
@@ -452,13 +452,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Estadísticas Copa Argentina",
+        "visitante": "Resultados Copa Argentina",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Resultados Copa Argentina",
-        "visitante": "Noticias Copa Argentina",
+        "local": "Noticias Copa Argentina",
+        "visitante": "Fútbol Argentino",
         "goles_l": null,
         "goles_v": null
       },
@@ -532,18 +532,6 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Fútbol Argentino",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Balones de fútbol",
-        "visitante": "Primera Nacional",
-        "goles_l": null,
         "goles_v": null
       }
     ]
