@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T00:34:53.504529",
+  "actualizado": "2026-10-29T18:04:49.403511",
   "bracket": {
     "32avos": [
       {
@@ -427,11 +427,17 @@
       {
         "local": "Atlético Tucumán",
         "visitante": "Platense",
-        "goles_l": null,
+        "goles_l": 1,
         "goles_v": null
       }
     ],
     "final": [
+      {
+        "local": "Platense",
+        "visitante": "FINAL",
+        "goles_l": null,
+        "goles_v": null
+      },
       {
         "local": "Goles",
         "visitante": "Adrian Martinez",
@@ -452,13 +458,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Estadísticas Copa Argentina",
+        "visitante": "Fútbol Federal",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Resultados Copa Argentina",
-        "visitante": "Noticias Copa Argentina",
+        "local": "Liga Profesional Argentina",
+        "visitante": "Copa Libertadores tickets",
         "goles_l": null,
         "goles_v": null
       },
@@ -482,20 +488,20 @@
       },
       {
         "local": "Barridas ganadas",
-        "visitante": "Milton Delgado",
+        "visitante": "Leonel Vega",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Lautaro Blanco",
-        "visitante": "Leandro Lozano",
+        "local": "Milton Delgado",
+        "visitante": "Nicolás Laméndola",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Agustin Massaccesi",
-        "visitante": "Germán Conti",
-        "goles_l": 1,
+        "local": "Lautaro Godoy",
+        "visitante": "Lautaro Blanco",
+        "goles_l": null,
         "goles_v": null
       },
       {
