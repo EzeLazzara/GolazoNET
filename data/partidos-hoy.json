@@ -1,40 +1,320 @@
 {
-  "actualizado": "2026-10-30T17:46:11.796621",
+  "actualizado": "2026-10-31T00:20:15.966788",
   "partidos": [
     {
       "id": 100,
       "fecha": 15,
-      "dia": "Vie 30/10",
-      "fechaISO": "2026-10-30",
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Huracan",
+        "nombre": "Riestra",
         "goles": null
       },
       "visitante": {
-        "nombre": "Tigre",
+        "nombre": "Talleres",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "11:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 101,
       "fecha": 15,
-      "dia": "Vie 30/10",
-      "fechaISO": "2026-10-30",
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Estudiantes RC",
+        "nombre": "Velez Sarsfield",
         "goles": null
       },
       "visitante": {
-        "nombre": "Gimnasia LP",
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "hora": "13:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 15,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Estudiantes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "hora": "15:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 111,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Godoy Cruz",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Alte. Brown",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 112,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Miguel",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Dep. Madryn",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 113,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Telmo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Central Norte",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 114,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Atlanta",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Midland",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 115,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Acassuso",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ferro",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 116,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Agropecuario",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Almagro",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 117,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Tristan Suárez",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Maipú",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 118,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Güemes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Temperley",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 119,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "San Martín",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Gimnasia (J)",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 120,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Los Andes",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "CA Mitre",
+        "goles": null
+      },
+      "hora": "09:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 121,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Morón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Ciudad De Bolivar",
+        "goles": null
+      },
+      "hora": "10:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 122,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Chaco For Ever",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Racing (Cba)",
+        "goles": null
+      },
+      "hora": "11:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 123,
+      "fecha": 36,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "nacional",
+      "ligaNombre": "Primera Nacional",
+      "local": {
+        "nombre": "Colón",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensores",
         "goles": null
       },
       "hora": "12:00",
@@ -42,42 +322,102 @@
       "estado": "programado"
     },
     {
-      "id": 102,
-      "fecha": 15,
-      "dia": "Vie 30/10",
-      "fechaISO": "2026-10-30",
+      "id": 129,
+      "fecha": 42,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Sarmiento",
+        "nombre": "San Carlos",
         "goles": null
       },
       "visitante": {
-        "nombre": "Rosario Central",
+        "nombre": "Real Pilar",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 103,
-      "fecha": 15,
-      "dia": "Vie 30/10",
-      "fechaISO": "2026-10-30",
+      "id": 130,
+      "fecha": 42,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
       "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
       "local": {
-        "nombre": "Racing Club",
+        "nombre": "Flandria",
         "goles": null
       },
       "visitante": {
-        "nombre": "Aldosivi",
+        "nombre": "Armenio",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 131,
+      "fecha": 42,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Camioneros",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Excursionistas",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 132,
+      "fecha": 42,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Italiano",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Villa Dalmine",
+        "goles": null
+      },
+      "hora": "09:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 133,
+      "fecha": 42,
+      "dia": "Sáb 31/10",
+      "fechaISO": "2026-10-31",
+      "esHoy": true,
+      "liga": "bmetro",
+      "ligaNombre": "Primera B Metropolitana",
+      "local": {
+        "nombre": "Merlo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Arsenal",
+        "goles": null
+      },
+      "hora": "09:30",
       "minuto": null,
       "estado": "programado"
     }
