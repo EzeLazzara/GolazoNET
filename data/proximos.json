@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T00:20:15.967654",
+  "actualizado": "2026-10-31T16:53:06.430026",
   "partidos": [
     {
       "id": 103,
@@ -17,7 +17,7 @@
         "nombre": "River Plate",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -37,7 +37,7 @@
         "nombre": "Barracas Central",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -57,7 +57,7 @@
         "nombre": "Union Santa Fe",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -77,7 +77,7 @@
         "nombre": "Gimnasia Mendoza",
         "goles": null
       },
-      "hora": "13:45",
+      "hora": "14:45",
       "minuto": null,
       "estado": "programado"
     },
@@ -97,7 +97,7 @@
         "nombre": "Central Cordoba",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -117,7 +117,7 @@
         "nombre": "Independiente",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -137,7 +137,7 @@
         "nombre": "Banfield",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "15:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -157,7 +157,7 @@
         "nombre": "Argentinos Juniors",
         "goles": null
       },
-      "hora": "14:15",
+      "hora": "15:15",
       "minuto": null,
       "estado": "programado"
     },
@@ -177,7 +177,7 @@
         "nombre": "Colegiales",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     },
@@ -197,7 +197,7 @@
         "nombre": "Quilmes",
         "goles": null
       },
-      "hora": "12:00",
+      "hora": "13:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -217,7 +217,7 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "06:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -237,7 +237,7 @@
         "nombre": "Patronato",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
@@ -257,12 +257,12 @@
         "nombre": "Chicago",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 134,
+      "id": 133,
       "fecha": 42,
       "dia": "Dom 01/11",
       "fechaISO": "2026-11-01",
@@ -277,12 +277,12 @@
         "nombre": "Argentino (M)",
         "goles": null
       },
-      "hora": "06:00",
+      "hora": "07:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 135,
+      "id": 134,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -297,12 +297,12 @@
         "nombre": "Brown de Adrogué",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 136,
+      "id": 135,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -317,12 +317,12 @@
         "nombre": "Talleres RE",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 137,
+      "id": 136,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -337,12 +337,12 @@
         "nombre": "Laferrere",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 138,
+      "id": 137,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -357,12 +357,12 @@
         "nombre": "UAI Urquiza",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 139,
+      "id": 138,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -377,7 +377,7 @@
         "nombre": "Ituzaingó",
         "goles": null
       },
-      "hora": "08:00",
+      "hora": "09:00",
       "minuto": null,
       "estado": "programado"
     }
