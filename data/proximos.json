@@ -1,88 +1,8 @@
 {
-  "actualizado": "2026-10-31T23:56:29.794652",
+  "actualizado": "2026-11-01T17:41:25.471646",
   "partidos": [
     {
-      "id": 101,
-      "fecha": 15,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Boca Juniors",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 15,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Belgrano",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 15,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Newells",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 104,
-      "fecha": 15,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Gimnasia Mendoza",
-        "goles": null
-      },
-      "hora": "14:45",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
       "fecha": 15,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -102,7 +22,7 @@
       "estado": "programado"
     },
     {
-      "id": 106,
+      "id": 105,
       "fecha": 15,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -122,7 +42,7 @@
       "estado": "programado"
     },
     {
-      "id": 107,
+      "id": 106,
       "fecha": 15,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -142,7 +62,7 @@
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 15,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -162,47 +82,7 @@
       "estado": "programado"
     },
     {
-      "id": 109,
-      "fecha": 36,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "San Martín (T)",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Colegiales",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 110,
-      "fecha": 36,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "nacional",
-      "ligaNombre": "Primera Nacional",
-      "local": {
-        "nombre": "Gimnasia y Tiro",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Quilmes",
-        "goles": null
-      },
-      "hora": "13:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 111,
       "fecha": 36,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -222,7 +102,7 @@
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 36,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -242,7 +122,7 @@
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 36,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -262,27 +142,7 @@
       "estado": "programado"
     },
     {
-      "id": 114,
-      "fecha": 42,
-      "dia": "Dom 01/11",
-      "fechaISO": "2026-11-01",
-      "esHoy": false,
-      "liga": "bmetro",
-      "ligaNombre": "Primera B Metropolitana",
-      "local": {
-        "nombre": "Dock Sud",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Argentino (M)",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 115,
+      "id": 113,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -302,7 +162,7 @@
       "estado": "programado"
     },
     {
-      "id": 116,
+      "id": 114,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -322,7 +182,7 @@
       "estado": "programado"
     },
     {
-      "id": 117,
+      "id": 115,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -342,7 +202,7 @@
       "estado": "programado"
     },
     {
-      "id": 118,
+      "id": 116,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",
@@ -362,7 +222,7 @@
       "estado": "programado"
     },
     {
-      "id": 119,
+      "id": 117,
       "fecha": 42,
       "dia": "Lun 02/11",
       "fechaISO": "2026-11-02",

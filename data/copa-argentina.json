@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T23:56:29.793381",
+  "actualizado": "2026-11-01T17:41:25.469709",
   "bracket": {
     "32avos": [
       {
@@ -367,54 +367,6 @@
         "visitante": "Estudiantes de La Plata",
         "goles_l": 1,
         "goles_v": null
-      },
-      {
-        "local": "Mié 09/09",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Riestra",
-        "visitante": "Banfield",
-        "goles_l": 1,
-        "goles_v": 1
-      },
-      {
-        "local": "Mié 16/09",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Independiente Riv.",
-        "visitante": "Atletico Tucuman",
-        "goles_l": 1,
-        "goles_v": 1
-      },
-      {
-        "local": "Dom 27/09",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Racing Club",
-        "visitante": "Boca Juniors",
-        "goles_l": 2,
-        "goles_v": 3
-      },
-      {
-        "local": "Jue 01/10",
-        "visitante": "Final",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Platense",
-        "visitante": "Estudiantes",
-        "goles_l": 1,
-        "goles_v": 0
       }
     ],
     "semifinales": [
@@ -429,6 +381,18 @@
         "visitante": "Platense",
         "goles_l": 1,
         "goles_v": null
+      },
+      {
+        "local": "Mié 28/10",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Platense",
+        "goles_l": 1,
+        "goles_v": 1
       }
     ],
     "final": [
