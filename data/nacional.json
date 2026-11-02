@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T00:11:03.100459",
+  "actualizado": "2026-11-02T21:26:16.921947",
   "posiciones": [
     {
       "pos": 1,
@@ -340,13 +340,13 @@
     {
       "pos": 11,
       "equipo": "Atlético Rafaela",
-      "pj": 35,
+      "pj": 36,
       "pg": 12,
-      "pe": 10,
+      "pe": 11,
       "pp": 13,
       "gf": 29,
       "gc": 35,
-      "pts": 46,
+      "pts": 47,
       "zona": "normal"
     },
     {
@@ -375,6 +375,18 @@
     },
     {
       "pos": 14,
+      "equipo": "Chacarita",
+      "pj": 36,
+      "pg": 12,
+      "pe": 6,
+      "pp": 18,
+      "gf": 29,
+      "gc": 35,
+      "pts": 42,
+      "zona": "descenso"
+    },
+    {
+      "pos": 15,
       "equipo": "Almagro",
       "pj": 36,
       "pg": 11,
@@ -383,18 +395,6 @@
       "gf": 33,
       "gc": 44,
       "pts": 42,
-      "zona": "descenso"
-    },
-    {
-      "pos": 15,
-      "equipo": "Chacarita",
-      "pj": 35,
-      "pg": 11,
-      "pe": 6,
-      "pp": 18,
-      "gf": 27,
-      "gc": 35,
-      "pts": 39,
       "zona": "descenso"
     }
   ]
