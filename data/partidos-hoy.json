@@ -1,28 +1,8 @@
 {
-  "actualizado": "2026-11-05T01:15:59.678896",
+  "actualizado": "2026-11-05T19:39:57.263823",
   "partidos": [
     {
       "id": 100,
-      "fecha": 16,
-      "dia": "Jue 05/11",
-      "fechaISO": "2026-11-05",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Aldosivi",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "River Plate",
-        "goles": null
-      },
-      "hora": "09:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
       "fecha": 16,
       "dia": "Jue 05/11",
       "fechaISO": "2026-11-05",
@@ -37,7 +17,7 @@
         "nombre": "Belgrano",
         "goles": null
       },
-      "hora": "13:15",
+      "hora": "11:15",
       "minuto": null,
       "estado": "programado"
     }
