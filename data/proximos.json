@@ -1,128 +1,8 @@
 {
-  "actualizado": "2026-11-05T19:39:57.264328",
+  "actualizado": "2026-11-06T01:21:42.063996",
   "partidos": [
     {
-      "id": 101,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Barracas Central",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Racing Club",
-        "goles": null
-      },
-      "hora": "07:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 102,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Independiente",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "hora": "11:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 103,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "hora": "11:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 104,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "San Lorenzo",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Platense",
-        "goles": null
-      },
-      "hora": "11:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 105,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Tigre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
       "id": 106,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Banfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "hora": "14:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 107,
       "fecha": 16,
       "dia": "Sáb 07/11",
       "fechaISO": "2026-11-07",
@@ -137,12 +17,12 @@
         "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 108,
+      "id": 107,
       "fecha": 16,
       "dia": "Sáb 07/11",
       "fechaISO": "2026-11-07",
@@ -157,12 +37,12 @@
         "nombre": "Independiente Riv.",
         "goles": null
       },
-      "hora": "07:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 109,
+      "id": 108,
       "fecha": 16,
       "dia": "Sáb 07/11",
       "fechaISO": "2026-11-07",
@@ -177,12 +57,12 @@
         "nombre": "Estudiantes RC",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 110,
+      "id": 109,
       "fecha": 16,
       "dia": "Sáb 07/11",
       "fechaISO": "2026-11-07",
@@ -197,12 +77,12 @@
         "nombre": "Huracan",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 111,
+      "id": 110,
       "fecha": 16,
       "dia": "Sáb 07/11",
       "fechaISO": "2026-11-07",
@@ -217,12 +97,12 @@
         "nombre": "Defensa y Justicia",
         "goles": null
       },
-      "hora": "09:30",
+      "hora": "10:30",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 112,
+      "id": 111,
       "fecha": 16,
       "dia": "Sáb 07/11",
       "fechaISO": "2026-11-07",
@@ -237,12 +117,12 @@
         "nombre": "Newells",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     },
     {
-      "id": 113,
+      "id": 112,
       "fecha": 16,
       "dia": "Dom 08/11",
       "fechaISO": "2026-11-08",
@@ -257,7 +137,7 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "11:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     }

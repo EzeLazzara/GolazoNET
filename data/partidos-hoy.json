@@ -1,23 +1,123 @@
 {
-  "actualizado": "2026-11-05T19:39:57.263823",
+  "actualizado": "2026-11-06T01:21:42.063426",
   "partidos": [
     {
       "id": 100,
       "fecha": 16,
-      "dia": "Jue 05/11",
-      "fechaISO": "2026-11-05",
+      "dia": "Vie 06/11",
+      "fechaISO": "2026-11-06",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Gimnasia LP",
+        "nombre": "Barracas Central",
         "goles": null
       },
       "visitante": {
-        "nombre": "Belgrano",
+        "nombre": "Racing Club",
         "goles": null
       },
-      "hora": "11:15",
+      "hora": "08:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 101,
+      "fecha": 16,
+      "dia": "Vie 06/11",
+      "fechaISO": "2026-11-06",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Independiente",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Riestra",
+        "goles": null
+      },
+      "hora": "12:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 102,
+      "fecha": 16,
+      "dia": "Vie 06/11",
+      "fechaISO": "2026-11-06",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Union Santa Fe",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Velez Sarsfield",
+        "goles": null
+      },
+      "hora": "12:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 103,
+      "fecha": 16,
+      "dia": "Vie 06/11",
+      "fechaISO": "2026-11-06",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "San Lorenzo",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Platense",
+        "goles": null
+      },
+      "hora": "12:15",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 104,
+      "fecha": 16,
+      "dia": "Vie 06/11",
+      "fechaISO": "2026-11-06",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Tigre",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Sarmiento",
+        "goles": null
+      },
+      "hora": "15:00",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 16,
+      "dia": "Vie 06/11",
+      "fechaISO": "2026-11-06",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Banfield",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Atletico Tucuman",
+        "goles": null
+      },
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }
