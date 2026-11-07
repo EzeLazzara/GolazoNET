@@ -1,48 +1,8 @@
 {
-  "actualizado": "2026-11-07T00:35:41.548212",
+  "actualizado": "2026-11-07T17:29:03.938339",
   "partidos": [
     {
-      "id": 100,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Tigre",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Sarmiento",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": false,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Banfield",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Atletico Tucuman",
-        "goles": null
-      },
-      "hora": "15:00",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 108,
+      "id": 106,
       "fecha": 16,
       "dia": "Dom 08/11",
       "fechaISO": "2026-11-08",
@@ -57,7 +17,7 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "12:30",
+      "hora": "13:30",
       "minuto": null,
       "estado": "programado"
     }
