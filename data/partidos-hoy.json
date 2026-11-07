@@ -1,103 +1,123 @@
 {
-  "actualizado": "2026-11-06T19:07:24.228794",
+  "actualizado": "2026-11-07T00:35:41.545032",
   "partidos": [
-    {
-      "id": 100,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Independiente",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Riestra",
-        "goles": null
-      },
-      "hora": "11:15",
-      "minuto": null,
-      "estado": "programado"
-    },
-    {
-      "id": 101,
-      "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Union Santa Fe",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Velez Sarsfield",
-        "goles": null
-      },
-      "hora": "11:15",
-      "minuto": null,
-      "estado": "programado"
-    },
     {
       "id": 102,
       "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "San Lorenzo",
+        "nombre": "Talleres",
         "goles": null
       },
       "visitante": {
-        "nombre": "Platense",
+        "nombre": "Estudiantes",
         "goles": null
       },
-      "hora": "11:15",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 103,
       "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Tigre",
+        "nombre": "Gimnasia Mendoza",
         "goles": null
       },
       "visitante": {
-        "nombre": "Sarmiento",
+        "nombre": "Independiente Riv.",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "08:00",
       "minuto": null,
       "estado": "programado"
     },
     {
       "id": 104,
       "fecha": 16,
-      "dia": "Vie 06/11",
-      "fechaISO": "2026-11-06",
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
       "esHoy": true,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Banfield",
+        "nombre": "Rosario Central",
         "goles": null
       },
       "visitante": {
-        "nombre": "Atletico Tucuman",
+        "nombre": "Estudiantes RC",
         "goles": null
       },
-      "hora": "14:00",
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 105,
+      "fecha": 16,
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Argentinos Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Huracan",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 106,
+      "fecha": 16,
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Boca Juniors",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Defensa y Justicia",
+        "goles": null
+      },
+      "hora": "10:30",
+      "minuto": null,
+      "estado": "programado"
+    },
+    {
+      "id": 107,
+      "fecha": 16,
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
+      "esHoy": true,
+      "liga": "primera",
+      "ligaNombre": "Liga Profesional",
+      "local": {
+        "nombre": "Instituto",
+        "goles": null
+      },
+      "visitante": {
+        "nombre": "Newells",
+        "goles": null
+      },
+      "hora": "15:00",
       "minuto": null,
       "estado": "programado"
     }
