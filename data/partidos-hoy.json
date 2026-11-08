@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-11-08T00:09:41.107108",
+  "actualizado": "2026-11-08T17:39:55.039727",
   "partidos": [
     {
-      "id": 101,
+      "id": 100,
       "fecha": 16,
       "dia": "Dom 08/11",
       "fechaISO": "2026-11-08",
@@ -17,7 +17,7 @@
         "nombre": "Lanus",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "12:30",
       "minuto": null,
       "estado": "programado"
     }
