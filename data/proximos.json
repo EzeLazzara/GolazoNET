@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-07T17:29:03.938339",
+  "actualizado": "2026-11-08T00:09:41.107514",
   "partidos": [
     {
-      "id": 106,
+      "id": 100,
       "fecha": 16,
-      "dia": "Dom 08/11",
-      "fechaISO": "2026-11-08",
+      "dia": "Sáb 07/11",
+      "fechaISO": "2026-11-07",
       "esHoy": false,
       "liga": "primera",
       "ligaNombre": "Liga Profesional",
       "local": {
-        "nombre": "Central Cordoba",
+        "nombre": "Instituto",
         "goles": null
       },
       "visitante": {
-        "nombre": "Lanus",
+        "nombre": "Newells",
         "goles": null
       },
-      "hora": "13:30",
+      "hora": "16:00",
       "minuto": null,
       "estado": "programado"
     }
