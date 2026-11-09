@@ -1,25 +1,4 @@
 {
-  "actualizado": "2026-11-08T17:39:55.039727",
-  "partidos": [
-    {
-      "id": 100,
-      "fecha": 16,
-      "dia": "Dom 08/11",
-      "fechaISO": "2026-11-08",
-      "esHoy": true,
-      "liga": "primera",
-      "ligaNombre": "Liga Profesional",
-      "local": {
-        "nombre": "Central Cordoba",
-        "goles": null
-      },
-      "visitante": {
-        "nombre": "Lanus",
-        "goles": null
-      },
-      "hora": "12:30",
-      "minuto": null,
-      "estado": "programado"
-    }
-  ]
+  "actualizado": "2026-11-09T00:28:12.031974",
+  "partidos": []
 }
