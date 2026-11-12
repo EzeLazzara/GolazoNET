@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T19:17:48.633965",
+  "actualizado": "2026-11-12T02:07:08.818243",
   "bracket": {
     "32avos": [
       {
@@ -381,18 +381,6 @@
         "visitante": "Platense",
         "goles_l": 1,
         "goles_v": null
-      },
-      {
-        "local": "Mié 28/10",
-        "visitante": "Por penales",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Atletico Tucuman",
-        "visitante": "Platense",
-        "goles_l": 1,
-        "goles_v": 1
       }
     ],
     "final": [
@@ -418,18 +406,6 @@
         "local": "Nicolás Laméndola",
         "visitante": "Tomás Fernández",
         "goles_l": 3,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Equipos de fútbol",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Boletos de fútbol",
-        "visitante": "Prensa deportiva",
-        "goles_l": null,
         "goles_v": null
       },
       {
@@ -502,6 +478,300 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Copa Argentina merchandise",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estadísticas Copa Argentina",
+        "visitante": "Resultados Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "PARTIDOS ACTUALES",
+        "visitante": "Mié 13/05",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Por penales",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Martín",
+        "visitante": "Mié 20/05",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Talleres",
+        "visitante": "Atletico Tucuman",
+        "goles_l": 0,
+        "goles_v": 3
+      },
+      {
+        "local": "Vie 22/05",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Union Santa Fe",
+        "visitante": "Independiente",
+        "goles_l": 0,
+        "goles_v": 2
+      },
+      {
+        "local": "Sáb 30/05",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Gimnasia (J)",
+        "visitante": "Belgrano",
+        "goles_l": 2,
+        "goles_v": 2
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Lanus",
+        "goles_l": 2,
+        "goles_v": 1
+      },
+      {
+        "local": "Dom 31/05",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estudiantes",
+        "visitante": "Rosario Central",
+        "goles_l": 3,
+        "goles_v": 0
+      },
+      {
+        "local": "Mar 02/06",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Barracas Central",
+        "visitante": "Huracan",
+        "goles_l": 1,
+        "goles_v": 0
+      },
+      {
+        "local": "Dom 12/07",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Independiente Riv.",
+        "visitante": "Tigre",
+        "goles_l": 1,
+        "goles_v": 0
+      },
+      {
+        "local": "Jue 16/07",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Defensa y Justicia",
+        "goles_l": 4,
+        "goles_v": 1
+      },
+      {
+        "local": "Sarmiento",
+        "visitante": "Boca Juniors",
+        "goles_l": 0,
+        "goles_v": 2
+      },
+      {
+        "local": "Vie 17/07",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "San Lorenzo",
+        "visitante": "Riestra",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "River Plate",
+        "visitante": "Aldosivi",
+        "goles_l": 1,
+        "goles_v": 3
+      },
+      {
+        "local": "Mié 12/08",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Independiente",
+        "goles_l": 4,
+        "goles_v": 0
+      },
+      {
+        "local": "Mar 18/08",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Riestra",
+        "visitante": "Gimnasia LP",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "Por penales",
+        "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Midland",
+        "visitante": "Mié 19/08",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Belgrano",
+        "goles_l": 1,
+        "goles_v": 0
+      },
+      {
+        "local": "Mié 26/08",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Aldosivi",
+        "visitante": "Independiente Riv.",
+        "goles_l": 0,
+        "goles_v": 2
+      },
+      {
+        "local": "Jue 27/08",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estudiantes",
+        "visitante": "Barracas Central",
+        "goles_l": 3,
+        "goles_v": 1
+      },
+      {
+        "local": "Por penales",
+        "visitante": "Platense",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Instituto",
+        "visitante": "Mié 02/09",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Por penales",
+        "visitante": "Velez Sarsfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "Mié 09/09",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Por penales",
+        "visitante": "Riestra",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Banfield",
+        "visitante": "Mié 16/09",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Por penales",
+        "visitante": "Independiente Riv.",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Dom 27/09",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Racing Club",
+        "visitante": "Boca Juniors",
+        "goles_l": 2,
+        "goles_v": 3
+      },
+      {
+        "local": "Jue 01/10",
+        "visitante": "Final",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Platense",
+        "visitante": "Estudiantes",
+        "goles_l": 1,
+        "goles_v": 0
+      },
+      {
+        "local": "Mié 28/10",
+        "visitante": "Por penales",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Atletico Tucuman",
+        "visitante": "Platense",
+        "goles_l": 1,
+        "goles_v": 1
+      },
+      {
+        "local": "Sáb 14/11",
+        "visitante": "Banfield",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors",
+        "visitante": "El juego compulsivo es perjudicial para vos y tu família +18",
+        "goles_l": null,
         "goles_v": null
       }
     ]
