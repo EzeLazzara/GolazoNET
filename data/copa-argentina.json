@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T19:16:11.483041",
+  "actualizado": "2026-11-14T01:14:08.885705",
   "bracket": {
     "32avos": [
       {
@@ -409,6 +409,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Copa Argentina merchandise",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Estadísticas Copa Argentina",
+        "visitante": "Noticias Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -482,18 +494,6 @@
       },
       {
         "local": "PARTIDOS ACTUALES",
-        "visitante": "Mié 13/05",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Por penales",
-        "visitante": "Platense",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "San Martín",
         "visitante": "Mié 20/05",
         "goles_l": null,
         "goles_v": null
