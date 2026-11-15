@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T00:41:14.269727",
+  "actualizado": "2026-11-15T18:31:17.411177",
   "bracket": {
     "32avos": [
       {
@@ -373,7 +373,7 @@
       {
         "local": "Banfield",
         "visitante": "Boca Juniors",
-        "goles_l": null,
+        "goles_l": 0,
         "goles_v": null
       },
       {
@@ -385,8 +385,8 @@
     ],
     "final": [
       {
-        "local": "Platense",
-        "visitante": "FINAL",
+        "local": "Boca Juniors",
+        "visitante": "Platense",
         "goles_l": null,
         "goles_v": null
       },
@@ -490,6 +490,18 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Historia Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Balones de fútbol",
+        "visitante": "Fútbol en vivo",
+        "goles_l": null,
         "goles_v": null
       },
       {
