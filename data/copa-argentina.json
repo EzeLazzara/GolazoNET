@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T18:31:17.411177",
+  "actualizado": "2026-11-16T00:41:00.636699",
   "bracket": {
     "32avos": [
       {
@@ -21,7 +21,7 @@
         "goles_v": null
       },
       {
-        "local": "Gimnasia La Plata",
+        "local": "Gimnasia y Esgrima",
         "visitante": "Camioneros",
         "goles_l": 4,
         "goles_v": null
@@ -33,7 +33,7 @@
         "goles_v": null
       },
       {
-        "local": "Estudiantes RC",
+        "local": "Estudiantes",
         "visitante": "San Martín Tucumán",
         "goles_l": 0,
         "goles_v": null
@@ -63,8 +63,8 @@
         "goles_v": null
       },
       {
-        "local": "Central Córdoba SdE",
-        "visitante": "Gimnasia de Jujuy",
+        "local": "Central Cordoba",
+        "visitante": "Gimnasia y Esgrima",
         "goles_l": 2,
         "goles_v": null
       },
@@ -81,13 +81,13 @@
         "goles_v": null
       },
       {
-        "local": "Gimnasia de Mendoza",
+        "local": "Gimnasia y Esgrima",
         "visitante": "Gimnasia y Tiro",
         "goles_l": 0,
         "goles_v": null
       },
       {
-        "local": "Sarmiento Junín",
+        "local": "Sarmiento",
         "visitante": "Tristan Suárez",
         "goles_l": 1,
         "goles_v": null
@@ -123,7 +123,7 @@
         "goles_v": null
       },
       {
-        "local": "Talleres de Córdoba",
+        "local": "Talleres",
         "visitante": "Argentino Merlo",
         "goles_l": 2,
         "goles_v": null
@@ -135,7 +135,7 @@
         "goles_v": null
       },
       {
-        "local": "Unión de Santa Fe",
+        "local": "Union Santa Fe",
         "visitante": "Agropecuario",
         "goles_l": 2,
         "goles_v": null
@@ -204,7 +204,7 @@
       },
       {
         "local": "Acassuso",
-        "visitante": "Gimnasia La Plata",
+        "visitante": "Gimnasia y Esgrima",
         "goles_l": 0,
         "goles_v": null
       },
@@ -227,7 +227,7 @@
         "goles_v": null
       },
       {
-        "local": "Gimnasia de Jujuy",
+        "local": "Gimnasia y Esgrima",
         "visitante": "Belgrano",
         "goles_l": 2,
         "goles_v": null
@@ -239,7 +239,7 @@
         "goles_v": null
       },
       {
-        "local": "Sarmiento Junín",
+        "local": "Sarmiento",
         "visitante": "Boca Juniors",
         "goles_l": 0,
         "goles_v": null
@@ -257,13 +257,13 @@
         "goles_v": null
       },
       {
-        "local": "Talleres de Córdoba",
+        "local": "Talleres",
         "visitante": "Atlético Tucumán",
         "goles_l": 0,
         "goles_v": null
       },
       {
-        "local": "Unión de Santa Fe",
+        "local": "Union Santa Fe",
         "visitante": "Independiente",
         "goles_l": 0,
         "goles_v": null
@@ -296,7 +296,7 @@
     "octavos": [
       {
         "local": "Deportivo Riestra",
-        "visitante": "Gimnasia La Plata",
+        "visitante": "Gimnasia y Esgrima",
         "goles_l": 1,
         "goles_v": null
       },
@@ -410,13 +410,13 @@
       },
       {
         "local": "Ver más",
-        "visitante": "Copa Argentina merchandise",
+        "visitante": "Noticias de fútbol",
         "goles_l": null,
         "goles_v": null
       },
       {
-        "local": "Estadísticas Copa Argentina",
-        "visitante": "Noticias Copa Argentina",
+        "local": "Fútbol argentino",
+        "visitante": "Liga Profesional Argentina",
         "goles_l": null,
         "goles_v": null
       },
@@ -490,18 +490,6 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Historia Copa Argentina",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Balones de fútbol",
-        "visitante": "Fútbol en vivo",
-        "goles_l": null,
         "goles_v": null
       },
       {
