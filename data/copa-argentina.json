@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T02:13:14.803132",
+  "actualizado": "2026-11-19T20:03:18.469732",
   "bracket": {
     "32avos": [
       {
@@ -409,6 +409,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Camisetas de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Equipos de fútbol",
+        "visitante": "Prensa deportiva",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -478,18 +490,6 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
-        "goles_v": null
-      },
-      {
-        "local": "Ver más",
-        "visitante": "Copa Argentina merchandise",
-        "goles_l": null,
-        "goles_v": null
-      },
-      {
-        "local": "Historial Copa Argentina",
-        "visitante": "Noticias Copa Argentina",
-        "goles_l": null,
         "goles_v": null
       },
       {
