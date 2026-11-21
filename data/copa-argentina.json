@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T19:39:48.268346",
+  "actualizado": "2026-11-21T01:57:49.537777",
   "bracket": {
     "32avos": [
       {
@@ -409,6 +409,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Copa Argentina merchandise",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Historial Copa Argentina",
+        "visitante": "Noticias Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Asistencias",
         "visitante": "Manuel Lanzini",
         "goles_l": null,
@@ -478,6 +490,18 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Estadísticas Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Calendario Copa Argentina",
+        "visitante": "Fútbol en vivo",
+        "goles_l": null,
         "goles_v": null
       },
       {
