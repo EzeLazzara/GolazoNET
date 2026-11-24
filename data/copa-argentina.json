@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T05:07:43.149438",
+  "actualizado": "2026-11-24T21:57:52.047047",
   "bracket": {
     "32avos": [
       {
@@ -21,7 +21,7 @@
         "goles_v": null
       },
       {
-        "local": "Gimnasia y Esgrima",
+        "local": "Gimnasia y Esgrima La Plata",
         "visitante": "Camioneros",
         "goles_l": 4,
         "goles_v": null
@@ -204,7 +204,7 @@
       },
       {
         "local": "Acassuso",
-        "visitante": "Gimnasia y Esgrima",
+        "visitante": "Gimnasia y Esgrima La Plata",
         "goles_l": 0,
         "goles_v": null
       },
@@ -296,7 +296,7 @@
     "octavos": [
       {
         "local": "Deportivo Riestra",
-        "visitante": "Gimnasia y Esgrima",
+        "visitante": "Gimnasia y Esgrima La Plata",
         "goles_l": 1,
         "goles_v": null
       },
@@ -391,6 +391,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Calendario Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol en vivo",
+        "visitante": "Balones de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Goles",
         "visitante": "Adrian Martinez",
         "goles_l": null,
@@ -478,6 +490,18 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Copa Argentina merchandise",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Historial Copa Argentina",
+        "visitante": "Estadísticas Copa Argentina",
+        "goles_l": null,
         "goles_v": null
       },
       {
