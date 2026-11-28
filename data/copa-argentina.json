@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T20:43:59.799079",
+  "actualizado": "2026-11-28T03:03:34.124000",
   "bracket": {
     "32avos": [
       {
@@ -391,6 +391,18 @@
         "goles_v": null
       },
       {
+        "local": "Ver más",
+        "visitante": "Copa Argentina noticias",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Boca Juniors merchandising",
+        "visitante": "Balones de fútbol",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
         "local": "Goles",
         "visitante": "Adrian Martinez",
         "goles_l": null,
@@ -478,6 +490,18 @@
         "local": "Agustin Lagos",
         "visitante": "Agustín Medina",
         "goles_l": 2,
+        "goles_v": null
+      },
+      {
+        "local": "Ver más",
+        "visitante": "Estadísticas Copa Argentina",
+        "goles_l": null,
+        "goles_v": null
+      },
+      {
+        "local": "Fútbol argentino",
+        "visitante": "Ligas argentinas",
+        "goles_l": null,
         "goles_v": null
       },
       {
